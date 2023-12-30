@@ -48,6 +48,8 @@
 - Jupyter AI (jupyter notebook AI assistance): https://github.com/jupyterlab/jupyter-ai
 - h2oGPT (Private Q&A with your own documents): https://github.com/h2oai/h2ogpt
 - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
+- GPT4All (local LLM hosting): https://gpt4all.io/index.html
+- chatd (chat with your own documents): https://github.com/BruceMacD/chatd
 
 ### AI Engineer / Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -58,6 +60,7 @@
 - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
 - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
 - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
+- RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -92,6 +95,8 @@
 
 ### Stable diffusion
 - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
+- Intel Arc and Microsoft support for stable diffusion: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055
+- Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion 
 
 ### AnimateDiff
 - Prompt Travel Video2Video: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
