@@ -2,14 +2,23 @@
 
 ## LLMs
 - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
-- Code Llama: https://github.com/facebookresearch/codellama
-- Mixtral: https://huggingface.co/blog/mixtral
-- Apple Ferret: https://github.com/apple/ml-ferret
-- Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2 
+- Llama
+  - CodeLLama: https://github.com/facebookresearch/codellama
+  - slowllama: with offloading to SSD/Memory: https://github.com/okuvshynov/slowllama
+- Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
+- Mistral
+  - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
+  - Mixtral: https://huggingface.co/blog/mixtral
+- Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
+- Multimodal
+  - LLaVA: https://github.com/haotian-liu/LLaVA
+    - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
+  - Apple Ferret: https://github.com/apple/ml-ferret
 - Tools
   - vLLM: https://docs.vllm.ai/en/latest/getting_started/quickstart.html
   - LMStudio: https://lmstudio.ai/
   - Langchain Templates: https://github.com/langchain-ai/langchain/tree/master/templates
+  - FreedomGPT: https://www.freedomgpt.com/
 - Evaluation
   - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
   - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
@@ -18,11 +27,15 @@
 ## Audio
 - Meta
   - MusicGen: https://huggingface.co/facebook/musicgen-stereo-melody-large
+    - Trying out MusicGen: https://til.simonwillison.net/machinelearning/musicgen
   - SeamlessStreaming: https://huggingface.co/facebook/seamless-streaming
 - speech2txt
   - Whisper: https://github.com/openai/whisper
   - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
   - Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
+- Music production
+  - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
+  - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
 
 ## Image/Video generation
 
