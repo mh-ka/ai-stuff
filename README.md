@@ -33,6 +33,7 @@
   - Cursor (GPT-API-based code editor app): https://cursor.sh/
   - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
   - OpenCopilot (LLM integration with provided Swagger APIs): https://github.com/openchatai/OpenCopilot
+  - LogAI (log analytics): https://github.com/salesforce/logai
 - Evaluation
   - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
   - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
@@ -44,7 +45,7 @@
   - MusicGen: https://huggingface.co/facebook/musicgen-stereo-melody-large
     - Trying out MusicGen: https://til.simonwillison.net/machinelearning/musicgen
   - SeamlessStreaming: https://huggingface.co/facebook/seamless-streaming
-    - Seamless Suite: https://github.com/facebookresearch/seamless_communication 
+    - Seamless Framework: https://github.com/facebookresearch/seamless_communication 
 - speech2txt
   - Whisper: https://github.com/openai/whisper
   - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
@@ -54,8 +55,7 @@
 - Music production
   - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
   - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
-
-## Nice to know
+- Misc
   - Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
 
 ## Image/Video generation
@@ -76,8 +76,11 @@
   - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
   - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
 - How-To and Tutorials
+  - What are LLMs?: https://ig.ft.com/generative-ai/
   - What are Embeddings: https://simonwillison.net/2023/Oct/23/embeddings/
+  - Visualization of how a LLM does work: https://bbycroft.net/llm
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
+  - Catching up on the weird world of LLMs: https://simonwillison.net/2023/Aug/3/weird-world-of-llms/?utm_source=substack&utm_medium=email
 - Open questions for AI Engineering: https://simonwillison.net/2023/Oct/17/open-questions/#slides-start
 - Awesome Selfhosted list: https://github.com/awesome-selfhosted/awesome-selfhosted
 - AI developer tools list: https://github.com/sidhq/YC-alum-ai-tools
