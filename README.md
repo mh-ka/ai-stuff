@@ -46,6 +46,8 @@
 - LogAI (log analytics): https://github.com/salesforce/logai
 - Sweep (AI junior developer): https://github.com/sweepai/sweep
 - Jupyter AI (jupyter notebook AI assistance): https://github.com/jupyterlab/jupyter-ai
+- h2oGPT (Private Q&A with your own documents): https://github.com/h2oai/h2ogpt
+- GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
 
 ### AI Engineer / Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -55,6 +57,7 @@
 - Open questions for AI Engineering: https://simonwillison.net/2023/Oct/17/open-questions/#slides-start
 - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
 - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
+- TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -95,6 +98,9 @@
 - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
 - ComfyUI Guide: https://civitai.com/articles/2379
 - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
+
+### Other
+- Video face swap: https://github.com/s0md3v/roop
 
 
 ## Misc
