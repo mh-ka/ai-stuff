@@ -54,6 +54,7 @@
 - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
 - Open questions for AI Engineering: https://simonwillison.net/2023/Oct/17/open-questions/#slides-start
 - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
+- Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -77,6 +78,7 @@
 ### txt2speech / txt2audio
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
+- Bark: https://github.com/suno-ai/bark
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
@@ -87,7 +89,6 @@
 
 ### Stable diffusion
 - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
-- https://github.com/OpenGVLab/DragGAN/tree/main
 
 ### AnimateDiff
 - Prompt Travel Video2Video: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
@@ -110,3 +111,4 @@
 - Graphcast for Weather Forecast (Google): https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/
 - RT-2 for Robot Instructions (Google): https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/
 - DragGAN for Image Manipulation (Google): https://vcai.mpi-inf.mpg.de/projects/DragGAN/
+- Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
