@@ -123,3 +123,21 @@
 - RT-2 for Robot Instructions (Google): https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/
 - DragGAN for Image Manipulation (Google): https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
+
+### News sources
+- Newsletter
+  - https://substack.com/@aibrews
+  - https://lifearchitect.substack.com/
+  - https://simonwillison.net/
+- Websites
+  - https://the-decoder.de/
+  - http://futuretools.io/
+  - https://lifearchitect.ai/
+- Youtube Channels
+  - LLM News: https://www.youtube.com/@DrAlanDThompson
+  - AI Tools News
+    - https://www.youtube.com/@mreflow
+    - https://www.youtube.com/@MattVidPro
+  - Stable Diffusion Workflows:
+    - https://www.youtube.com/@NerdyRodent
+    - https://www.youtube.com/@sebastiankamph
