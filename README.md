@@ -61,6 +61,7 @@
 - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
 - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
+- Docker GenAI Stack: https://github.com/docker/genai-stack
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
