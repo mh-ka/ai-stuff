@@ -9,6 +9,7 @@
 - Visualization of how a LLM does work: https://bbycroft.net/llm
 - How to use AI to do stuff: https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated
 - Catching up on the weird world of LLMs: https://simonwillison.net/2023/Aug/3/weird-world-of-llms/
+- Prompt Engineering Guide: https://github.com/dair-ai/Prompt-Engineering-Guide
 
 ### Models
 - Llama
@@ -76,6 +77,8 @@
   - Trying out MusicGen: https://til.simonwillison.net/machinelearning/musicgen
 - SeamlessStreaming: https://huggingface.co/facebook/seamless-streaming
   - Seamless Framework: https://github.com/facebookresearch/seamless_communication
+- MAGNeT (txt-2-music/-audio): https://analyticsindiamag.com/meta-launches-magnet-an-open-source-text-to-audio-model/
+  - Hugging Face page with models: https://huggingface.co/collections/facebook/magnet-659ef0ceb62804e6f41d1466
 
 ### speech2txt
 - Whisper: https://github.com/openai/whisper
@@ -86,6 +89,7 @@
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
 - Bark: https://github.com/suno-ai/bark
+- Tracker page for open access text2speech models: https://github.com/Vaibhavs10/open-tts-tracker
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
