@@ -98,6 +98,7 @@
 - Bark: https://github.com/suno-ai/bark
 - Tracker page for open access text2speech models: https://github.com/Vaibhavs10/open-tts-tracker
 - MetaVoice: https://github.com/metavoiceio/metavoice-src
+- Pheme TTS framework: https://github.com/PolyAI-LDN/pheme
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
@@ -125,6 +126,7 @@
 ### Other
 - Video face swap: https://github.com/s0md3v/roop
 - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
+- Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file#breaking-news-
 
 
 ## Misc
