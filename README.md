@@ -7,21 +7,23 @@
 - What are LLMs?: https://ig.ft.com/generative-ai/
 - What are Embeddings: https://simonwillison.net/2023/Oct/23/embeddings/
 - Visualization of how a LLM does work: https://bbycroft.net/llm
+- How AI works (high level explanation): https://every.to/p/how-ai-works
 - How to use AI to do stuff: https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated
 - Catching up on the weird world of LLMs: https://simonwillison.net/2023/Aug/3/weird-world-of-llms/
 - Prompt Engineering Guide: https://github.com/dair-ai/Prompt-Engineering-Guide
 
 ### Models
-- Llama
+- Meta's Llama
   - CodeLLama: https://github.com/facebookresearch/codellama
   - slowllama: with offloading to SSD/Memory: https://github.com/okuvshynov/slowllama
-- Mistral
+- Mistral's Finetunes & Mixtral
   - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
   - Mixtral: https://huggingface.co/blog/mixtral
 - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
 - Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
 - BigTranslate: https://github.com/ZNLP/BigTranslate
 - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
+- Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - Small sized models
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
@@ -84,19 +86,25 @@
   - Hugging Face page with models: https://huggingface.co/collections/facebook/magnet-659ef0ceb62804e6f41d1466
 
 ### speech2txt
-- Whisper: https://github.com/openai/whisper
-- Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
-- Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
+- OpenAI's Whisper: https://github.com/openai/whisper
+  - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
+  - Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
+  - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
+- Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 
 ### txt2speech / txt2audio
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
 - Bark: https://github.com/suno-ai/bark
 - Tracker page for open access text2speech models: https://github.com/Vaibhavs10/open-tts-tracker
+- MetaVoice: https://github.com/metavoiceio/metavoice-src
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
 - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
+
+### Other
+- LAION AI Voice Assistant BUD-E: https://github.com/LAION-AI/natural_voice_assistant
 
 
 ## Image/Video generation
@@ -104,7 +112,9 @@
 ### Stable diffusion
 - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
 - Intel Arc and Microsoft support for stable diffusion: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055
-- Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion 
+- Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
+- Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
+- Stable Cascade: https://stability.ai/news/introducing-stable-cascade
 
 ### AnimateDiff
 - Prompt Travel Video2Video: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
@@ -114,6 +124,7 @@
 
 ### Other
 - Video face swap: https://github.com/s0md3v/roop
+- Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
 
 
 ## Misc
@@ -131,6 +142,7 @@
 - RT-2 for Robot Instructions (Google): https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/
 - DragGAN for Image Manipulation (Google): https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
+- LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
 
 ### News sources
 - Newsletter
