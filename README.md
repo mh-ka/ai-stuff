@@ -25,10 +25,13 @@
 - Small sized models
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
+  - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
 - Multimodal models
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
+    - LLaVA-NeXT: https://llava-vl.github.io/blog/2024-01-30-llava-next/
   - Apple Ferret: https://github.com/apple/ml-ferret
+  - Alibaba Cloud Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
 
 ### Tools around using LLMs
 - vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
