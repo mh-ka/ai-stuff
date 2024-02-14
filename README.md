@@ -143,6 +143,8 @@
 - DragGAN for Image Manipulation (Google): https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 - Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
 - LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
+- Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
+- Replicate Guide on upscaling images: https://replicate.com/guides/upscaling-images
 
 ### News sources
 - Newsletter
