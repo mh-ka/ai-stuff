@@ -24,6 +24,7 @@
 - BigTranslate: https://github.com/ZNLP/BigTranslate
 - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
+- MaLA: https://huggingface.co/MaLA-LM/mala-500
 - Small sized models
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
@@ -38,8 +39,11 @@
 ### Tools around using LLMs
 - vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
 - LMStudio (local model hosting): https://lmstudio.ai/
+- Jan app (local model hosting): https://jan.ai/
+- Leeroo Orchestrator (choose model depending on task): https://github.com/leeroo-ai/leeroo_orchestrator
 - Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
 - FreedomGPT (local model hosting): https://www.freedomgpt.com/
+- Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
 - ExLlama2 (optimized local inference): https://github.com/turboderp/exllamav2
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - pinokio (Simple app for running many AI tools locally): https://pinokio.computer/
@@ -59,7 +63,7 @@
 
 ### AI Engineer / Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
-- LLM App Stack: https://a16z.com/emerging-architectures-for-llm-applications/
+- LLM App Stack: https://github.com/a16z-infra/llm-app-stack
 - Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
 - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
 - Open questions for AI Engineering: https://simonwillison.net/2023/Oct/17/open-questions/#slides-start
@@ -127,6 +131,7 @@
 - Video face swap: https://github.com/s0md3v/roop
 - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
 - Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file#breaking-news-
+- How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
 
 
 ## Misc
