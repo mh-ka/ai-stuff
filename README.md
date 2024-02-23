@@ -29,6 +29,7 @@
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
+  - Google Gemma 2B and 7B: https://huggingface.co/blog/gemma
 - Multimodal models
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -110,7 +111,10 @@
 
 ### Other
 - LAION AI Voice Assistant BUD-E: https://github.com/LAION-AI/natural_voice_assistant
-
+- AI Language Tutor:
+  - https://www.univerbal.app/
+  - https://yourteacher.ai/
+- Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
 
 ## Image/Video generation
 
