@@ -109,6 +109,7 @@
 - Tracker page for open access text2speech models: https://github.com/Vaibhavs10/open-tts-tracker
 - MetaVoice: https://github.com/metavoiceio/metavoice-src
 - Pheme TTS framework: https://github.com/PolyAI-LDN/pheme
+- OpenAI TTS: https://platform.openai.com/docs/guides/text-to-speech
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
