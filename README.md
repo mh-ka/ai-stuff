@@ -11,6 +11,9 @@
 - How to use AI to do stuff: https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated
 - Catching up on the weird world of LLMs: https://simonwillison.net/2023/Aug/3/weird-world-of-llms/
 - Prompt Engineering Guide: https://github.com/dair-ai/Prompt-Engineering-Guide
+- Tokenization: https://www.youtube.com/watch?v=zduSFxRajkE
+- Prompt Injection and Jailbreaking: https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/
+- Insights to model file formats: https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/ 
 
 ### Models
 - Meta's Llama
@@ -25,6 +28,7 @@
 - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
+- Starcoder 2: https://github.com/bigcode-project/starcoder2
 - Small sized models
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
@@ -73,6 +77,7 @@
 - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
 - Docker GenAI Stack: https://github.com/docker/genai-stack
+- How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -156,6 +161,7 @@
 - LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
 - Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
 - Replicate Guide on upscaling images: https://replicate.com/guides/upscaling-images
+- Github Copilot's impact on productivity: https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/
 
 ### News sources
 - Newsletter
