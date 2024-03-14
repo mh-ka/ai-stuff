@@ -13,7 +13,8 @@
 - Prompt Engineering Guide: https://github.com/dair-ai/Prompt-Engineering-Guide
 - Tokenization: https://www.youtube.com/watch?v=zduSFxRajkE
 - Prompt Injection and Jailbreaking: https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/
-- Insights to model file formats: https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/ 
+- Insights to model file formats: https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/
+- Prompt Library: https://www.moreusefulthings.com/prompts
 
 ### Models
 - Meta's Llama
@@ -34,6 +35,8 @@
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
   - Google Gemma 2B and 7B: https://huggingface.co/blog/gemma
+  - Moondream (tiny vision model): https://github.com/vikhyat/moondream
+  - Yi-9B: https://huggingface.co/01-ai/Yi-9B
 - Multimodal models
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -110,6 +113,7 @@
 - MetaVoice: https://github.com/metavoiceio/metavoice-src
 - Pheme TTS framework: https://github.com/PolyAI-LDN/pheme
 - OpenAI TTS: https://platform.openai.com/docs/guides/text-to-speech
+- TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
@@ -130,6 +134,7 @@
 - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
 - Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
 - Stable Cascade: https://stability.ai/news/introducing-stable-cascade
+- OneTrainer: https://github.com/Nerogar/OneTrainer
 
 ### AnimateDiff
 - Prompt Travel Video2Video: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
