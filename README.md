@@ -43,6 +43,7 @@
     - LLaVA-NeXT: https://llava-vl.github.io/blog/2024-01-30-llava-next/
   - Apple Ferret: https://github.com/apple/ml-ferret
   - Alibaba Cloud Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
+  - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
 
 ### Tools around using LLMs
 - vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
@@ -146,6 +147,7 @@
 - Video face swap: https://github.com/s0md3v/roop
 - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
 - Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file#breaking-news-
+- Pixart-sigma (release soon): https://github.com/PixArt-alpha/PixArt-sigma
 - How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
 
 
