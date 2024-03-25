@@ -82,6 +82,7 @@
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
 - Docker GenAI Stack: https://github.com/docker/genai-stack
 - How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
+- LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -142,6 +143,7 @@
 - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
 - ComfyUI Guide: https://civitai.com/articles/2379
 - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
+- AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
 
 ### Other
 - Video face swap: https://github.com/s0md3v/roop
@@ -170,6 +172,7 @@
 - Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
 - Replicate Guide on upscaling images: https://replicate.com/guides/upscaling-images
 - Github Copilot's impact on productivity: https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/
+- AI security testing github projects: https://github.com/AnthenaMatrix
 
 ### News sources
 - Newsletter
