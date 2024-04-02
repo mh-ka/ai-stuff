@@ -30,6 +30,7 @@
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
 - Starcoder 2: https://github.com/bigcode-project/starcoder2
+- DBRX Base: https://huggingface.co/databricks/dbrx-base
 - Small sized models
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
