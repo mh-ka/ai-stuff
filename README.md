@@ -70,6 +70,7 @@
 - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
 - GPT4All (local LLM hosting): https://gpt4all.io/index.html
 - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
+- OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
 
 ### AI Engineer / Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
