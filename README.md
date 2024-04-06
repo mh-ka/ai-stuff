@@ -133,43 +133,71 @@
 ## Image/Video generation
 
 ### Stable diffusion
-- Models / LORAs
+- Models
   - Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
   - Stable Cascade: https://stability.ai/news/introducing-stable-cascade
   - DreamShaper XL Turbo v2: https://civitai.com/models/112902/dreamshaper-xl
   - Amiga Style: https://civitai.com/models/297955/amiga-style
   - Anime Model: https://huggingface.co/XpucT/Anime
+  - GhostMix: https://civitai.com/models/36520/ghostmix
+  - ReV Animated: https://civitai.com/models/7371/rev-animated
+  - Animagine XL 3.0: https://huggingface.co/cagliostrolab/animagine-xl-3.0
   - Cheyenne Comic Model: https://civitai.com/models/198051/cheyenne?modelVersionId=318969
-  - Bad Quality LORA: https://civitai.com/models/259627
   - EpicPhotoGasm: https://civitai.com/models/132632/epicphotogasm
   - Nebul.Redmond (SDXL Finetune): https://civitai.com/models/269988
-  - HR Giger Rainbow LORA: https://civitai.com/models/270990?modelVersionId=305459
-  - Remix XL LORA: https://huggingface.co/Stkzzzz222/remixXL
-  - Reddit Links:
-    - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
-    - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
+  - Pixel Art Diffusion XL: https://civitai.com/models/277680/pixel-art-diffusion-xl
+  - Juggernaut XL v7: https://civitai.com/models/133005?modelVersionId=240840
+  - Juggernaut XL v9: https://huggingface.co/RunDiffusion/Juggernaut-XL-v9
+  - Realism Engine SDXL: https://civitai.com/models/152525
+  - LEOSAM AIArt: https://civitai.com/models/219791?modelVersionId=247832
+  - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
+- LORAs
+  - Bad Quality: https://civitai.com/models/259627
+  - HR Giger Rainbow: https://civitai.com/models/270990?modelVersionId=305459
+  - Remix XL: https://huggingface.co/Stkzzzz222/remixXL
+  - iPhone Mirror Selfie: https://civitai.com/models/256058/iphone-mirror-selfie-or-sdxl
+  - ColorSplash: https://civitai.com/models/247981/colorsplash?modelVersionId=279794
+  - Transformers Style: https://civitai.com/models/216460
+  - Stop Motion Style: https://civitai.com/models/212442
+  - Aether Aqua: https://civitai.com/models/210754/aether-aqua-lora-for-sdxl
+  - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
   - OneTrainer: https://github.com/Nerogar/OneTrainer
   - DiffusionToolkit (AI Image Viewer): https://github.com/RupertAvery/DiffusionToolkit
-  - InstantID ComfyUI workflow: https://github.com/cubiq/ComfyUI_InstantID
   - Fooocus-inswapper (face swapping): https://github.com/machineminded/Fooocus-inswapper
   - Swifty Animator: https://tavurth.itch.io/swifty-animator
+  - Style Aligned WebUI: https://github.com/cocktailpeanut/StyleAligned.pinokio?tab=readme-ov-file
+  - LCM Drawing App (local): https://github.com/kidintwo3/LCMDraw
+  - Pallaidium (SD for Blender): https://github.com/tin2tin/Pallaidium
+  - ComfyUI:
+    - InstantID ComfyUI workflow: https://github.com/cubiq/ComfyUI_InstantID
+    - SDXL Turbo workflow: https://comfyanonymous.github.io/ComfyUI_examples/sdturbo/
+    - ComfyUI Deploy: https://github.com/BennyKok/comfyui-deploy
+    - ComfyUI Manager: https://civitai.com/models/71980/comfyui-manager
+    - Animation ControlNet guide: https://civitai.com/articles/3172/nature-powers-netflix-seasons-workflow-and-details
+    - Refiner workflow: https://github.com/ltdrdata/ComfyUI-extension-tutorials/blob/Main/ComfyUI-Experimental/sdxl-reencode/exp1.md
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
     - LORA trainer: https://github.com/hako-mikan/sd-webui-traintrain
-  - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
+    - Nvidia TensorRT: https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
+    - Kohya HiRes Fix: https://github.com/wcde/sd-webui-kohya-hiresfix
 - Misc
   - OneDiff (Speed optimisied SDXL): https://github.com/siliconflow/onediff
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
   - Intel Arc and Microsoft support for stable diffusion: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055
   - DeciDiffusion v2.0: https://huggingface.co/Deci/DeciDiffusion-v2-0
   - Tutorials: https://www.patreon.com/jerrydavos
+  - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor/LwT4AB8wEtKQilrjq2G8
+  - Dirty tricks: https://www.reddit.com/r/StableDiffusion/comments/1942m2y/what_are_your_dirty_tricks/
+  - Must-Have Automatic1111 extensions: https://www.reddit.com/r/StableDiffusion/comments/18xj5mu/what_are_some_musthave_automatic1111_extensions/
+  - FastSD CPU: https://github.com/rupeshs/fastsdcpu
+  - Vid2Vid Guide: https://civitai.com/articles/3194
 
 ### AnimateDiff
-- Prompt Travel Video2Video: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
+- Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
 - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
 - ComfyUI Guide: https://civitai.com/articles/2379
 - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
@@ -181,6 +209,7 @@
 - Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file#breaking-news-
 - Pixart-sigma (release soon): https://github.com/PixArt-alpha/PixArt-sigma
 - How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
+- Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
 
 
 ## Misc
