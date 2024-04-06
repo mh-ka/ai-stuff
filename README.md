@@ -133,12 +133,40 @@
 ## Image/Video generation
 
 ### Stable diffusion
-- I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
-- Intel Arc and Microsoft support for stable diffusion: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055
-- Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
-- Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
-- Stable Cascade: https://stability.ai/news/introducing-stable-cascade
-- OneTrainer: https://github.com/Nerogar/OneTrainer
+- Models / LORAs
+  - Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
+  - Stable Cascade: https://stability.ai/news/introducing-stable-cascade
+  - DreamShaper XL Turbo v2: https://civitai.com/models/112902/dreamshaper-xl
+  - Amiga Style: https://civitai.com/models/297955/amiga-style
+  - Anime Model: https://huggingface.co/XpucT/Anime
+  - Cheyenne Comic Model: https://civitai.com/models/198051/cheyenne?modelVersionId=318969
+  - Bad Quality LORA: https://civitai.com/models/259627
+  - EpicPhotoGasm: https://civitai.com/models/132632/epicphotogasm
+  - Nebul.Redmond (SDXL Finetune): https://civitai.com/models/269988
+  - HR Giger Rainbow LORA: https://civitai.com/models/270990?modelVersionId=305459
+  - Remix XL LORA: https://huggingface.co/Stkzzzz222/remixXL
+  - Reddit Links:
+    - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
+    - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
+- Tools
+  - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
+  - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
+  - OneTrainer: https://github.com/Nerogar/OneTrainer
+  - DiffusionToolkit (AI Image Viewer): https://github.com/RupertAvery/DiffusionToolkit
+  - InstantID ComfyUI workflow: https://github.com/cubiq/ComfyUI_InstantID
+  - Fooocus-inswapper (face swapping): https://github.com/machineminded/Fooocus-inswapper
+  - Swifty Animator: https://tavurth.itch.io/swifty-animator
+  - Automatic1111 Extensions:
+    - CADS (diversity): https://github.com/v0xie/sd-webui-cads
+    - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
+    - LORA trainer: https://github.com/hako-mikan/sd-webui-traintrain
+  - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
+- Misc
+  - OneDiff (Speed optimisied SDXL): https://github.com/siliconflow/onediff
+  - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
+  - Intel Arc and Microsoft support for stable diffusion: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055
+  - DeciDiffusion v2.0: https://huggingface.co/Deci/DeciDiffusion-v2-0
+  - Tutorials: https://www.patreon.com/jerrydavos
 
 ### AnimateDiff
 - Prompt Travel Video2Video: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
