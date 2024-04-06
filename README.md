@@ -205,6 +205,13 @@
   - FastSD CPU: https://github.com/rupeshs/fastsdcpu
   - Vid2Vid Guide: https://civitai.com/articles/3194
   - Art style prompts: https://github.com/scroobius-pip/arible_prompts/blob/main/prompts.arible
+  - Lists:
+    - https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
+    - https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
+    - https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
+  - Prompts: https://publicprompts.art/
+  - Upscaling Models: https://openmodeldb.info/
+  - Models: https://rentry.org/sdmodels
 
 ### AnimateDiff
 - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
