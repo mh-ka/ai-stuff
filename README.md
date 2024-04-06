@@ -157,6 +157,9 @@
   - Ghibli Diffusion: https://civitai.com/models/1066/ghibli-diffusion
   - Cool Japan Diffusion: https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-1
   - UnstableInkDream: https://civitai.com/models/1540/unstableinkdream
+  - Vintage Airbrushed: https://civitai.com/models/4291
+  - Berlin Graffiti: https://huggingface.co/bakebrain/bergraffi-berlin-graffiti
+  - Macro Diffusion: https://civitai.com/models/3863/macro-diffusion
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
 - LORAs
   - Bad Quality: https://civitai.com/models/259627
@@ -209,7 +212,10 @@
     - https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
     - https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
     - https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
+    - https://diffusiondb.com/
+    - https://github.com/steven2358/awesome-generative-ai
   - Prompts: https://publicprompts.art/
+  - More Prompts: https://prompthero.com/stable-diffusion-prompts
   - Upscaling Models: https://openmodeldb.info/
   - Models: https://rentry.org/sdmodels
 
