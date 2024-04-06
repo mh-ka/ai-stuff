@@ -148,8 +148,13 @@
   - Pixel Art Diffusion XL: https://civitai.com/models/277680/pixel-art-diffusion-xl
   - Juggernaut XL v7: https://civitai.com/models/133005?modelVersionId=240840
   - Juggernaut XL v9: https://huggingface.co/RunDiffusion/Juggernaut-XL-v9
+  - ThinkDiffusionXL: https://civitai.com/models/169868/thinkdiffusionxl
   - Realism Engine SDXL: https://civitai.com/models/152525
   - LEOSAM AIArt: https://civitai.com/models/219791?modelVersionId=247832
+  - Haveall: https://civitai.com/models/213692
+  - Coloring Book: https://civitai.com/models/5153/coloring-book
+  - Vivid Watercolors: https://civitai.com/models/4998/vivid-watercolors
+  - RZ Vice Embedding: https://civitai.com/models/4920/rz-vice-21
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
 - LORAs
   - Bad Quality: https://civitai.com/models/259627
@@ -160,6 +165,7 @@
   - Transformers Style: https://civitai.com/models/216460
   - Stop Motion Style: https://civitai.com/models/212442
   - Aether Aqua: https://civitai.com/models/210754/aether-aqua-lora-for-sdxl
+  - Claymation Style: https://civitai.com/models/208168/claymate-stop-motion-claymation-style-for-sdxl
   - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
@@ -184,6 +190,7 @@
     - LORA trainer: https://github.com/hako-mikan/sd-webui-traintrain
     - Nvidia TensorRT: https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
     - Kohya HiRes Fix: https://github.com/wcde/sd-webui-kohya-hiresfix
+    - Vector Studio: https://github.com/GeorgLegato/stable-diffusion-webui-vectorstudio
 - Misc
   - OneDiff (Speed optimisied SDXL): https://github.com/siliconflow/onediff
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
@@ -195,6 +202,7 @@
   - Must-Have Automatic1111 extensions: https://www.reddit.com/r/StableDiffusion/comments/18xj5mu/what_are_some_musthave_automatic1111_extensions/
   - FastSD CPU: https://github.com/rupeshs/fastsdcpu
   - Vid2Vid Guide: https://civitai.com/articles/3194
+  - Art style prompts: https://github.com/scroobius-pip/arible_prompts/blob/main/prompts.arible
 
 ### AnimateDiff
 - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
@@ -202,6 +210,7 @@
 - ComfyUI Guide: https://civitai.com/articles/2379
 - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
 - AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
+- AnimateDiff Video Tutorial: https://www.youtube.com/watch?v=Gz9pT2CwdoI
 
 ### Other
 - Video face swap: https://github.com/s0md3v/roop
@@ -210,6 +219,7 @@
 - Pixart-sigma (release soon): https://github.com/PixArt-alpha/PixArt-sigma
 - How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
+- ClioBot: https://github.com/herval/cliobot
 
 
 ## Misc
