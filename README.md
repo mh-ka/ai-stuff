@@ -1,6 +1,5 @@
 # AI Stuff
 
-
 ## LLMs
 
 ### Basics
@@ -155,6 +154,9 @@
   - Coloring Book: https://civitai.com/models/5153/coloring-book
   - Vivid Watercolors: https://civitai.com/models/4998/vivid-watercolors
   - RZ Vice Embedding: https://civitai.com/models/4920/rz-vice-21
+  - Ghibli Diffusion: https://civitai.com/models/1066/ghibli-diffusion
+  - Cool Japan Diffusion: https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-1
+  - UnstableInkDream: https://civitai.com/models/1540/unstableinkdream
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
 - LORAs
   - Bad Quality: https://civitai.com/models/259627
