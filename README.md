@@ -93,6 +93,12 @@
 
 ## Audio
 
+### Voicecraft
+- Repo: https://github.com/jasonppy/VoiceCraft
+- Huggingface: https://huggingface.co/pyp1/VoiceCraft/tree/main
+- Docker version: https://github.com/pselvana/VoiceCrafter
+- API version: https://github.com/lukaszliniewicz/VoiceCraft_API
+
 ### Meta
 - MusicGen: https://huggingface.co/facebook/musicgen-stereo-melody-large
   - Trying out MusicGen: https://til.simonwillison.net/machinelearning/musicgen
