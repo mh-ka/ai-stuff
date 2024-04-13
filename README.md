@@ -29,7 +29,8 @@
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
 - Starcoder 2: https://github.com/bigcode-project/starcoder2
-- DBRX Base: https://huggingface.co/databricks/dbrx-base
+- DBRX Base and Instruct: https://github.com/databricks/dbrx
+- Cohere Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
 - Small sized models
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
@@ -44,6 +45,7 @@
   - Apple Ferret: https://github.com/apple/ml-ferret
   - Alibaba Cloud Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
+- Ollama library: https://ollama.com/library
 
 ### Tools around using LLMs
 - Local LLM hosting
@@ -73,6 +75,10 @@
 - OpenCopilot (LLM integration with provided Swagger APIs): https://github.com/openchatai/OpenCopilot
 - LogAI (log analytics): https://github.com/salesforce/logai
 - Jupyter AI (jupyter notebook AI assistance): https://github.com/jupyterlab/jupyter-ai
+- LLM CLI Tool: https://llm.datasette.io/en/stable/
+- OCR Tesseract tool (running in browser locally): https://github.com/simonw/tools/tree/main
+- LLM cmd Assistant: https://github.com/simonw/llm-cmd
+- Semgrep (autofix using LLMs): https://choly.ca/post/semgrep-autofix-llm/
 
 ### AI Engineer / Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -88,6 +94,9 @@
 - How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
 - LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory
 - Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
+- Dify (local LLM app development platform): https://github.com/langgenius/dify
+- How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
+- How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -199,6 +208,8 @@
     - ComfyUI Manager: https://civitai.com/models/71980/comfyui-manager
     - Animation ControlNet guide: https://civitai.com/articles/3172/nature-powers-netflix-seasons-workflow-and-details
     - Refiner workflow: https://github.com/ltdrdata/ComfyUI-extension-tutorials/blob/Main/ComfyUI-Experimental/sdxl-reencode/exp1.md
+    - ELLA wrapper: https://github.com/kijai/ComfyUI-ELLA-wrapper
+    - AniPortrait: https://github.com/chaojie/ComfyUI-AniPortrait
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -254,7 +265,7 @@
 - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
 - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
 
-### Research and Releases
+### Research, Releases, Lists
 - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
 - Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
 - Geospatial for Earth Observations (NASA, IBM): https://huggingface.co/ibm-nasa-geospatial
@@ -267,6 +278,8 @@
 - Replicate Guide on upscaling images: https://replicate.com/guides/upscaling-images
 - Github Copilot's impact on productivity: https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/
 - AI security testing github projects: https://github.com/AnthenaMatrix
+- GenAI overview with links and details: https://medium.com/@maximilian.vogel/5000x-generative-ai-intro-overview-models-prompts-technology-tools-comparisons-the-best-a4af95874e94
+- ChatGPT list of lists: https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
 
 ### News sources
 - Newsletter
