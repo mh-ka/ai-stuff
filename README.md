@@ -46,30 +46,33 @@
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
 
 ### Tools around using LLMs
-- vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
-- LMStudio (local model hosting): https://lmstudio.ai/
-- Jan app (local model hosting): https://jan.ai/
-- Leeroo Orchestrator (choose model depending on task): https://github.com/leeroo-ai/leeroo_orchestrator
-- Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
-- FreedomGPT (local model hosting): https://www.freedomgpt.com/
-- Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
-- ExLlama2 (optimized local inference): https://github.com/turboderp/exllamav2
-- Phind (AI based search engine): https://www.phind.com/search?home=true
-- pinokio (Simple app for running many AI tools locally): https://pinokio.computer/
-- Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
-- Open Interpreter (Use LLM APIs to run local code interpreter): https://github.com/KillianLucas/open-interpreter
-- Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
+- Local LLM hosting
+  - vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
+  - LMStudio (local model hosting): https://lmstudio.ai/
+  - Jan app (local model hosting): https://jan.ai/
+  - Leeroo Orchestrator (choose model depending on task): https://github.com/leeroo-ai/leeroo_orchestrator
+  - FreedomGPT (local model hosting): https://www.freedomgpt.com/
+  - ExLlama2 (optimized local inference): https://github.com/turboderp/exllamav2
+  - pinokio (Simple app for running many AI tools locally): https://pinokio.computer/
+  - GPT4All (local LLM hosting): https://gpt4all.io/index.html
+  - h2oGPT (Private Q&A with your own documents): https://github.com/h2oai/h2ogpt
+  - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
+  - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one/tree/main)
+  - Opera One Developer (browser with LLMs): https://blogs.opera.com/news/2024/04/ai-feature-drops-local-llms/
+- Local coding assistant
+  - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
+  - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
+  - Sweep (AI junior developer): https://github.com/sweepai/sweep
+  - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
+  - OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
+- Aider (coding): https://github.com/paul-gauthier/aider
 - Cursor (GPT-API-based code editor app): https://cursor.sh/
+- Phind (AI based search engine): https://www.phind.com/search?home=true
+- Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
 - OpenCopilot (LLM integration with provided Swagger APIs): https://github.com/openchatai/OpenCopilot
 - LogAI (log analytics): https://github.com/salesforce/logai
-- Sweep (AI junior developer): https://github.com/sweepai/sweep
 - Jupyter AI (jupyter notebook AI assistance): https://github.com/jupyterlab/jupyter-ai
-- h2oGPT (Private Q&A with your own documents): https://github.com/h2oai/h2ogpt
-- GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
-- GPT4All (local LLM hosting): https://gpt4all.io/index.html
-- chatd (chat with your own documents): https://github.com/BruceMacD/chatd
-- OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
 
 ### AI Engineer / Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -84,6 +87,7 @@
 - Docker GenAI Stack: https://github.com/docker/genai-stack
 - How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
 - LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory
+- Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
