@@ -1,3 +1,29 @@
+[AI Stuff](#ai-stuff)
+  * [LLMs](#llms)
+    + [Basics](#basics)
+    + [Models](#models)
+    + [Tools around using LLMs](#tools-around-using-llms)
+    + [AI Developer Topics](#ai-developer-topics)
+    + [Evaluation](#evaluation)
+  * [Audio](#audio)
+    + [Voicecraft](#voicecraft)
+    + [Meta](#meta)
+    + [speech2txt](#speech2txt)
+    + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
+    + [Music production](#music-production)
+    + [Other](#other)
+  * [Image and video generation](#image-and-video-generation)
+    + [Stable diffusion](#stable-diffusion)
+    + [AnimateDiff](#animatediff)
+    + [Other](#other-1)
+  * [Misc](#misc)
+    + [Reports](#reports)
+    + [Other](#other-2)
+    + [News sources](#news-sources)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # AI Stuff
 
 ## LLMs
@@ -80,7 +106,7 @@
 - LLM cmd Assistant: https://github.com/simonw/llm-cmd
 - Semgrep (autofix using LLMs): https://choly.ca/post/semgrep-autofix-llm/
 
-### AI Engineer / Developer Topics
+### AI Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
 - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
 - Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
@@ -127,7 +153,7 @@
   - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 
-### txt2speech / txt2audio
+### txt2speech and txt2audio
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
 - Bark: https://github.com/suno-ai/bark
@@ -148,7 +174,7 @@
   - https://yourteacher.ai/
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
 
-## Image/Video generation
+## Image and video generation
 
 ### Stable diffusion
 - Models
@@ -265,7 +291,7 @@
 - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
 - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
 
-### Research, Releases, Lists
+### Other
 - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
 - Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
 - Geospatial for Earth Observations (NASA, IBM): https://huggingface.co/ibm-nasa-geospatial
