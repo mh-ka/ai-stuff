@@ -40,6 +40,7 @@
 - Prompt Injection and Jailbreaking: https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/
 - Insights to model file formats: https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/
 - Prompt Library: https://www.moreusefulthings.com/prompts
+- Mixture of Experts explained (dense vs. sparse models): https://alexandrabarr.beehiiv.com/p/mixture-of-experts
 
 ### Models
 - Meta's Llama
@@ -61,7 +62,9 @@
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
-  - Google Gemma 2B and 7B: https://huggingface.co/blog/gemma
+  - Google
+    - Gemma 2B and 7B: https://huggingface.co/blog/gemma
+    - CodeGemma: https://www.kaggle.com/models/google/codegemma
   - Moondream (tiny vision model): https://github.com/vikhyat/moondream
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
 - Multimodal models
@@ -87,14 +90,18 @@
   - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
   - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one/tree/main)
   - Opera One Developer (browser with LLMs): https://blogs.opera.com/news/2024/04/ai-feature-drops-local-llms/
-- Local coding assistant
+- Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
   - Sweep (AI junior developer): https://github.com/sweepai/sweep
   - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
   - OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
-- Aider (coding): https://github.com/paul-gauthier/aider
-- Cursor (GPT-API-based code editor app): https://cursor.sh/
+- More coding assistance
+  - Aider (coding): https://github.com/paul-gauthier/aider
+  - Cursor (GPT-API-based code editor app): https://cursor.sh/
+  - Plandex (GPT-API-based coding agent): https://github.com/plandex-ai/plandex
+  - SWE-agent (another GPT-API-based coding agent): https://github.com/princeton-nlp/SWE-agent
+  - OpenUI (another GPT-API-based coding agent for web components): https://github.com/wandb/openui
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -105,6 +112,7 @@
 - OCR Tesseract tool (running in browser locally): https://github.com/simonw/tools/tree/main
 - LLM cmd Assistant: https://github.com/simonw/llm-cmd
 - Semgrep (autofix using LLMs): https://choly.ca/post/semgrep-autofix-llm/
+- GPT Investor: https://github.com/mshumer/gpt-investor
 
 ### AI Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -162,6 +170,7 @@
 - Pheme TTS framework: https://github.com/PolyAI-LDN/pheme
 - OpenAI TTS: https://platform.openai.com/docs/guides/text-to-speech
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
+- Parler TTS: https://github.com/huggingface/parler-tts
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
@@ -255,6 +264,7 @@
   - FastSD CPU: https://github.com/rupeshs/fastsdcpu
   - Vid2Vid Guide: https://civitai.com/articles/3194
   - Art style prompts: https://github.com/scroobius-pip/arible_prompts/blob/main/prompts.arible
+  - ELLA tutorial: https://sandner.art/ella-leveraging-llms-for-enhanced-semantic-alignment-in-sd-15/
   - Lists:
     - https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
     - https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
