@@ -131,6 +131,7 @@
 - Dify (local LLM app development platform): https://github.com/langgenius/dify
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
 - How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
+- Datasets: https://archive.ics.uci.edu/
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
