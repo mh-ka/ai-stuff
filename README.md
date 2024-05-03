@@ -58,6 +58,7 @@
 - Starcoder 2: https://github.com/bigcode-project/starcoder2
 - DBRX Base and Instruct: https://github.com/databricks/dbrx
 - Cohere Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
+- Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
 - Small sized models
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
