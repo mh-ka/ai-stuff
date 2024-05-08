@@ -46,9 +46,10 @@
 - Meta's Llama
   - CodeLLama: https://github.com/facebookresearch/codellama
   - slowllama: with offloading to SSD/Memory: https://github.com/okuvshynov/slowllama
+  - Llama 3: https://llama.meta.com/llama3/
 - Mistral's Finetunes & Mixtral
   - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
-  - Mixtral: https://huggingface.co/blog/mixtral
+  - Models on huggingface: https://huggingface.co/mistralai
 - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
 - Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
 - BigTranslate: https://github.com/ZNLP/BigTranslate
@@ -233,12 +234,15 @@
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
   - OneTrainer: https://github.com/Nerogar/OneTrainer
+    - Training LORAs: https://www.reddit.com/r/StableDiffusion/comments/1cmxtnx/whats_your_preferred_method_to_train_sdxl_lora/
+    - ![0018uf](https://github.com/mh-ka/ai-stuff/assets/52745439/fec433e9-15e6-42f3-80e6-80064f0ddfca)
   - DiffusionToolkit (AI Image Viewer): https://github.com/RupertAvery/DiffusionToolkit
   - Fooocus-inswapper (face swapping): https://github.com/machineminded/Fooocus-inswapper
   - Swifty Animator: https://tavurth.itch.io/swifty-animator
   - Style Aligned WebUI: https://github.com/cocktailpeanut/StyleAligned.pinokio?tab=readme-ov-file
   - LCM Drawing App (local): https://github.com/kidintwo3/LCMDraw
   - Pallaidium (SD for Blender): https://github.com/tin2tin/Pallaidium
+  - IC-Light: https://github.com/lllyasviel/IC-Light
   - ComfyUI:
     - InstantID ComfyUI workflow: https://github.com/cubiq/ComfyUI_InstantID
     - SDXL Turbo workflow: https://comfyanonymous.github.io/ComfyUI_examples/sdturbo/
