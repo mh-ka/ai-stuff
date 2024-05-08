@@ -97,6 +97,7 @@
   - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
   - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one/tree/main)
   - Opera One Developer (browser with LLMs): https://blogs.opera.com/news/2024/04/ai-feature-drops-local-llms/
+  - LocalAI (local server hosting): https://localai.io/
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -109,6 +110,7 @@
   - Plandex (GPT-API-based coding agent): https://github.com/plandex-ai/plandex
   - SWE-agent (another GPT-API-based coding agent): https://github.com/princeton-nlp/SWE-agent
   - OpenUI (another GPT-API-based coding agent for web components): https://github.com/wandb/openui
+  - Tabnine: https://www.tabnine.com/
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -140,11 +142,14 @@
 - How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
 - Datasets: https://archive.ics.uci.edu/
 - AI for journalism use cases: https://www.youtube.com/watch?v=BJxPKr6ixSM
+- Transformer.js (browser-based AI inference): https://github.com/xenova/transformers.js
+- AI Grant (accelerator program for AI startups with list of applicants): https://aigrant.com/
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 - Zephyr 7B infos on reddit: https://www.reddit.com/r/LocalLLaMA/comments/17hjgdg/zephyr_7b_beta_a_new_mistral_finetune_is_out/
+- Coding Benchmark: https://prollm.toqan.ai/leaderboard
 
 
 ## Audio
