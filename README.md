@@ -12,7 +12,7 @@
     + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
     + [Music production](#music-production)
     + [Other](#other)
-  * [Image and video generation](#image-and-video-generation)
+  * [Image and Video and 3D generation](#image-and-video-and-3d-generation)
     + [Stable diffusion](#stable-diffusion)
     + [AnimateDiff](#animatediff)
     + [Other](#other-1)
@@ -56,11 +56,15 @@
 - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
-- Starcoder 2: https://github.com/bigcode-project/starcoder2
-- DBRX Base and Instruct: https://github.com/databricks/dbrx
-- Cohere Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
-- Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
-- Small sized models
+- Coding Assistants
+  - Starcoder 2: https://github.com/bigcode-project/starcoder2
+  - DBRX Base and Instruct: https://github.com/databricks/dbrx
+  - Cohere Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
+  - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
+  - Alibaba's CodeQwen1.5-7B-Chat
+    - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
+    - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
+- Small sized
   - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
@@ -76,6 +80,7 @@
   - Apple Ferret: https://github.com/apple/ml-ferret
   - Alibaba Cloud Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
+  - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
 - Ollama library: https://ollama.com/library
 
 ### Tools around using LLMs
@@ -187,7 +192,7 @@
   - https://yourteacher.ai/
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
 
-## Image and video generation
+## Image and Video and 3D generation
 
 ### Stable diffusion
 - Models
@@ -282,6 +287,7 @@
   - More Prompts: https://prompthero.com/stable-diffusion-prompts
   - Upscaling Models: https://openmodeldb.info/
   - Models: https://rentry.org/sdmodels
+  - Image Collection: https://civitai.com/collections/15937?sort=Most+Collected
 
 ### AnimateDiff
 - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
@@ -299,6 +305,7 @@
 - How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
 - ClioBot: https://github.com/herval/cliobot
+- InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
 
 
 ## Misc
