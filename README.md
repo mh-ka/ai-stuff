@@ -65,7 +65,9 @@
     - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
     - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
 - Small sized
-  - Microsoft phi-2 2.7B: https://huggingface.co/microsoft/phi-2
+  - Microsoft
+    - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
+    - phi-3: https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
   - Google
@@ -73,6 +75,7 @@
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
   - Moondream (tiny vision model): https://github.com/vikhyat/moondream
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
+  - Apple's Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
 - Multimodal models
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -98,6 +101,8 @@
   - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one/tree/main)
   - Opera One Developer (browser with LLMs): https://blogs.opera.com/news/2024/04/ai-feature-drops-local-llms/
   - LocalAI (local server hosting): https://localai.io/
+  - LLM CLI tool: https://llm.datasette.io/en/stable/
+  - Run Llama3 70B locally: https://simonwillison.net/2024/Apr/22/llama-3/?utm_source=substack&utm_medium=email#local-llama-3-70b-instruct-with-llamafile
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -262,6 +267,8 @@
     - Refiner workflow: https://github.com/ltdrdata/ComfyUI-extension-tutorials/blob/Main/ComfyUI-Experimental/sdxl-reencode/exp1.md
     - ELLA wrapper: https://github.com/kijai/ComfyUI-ELLA-wrapper
     - AniPortrait: https://github.com/chaojie/ComfyUI-AniPortrait
+    - SUPIR Upscaler: https://github.com/kijai/ComfyUI-SUPIR
+    - InstantID Style Composition workflow: https://civitai.com/models/423960 
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -335,6 +342,7 @@
 - AI security testing github projects: https://github.com/AnthenaMatrix
 - GenAI overview with links and details: https://medium.com/@maximilian.vogel/5000x-generative-ai-intro-overview-models-prompts-technology-tools-comparisons-the-best-a4af95874e94
 - ChatGPT list of lists: https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
+- How faithful are RAG models: https://arxiv.org/pdf/2404.10198
 
 ### News sources
 - Newsletter
