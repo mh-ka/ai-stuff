@@ -41,6 +41,7 @@
 - Insights to model file formats: https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/
 - Prompt Library: https://www.moreusefulthings.com/prompts
 - Mixture of Experts explained (dense vs. sparse models): https://alexandrabarr.beehiiv.com/p/mixture-of-experts
+- Cookbook for model creation: https://www.snowflake.com/en/data-cloud/arctic/cookbook/
 
 ### Models
 - Meta's Llama
@@ -56,8 +57,10 @@
 - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
+- Prometheus 2 (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
 - Coding Assistants
   - Starcoder 2: https://github.com/bigcode-project/starcoder2
+  - Starcoder 2 15B Instruct: https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1
   - DBRX Base and Instruct: https://github.com/databricks/dbrx
   - Cohere Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
   - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
@@ -90,6 +93,7 @@
 - Local LLM hosting
   - vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
   - LMStudio (local model hosting): https://lmstudio.ai/
+  - Nvidia's ChatRTX (local chat with files and image search): https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
   - Jan app (local model hosting): https://jan.ai/
   - Leeroo Orchestrator (choose model depending on task): https://github.com/leeroo-ai/leeroo_orchestrator
   - FreedomGPT (local model hosting): https://www.freedomgpt.com/
@@ -102,7 +106,8 @@
   - Opera One Developer (browser with LLMs): https://blogs.opera.com/news/2024/04/ai-feature-drops-local-llms/
   - LocalAI (local server hosting): https://localai.io/
   - LLM CLI tool: https://llm.datasette.io/en/stable/
-  - Run Llama3 70B locally: https://simonwillison.net/2024/Apr/22/llama-3/?utm_source=substack&utm_medium=email#local-llama-3-70b-instruct-with-llamafile
+  - Run Llama3 70B locally: https://simonwillison.net/2024/Apr/22/llama-3/
+  - Perplexica: https://github.com/ItzCrazyKns/Perplexica
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -127,6 +132,11 @@
 - LLM cmd Assistant: https://github.com/simonw/llm-cmd
 - Semgrep (autofix using LLMs): https://choly.ca/post/semgrep-autofix-llm/
 - GPT Investor: https://github.com/mshumer/gpt-investor
+- Model playgrounds
+  - Poe: https://poe.com/login
+  - Qolaba: https://www.qolaba.ai/
+- Shopping assistant
+  - https://www.claros.so/
 
 ### AI Developer Topics
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -149,9 +159,13 @@
 - AI for journalism use cases: https://www.youtube.com/watch?v=BJxPKr6ixSM
 - Transformer.js (browser-based AI inference): https://github.com/xenova/transformers.js
 - AI Grant (accelerator program for AI startups with list of applicants): https://aigrant.com/
-- RAGFlow (RAG framework): https://github.com/infiniflow/ragflow?utm_source=substack&utm_medium=email
+- RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
 - Mergekit (framework for merging LLMs): https://github.com/arcee-ai/mergekit
 - Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
+- ExecuTorch (On-Device AI framework): https://pytorch.org/executorch/stable/intro-overview.html
+- Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
+- Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
+- Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -258,7 +272,7 @@
   - DiffusionToolkit (AI Image Viewer): https://github.com/RupertAvery/DiffusionToolkit
   - Fooocus-inswapper (face swapping): https://github.com/machineminded/Fooocus-inswapper
   - Swifty Animator: https://tavurth.itch.io/swifty-animator
-  - Style Aligned WebUI: https://github.com/cocktailpeanut/StyleAligned.pinokio?tab=readme-ov-file
+  - Style Aligned WebUI: https://github.com/cocktailpeanut/StyleAligned.pinokio
   - LCM Drawing App (local): https://github.com/kidintwo3/LCMDraw
   - Pallaidium (SD for Blender): https://github.com/tin2tin/Pallaidium
   - IC-Light: https://github.com/lllyasviel/IC-Light
@@ -316,7 +330,7 @@
 ### Other
 - Video face swap: https://github.com/s0md3v/roop
 - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
-- Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file#breaking-news-
+- Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
 - Pixart-sigma (release soon): https://github.com/PixArt-alpha/PixArt-sigma
 - How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
