@@ -149,6 +149,9 @@
 - AI for journalism use cases: https://www.youtube.com/watch?v=BJxPKr6ixSM
 - Transformer.js (browser-based AI inference): https://github.com/xenova/transformers.js
 - AI Grant (accelerator program for AI startups with list of applicants): https://aigrant.com/
+- RAGFlow (RAG framework): https://github.com/infiniflow/ragflow?utm_source=substack&utm_medium=email
+- Mergekit (framework for merging LLMs): https://github.com/arcee-ai/mergekit
+- Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -190,6 +193,7 @@
 - OpenAI TTS: https://platform.openai.com/docs/guides/text-to-speech
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 - Parler TTS: https://github.com/huggingface/parler-tts
+- OpenVoice: https://github.com/myshell-ai/OpenVoice
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
