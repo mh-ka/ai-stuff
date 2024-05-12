@@ -29,7 +29,7 @@
 ## LLMs
 
 ### Basics
-- What are LLMs?: https://ig.ft.com/generative-ai/
+- What are LLMs: https://ig.ft.com/generative-ai/
 - What are Embeddings: https://simonwillison.net/2023/Oct/23/embeddings/
 - Visualization of how a LLM does work: https://bbycroft.net/llm
 - How AI works (high level explanation): https://every.to/p/how-ai-works
@@ -60,7 +60,7 @@
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
 - Prometheus 2 (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
-- Coding Assistants
+- Coding specialized models
   - Starcoder 2: https://github.com/bigcode-project/starcoder2
   - Starcoder 2 15B Instruct: https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1
   - DBRX Base and Instruct: https://github.com/databricks/dbrx
@@ -69,6 +69,7 @@
   - Alibaba's CodeQwen1.5-7B-Chat
     - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
     - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
+  - IBM's Granite: https://github.com/ibm-granite/granite-code-models
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
@@ -81,6 +82,8 @@
   - Moondream (tiny vision model): https://github.com/vikhyat/moondream
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
   - Apple's Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
+  - RefuelLLM-2 (data labeling model): https://www.refuel.ai/blog-posts/announcing-refuel-llm-2
+  - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
 - Multimodal models
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -162,12 +165,14 @@
 - Transformer.js (browser-based AI inference): https://github.com/xenova/transformers.js
 - AI Grant (accelerator program for AI startups with list of applicants): https://aigrant.com/
 - RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
+- RAFT (training strategy for domain specific fine-tuning): https://gorilla.cs.berkeley.edu/blogs/9_raft.html
 - Mergekit (framework for merging LLMs): https://github.com/arcee-ai/mergekit
 - Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
 - ExecuTorch (On-Device AI framework): https://pytorch.org/executorch/stable/intro-overview.html
 - Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
 - Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
 - Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
+- LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
