@@ -54,7 +54,9 @@
 - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
 - Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
 - BigTranslate: https://github.com/ZNLP/BigTranslate
-- DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
+- DeepSeek
+  - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
+  - DeepSeek-V2-Chat: https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
 - Prometheus 2 (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
