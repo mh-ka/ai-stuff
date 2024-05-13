@@ -16,7 +16,7 @@
     + [Stable diffusion](#stable-diffusion)
     + [AnimateDiff](#animatediff)
     + [Other](#other-1)
-  * [Misc](#misc)
+  * [Reports and Articles and Sources](#reports-and-articles-and-sources)
     + [Reports](#reports)
     + [Other](#other-2)
     + [News sources](#news-sources)
@@ -345,7 +345,7 @@
 - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
 
 
-## Misc
+## Reports and Articles and Sources
 
 ### Reports
 - Kaggle AI Report 2023: https://www.kaggle.com/AI-Report-2023
