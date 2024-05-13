@@ -18,7 +18,7 @@
     + [Other](#other-1)
   * [Reports and Articles and Sources](#reports-and-articles-and-sources)
     + [Reports](#reports)
-    + [Other](#other-2)
+    + [Articles](#articles)
     + [News sources](#news-sources)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -352,7 +352,7 @@
 - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
 - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
 
-### Other
+### Articles
 - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
 - Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
 - Geospatial for Earth Observations (NASA, IBM): https://huggingface.co/ibm-nasa-geospatial
