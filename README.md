@@ -92,6 +92,7 @@
   - Alibaba Cloud Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
+  - Google's PaliGemma (lightweight vision language model): https://www.kaggle.com/models/google/paligemma
 - Ollama library: https://ollama.com/library
 
 ### Tools around using LLMs
@@ -179,6 +180,8 @@
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 - Zephyr 7B infos on reddit: https://www.reddit.com/r/LocalLLaMA/comments/17hjgdg/zephyr_7b_beta_a_new_mistral_finetune_is_out/
 - Coding Benchmark: https://prollm.toqan.ai/leaderboard
+- CanAiCode Leaderboard: https://huggingface.co/spaces/mike-ravkine/can-ai-code-results
+- Vision Language Model Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 
 
 ## Audio
@@ -259,6 +262,7 @@
   - Berlin Graffiti: https://huggingface.co/bakebrain/bergraffi-berlin-graffiti
   - Macro Diffusion: https://civitai.com/models/3863/macro-diffusion
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
+  - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
 - LORAs
   - Bad Quality: https://civitai.com/models/259627
   - HR Giger Rainbow: https://civitai.com/models/270990?modelVersionId=305459
