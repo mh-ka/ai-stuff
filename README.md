@@ -14,8 +14,7 @@
     + [Other](#other)
   * [Image and Video and 3D generation](#image-and-video-and-3d-generation)
     + [Stable diffusion](#stable-diffusion)
-    + [AnimateDiff](#animatediff)
-    + [Other](#other-1)
+    + [Animation and Video and Other](#animation-and-video-and-other)
   * [Reports and Articles and Sources](#reports-and-articles-and-sources)
     + [Reports](#reports)
     + [Articles](#articles)
@@ -330,15 +329,15 @@
   - Models: https://rentry.org/sdmodels
   - Image Collection: https://civitai.com/collections/15937?sort=Most+Collected
 
-### AnimateDiff
-- Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
-- AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
-- ComfyUI Guide: https://civitai.com/articles/2379
-- ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
-- AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
-- AnimateDiff Video Tutorial: https://www.youtube.com/watch?v=Gz9pT2CwdoI
-
-### Other
+### Animation and Video and other
+- AnimateDiff
+ - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
+ - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
+ - ComfyUI Guide: https://civitai.com/articles/2379
+ - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
+ - AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
+ - AnimateDiff Video Tutorial: https://www.youtube.com/watch?v=Gz9pT2CwdoI
+- ToonCrafter: https://github.com/ToonCrafter/ToonCrafter
 - Video face swap: https://github.com/s0md3v/roop
 - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
 - Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
