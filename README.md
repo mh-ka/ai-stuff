@@ -63,12 +63,14 @@
   - Starcoder 2: https://github.com/bigcode-project/starcoder2
   - Starcoder 2 15B Instruct: https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1
   - DBRX Base and Instruct: https://github.com/databricks/dbrx
-  - Cohere Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
+  - Cohere's Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
   - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
   - Alibaba's CodeQwen1.5-7B-Chat
     - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
     - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
   - IBM's Granite: https://github.com/ibm-granite/granite-code-models
+- Multilingual specialized models
+  - Cohere's 
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
@@ -83,15 +85,19 @@
   - Apple's Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
   - RefuelLLM-2 (data labeling model): https://www.refuel.ai/blog-posts/announcing-refuel-llm-2
   - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
+  - Cohere's Aya 23 (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
+  - Mistral's 7B-Instruct-v0.3: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
 - Multimodal models
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
     - LLaVA-NeXT: https://llava-vl.github.io/blog/2024-01-30-llava-next/
-  - Apple Ferret: https://github.com/apple/ml-ferret
+  - Apple's Ferret: https://github.com/apple/ml-ferret
   - Alibaba Cloud Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
   - Google's PaliGemma (lightweight vision language model): https://www.kaggle.com/models/google/paligemma
+  - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
+  - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
 - Ollama library: https://ollama.com/library
 
 ### Tools around using LLMs
@@ -173,10 +179,16 @@
 - Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
 - Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
 - Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
-- LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
 - Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
 - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
+- Selfie (personalized local text generation): https://github.com/vana-com/selfie
 - Phi-3 on device: https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime
+- Microsoft's Cookbook on using Phi-3: https://github.com/microsoft/Phi-3CookBook 
+- Showcase GTP-2 re-implementation in Rust: https://github.com/felix-andreas/gpt-burn
+- Llama 3 from scratch tutorial on GitHub: https://github.com/naklecha/llama3-from-scratch
+- Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
+- Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
+- How to create large-scale synthetic data for pre-training: https://huggingface.co/blog/cosmopedia
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -186,6 +198,8 @@
 - CanAiCode Leaderboard: https://huggingface.co/spaces/mike-ravkine/can-ai-code-results
 - Vision Language Model Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 - Open LLM Progress Tracker: https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo
+- MMLU Pro: https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
+- LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
 
 
 ## Audio
@@ -233,6 +247,7 @@
   - https://www.univerbal.app/
   - https://yourteacher.ai/
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
+
 
 ## Image and Video and 3D generation
 
@@ -359,6 +374,7 @@
 - Kaggle AI Report 2023: https://www.kaggle.com/AI-Report-2023
 - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
 - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
+- Foundation Model Transparency Index: https://crfm.stanford.edu/fmti/May-2024/index.html
 
 ### Articles
 - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
