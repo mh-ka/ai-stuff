@@ -140,6 +140,7 @@
 - Model playgrounds
   - Poe: https://poe.com/login
   - Qolaba: https://www.qolaba.ai/
+  - ChatLLM: https://chatllm.abacus.ai/
 - Shopping assistant
   - https://www.claros.so/
 
@@ -173,6 +174,9 @@
 - Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
 - Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
 - LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
+- Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
+- Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
+- Phi-3 on device: https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -181,6 +185,7 @@
 - Coding Benchmark: https://prollm.toqan.ai/leaderboard
 - CanAiCode Leaderboard: https://huggingface.co/spaces/mike-ravkine/can-ai-code-results
 - Vision Language Model Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
+- Open LLM Progress Tracker: https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo
 
 
 ## Audio
