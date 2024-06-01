@@ -69,8 +69,6 @@
     - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
     - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
   - IBM's Granite: https://github.com/ibm-granite/granite-code-models
-- Multilingual specialized models
-  - Cohere's 
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
