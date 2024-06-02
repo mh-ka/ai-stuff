@@ -41,6 +41,7 @@
 - Prompt Library: https://www.moreusefulthings.com/prompts
 - Mixture of Experts explained (dense vs. sparse models): https://alexandrabarr.beehiiv.com/p/mixture-of-experts
 - Cookbook for model creation: https://www.snowflake.com/en/data-cloud/arctic/cookbook/
+- Introduction to Vision Language Models: https://arxiv.org/pdf/2405.17247
 
 ### Models
 - Meta's Llama
@@ -59,6 +60,7 @@
 - Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
 - MaLA: https://huggingface.co/MaLA-LM/mala-500
 - Prometheus 2 (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
+- LLM360's K2: https://huggingface.co/LLM360/K2
 - Coding specialized models
   - Starcoder 2: https://github.com/bigcode-project/starcoder2
   - Starcoder 2 15B Instruct: https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1
@@ -69,6 +71,7 @@
     - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
     - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
   - IBM's Granite: https://github.com/ibm-granite/granite-code-models
+  - AutoCoder: https://github.com/bin123apple/AutoCoder
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
@@ -123,6 +126,7 @@
   - Sweep (AI junior developer): https://github.com/sweepai/sweep
   - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
   - OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
+  - OpenDevin: https://github.com/OpenDevin/OpenDevin
 - More coding assistance
   - Aider (coding): https://github.com/paul-gauthier/aider
   - Cursor (GPT-API-based code editor app): https://cursor.sh/
@@ -201,6 +205,7 @@
 - Open LLM Progress Tracker: https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo
 - MMLU Pro: https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
 - LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
+- SEAL Leaderboard: https://scale.com/leaderboard
 
 
 ## Audio
@@ -327,6 +332,7 @@
     - Nvidia TensorRT: https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
     - Kohya HiRes Fix: https://github.com/wcde/sd-webui-kohya-hiresfix
     - Vector Studio: https://github.com/GeorgLegato/stable-diffusion-webui-vectorstudio
+  - Create textures with stable diffusion: https://stableprojectorz.com
 - Misc
   - OneDiff (Speed optimisied SDXL): https://github.com/siliconflow/onediff
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
@@ -369,6 +375,7 @@
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
 - ClioBot: https://github.com/herval/cliobot
 - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
+- Open-Sora: https://github.com/hpcaitech/Open-Sora
 
 
 ## Reports and Articles and Sources
