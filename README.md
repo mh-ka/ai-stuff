@@ -187,6 +187,9 @@
 - Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
 - Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
 - How to create large-scale synthetic data for pre-training: https://huggingface.co/blog/cosmopedia
+- Robocasa (large-scale simulation framework for robot training): https://github.com/robocasa/robocasa
+- Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20: https://github.com/karpathy/llm.c/discussions/481
+- What We Learned from a Year of Building with LLMs: https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i
 
 ### Evaluation
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -280,6 +283,7 @@
   - Macro Diffusion: https://civitai.com/models/3863/macro-diffusion
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
   - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
+  - SDXL ControlNet 1.0 Models: https://huggingface.co/xinsir
 - LORAs
   - Bad Quality: https://civitai.com/models/259627
   - HR Giger Rainbow: https://civitai.com/models/270990?modelVersionId=305459
@@ -314,7 +318,8 @@
     - ELLA wrapper: https://github.com/kijai/ComfyUI-ELLA-wrapper
     - AniPortrait: https://github.com/chaojie/ComfyUI-AniPortrait
     - SUPIR Upscaler: https://github.com/kijai/ComfyUI-SUPIR
-    - InstantID Style Composition workflow: https://civitai.com/models/423960 
+    - InstantID Style Composition workflow: https://civitai.com/models/423960
+    - DynamicCrafterWrapper (for ToonCrafter): https://github.com/kijai/ComfyUI-DynamiCrafterWrapper 
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
