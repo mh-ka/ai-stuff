@@ -300,6 +300,11 @@
   - Aether Aqua: https://civitai.com/models/210754/aether-aqua-lora-for-sdxl
   - Claymation Style: https://civitai.com/models/208168/claymate-stop-motion-claymation-style-for-sdxl
   - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
+  - Michael Craig Martin Style: https://civitai.com/models/488021/flat-colors-in-the-style-of-michael-craig-martin-sdxl-10
+  - Atari Style: https://civitai.com/models/468237/atari-2600-activision
+  - Retro Comics Style: https://civitai.com/models/491322/retro-comics-with-words-steven-rhodes-style-sdxl-10
+  - Walking Dead Zombies: https://civitai.com/models/469054/the-walking-dead-zombies
+  - Pastel: https://civitai.com/models/493874/pastel-photography-franck-bohbot-style-sdxl-10
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
