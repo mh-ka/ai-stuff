@@ -1,3 +1,4 @@
+# TOC
 [AI Stuff](#ai-stuff)
   * [LLMs](#llms)
     + [Basics](#basics)
@@ -25,9 +26,17 @@
 
 # AI Stuff
 
+
 ## LLMs
 
 ### Basics
+[back to TOC](#toc)
+  * [LLMs](#llms)
+    + ***[Basics](#basics)***
+    + [Models](#models)
+    + [Tools around using LLMs](#tools-around-using-llms)
+    + [AI Developer Topics](#ai-developer-topics)
+    + [Evaluation](#evaluation)
 - What are LLMs: https://ig.ft.com/generative-ai/
 - What are Embeddings: https://simonwillison.net/2023/Oct/23/embeddings/
 - Visualization of how a LLM does work: https://bbycroft.net/llm
@@ -43,7 +52,15 @@
 - Cookbook for model creation: https://www.snowflake.com/en/data-cloud/arctic/cookbook/
 - Introduction to Vision Language Models: https://arxiv.org/pdf/2405.17247
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 ### Models
+  * [LLMs](#llms)
+    + [Basics](#basics)
+    + ***[Models](#models)***
+    + [Tools around using LLMs](#tools-around-using-llms)
+    + [AI Developer Topics](#ai-developer-topics)
+    + [Evaluation](#evaluation)
 - Meta
   - Llama
     - CodeLLama: https://github.com/facebookresearch/codellama
@@ -106,7 +123,15 @@
   - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 ### Tools around using LLMs
+  * [LLMs](#llms)
+    + [Basics](#basics)
+    + [Models](#models)
+    + ***[Tools around using LLMs](#tools-around-using-llms)***
+    + [AI Developer Topics](#ai-developer-topics)
+    + [Evaluation](#evaluation)
 - Local LLM hosting
   - vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
   - LMStudio (local model hosting): https://lmstudio.ai/
@@ -158,6 +183,8 @@
   - ChatLLM: https://chatllm.abacus.ai/
 - Shopping assistant
   - https://www.claros.so/
+
+<sup><sub>[back to top](#toc)</sub></sup>
 
 ### AI Developer Topics
 - Training and Fine-Tuning
@@ -217,6 +244,8 @@
   - How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
   - AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 ### Evaluation
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
@@ -231,14 +260,25 @@
 - SEAL Leaderboard: https://scale.com/leaderboard
 - Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 
 ## Audio
+  * [Audio](#audio)
+    + [Voicecraft](#voicecraft)
+    + [Meta](#meta)
+    + [speech2txt](#speech2txt)
+    + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
+    + [Music production](#music-production)
+    + [Other](#other)
 
 ### Voicecraft
 - Repo: https://github.com/jasonppy/VoiceCraft
 - Huggingface: https://huggingface.co/pyp1/VoiceCraft/tree/main
 - Docker version: https://github.com/pselvana/VoiceCrafter
 - API version: https://github.com/lukaszliniewicz/VoiceCraft_API
+
+<sup><sub>[back to top](#toc)</sub></sup>
 
 ### Meta
 - MusicGen: https://huggingface.co/facebook/musicgen-stereo-melody-large
@@ -248,12 +288,16 @@
 - MAGNeT (txt-2-music/-audio): https://analyticsindiamag.com/meta-launches-magnet-an-open-source-text-to-audio-model/
   - Hugging Face page with models: https://huggingface.co/collections/facebook/magnet-659ef0ceb62804e6f41d1466
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 ### speech2txt
 - OpenAI's Whisper: https://github.com/openai/whisper
   - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
   - Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
   - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
+
+<sup><sub>[back to top](#toc)</sub></sup>
 
 ### txt2speech and txt2audio
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
@@ -268,9 +312,13 @@
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - Stable Audio Open: https://huggingface.co/stabilityai/stable-audio-open-1.0
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
 - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
+
+<sup><sub>[back to top](#toc)</sub></sup>
 
 ### Other
 - LAION AI Voice Assistant BUD-E: https://github.com/LAION-AI/natural_voice_assistant
@@ -279,6 +327,7 @@
   - https://yourteacher.ai/
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
 
+<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Image and Video and 3D generation
 
@@ -390,6 +439,8 @@
   - Models: https://rentry.org/sdmodels
   - Image Collection: https://civitai.com/collections/15937?sort=Most+Collected
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 ### Animation and Video etc
 - AnimateDiff
   - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
@@ -410,6 +461,8 @@
 - Open-Sora: https://github.com/hpcaitech/Open-Sora
 - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD 
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 
 ## Reports and Articles and Sources
 
@@ -418,6 +471,8 @@
 - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
 - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
 - Foundation Model Transparency Index: https://crfm.stanford.edu/fmti/May-2024/index.html
+
+<sup><sub>[back to top](#toc)</sub></sup>
 
 ### Articles
 - Geospatial for Earth Observations (NASA, IBM): https://huggingface.co/ibm-nasa-geospatial
@@ -431,6 +486,8 @@
 - ChatGPT list of lists: https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
 - AGI Predictions: https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf
 - Robocasa (large-scale simulation framework for robot training): https://github.com/robocasa/robocasa
+
+<sup><sub>[back to top](#toc)</sub></sup>
 
 ### News sources
 - Newsletter
@@ -449,3 +506,5 @@
   - Stable Diffusion Workflows:
     - https://www.youtube.com/@NerdyRodent
     - https://www.youtube.com/@sebastiankamph
+
+<sup><sub>[back to top](#toc)</sub></sup>
