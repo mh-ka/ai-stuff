@@ -21,7 +21,7 @@
     + [Articles](#articles)
     + [News sources](#news-sources)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<sup><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i><sup>
 
 
 # AI Stuff
@@ -29,8 +29,9 @@
 
 ## LLMs
 
+<sup><sub>[back to top](#toc)</sub></sup>
+
 ### Basics
-[back to TOC](#toc)
   * [LLMs](#llms)
     + ***[Basics](#basics)***
     + [Models](#models)
@@ -187,6 +188,12 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### AI Developer Topics
+  * [LLMs](#llms)
+    + [Basics](#basics)
+    + [Models](#models)
+    + [Tools around using LLMs](#tools-around-using-llms)
+    + ***[AI Developer Topics](#ai-developer-topics)***
+    + [Evaluation](#evaluation)
 - Training and Fine-Tuning
   - Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
   - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
@@ -247,6 +254,12 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Evaluation
+  * [LLMs](#llms)
+    + [Basics](#basics)
+    + [Models](#models)
+    + [Tools around using LLMs](#tools-around-using-llms)
+    + [AI Developer Topics](#ai-developer-topics)
+    + ***[Evaluation](#evaluation)***
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
@@ -264,15 +277,15 @@
 
 
 ## Audio
+
+### Voicecraft
   * [Audio](#audio)
-    + [Voicecraft](#voicecraft)
+    + ***[Voicecraft](#voicecraft)***
     + [Meta](#meta)
     + [speech2txt](#speech2txt)
     + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
     + [Music production](#music-production)
     + [Other](#other)
-
-### Voicecraft
 - Repo: https://github.com/jasonppy/VoiceCraft
 - Huggingface: https://huggingface.co/pyp1/VoiceCraft/tree/main
 - Docker version: https://github.com/pselvana/VoiceCrafter
@@ -281,6 +294,13 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Meta
+  * [Audio](#audio)
+    + [Voicecraft](#voicecraft)
+    + ***[Meta](#meta)***
+    + [speech2txt](#speech2txt)
+    + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
+    + [Music production](#music-production)
+    + [Other](#other)
 - MusicGen: https://huggingface.co/facebook/musicgen-stereo-melody-large
   - Trying out MusicGen: https://til.simonwillison.net/machinelearning/musicgen
 - SeamlessStreaming: https://huggingface.co/facebook/seamless-streaming
@@ -291,6 +311,13 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### speech2txt
+  * [Audio](#audio)
+    + [Voicecraft](#voicecraft)
+    + [Meta](#meta)
+    + ***[speech2txt](#speech2txt)***
+    + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
+    + [Music production](#music-production)
+    + [Other](#other)
 - OpenAI's Whisper: https://github.com/openai/whisper
   - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
   - Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
@@ -300,6 +327,13 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### txt2speech and txt2audio
+  * [Audio](#audio)
+    + [Voicecraft](#voicecraft)
+    + [Meta](#meta)
+    + [speech2txt](#speech2txt)
+    + ***[txt2speech and txt2audio](#txt2speech-and-txt2audio)***
+    + [Music production](#music-production)
+    + [Other](#other)
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
 - Bark: https://github.com/suno-ai/bark
@@ -315,12 +349,26 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Music production
+  * [Audio](#audio)
+    + [Voicecraft](#voicecraft)
+    + [Meta](#meta)
+    + [speech2txt](#speech2txt)
+    + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
+    + ***[Music production](#music-production)***
+    + [Other](#other)
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
 - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Other
+  * [Audio](#audio)
+    + [Voicecraft](#voicecraft)
+    + [Meta](#meta)
+    + [speech2txt](#speech2txt)
+    + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
+    + [Music production](#music-production)
+    + ***[Other](#other)***
 - LAION AI Voice Assistant BUD-E: https://github.com/LAION-AI/natural_voice_assistant
 - AI Language Tutor:
   - https://www.univerbal.app/
@@ -329,9 +377,13 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
+
 ## Image and Video and 3D generation
 
 ### Stable diffusion
+  * [Image and Video and 3D generation](#image-and-video-and-3d-generation)
+    + ***[Stable diffusion](#stable-diffusion)***
+    + [Animation and Video etc](#animation-and-video-etc)
 - Models
   - Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
   - Stable Cascade: https://stability.ai/news/introducing-stable-cascade
@@ -442,6 +494,9 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Animation and Video etc
+  * [Image and Video and 3D generation](#image-and-video-and-3d-generation)
+    + [Stable diffusion](#stable-diffusion)
+    + ***[Animation and Video etc](#animation-and-video-etc)***
 - AnimateDiff
   - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
   - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
@@ -467,6 +522,10 @@
 ## Reports and Articles and Sources
 
 ### Reports
+  * [Reports and Articles and Sources](#reports-and-articles-and-sources)
+    + ***[Reports](#reports)***
+    + [Articles](#articles)
+    + [News sources](#news-sources)
 - Kaggle AI Report 2023: https://www.kaggle.com/AI-Report-2023
 - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
 - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
@@ -475,6 +534,10 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Articles
+  * [Reports and Articles and Sources](#reports-and-articles-and-sources)
+    + [Reports](#reports)
+    + ***[Articles](#articles)***
+    + [News sources](#news-sources)
 - Geospatial for Earth Observations (NASA, IBM): https://huggingface.co/ibm-nasa-geospatial
 - Graphcast for Weather Forecast (Google): https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/
 - RT-2 for Robot Instructions (Google): https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/
@@ -490,6 +553,10 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### News sources
+  * [Reports and Articles and Sources](#reports-and-articles-and-sources)
+    + [Reports](#reports)
+    + [Articles](#articles)
+    + ***[News sources](#news-sources)***
 - Newsletter
   - https://substack.com/@aibrews
   - https://lifearchitect.substack.com/
