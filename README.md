@@ -29,8 +29,6 @@
 
 ## LLMs
 
-<sup><sub>[back to top](#toc)</sub></sup>
-
 ### Basics
   * [LLMs](#llms)
     + ***[Basics](#basics)***
