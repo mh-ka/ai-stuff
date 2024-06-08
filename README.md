@@ -75,6 +75,7 @@
   - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
   - IBM's Granite: https://github.com/ibm-granite/granite-code-models
   - AutoCoder: https://github.com/bin123apple/AutoCoder
+  - LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
   - Ollama library: https://ollama.com/library
 - Small sized
   - Microsoft
@@ -92,6 +93,7 @@
   - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
   - Cohere's Aya 23 (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
   - Mistral's 7B-Instruct-v0.3: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
+  - Llama3 8B LexiFun Uncensored V1: https://huggingface.co/Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1
 - Multimodal
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -156,49 +158,63 @@
   - https://www.claros.so/
 
 ### AI Developer Topics
-- How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
-- LLM App Stack: https://github.com/a16z-infra/llm-app-stack
-- Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
-- Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
-- Open questions for AI Engineering: https://simonwillison.net/2023/Oct/17/open-questions/#slides-start
-- List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
-- Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
-- TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
-- RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
-- Docker GenAI Stack: https://github.com/docker/genai-stack
-- How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
-- LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory
-- Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
-- Dify (local LLM app development platform): https://github.com/langgenius/dify
-- How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
-- How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
-- Datasets: https://archive.ics.uci.edu/
-- AI for journalism use cases: https://www.youtube.com/watch?v=BJxPKr6ixSM
-- Transformer.js (browser-based AI inference): https://github.com/xenova/transformers.js
-- AI Grant (accelerator program for AI startups with list of applicants): https://aigrant.com/
-- RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
-- RAFT (training strategy for domain specific fine-tuning): https://gorilla.cs.berkeley.edu/blogs/9_raft.html
-- Mergekit (framework for merging LLMs): https://github.com/arcee-ai/mergekit
-- Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
-- ExecuTorch (On-Device AI framework): https://pytorch.org/executorch/stable/intro-overview.html
-- Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
-- Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
-- Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
-- Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
-- Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
-- Selfie (personalized local text generation): https://github.com/vana-com/selfie
-- Phi-3 on device: https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime
-- Microsoft's Cookbook on using Phi-3: https://github.com/microsoft/Phi-3CookBook 
-- Showcase GTP-2 re-implementation in Rust: https://github.com/felix-andreas/gpt-burn
-- Llama 3 from scratch tutorial on GitHub: https://github.com/naklecha/llama3-from-scratch
-- Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
-- Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
-- How to create large-scale synthetic data for pre-training: https://huggingface.co/blog/cosmopedia
-- Robocasa (large-scale simulation framework for robot training): https://github.com/robocasa/robocasa
-- Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20: https://github.com/karpathy/llm.c/discussions/481
-- What We Learned from a Year of Building with LLMs: https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i
+- Training and Fine-Tuning
+  - Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
+  - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
+  - How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
+  - LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory
+  - Datasets: https://archive.ics.uci.edu/
+  - RAFT (training strategy for domain specific fine-tuning): https://gorilla.cs.berkeley.edu/blogs/9_raft.html
+  - Llama 3 from scratch tutorial on GitHub: https://github.com/naklecha/llama3-from-scratch
+  - How to create large-scale synthetic data for pre-training: https://huggingface.co/blog/cosmopedia
+- Integrating, hosting, merging LLMs 
+  - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
+  - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
+  - RAG
+    - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
+    - RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
+    - Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
+    - How faithful are RAG models: https://arxiv.org/pdf/2404.10198
+  - Docker GenAI Stack: https://github.com/docker/genai-stack
+  - Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
+  - Dify (local LLM app development platform): https://github.com/langgenius/dify
+  - Mergekit (framework for merging LLMs): https://github.com/arcee-ai/mergekit
+  - Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
+  - Transformer.js (browser-based AI inference): https://github.com/xenova/transformers.js
+  - ExecuTorch (On-Device AI framework): https://pytorch.org/executorch/stable/intro-overview.html
+  - Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
+  - Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
+  - Phi-3
+    - Phi-3 on device: https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime
+    - Microsoft's Cookbook on using Phi-3: https://github.com/microsoft/Phi-3CookBook
+  - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
+  - Selfie (personalized local text generation): https://github.com/vana-com/selfie
+- Agents
+  - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
+  - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
+  - Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
+  - Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
+  - AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
+- Misc
+  - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
+  - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
+  - Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
+  - Open questions for AI Engineering: https://simonwillison.net/2023/Oct/17/open-questions/#slides-start
+  - AI for journalism use cases: https://www.youtube.com/watch?v=BJxPKr6ixSM
+  - AI Grant (accelerator program for AI startups with list of applicants): https://aigrant.com/
+  - Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
+  - What We Learned from a Year of Building with LLMs:
+    - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i
+    - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii
+  - Showcase GPT-2 re-implementation in Rust: https://github.com/felix-andreas/gpt-burn
+  - Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20: https://github.com/karpathy/llm.c/discussions/481
+  - Reproducing GPT-2 in Excel spreadsheet: https://spreadsheets-are-all-you-need.ai/
+  - Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
+  - How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
+  - AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
 
 ### Evaluation
+- How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 - Zephyr 7B infos on reddit: https://www.reddit.com/r/LocalLLaMA/comments/17hjgdg/zephyr_7b_beta_a_new_mistral_finetune_is_out/
@@ -209,6 +225,7 @@
 - MMLU Pro: https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
 - LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
 - SEAL Leaderboard: https://scale.com/leaderboard
+- Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
 
 
 ## Audio
@@ -265,34 +282,36 @@
 - Models
   - Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
   - Stable Cascade: https://stability.ai/news/introducing-stable-cascade
-  - DreamShaper XL Turbo v2: https://civitai.com/models/112902/dreamshaper-xl
-  - Amiga Style: https://civitai.com/models/297955/amiga-style
+  - SDXL ControlNet 1.0 Models: https://huggingface.co/xinsir
+  - SDXL-based Fine-tuned models
+    - DreamShaper XL Turbo v2: https://civitai.com/models/112902/dreamshaper-xl
+    - Animagine XL 3.0: https://huggingface.co/cagliostrolab/animagine-xl-3.0
+    - Nebul.Redmond: https://civitai.com/models/269988
+    - Pixel Art Diffusion XL: https://civitai.com/models/277680/pixel-art-diffusion-xl
+    - Juggernaut XL v7: https://civitai.com/models/133005?modelVersionId=240840
+    - Juggernaut XL v9: https://huggingface.co/RunDiffusion/Juggernaut-XL-v9
+    - ThinkDiffusionXL: https://civitai.com/models/169868/thinkdiffusionxl
+    - Realism Engine SDXL: https://civitai.com/models/152525
+    - Amiga Style: https://civitai.com/models/297955/amiga-style
+    - Cheyenne Comic Model: https://civitai.com/models/198051/cheyenne?modelVersionId=318969
+    - LEOSAM AIArt: https://civitai.com/models/219791?modelVersionId=247832
+    - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
+  - SD 1.5 based Fine-tuned models
+    - GhostMix: https://civitai.com/models/36520/ghostmix
+    - ReV Animated: https://civitai.com/models/7371/rev-animated
+    - EpicPhotoGasm: https://civitai.com/models/132632/epicphotogasm
+    - Haveall: https://civitai.com/models/213692
+    - Vivid Watercolors: https://civitai.com/models/4998/vivid-watercolors
+    - Ghibli Diffusion: https://civitai.com/models/1066/ghibli-diffusion
+    - UnstableInkDream: https://civitai.com/models/1540/unstableinkdream
+    - Macro Diffusion: https://civitai.com/models/3863/macro-diffusion
   - Anime Model: https://huggingface.co/XpucT/Anime
-  - GhostMix: https://civitai.com/models/36520/ghostmix
-  - ReV Animated: https://civitai.com/models/7371/rev-animated
-  - Animagine XL 3.0: https://huggingface.co/cagliostrolab/animagine-xl-3.0
-  - Cheyenne Comic Model: https://civitai.com/models/198051/cheyenne?modelVersionId=318969
-  - EpicPhotoGasm: https://civitai.com/models/132632/epicphotogasm
-  - Nebul.Redmond (SDXL Finetune): https://civitai.com/models/269988
-  - Pixel Art Diffusion XL: https://civitai.com/models/277680/pixel-art-diffusion-xl
-  - Juggernaut XL v7: https://civitai.com/models/133005?modelVersionId=240840
-  - Juggernaut XL v9: https://huggingface.co/RunDiffusion/Juggernaut-XL-v9
-  - ThinkDiffusionXL: https://civitai.com/models/169868/thinkdiffusionxl
-  - Realism Engine SDXL: https://civitai.com/models/152525
-  - LEOSAM AIArt: https://civitai.com/models/219791?modelVersionId=247832
-  - Haveall: https://civitai.com/models/213692
   - Coloring Book: https://civitai.com/models/5153/coloring-book
-  - Vivid Watercolors: https://civitai.com/models/4998/vivid-watercolors
   - RZ Vice Embedding: https://civitai.com/models/4920/rz-vice-21
-  - Ghibli Diffusion: https://civitai.com/models/1066/ghibli-diffusion
   - Cool Japan Diffusion: https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-1
-  - UnstableInkDream: https://civitai.com/models/1540/unstableinkdream
   - Vintage Airbrushed: https://civitai.com/models/4291
   - Berlin Graffiti: https://huggingface.co/bakebrain/bergraffi-berlin-graffiti
-  - Macro Diffusion: https://civitai.com/models/3863/macro-diffusion
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
-  - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
-  - SDXL ControlNet 1.0 Models: https://huggingface.co/xinsir
 - LORAs
   - Bad Quality: https://civitai.com/models/259627
   - HR Giger Rainbow: https://civitai.com/models/270990?modelVersionId=305459
@@ -397,21 +416,17 @@
 - Foundation Model Transparency Index: https://crfm.stanford.edu/fmti/May-2024/index.html
 
 ### Articles
-- LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
-- Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
 - Geospatial for Earth Observations (NASA, IBM): https://huggingface.co/ibm-nasa-geospatial
 - Graphcast for Weather Forecast (Google): https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/
 - RT-2 for Robot Instructions (Google): https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/
 - DragGAN for Image Manipulation (Google): https://vcai.mpi-inf.mpg.de/projects/DragGAN/
-- Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
-- LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
-- Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
 - Replicate Guide on upscaling images: https://replicate.com/guides/upscaling-images
 - Github Copilot's impact on productivity: https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/
 - AI security testing github projects: https://github.com/AnthenaMatrix
 - GenAI overview with links and details: https://medium.com/@maximilian.vogel/5000x-generative-ai-intro-overview-models-prompts-technology-tools-comparisons-the-best-a4af95874e94
 - ChatGPT list of lists: https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
-- How faithful are RAG models: https://arxiv.org/pdf/2404.10198
+- AGI Predictions: https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf
+- Robocasa (large-scale simulation framework for robot training): https://github.com/robocasa/robocasa
 
 ### News sources
 - Newsletter
