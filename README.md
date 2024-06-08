@@ -125,6 +125,7 @@
   - LLM CLI tool: https://llm.datasette.io/en/stable/
   - Run Llama3 70B locally: https://simonwillison.net/2024/Apr/22/llama-3/
   - Perplexica: https://github.com/ItzCrazyKns/Perplexica
+  - Local OSS search engine: https://github.com/Nutlope/turboseek
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -132,6 +133,7 @@
   - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
   - OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
   - OpenDevin: https://github.com/OpenDevin/OpenDevin
+  - VSCode plugin with Ollama for local coding assistant: https://ollama.com/blog/continue-code-assistant
 - More coding assistance
   - Aider (coding): https://github.com/paul-gauthier/aider
   - Cursor (GPT-API-based code editor app): https://cursor.sh/
@@ -167,6 +169,7 @@
   - RAFT (training strategy for domain specific fine-tuning): https://gorilla.cs.berkeley.edu/blogs/9_raft.html
   - Llama 3 from scratch tutorial on GitHub: https://github.com/naklecha/llama3-from-scratch
   - How to create large-scale synthetic data for pre-training: https://huggingface.co/blog/cosmopedia
+  - FineWeb Dataset explanation: https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1 
 - Integrating, hosting, merging LLMs 
   - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
   - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
@@ -195,6 +198,7 @@
   - Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
   - Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
   - AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
+  - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
   - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
