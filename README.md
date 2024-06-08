@@ -44,34 +44,38 @@
 - Introduction to Vision Language Models: https://arxiv.org/pdf/2405.17247
 
 ### Models
-- Meta's Llama
-  - CodeLLama: https://github.com/facebookresearch/codellama
-  - slowllama: with offloading to SSD/Memory: https://github.com/okuvshynov/slowllama
-  - Llama 3: https://llama.meta.com/llama3/
-- Mistral's Finetunes & Mixtral
+- Meta
+  - Llama
+    - CodeLLama: https://github.com/facebookresearch/codellama
+    - slowllama: with offloading to SSD/Memory: https://github.com/okuvshynov/slowllama
+    - Llama 3: https://llama.meta.com/llama3/
+  - NLLB (No language left behind): https://github.com/facebookresearch/fairseq/tree/nllb
+- Mistral
   - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
   - Models on huggingface: https://huggingface.co/mistralai
-- Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
-- Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
-- BigTranslate: https://github.com/ZNLP/BigTranslate
 - DeepSeek
   - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
   - DeepSeek-V2-Chat: https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat
-- Alibaba's Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
-- MaLA: https://huggingface.co/MaLA-LM/mala-500
-- Prometheus 2 (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
-- LLM360's K2: https://huggingface.co/LLM360/K2
-- Coding specialized models
+- Alibaba
+  - Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
+  - CodeQwen1.5-7B-Chat
+    - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
+    - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
+  - Qwen2: https://qwenlm.github.io/blog/qwen2/
+- Misc
+  - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
+  - Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
+  - BigTranslate: https://github.com/ZNLP/BigTranslate
+  - MaLA: https://huggingface.co/MaLA-LM/mala-500
+  - Prometheus 2 (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
+  - LLM360's K2 (fully open source): https://huggingface.co/LLM360/K2
   - Starcoder 2: https://github.com/bigcode-project/starcoder2
-  - Starcoder 2 15B Instruct: https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1
   - DBRX Base and Instruct: https://github.com/databricks/dbrx
   - Cohere's Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
   - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
-  - Alibaba's CodeQwen1.5-7B-Chat
-    - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
-    - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
   - IBM's Granite: https://github.com/ibm-granite/granite-code-models
   - AutoCoder: https://github.com/bin123apple/AutoCoder
+  - Ollama library: https://ollama.com/library
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
@@ -88,18 +92,17 @@
   - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
   - Cohere's Aya 23 (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
   - Mistral's 7B-Instruct-v0.3: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
-- Multimodal models
+- Multimodal
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
     - LLaVA-NeXT: https://llava-vl.github.io/blog/2024-01-30-llava-next/
   - Apple's Ferret: https://github.com/apple/ml-ferret
-  - Alibaba Cloud Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
+  - Alibaba Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
-  - Google's PaliGemma (lightweight vision language model): https://www.kaggle.com/models/google/paligemma
+  - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
   - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
-- Ollama library: https://ollama.com/library
 
 ### Tools around using LLMs
 - Local LLM hosting
@@ -242,6 +245,7 @@
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 - Parler TTS: https://github.com/huggingface/parler-tts
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
+- Stable Audio Open: https://huggingface.co/stabilityai/stable-audio-open-1.0
 
 ### Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
@@ -381,6 +385,7 @@
 - ClioBot: https://github.com/herval/cliobot
 - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
 - Open-Sora: https://github.com/hpcaitech/Open-Sora
+- BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD 
 
 
 ## Reports and Articles and Sources
