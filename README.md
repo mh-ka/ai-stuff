@@ -366,6 +366,12 @@
   - Dreamworks: https://civitai.com/models/188622/essenz-how-to-train-your-dragon-3-the-hidden-world-dreamworks-style-lora-for-sdxl-10
   - Darkest Dungeon: https://civitai.com/models/188582/essenz-darkest-dungeon-chris-bourassa-style-lora-for-sdxl-10
   - Jean Giraud/Moebius: https://civitai.com/models/188660/essenz-jean-giraudmoebius-voyage-dhermes-style-lora-for-sdxl-10
+  - Makoto Shinkai Anime: https://civitai.com/models/177512/essenz-makoto-shinkai-anime-screencap-your-name-weathering-with-you-suzume-style-lora-for-sdxl-10
+  - Better Photography: https://civitai.com/models/198378/essenz-high-quality-heavily-post-processed-photography-style-lora-for-sdxl-10
+  - Aether Watercolor & Ink: https://civitai.com/models/190242/aether-watercolor-and-ink-lora-for-sdxl
+  - Jakub Rozalski: https://civitai.com/models/182205/essenz-jakub-rozalski-1920-scythe-iron-harvest-style-lora-for-sdxl-10
+  - Ghibli: https://civitai.com/models/181883/essenz-nausicaa-of-the-valley-of-the-wind-anime-screencap-ghibli-hayao-myazaki-style-lora-for-sdxl-10
+  - The Legend Of Korra: https://civitai.com/models/198368/essenz-the-legend-of-korra-screencap-avatar-style-lora-for-sdxl-10
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
@@ -383,6 +389,7 @@
     - TagGUI: https://github.com/jhc13/taggui/releases
     - Image-Interrogator: https://github.com/DEVAIEXP/image-interrogator
   - ComfyUI:
+    - IP Adapter: https://github.com/cubiq/ComfyUI_IPAdapter_plus
     - InstantID ComfyUI workflow: https://github.com/cubiq/ComfyUI_InstantID
     - SDXL Turbo workflow: https://comfyanonymous.github.io/ComfyUI_examples/sdturbo/
     - ComfyUI Deploy: https://github.com/BennyKok/comfyui-deploy
@@ -399,6 +406,7 @@
     - VLM Nodes: https://github.com/gokayfem/ComfyUI_VLM_nodes
     - PixArt Sigma Workflow: https://civitai.com/models/420163
     - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
+    - AnimateDiff workflow: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworkflows-including-prompt-scheduling-an-inner-reflections-guide
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
