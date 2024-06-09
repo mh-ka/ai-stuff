@@ -328,6 +328,7 @@
     - LEOSAM AIArt: https://civitai.com/models/219791?modelVersionId=247832
     - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
     - CineVisionXL: https://civitai.com/models/188208?modelVersionId=211388
+    - Sahastrakoti XL: https://civitai.com/models/139489/sahastrakoti
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -337,7 +338,12 @@
     - Ghibli Diffusion: https://civitai.com/models/1066/ghibli-diffusion
     - UnstableInkDream: https://civitai.com/models/1540/unstableinkdream
     - Macro Diffusion: https://civitai.com/models/3863/macro-diffusion
+    - helloFlatArt: https://civitai.com/models/183884/helloflatart?modelVersionId=206378
+    - Mistoon Anime: https://civitai.com/models/24149/mistoonanime
+    - fReel_Photo: https://civitai.com/models/137522/freelphoto
+    - Rage Unleashed: https://civitai.com/models/115100/rage-unleashed
   - Segmind SSD 1B (Destilled SDXL): https://civitai.com/models/188863/segmind-ssd-1b
+  - Realities Edge XL (SDXL-Turbo): https://civitai.com/models/129666/realities-edge-xl
   - Anime Model: https://huggingface.co/XpucT/Anime
   - Coloring Book: https://civitai.com/models/5153/coloring-book
   - RZ Vice Embedding: https://civitai.com/models/4920/rz-vice-21
@@ -346,32 +352,59 @@
   - Berlin Graffiti: https://huggingface.co/bakebrain/bergraffi-berlin-graffiti
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
 - LORAs
-  - Bad Quality: https://civitai.com/models/259627
-  - HR Giger Rainbow: https://civitai.com/models/270990?modelVersionId=305459
-  - Remix XL: https://huggingface.co/Stkzzzz222/remixXL
-  - iPhone Mirror Selfie: https://civitai.com/models/256058/iphone-mirror-selfie-or-sdxl
-  - ColorSplash: https://civitai.com/models/247981/colorsplash?modelVersionId=279794
-  - Transformers Style: https://civitai.com/models/216460
-  - Stop Motion Style: https://civitai.com/models/212442
-  - Aether Aqua: https://civitai.com/models/210754/aether-aqua-lora-for-sdxl
-  - Claymation Style: https://civitai.com/models/208168/claymate-stop-motion-claymation-style-for-sdxl
-  - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
-  - Michael Craig Martin Style: https://civitai.com/models/488021/flat-colors-in-the-style-of-michael-craig-martin-sdxl-10
-  - Atari Style: https://civitai.com/models/468237/atari-2600-activision
-  - Retro Comics Style: https://civitai.com/models/491322/retro-comics-with-words-steven-rhodes-style-sdxl-10
-  - Walking Dead Zombies: https://civitai.com/models/469054/the-walking-dead-zombies
-  - Pastel: https://civitai.com/models/493874/pastel-photography-franck-bohbot-style-sdxl-10
-  - InfernoFrames: https://civitai.com/models/203975/infernoframes-the-comics-from-beyond-the-grave
-  - Vector Illustration v2.0: https://civitai.com/models/60132/vector-illustration
-  - Dreamworks: https://civitai.com/models/188622/essenz-how-to-train-your-dragon-3-the-hidden-world-dreamworks-style-lora-for-sdxl-10
-  - Darkest Dungeon: https://civitai.com/models/188582/essenz-darkest-dungeon-chris-bourassa-style-lora-for-sdxl-10
-  - Jean Giraud/Moebius: https://civitai.com/models/188660/essenz-jean-giraudmoebius-voyage-dhermes-style-lora-for-sdxl-10
-  - Makoto Shinkai Anime: https://civitai.com/models/177512/essenz-makoto-shinkai-anime-screencap-your-name-weathering-with-you-suzume-style-lora-for-sdxl-10
-  - Better Photography: https://civitai.com/models/198378/essenz-high-quality-heavily-post-processed-photography-style-lora-for-sdxl-10
-  - Aether Watercolor & Ink: https://civitai.com/models/190242/aether-watercolor-and-ink-lora-for-sdxl
-  - Jakub Rozalski: https://civitai.com/models/182205/essenz-jakub-rozalski-1920-scythe-iron-harvest-style-lora-for-sdxl-10
-  - Ghibli: https://civitai.com/models/181883/essenz-nausicaa-of-the-valley-of-the-wind-anime-screencap-ghibli-hayao-myazaki-style-lora-for-sdxl-10
-  - The Legend Of Korra: https://civitai.com/models/198368/essenz-the-legend-of-korra-screencap-avatar-style-lora-for-sdxl-10
+  - SDXL
+    - Remix XL: https://huggingface.co/Stkzzzz222/remixXL
+    - iPhone Mirror Selfie: https://civitai.com/models/256058/iphone-mirror-selfie-or-sdxl
+    - Aether Aqua: https://civitai.com/models/210754/aether-aqua-lora-for-sdxl
+    - Claymation Style: https://civitai.com/models/208168/claymate-stop-motion-claymation-style-for-sdxl
+    - Michael Craig Martin Style: https://civitai.com/models/488021/flat-colors-in-the-style-of-michael-craig-martin-sdxl-10
+    - Retro Comics Style: https://civitai.com/models/491322/retro-comics-with-words-steven-rhodes-style-sdxl-10
+    - Pastel: https://civitai.com/models/493874/pastel-photography-franck-bohbot-style-sdxl-10
+    - Dreamworks: https://civitai.com/models/188622/essenz-how-to-train-your-dragon-3-the-hidden-world-dreamworks-style-lora-for-sdxl-10
+    - Darkest Dungeon: https://civitai.com/models/188582/essenz-darkest-dungeon-chris-bourassa-style-lora-for-sdxl-10
+    - Jean Giraud/Moebius: https://civitai.com/models/188660/essenz-jean-giraudmoebius-voyage-dhermes-style-lora-for-sdxl-10
+    - Makoto Shinkai Anime: https://civitai.com/models/177512/essenz-makoto-shinkai-anime-screencap-your-name-weathering-with-you-suzume-style-lora-for-sdxl-10
+    - Better Photography: https://civitai.com/models/198378/essenz-high-quality-heavily-post-processed-photography-style-lora-for-sdxl-10
+    - Aether Watercolor & Ink: https://civitai.com/models/190242/aether-watercolor-and-ink-lora-for-sdxl
+    - Jakub Rozalski: https://civitai.com/models/182205/essenz-jakub-rozalski-1920-scythe-iron-harvest-style-lora-for-sdxl-10
+    - Ghibli: https://civitai.com/models/181883/essenz-nausicaa-of-the-valley-of-the-wind-anime-screencap-ghibli-hayao-myazaki-style-lora-for-sdxl-10
+    - Another Ghibli: https://civitai.com/models/137562/s
+    - MSPaint: https://civitai.com/models/183354?modelVersionId=205793
+    - The Legend Of Korra: https://civitai.com/models/198368/essenz-the-legend-of-korra-screencap-avatar-style-lora-for-sdxl-10
+    - Bubbles and Foam: https://civitai.com/models/170188/aether-bubbles-and-foam-lora-for-sdxl
+    - Glitch: https://civitai.com/models/151542/aether-glitch-lora-for-sdxl
+    - Loving Vincent: https://civitai.com/models/167991?modelVersionId=188927
+    - Coloring Book: https://civitai.com/models/136348
+    - Blacklight Makeup: https://civitai.com/models/134643
+    - Stickers: https://civitai.com/models/144142
+    - Clay: https://civitai.com/models/143769
+    - LucasArts Game: https://civitai.com/models/151539/lucasarts-style-1990s-pc-adventure-games-sdxl-lora-dreambooth-trained?modelVersionId=169452
+    - App Icons: https://civitai.com/models/149101?modelVersionId=166450
+    - Voxel: https://civitai.com/models/118536
+    - Watercolor: https://civitai.com/models/120789?modelVersionId=131382
+    - Medieval Illustration: https://civitai.com/models/121290?modelVersionId=131944
+    - Luigi Serafini: https://civitai.com/models/129910
+    - Bad Quality: https://civitai.com/models/259627
+    - HR Giger Rainbow: https://civitai.com/models/270990?modelVersionId=305459
+    - Stop Motion Style: https://civitai.com/models/212442
+    - Atari Style: https://civitai.com/models/468237/atari-2600-activision
+    - Walking Dead Zombies: https://civitai.com/models/469054/the-walking-dead-zombies
+    - InfernoFrames: https://civitai.com/models/203975/infernoframes-the-comics-from-beyond-the-grave
+    - More LORAs (SDXL): https://civitai.com/user/Thaevilone/models
+    - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
+    - Aardman: https://civitai.com/models/62212/aardman-animations-style
+    - xlmoreart: https://civitai.com/models/124347/xlmoreart-full-xlreal-enhancer
+  - SD 1.5
+    - Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
+    - Real Mechanical Parts: https://civitai.com/models/64471?modelVersionId=85371
+    - Cinnamon Bun: https://civitai.com/models/182311/cinnamon-bun-style-make-anything-sweet
+    - Croissant: https://civitai.com/models/113365/croissant-style-croissantify-anything?modelVersionId=122454
+    - Aardman: https://civitai.com/models/125317?modelVersionId=136883
+    - B3L: https://civitai.com/models/167872/b3l
+    - Vulcan: https://civitai.com/models/129132?modelVersionId=141479
+    - ColorSplash: https://civitai.com/models/247981/colorsplash?modelVersionId=279794
+    - Transformers Style: https://civitai.com/models/216460
+    - Vector Illustration v2.0: https://civitai.com/models/60132/vector-illustration
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
@@ -407,6 +440,7 @@
     - PixArt Sigma Workflow: https://civitai.com/models/420163
     - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
     - AnimateDiff workflow: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworkflows-including-prompt-scheduling-an-inner-reflections-guide
+    - Mega workflow: https://perilli.com/ai/comfyui/
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -419,6 +453,10 @@
     - ReActor: https://github.com/Gourieff/sd-webui-reactor
     - Inpaint Anything: https://github.com/Uminosachi/sd-webui-inpaint-anything
     - OneDiff: https://github.com/siliconflow/onediff/tree/main/onediff_sd_webui_extensions
+    - Tabs: https://github.com/Haoming02/sd-webui-tabs-extension
+    - Stylez: https://github.com/javsezlol1/Stylez
+    - LobeTheme: https://github.com/lobehub/sd-webui-lobe-theme
+    - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
   - Create textures with stable diffusion: https://stableprojectorz.com
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
@@ -433,6 +471,7 @@
     - Dirty tricks: https://www.reddit.com/r/StableDiffusion/comments/1942m2y/what_are_your_dirty_tricks/
     - Difficult concepts: https://www.reddit.com/r/StableDiffusion/comments/1d40yyh/what_are_some_hard_or_difficult_concepts_you/
     - Must-Have Automatic1111 extensions: https://www.reddit.com/r/StableDiffusion/comments/18xj5mu/what_are_some_musthave_automatic1111_extensions/
+    - More extension recommendations: https://www.reddit.com/r/StableDiffusion/comments/176jpuo/which_extensions_do_you_recommend_the_most/
     - Improve Image Quality: https://www.reddit.com/r/StableDiffusion/comments/1ck69az/make_it_good_options_in_stable_diffusion/
     - Vid2Vid Guide: https://civitai.com/articles/3194
     - Tutorials: https://www.patreon.com/jerrydavos
