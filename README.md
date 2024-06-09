@@ -90,7 +90,9 @@
   - Google
     - Gemma 2B and 7B: https://huggingface.co/blog/gemma
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
-  - Moondream (tiny vision model): https://github.com/vikhyat/moondream
+  - Moondream (vision model on edge devices)
+    - https://github.com/vikhyat/moondream
+    - https://huggingface.co/vikhyatk/moondream2
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
   - Apple's Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
   - RefuelLLM-2 (data labeling model): https://www.refuel.ai/blog-posts/announcing-refuel-llm-2
@@ -311,6 +313,7 @@
   - Stable Video Diffusion 1.1: https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
   - Stable Cascade: https://stability.ai/news/introducing-stable-cascade
   - SDXL ControlNet 1.0 Models: https://huggingface.co/xinsir
+    - Scribble: https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0
   - SDXL-based Fine-tuned models
     - DreamShaper XL Turbo v2: https://civitai.com/models/112902/dreamshaper-xl
     - Animagine XL 3.0: https://huggingface.co/cagliostrolab/animagine-xl-3.0
@@ -324,6 +327,7 @@
     - Cheyenne Comic Model: https://civitai.com/models/198051/cheyenne?modelVersionId=318969
     - LEOSAM AIArt: https://civitai.com/models/219791?modelVersionId=247832
     - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
+    - CineVisionXL: https://civitai.com/models/188208?modelVersionId=211388
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -333,6 +337,7 @@
     - Ghibli Diffusion: https://civitai.com/models/1066/ghibli-diffusion
     - UnstableInkDream: https://civitai.com/models/1540/unstableinkdream
     - Macro Diffusion: https://civitai.com/models/3863/macro-diffusion
+  - Segmind SSD 1B (Destilled SDXL): https://civitai.com/models/188863/segmind-ssd-1b
   - Anime Model: https://huggingface.co/XpucT/Anime
   - Coloring Book: https://civitai.com/models/5153/coloring-book
   - RZ Vice Embedding: https://civitai.com/models/4920/rz-vice-21
@@ -356,6 +361,11 @@
   - Retro Comics Style: https://civitai.com/models/491322/retro-comics-with-words-steven-rhodes-style-sdxl-10
   - Walking Dead Zombies: https://civitai.com/models/469054/the-walking-dead-zombies
   - Pastel: https://civitai.com/models/493874/pastel-photography-franck-bohbot-style-sdxl-10
+  - InfernoFrames: https://civitai.com/models/203975/infernoframes-the-comics-from-beyond-the-grave
+  - Vector Illustration v2.0: https://civitai.com/models/60132/vector-illustration
+  - Dreamworks: https://civitai.com/models/188622/essenz-how-to-train-your-dragon-3-the-hidden-world-dreamworks-style-lora-for-sdxl-10
+  - Darkest Dungeon: https://civitai.com/models/188582/essenz-darkest-dungeon-chris-bourassa-style-lora-for-sdxl-10
+  - Jean Giraud/Moebius: https://civitai.com/models/188660/essenz-jean-giraudmoebius-voyage-dhermes-style-lora-for-sdxl-10
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
@@ -369,6 +379,9 @@
   - LCM Drawing App (local): https://github.com/kidintwo3/LCMDraw
   - Pallaidium (SD for Blender): https://github.com/tin2tin/Pallaidium
   - IC-Light: https://github.com/lllyasviel/IC-Light
+  - Batch-tagging images
+    - TagGUI: https://github.com/jhc13/taggui/releases
+    - Image-Interrogator: https://github.com/DEVAIEXP/image-interrogator
   - ComfyUI:
     - InstantID ComfyUI workflow: https://github.com/cubiq/ComfyUI_InstantID
     - SDXL Turbo workflow: https://comfyanonymous.github.io/ComfyUI_examples/sdturbo/
@@ -380,7 +393,12 @@
     - AniPortrait: https://github.com/chaojie/ComfyUI-AniPortrait
     - SUPIR Upscaler: https://github.com/kijai/ComfyUI-SUPIR
     - InstantID Style Composition workflow: https://civitai.com/models/423960
-    - DynamicCrafterWrapper (for ToonCrafter): https://github.com/kijai/ComfyUI-DynamiCrafterWrapper 
+    - DynamicCrafterWrapper (for ToonCrafter): https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
+    - V-Express: https://github.com/AIFSH/ComfyUI_V-Express
+    - MusePose: https://github.com/TMElyralab/Comfyui-MusePose
+    - VLM Nodes: https://github.com/gokayfem/ComfyUI_VLM_nodes
+    - PixArt Sigma Workflow: https://civitai.com/models/420163
+    - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -388,31 +406,36 @@
     - Nvidia TensorRT: https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
     - Kohya HiRes Fix: https://github.com/wcde/sd-webui-kohya-hiresfix
     - Vector Studio: https://github.com/GeorgLegato/stable-diffusion-webui-vectorstudio
+    - ControlNet (including InstantStyle): https://github.com/Mikubill/sd-webui-controlnet
+      - Infos about InstantID: https://github.com/Mikubill/sd-webui-controlnet/discussions/2589 
+    - ReActor: https://github.com/Gourieff/sd-webui-reactor
+    - Inpaint Anything: https://github.com/Uminosachi/sd-webui-inpaint-anything
+    - OneDiff: https://github.com/siliconflow/onediff/tree/main/onediff_sd_webui_extensions
   - Create textures with stable diffusion: https://stableprojectorz.com
 - Misc
-  - OneDiff (Speed optimisied SDXL): https://github.com/siliconflow/onediff
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
   - Intel Arc and Microsoft support for stable diffusion: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055
   - DeciDiffusion v2.0: https://huggingface.co/Deci/DeciDiffusion-v2-0
-  - Tutorials: https://www.patreon.com/jerrydavos
-  - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor/LwT4AB8wEtKQilrjq2G8
-  - Dirty tricks: https://www.reddit.com/r/StableDiffusion/comments/1942m2y/what_are_your_dirty_tricks/
-  - Must-Have Automatic1111 extensions: https://www.reddit.com/r/StableDiffusion/comments/18xj5mu/what_are_some_musthave_automatic1111_extensions/
+  /LwT4AB8wEtKQilrjq2G8
   - FastSD CPU: https://github.com/rupeshs/fastsdcpu
-  - Vid2Vid Guide: https://civitai.com/articles/3194
-  - Art style prompts: https://github.com/scroobius-pip/arible_prompts/blob/main/prompts.arible
-  - ELLA tutorial: https://sandner.art/ella-leveraging-llms-for-enhanced-semantic-alignment-in-sd-15/
-  - Lists:
-    - https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
-    - https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
-    - https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
-    - https://diffusiondb.com/
-    - https://github.com/steven2358/awesome-generative-ai
-  - Prompts: https://publicprompts.art/
-  - More Prompts: https://prompthero.com/stable-diffusion-prompts
-  - Upscaling Models: https://openmodeldb.info/
-  - Models: https://rentry.org/sdmodels
-  - Image Collection: https://civitai.com/collections/15937?sort=Most+Collected
+  - Hints, lists and collections
+    - SD Tutorials https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
+    - Prompt Engineering Tools: https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
+    - SD Systems: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
+    - Dirty tricks: https://www.reddit.com/r/StableDiffusion/comments/1942m2y/what_are_your_dirty_tricks/
+    - Difficult concepts: https://www.reddit.com/r/StableDiffusion/comments/1d40yyh/what_are_some_hard_or_difficult_concepts_you/
+    - Must-Have Automatic1111 extensions: https://www.reddit.com/r/StableDiffusion/comments/18xj5mu/what_are_some_musthave_automatic1111_extensions/
+    - Improve Image Quality: https://www.reddit.com/r/StableDiffusion/comments/1ck69az/make_it_good_options_in_stable_diffusion/
+    - Vid2Vid Guide: https://civitai.com/articles/3194
+    - Tutorials: https://www.patreon.com/jerrydavos
+    - Public prompts: https://publicprompts.art/
+    - More Prompts: https://prompthero.com/stable-diffusion-prompts
+    - Art style prompts: https://github.com/scroobius-pip/arible_prompts/blob/main/prompts.arible
+    - Upscaling Models: https://openmodeldb.info/
+    - SD Models: https://rentry.org/sdmodels
+    - Image Collection: https://civitai.com/collections/15937?sort=Most+Collected
+    - ELLA tutorial: https://sandner.art/ella-leveraging-llms-for-enhanced-semantic-alignment-in-sd-15/
+    - LORA training tutorial: https://rentry.org/PlumLora
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -458,6 +481,7 @@
 - Github Copilot's impact on productivity: https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/
 - AI security testing github projects: https://github.com/AnthenaMatrix
 - GenAI overview with links and details: https://medium.com/@maximilian.vogel/5000x-generative-ai-intro-overview-models-prompts-technology-tools-comparisons-the-best-a4af95874e94
+- GenAI link list: https://github.com/steven2358/awesome-generative-ai
 - ChatGPT list of lists: https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
 - AGI Predictions: https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf
 - Robocasa (large-scale simulation framework for robot training): https://github.com/robocasa/robocasa
