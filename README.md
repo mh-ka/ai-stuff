@@ -90,6 +90,7 @@
   - Google
     - Gemma 2B and 7B: https://huggingface.co/blog/gemma
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
+    - RecurrentGemma: https://huggingface.co/google/recurrentgemma-9b
   - Moondream (vision model on edge devices)
     - https://github.com/vikhyat/moondream
     - https://huggingface.co/vikhyatk/moondream2
@@ -111,6 +112,7 @@
   - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
   - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
+  - Ultravox: https://github.com/fixie-ai/ultravox
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -221,7 +223,9 @@
     - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i
     - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii
   - Showcase GPT-2 re-implementation in Rust: https://github.com/felix-andreas/gpt-burn
-  - Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20: https://github.com/karpathy/llm.c/discussions/481
+  - Reproducing GPT-2 (124M) in llm.c:
+    - Text: https://github.com/karpathy/llm.c/discussions/481
+    - Video: https://www.youtube.com/watch?v=l8pRSuU81PU
   - Reproducing GPT-2 in Excel spreadsheet: https://spreadsheets-are-all-you-need.ai/
   - Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
   - How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
@@ -302,6 +306,7 @@
   - https://www.univerbal.app/
   - https://yourteacher.ai/
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
+- DenseAV (locates sound and learns meaning of words): https://github.com/mhamilton723/DenseAV
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
