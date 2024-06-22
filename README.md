@@ -95,7 +95,9 @@
     - https://github.com/vikhyat/moondream
     - https://huggingface.co/vikhyatk/moondream2
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
-  - Apple's Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
+  - Apple
+    - Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
+    - Core ML Gallery of on-device models: https://huggingface.co/apple
   - RefuelLLM-2 (data labeling model): https://www.refuel.ai/blog-posts/announcing-refuel-llm-2
   - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
   - Cohere's Aya 23 (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
