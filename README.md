@@ -110,6 +110,8 @@
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
   - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
+  - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
+  - Microsoft's Florence 2 (non-OCR vision tasks): https://huggingface.co/microsoft/Florence-2-large
   - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
   - Ultravox: https://github.com/fixie-ai/ultravox
@@ -509,7 +511,7 @@
 - ClioBot: https://github.com/herval/cliobot
 - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
 - Open-Sora: https://github.com/hpcaitech/Open-Sora
-- BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD 
+- BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
