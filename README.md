@@ -194,6 +194,7 @@
     - RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
     - Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
     - How faithful are RAG models: https://arxiv.org/pdf/2404.10198
+    - Building search-based RAG: https://simonwillison.net/2024/Jun/21/search-based-rag/
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
   - Dify (local LLM app development platform): https://github.com/langgenius/dify
@@ -514,6 +515,7 @@
 - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
 - Open-Sora: https://github.com/hpcaitech/Open-Sora
 - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
+- Blog around image detection techniques: https://blog.roboflow.com/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
