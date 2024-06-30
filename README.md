@@ -89,6 +89,7 @@
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
   - Google
     - Gemma 2B and 7B: https://huggingface.co/blog/gemma
+    - Gemma2 9B: https://huggingface.co/bartowski/gemma-2-9b-it-GGUF
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
     - RecurrentGemma: https://huggingface.co/google/recurrentgemma-9b
   - Moondream (vision model on edge devices)
