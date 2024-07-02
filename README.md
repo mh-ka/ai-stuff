@@ -252,6 +252,7 @@
 - LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
 - SEAL Leaderboard: https://scale.com/leaderboard
 - Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
+- Open LLM Leaderboard 2: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
