@@ -1,4 +1,5 @@
 https://threadreaderapp.com/thread/1804161634853663030.html
+
 https://x.com/carrigmat/status/1804161634853663030
 
 Good morning. At some point this summer, perhaps quite soon, @AIatMeta will be releasing a LLaMA-3 model with 400B parameters. It will likely be the strongest open-source LLM ever released by a wide margin.
