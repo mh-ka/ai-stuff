@@ -196,6 +196,7 @@
     - Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
     - How faithful are RAG models: https://arxiv.org/pdf/2404.10198
     - Building search-based RAG: https://simonwillison.net/2024/Jun/21/search-based-rag/
+    - Langchain documentation on RAG: https://python.langchain.com/v0.2/docs/concepts/#retrieval
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
   - Dify (local LLM app development platform): https://github.com/langgenius/dify
@@ -253,6 +254,7 @@
 - SEAL Leaderboard: https://scale.com/leaderboard
 - Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
 - Open LLM Leaderboard 2: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+- Skeleton Key Jailbreak: https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -453,6 +455,7 @@
     - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
     - AnimateDiff workflow: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworkflows-including-prompt-scheduling-an-inner-reflections-guide
     - Mega workflow: https://perilli.com/ai/comfyui/
+    - LivePortrait: https://github.com/kijai/ComfyUI-LivePortraitKJ
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
