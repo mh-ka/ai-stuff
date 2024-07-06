@@ -131,7 +131,7 @@
   - FreedomGPT (local model hosting): https://www.freedomgpt.com/
   - ExLlama2 (optimized local inference): https://github.com/turboderp/exllamav2
   - pinokio (Simple app for running many AI tools locally): https://pinokio.computer/
-  - GPT4All (local LLM hosting): https://gpt4all.io/index.html
+  - GPT4All (local LLM hosting): https://github.com/nomic-ai/gpt4all
   - h2oGPT (Private Q&A with your own documents): https://github.com/h2oai/h2ogpt
   - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
   - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one/tree/main)
@@ -141,6 +141,7 @@
   - Run Llama3 70B locally: https://simonwillison.net/2024/Apr/22/llama-3/
   - Perplexica: https://github.com/ItzCrazyKns/Perplexica
   - Local OSS search engine: https://github.com/Nutlope/turboseek
+  - LibreChat: https://github.com/danny-avila/LibreChat
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -167,6 +168,7 @@
 - LLM cmd Assistant: https://github.com/simonw/llm-cmd
 - Semgrep (autofix using LLMs): https://choly.ca/post/semgrep-autofix-llm/
 - GPT Investor: https://github.com/mshumer/gpt-investor
+- AI Flow (connect different models): https://ai-flow.net
 - Model playgrounds
   - Poe: https://poe.com/login
   - Qolaba: https://www.qolaba.ai/
@@ -197,6 +199,7 @@
     - How faithful are RAG models: https://arxiv.org/pdf/2404.10198
     - Building search-based RAG: https://simonwillison.net/2024/Jun/21/search-based-rag/
     - Langchain documentation on RAG: https://python.langchain.com/v0.2/docs/concepts/#retrieval
+    - GraphRAG: https://github.com/microsoft/graphrag
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
   - Dify (local LLM app development platform): https://github.com/langgenius/dify
@@ -218,6 +221,7 @@
   - Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
   - AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
   - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
+  - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
   - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
@@ -237,6 +241,9 @@
   - Pruning Approach for LLMs (Meta, Bosch): https://github.com/locuslab/wanda
   - How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
   - AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
+  - llama.ttf (using font engine to host a LLM): https://fuglede.github.io/llama.ttf
+  - RouteLLM framework: https://github.com/lm-sys/RouteLLM
+  - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -254,6 +261,7 @@
 - SEAL Leaderboard: https://scale.com/leaderboard
 - Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
 - Open LLM Leaderboard 2: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+- LiveBench: https://livebench.ai/
 - Skeleton Key Jailbreak: https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique
 
 <sup><sub>[back to top](#toc)</sub></sup>
