@@ -243,6 +243,7 @@
   - AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
   - llama.ttf (using font engine to host a LLM): https://fuglede.github.io/llama.ttf
   - RouteLLM framework: https://github.com/lm-sys/RouteLLM
+  - Reverse engineering of Github Copilot extension: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
   - Data extraction:
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -267,6 +268,7 @@
 - Open LLM Leaderboard 2: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
 - LiveBench: https://livebench.ai/
 - Skeleton Key Jailbreak: https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique
+- LLM Eval simplified: https://www.philschmid.de/llm-evaluation
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
