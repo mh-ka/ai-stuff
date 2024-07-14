@@ -243,7 +243,11 @@
   - AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
   - llama.ttf (using font engine to host a LLM): https://fuglede.github.io/llama.ttf
   - RouteLLM framework: https://github.com/lm-sys/RouteLLM
-  - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
+  - Data extraction:
+    - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
+    - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
+    - URL to LLM input converter: https://github.com/jina-ai/reader
+    - LLM Scraper (extract structured data from URL): https://github.com/mishushakov/llm-scraper
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -308,6 +312,7 @@
 - Parler TTS: https://github.com/huggingface/parler-tts
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - Stable Audio Open: https://huggingface.co/stabilityai/stable-audio-open-1.0
+- MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
