@@ -316,6 +316,7 @@
 - Stable Audio Open: https://huggingface.co/stabilityai/stable-audio-open-1.0
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 - Alibaba's FunAudioLLM framework (includes CosyVoice & SenseVoice): https://github.com/FunAudioLLM
+- MeloTTS: https://github.com/myshell-ai/MeloTTS
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
