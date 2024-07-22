@@ -260,6 +260,7 @@
 - Coding Benchmark: https://prollm.toqan.ai/leaderboard
 - CanAiCode Leaderboard: https://huggingface.co/spaces/mike-ravkine/can-ai-code-results
 - Vision Language Model Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
+- OpenCompass 2.0: https://github.com/open-compass/opencompass
 - Open LLM Progress Tracker: https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo
 - MMLU Pro: https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
 - LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
