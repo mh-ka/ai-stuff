@@ -214,6 +214,7 @@
     - Microsoft's Cookbook on using Phi-3: https://github.com/microsoft/Phi-3CookBook
   - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
   - Selfie (personalized local text generation): https://github.com/vana-com/selfie
+  - Empirical Study of LLaMA3 Quantization: https://arxiv.org/abs/2404.14047
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
   - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
