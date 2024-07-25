@@ -249,6 +249,7 @@
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
     - URL to LLM input converter: https://github.com/jina-ai/reader
     - LLM Scraper (extract structured data from URL): https://github.com/mishushakov/llm-scraper
+    - Datachain (python library for unstructured data processing): https://github.com/iterative/datachain
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
