@@ -56,7 +56,7 @@
   - NLLB (No language left behind): https://github.com/facebookresearch/fairseq/tree/nllb
 - Mistral
   - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
-  - Models on huggingface: https://huggingface.co/mistralai
+  - Models on huggingface: https://huggingface.co/mistralai (Codestral, Mathstral, Nemo, Mixtral, Mistral Large etc.)
 - DeepSeek
   - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
   - DeepSeek-V2-Chat: https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat
@@ -118,6 +118,7 @@
   - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
   - Ultravox: https://github.com/fixie-ai/ultravox
+- List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -541,6 +542,7 @@
 - Open-Sora: https://github.com/hpcaitech/Open-Sora
 - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
 - Blog around image detection techniques: https://blog.roboflow.com/
+- WildGaussians: https://github.com/jkulhanek/wild-gaussians/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
