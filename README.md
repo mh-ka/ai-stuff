@@ -81,6 +81,7 @@
   - AutoCoder: https://github.com/bin123apple/AutoCoder
   - LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
   - Ollama library: https://ollama.com/library
+  - DiagnosisGPT (medical diagnosis LLM): https://github.com/FreedomIntelligence/Chain-of-Diagnosis
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
@@ -271,9 +272,9 @@
 - SEAL Leaderboard: https://scale.com/leaderboard
 - Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
 - Open LLM Leaderboard 2: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
-- LiveBench: https://livebench.ai/
 - Skeleton Key Jailbreak: https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique
 - LLM Eval simplified: https://www.philschmid.de/llm-evaluation
+- LiveBench: https://livebench.ai/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
