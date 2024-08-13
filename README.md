@@ -191,10 +191,9 @@
   - RAFT (training strategy for domain specific fine-tuning): https://gorilla.cs.berkeley.edu/blogs/9_raft.html
   - Llama 3 from scratch tutorial on GitHub: https://github.com/naklecha/llama3-from-scratch
   - How to create large-scale synthetic data for pre-training: https://huggingface.co/blog/cosmopedia
-  - FineWeb Dataset explanation: https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1 
+  - FineWeb Dataset explanation: https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+  - Pints (Model training example): https://github.com/Pints-AI/1.5-Pints
 - Integrating, hosting, merging LLMs 
-  - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
-  - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
   - RAG
     - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
     - RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
@@ -203,7 +202,17 @@
     - Building search-based RAG: https://simonwillison.net/2024/Jun/21/search-based-rag/
     - Langchain documentation on RAG: https://python.langchain.com/v0.2/docs/concepts/#retrieval
     - GraphRAG: https://github.com/microsoft/graphrag
+    - RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
+  - Data extraction:
+    - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
+    - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
+    - URL to LLM input converter: https://github.com/jina-ai/reader
+    - LLM Scraper (extract structured data from URL): https://github.com/mishushakov/llm-scraper
+    - Datachain (python library for unstructured data processing): https://github.com/iterative/datachain
+    - ThePipe (markdown and visuals extraction from PDFs, URLs, etc.): https://github.com/emcf/thepipe
   - Docker GenAI Stack: https://github.com/docker/genai-stack
+  - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
+  - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
   - Langchain Templates (templates for building AI apps): https://github.com/langchain-ai/langchain/tree/master/templates
   - Dify (local LLM app development platform): https://github.com/langgenius/dify
   - Mergekit (framework for merging LLMs): https://github.com/arcee-ai/mergekit
@@ -248,12 +257,6 @@
   - llama.ttf (using font engine to host a LLM): https://fuglede.github.io/llama.ttf
   - RouteLLM framework: https://github.com/lm-sys/RouteLLM
   - Reverse engineering of Github Copilot extension: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
-  - Data extraction:
-    - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
-    - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
-    - URL to LLM input converter: https://github.com/jina-ai/reader
-    - LLM Scraper (extract structured data from URL): https://github.com/mishushakov/llm-scraper
-    - Datachain (python library for unstructured data processing): https://github.com/iterative/datachain
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -317,12 +320,12 @@
 - Pheme TTS framework: https://github.com/PolyAI-LDN/pheme
 - OpenAI TTS: https://platform.openai.com/docs/guides/text-to-speech
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
-- Parler TTS: https://github.com/huggingface/parler-tts
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - Stable Audio Open: https://huggingface.co/stabilityai/stable-audio-open-1.0
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 - Alibaba's FunAudioLLM framework (includes CosyVoice & SenseVoice): https://github.com/FunAudioLLM
 - MeloTTS: https://github.com/myshell-ai/MeloTTS
+- Parler TTS: https://github.com/huggingface/parler-tts
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -580,6 +583,7 @@
   - https://substack.com/@aibrews
   - https://lifearchitect.substack.com/
   - https://simonwillison.net/
+  - https://diffusiondigest.beehiiv.com/
 - Websites
   - https://the-decoder.de/
   - http://futuretools.io/
