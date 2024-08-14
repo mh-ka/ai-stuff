@@ -106,6 +106,7 @@
   - Mistral's 7B-Instruct-v0.3: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
   - Llama3 8B LexiFun Uncensored V1: https://huggingface.co/Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1
   - Hugging Face's SmolLM: https://huggingface.co/blog/smollm
+  - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
 - Multimodal
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -203,6 +204,7 @@
     - Langchain documentation on RAG: https://python.langchain.com/v0.2/docs/concepts/#retrieval
     - GraphRAG: https://github.com/microsoft/graphrag
     - RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
+    - Controllable RAG Agent: https://github.com/NirDiamant/Controllable-RAG-Agent
   - Data extraction:
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
