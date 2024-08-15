@@ -44,6 +44,8 @@
 - Mixture of Experts explained (dense vs. sparse models): https://alexandrabarr.beehiiv.com/p/mixture-of-experts
 - Cookbook for model creation: https://www.snowflake.com/en/data-cloud/arctic/cookbook/
 - Introduction to Vision Language Models: https://arxiv.org/pdf/2405.17247
+- Transformer Explainer: https://poloclub.github.io/transformer-explainer/
+- A Visual Guide to Quantization: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
