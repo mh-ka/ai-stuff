@@ -207,6 +207,7 @@
     - GraphRAG: https://github.com/microsoft/graphrag
     - RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
     - Controllable RAG Agent: https://github.com/NirDiamant/Controllable-RAG-Agent
+    - Infinity (AI optimized database): https://github.com/infiniflow/infinity
   - Data extraction:
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
