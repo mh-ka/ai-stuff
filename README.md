@@ -313,6 +313,7 @@
   - Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
   - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
+- Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -331,6 +332,7 @@
 - Alibaba's FunAudioLLM framework (includes CosyVoice & SenseVoice): https://github.com/FunAudioLLM
 - MeloTTS: https://github.com/myshell-ai/MeloTTS
 - Parler TTS: https://github.com/huggingface/parler-tts
+- WhisperSpeech: https://github.com/collabora/WhisperSpeech
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
