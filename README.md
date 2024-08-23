@@ -99,6 +99,9 @@
     - https://github.com/vikhyat/moondream
     - https://huggingface.co/vikhyatk/moondream2
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
+  - Mistral Nemo 12B:
+    - https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407
+    - https://huggingface.co/nvidia/Mistral-NeMo-12B-Instruct
   - Apple
     - Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
     - Core ML Gallery of on-device models: https://huggingface.co/apple
