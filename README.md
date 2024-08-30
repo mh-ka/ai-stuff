@@ -84,10 +84,11 @@
   - LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
   - Ollama library: https://ollama.com/library
   - DiagnosisGPT (medical diagnosis LLM): https://github.com/FreedomIntelligence/Chain-of-Diagnosis
+  - AI21 Jamba 1.5 Mini (hybrid SSM-Transformer): https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
-    - phi-3: https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3
+    - phi-3 / phi-3.5: https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
   - Google
@@ -99,9 +100,12 @@
     - https://github.com/vikhyat/moondream
     - https://huggingface.co/vikhyatk/moondream2
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
-  - Mistral Nemo 12B:
-    - https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407
-    - https://huggingface.co/nvidia/Mistral-NeMo-12B-Instruct
+  - Mistral (feat. Nvidia)
+    - NeMo 12B:
+      - https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407
+      - https://huggingface.co/nvidia/Mistral-NeMo-12B-Instruct
+    - NeMo Minitron 8B (pruned & distilled)
+      - https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base
   - Apple
     - Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
     - Core ML Gallery of on-device models: https://huggingface.co/apple
@@ -265,6 +269,7 @@
   - llama.ttf (using font engine to host a LLM): https://fuglede.github.io/llama.ttf
   - RouteLLM framework: https://github.com/lm-sys/RouteLLM
   - Reverse engineering of Github Copilot extension: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
+  - LeRobot: https://github.com/huggingface/lerobot
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
