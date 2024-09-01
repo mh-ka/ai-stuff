@@ -78,7 +78,9 @@
   - LLM360's K2 (fully open source): https://huggingface.co/LLM360/K2
   - Starcoder 2: https://github.com/bigcode-project/starcoder2
   - DBRX Base and Instruct: https://github.com/databricks/dbrx
-  - Cohere's Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
+  - Cohere
+    - Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
+    - Command-R 08-2024: https://huggingface.co/bartowski/c4ai-command-r-08-2024-GGUF
   - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
   - IBM's Granite: https://github.com/ibm-granite/granite-code-models
   - AutoCoder: https://github.com/bin123apple/AutoCoder
@@ -123,6 +125,7 @@
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
     - LLaVA-NeXT: https://llava-vl.github.io/blog/2024-01-30-llava-next/
+    - LLaVA-OneVision: https://huggingface.co/collections/lmms-lab/llava-onevision-66a259c3526e15166d6bba37
   - Apple's Ferret: https://github.com/apple/ml-ferret
   - Alibaba
     - Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
@@ -161,6 +164,7 @@
   - Perplexica: https://github.com/ItzCrazyKns/Perplexica
   - Local OSS search engine: https://github.com/Nutlope/turboseek
   - LibreChat: https://github.com/danny-avila/LibreChat
+  - OpenPerplex: https://github.com/YassKhazzan/openperplex_backend_os
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -594,6 +598,7 @@
 - State of AI Report 2023: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3445
 - State of Open Source AI Book: https://book.premai.io/state-of-open-source-ai/index.html
 - Foundation Model Transparency Index: https://crfm.stanford.edu/fmti/May-2024/index.html
+- AI Timeline: https://nhlocal.github.io/AiTimeline/#2024
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
