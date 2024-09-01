@@ -116,13 +116,17 @@
   - Mistral's 7B-Instruct-v0.3: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
   - Llama3 8B LexiFun Uncensored V1: https://huggingface.co/Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1
   - Hugging Face's SmolLM: https://huggingface.co/blog/smollm
-  - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
+  - Zyphra
+    - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
+    - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
 - Multimodal
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
     - LLaVA-NeXT: https://llava-vl.github.io/blog/2024-01-30-llava-next/
   - Apple's Ferret: https://github.com/apple/ml-ferret
-  - Alibaba Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
+  - Alibaba
+    - Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
+    - Qwen-VL2: https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
   - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
@@ -131,6 +135,7 @@
   - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
   - Ultravox: https://github.com/fixie-ai/ultravox
+  - Nvidia's Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
 <sup><sub>[back to top](#toc)</sub></sup>
@@ -223,6 +228,7 @@
     - LLM Scraper (extract structured data from URL): https://github.com/mishushakov/llm-scraper
     - Datachain (python library for unstructured data processing): https://github.com/iterative/datachain
     - ThePipe (markdown and visuals extraction from PDFs, URLs, etc.): https://github.com/emcf/thepipe
+    - Firecrawl (websites2markdown): https://github.com/mendableai/firecrawl
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
   - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
@@ -576,6 +582,7 @@
 - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
 - Blog around image detection techniques: https://blog.roboflow.com/
 - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
+- CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
