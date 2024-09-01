@@ -15,6 +15,7 @@
     + [Other](#other)
   * [Image and Video and 3D generation](#image-and-video-and-3d-generation)
     + [Stable diffusion](#stable-diffusion)
+    + [Flux](#flux)
     + [Animation and Video etc](#animation-and-video-etc)
   * [Reports and Articles and Sources](#reports-and-articles-and-sources)
     + [Reports](#reports)
@@ -539,6 +540,18 @@
     - Image Collection: https://civitai.com/collections/15937?sort=Most+Collected
     - ELLA tutorial: https://sandner.art/ella-leveraging-llms-for-enhanced-semantic-alignment-in-sd-15/
     - LORA training tutorial: https://rentry.org/PlumLora
+
+<sup><sub>[back to top](#toc)</sub></sup>
+
+### Flux
+- LORAs
+ - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
+ - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
+ - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
+ - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
+- Misc
+ - LORA search engine: https://www.fluxforge.app/
+ - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
