@@ -545,13 +545,13 @@
 
 ### Flux
 - LORAs
- - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
- - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
- - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
- - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
+  - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
+  - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
+  - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
+  - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
 - Misc
- - LORA search engine: https://www.fluxforge.app/
- - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
+  - LORA search engine: https://www.fluxforge.app/
+  - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
