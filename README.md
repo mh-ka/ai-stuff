@@ -121,6 +121,7 @@
   - Zyphra
     - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
+  - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
 - Multimodal
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -180,6 +181,7 @@
   - SWE-agent (another GPT-API-based coding agent): https://github.com/princeton-nlp/SWE-agent
   - OpenUI (another GPT-API-based coding agent for web components): https://github.com/wandb/openui
   - Tabnine: https://www.tabnine.com/
+  - Melty: https://github.com/meltylabs/melty
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -302,6 +304,7 @@
 - Skeleton Key Jailbreak: https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique
 - LLM Eval simplified: https://www.philschmid.de/llm-evaluation
 - LiveBench: https://livebench.ai/
+- Benchmark Aggregator: https://benchmark-aggregator-lvss.vercel.app/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -508,6 +511,7 @@
     - AnimateDiff workflow: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworkflows-including-prompt-scheduling-an-inner-reflections-guide
     - Mega workflow: https://perilli.com/ai/comfyui/
     - LivePortrait: https://github.com/kijai/ComfyUI-LivePortraitKJ
+    - AdvancedLivePortrait: https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
   - Automatic1111 Extensions:
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -559,9 +563,17 @@
   - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
   - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
   - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
+  - Icon Maker: https://civitai.com/models/722531
+  - Oil Painting: https://civitai.com/models/723141
+  - Pixel Art: https://civitai.com/models/672328
+  - 1999 Digital Camera Style: https://civitai.com/models/724495
+  - Dashed Lines: https://civitai.com/models/724476
+  - Amateur Photo: https://civitai.com/models/652699
 - Misc
   - LORA search engine: https://www.fluxforge.app/
   - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
+  - Flux Gym: https://github.com/cocktailpeanut/fluxgym
+  - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
