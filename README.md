@@ -88,6 +88,7 @@
   - Ollama library: https://ollama.com/library
   - DiagnosisGPT (medical diagnosis LLM): https://github.com/FreedomIntelligence/Chain-of-Diagnosis
   - AI21 Jamba 1.5 Mini (hybrid SSM-Transformer): https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini
+  - Yi-Coder 9B: https://huggingface.co/01-ai/Yi-Coder-9B-Chat 
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
@@ -122,6 +123,7 @@
     - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
   - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
+  - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
 - Multimodal
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
@@ -140,6 +142,7 @@
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
   - Ultravox: https://github.com/fixie-ai/ultravox
   - Nvidia's Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
+  - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
 <sup><sub>[back to top](#toc)</sub></sup>
@@ -336,6 +339,7 @@
   - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
+- Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
