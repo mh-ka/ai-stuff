@@ -230,6 +230,7 @@
     - RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
     - Controllable RAG Agent: https://github.com/NirDiamant/Controllable-RAG-Agent
     - Infinity (AI optimized database): https://github.com/infiniflow/infinity
+    - DataGemma: https://huggingface.co/collections/google/datagemma-release-66df7636084d2b150a4e6643
   - Data extraction:
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -263,6 +264,7 @@
   - AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
   - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
   - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
+  - Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
   - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
@@ -359,6 +361,7 @@
 - MeloTTS: https://github.com/myshell-ai/MeloTTS
 - Parler TTS: https://github.com/huggingface/parler-tts
 - WhisperSpeech: https://github.com/collabora/WhisperSpeech
+- Fish Speech 1.4: https://huggingface.co/fishaudio/fish-speech-1.4
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
