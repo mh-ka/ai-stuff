@@ -581,6 +581,7 @@
   - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
   - Flux Gym: https://github.com/cocktailpeanut/fluxgym
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
+  - PuLID: https://github.com/ToTheBeginning/PuLID
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -606,6 +607,8 @@
 - Blog around image detection techniques: https://blog.roboflow.com/
 - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
 - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
+- Meta's SAM2 (Segment Anything): https://github.com/facebookresearch/segment-anything-2
+- RobustSAM: https://github.com/robustsam/RobustSAM 
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
