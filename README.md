@@ -568,6 +568,7 @@
 - LORAs
   - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
   - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
+  - PS2 Style: https://civitai.com/models/750208/ps2-style-flux 
   - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
   - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
   - Icon Maker: https://civitai.com/models/722531
@@ -576,6 +577,12 @@
   - 1999 Digital Camera Style: https://civitai.com/models/724495
   - Dashed Lines: https://civitai.com/models/724476
   - Amateur Photo: https://civitai.com/models/652699
+  - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
+  - Golden Hagaddah: https://civitai.com/models/746220
+  - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
+  - JWST Deep Space: https://civitai.com/models/727592
+  - Topcraft Watercolor Animation: https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft
+  - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
 - Misc
   - LORA search engine: https://www.fluxforge.app/
   - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
