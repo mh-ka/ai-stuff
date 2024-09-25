@@ -200,6 +200,7 @@
   - OpenUI (another GPT-API-based coding agent for web components): https://github.com/wandb/openui
   - Tabnine: https://www.tabnine.com/
   - Melty: https://github.com/meltylabs/melty
+  - Clone Layout: https://github.com/dmh2000/clone-layout
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -328,6 +329,7 @@
 - LLM Eval simplified: https://www.philschmid.de/llm-evaluation
 - LiveBench: https://livebench.ai/
 - Benchmark Aggregator: https://benchmark-aggregator-lvss.vercel.app/
+- https://artificialanalysis.ai/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
