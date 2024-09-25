@@ -57,18 +57,26 @@
     - slowllama: with offloading to SSD/Memory: https://github.com/okuvshynov/slowllama
     - Llama 3: https://llama.meta.com/llama3/
   - NLLB (No language left behind): https://github.com/facebookresearch/fairseq/tree/nllb
+
 - Mistral
   - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
   - Models on huggingface: https://huggingface.co/mistralai (Codestral, Mathstral, Nemo, Mixtral, Mistral Large etc.)
+
 - DeepSeek
   - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
   - DeepSeek-V2-Chat: https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat
+  - DeepSeek-Coder-V2: https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct-0724
+
 - Alibaba
   - Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
   - CodeQwen1.5-7B-Chat
     - HuggingFace page: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
     - Discussion: https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/
   - Qwen2: https://qwenlm.github.io/blog/qwen2/
+  - Qwen2.5
+    - Collection: https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
+    - Coder: https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
+
 - Misc
   - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
   - Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
@@ -88,7 +96,10 @@
   - Ollama library: https://ollama.com/library
   - DiagnosisGPT (medical diagnosis LLM): https://github.com/FreedomIntelligence/Chain-of-Diagnosis
   - AI21 Jamba 1.5 Mini (hybrid SSM-Transformer): https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini
-  - Yi-Coder 9B: https://huggingface.co/01-ai/Yi-Coder-9B-Chat 
+  - Yi-Coder 9B: https://huggingface.co/01-ai/Yi-Coder-9B-Chat
+  - Jina Embeddings v3: https://huggingface.co/jinaai/jina-embeddings-v3
+  - Microsoft's GRIN-MoE: https://huggingface.co/microsoft/GRIN-MoE
+
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
@@ -124,7 +135,8 @@
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
   - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
   - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
-- Multimodal
+
+- Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
     - First Impressions with LLaVA 1.5: https://blog.roboflow.com/first-impressions-with-llava-1-5/
     - LLaVA-NeXT: https://llava-vl.github.io/blog/2024-01-30-llava-next/
@@ -132,17 +144,20 @@
   - Apple's Ferret: https://github.com/apple/ml-ferret
   - Alibaba
     - Qwen-VL: https://qwenlm.github.io/blog/qwen-vl/
-    - Qwen-VL2: https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
+    - Qwen-VL2
+      - https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
+      - https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
   - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
   - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
-  - Microsoft's Florence 2 (non-OCR vision tasks): https://huggingface.co/microsoft/Florence-2-large
+  - Microsoft's Florence: https://huggingface.co/collections/microsoft/florence-6669f44df0d87d9c3bfb76de
   - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
   - Ultravox: https://github.com/fixie-ai/ultravox
   - Nvidia's Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
   - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
+
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
 <sup><sub>[back to top](#toc)</sub></sup>
@@ -218,6 +233,7 @@
   - How to create large-scale synthetic data for pre-training: https://huggingface.co/blog/cosmopedia
   - FineWeb Dataset explanation: https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
   - Pints (Model training example): https://github.com/Pints-AI/1.5-Pints
+
 - Integrating, hosting, merging LLMs 
   - RAG
     - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
@@ -256,6 +272,7 @@
   - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
   - Selfie (personalized local text generation): https://github.com/vana-com/selfie
   - Empirical Study of LLaMA3 Quantization: https://arxiv.org/abs/2404.14047
+
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
   - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
@@ -265,6 +282,7 @@
   - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
   - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
   - Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
+
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
   - LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
@@ -378,6 +396,7 @@
   - https://yourteacher.ai/
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
 - DenseAV (locates sound and learns meaning of words): https://github.com/mhamilton723/DenseAV
+- Moshi (speech2speech foundation model): https://huggingface.co/collections/kyutai/moshi-v01-release-66eaeaf3302bef6bd9ad7acd
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -427,6 +446,7 @@
   - Vintage Airbrushed: https://civitai.com/models/4291
   - Berlin Graffiti: https://huggingface.co/bakebrain/bergraffi-berlin-graffiti
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
+
 - LORAs
   - SDXL
     - Remix XL: https://huggingface.co/Stkzzzz222/remixXL
@@ -481,6 +501,7 @@
     - ColorSplash: https://civitai.com/models/247981/colorsplash?modelVersionId=279794
     - Transformers Style: https://civitai.com/models/216460
     - Vector Illustration v2.0: https://civitai.com/models/60132/vector-illustration
+
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
@@ -536,6 +557,7 @@
     - LobeTheme: https://github.com/lobehub/sd-webui-lobe-theme
     - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
   - Create textures with stable diffusion: https://stableprojectorz.com
+
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
   - Intel Arc and Microsoft support for stable diffusion: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055
@@ -583,6 +605,7 @@
   - JWST Deep Space: https://civitai.com/models/727592
   - Topcraft Watercolor Animation: https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
+
 - Misc
   - LORA search engine: https://www.fluxforge.app/
   - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
@@ -613,9 +636,12 @@
 - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
 - Blog around image detection techniques: https://blog.roboflow.com/
 - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
-- CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
-- Meta's SAM2 (Segment Anything): https://github.com/facebookresearch/segment-anything-2
-- RobustSAM: https://github.com/robustsam/RobustSAM 
+- CogVideoX
+  - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
+  - CogVideoX-5b-I2V: https://huggingface.co/THUDM/CogVideoX-5b-I2V
+- Segment Anything (SAM)
+  - Meta's SAM2: https://github.com/facebookresearch/segment-anything-2
+  - RobustSAM: https://github.com/robustsam/RobustSAM 
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
