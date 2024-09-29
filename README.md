@@ -135,6 +135,7 @@
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
   - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
   - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
+  - Meta's Llama 3.2 (collection of small models and big vision models): https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -157,6 +158,8 @@
   - Ultravox: https://github.com/fixie-ai/ultravox
   - Nvidia's Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
   - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
+  - Mistral's Pixtral: https://huggingface.co/mistralai/Pixtral-12B-2409
+  - Meta's Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
 
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
@@ -217,8 +220,8 @@
   - Poe: https://poe.com/login
   - Qolaba: https://www.qolaba.ai/
   - ChatLLM: https://chatllm.abacus.ai/
-- Shopping assistant
-  - https://www.claros.so/
+- Shopping assistant: https://www.claros.so/
+- STORM (Wikipedia article creator): https://github.com/stanford-oval/storm
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -273,6 +276,7 @@
   - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
   - Selfie (personalized local text generation): https://github.com/vana-com/selfie
   - Empirical Study of LLaMA3 Quantization: https://arxiv.org/abs/2404.14047
+  - Meta's Llama Stack Apps: https://github.com/meta-llama/llama-stack-apps 
 
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -330,6 +334,7 @@
 - LiveBench: https://livebench.ai/
 - Benchmark Aggregator: https://benchmark-aggregator-lvss.vercel.app/
 - https://artificialanalysis.ai/
+- https://github.com/karthikv792/LLMs-Planning
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -559,6 +564,7 @@
     - LobeTheme: https://github.com/lobehub/sd-webui-lobe-theme
     - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
   - Create textures with stable diffusion: https://stableprojectorz.com
+  - StoryMaker Workflow/Model: https://huggingface.co/RED-AIGC/StoryMaker
 
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
