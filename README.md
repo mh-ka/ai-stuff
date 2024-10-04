@@ -13,10 +13,10 @@
     + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
     + [Music production](#music-production)
     + [Other](#other)
-  * [Image - Video - 3D - Other](#image---video---3d---other)
+  * [Image - Animation - Video - 3D - Other](#image---animation---video---3d---other)
     + [Stable diffusion](#stable-diffusion)
     + [Flux](#flux)
-    + [Animation - Video - Other](#animation---video---other)
+    + [Animation - Video - 3D - Other](#animation---video---3d---other)
   * [Reports and Articles and Sources](#reports-and-articles-and-sources)
     + [Reports](#reports)
     + [Articles](#articles)
@@ -26,6 +26,7 @@
 
 
 # AI Stuff
+
 
 ## LLMs
 
@@ -413,7 +414,7 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 
-## Image - Video - 3D - Other
+## Image - Animation - Video - 3D - Other
 
 ### Stable diffusion
 - Models
@@ -628,7 +629,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### Animation - Video - Other
+### Animation - Video - 3D - Other
 - AnimateDiff
   - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
   - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
