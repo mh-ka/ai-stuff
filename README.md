@@ -650,7 +650,7 @@
   - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
   - ComfyUI Guide: https://civitai.com/articles/2379
   - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
-  - AnimateDiff-Lightning: https://hugging.co/ByteDance/AnimateDiff-Lightning
+  - AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
   - AnimateDiff Video Tutorial: https://www.youtube.com/watch?v=Gz9pT2CwdoI
 - ToonCrafter: https://github.com/ToonCrafter/ToonCrafter
 - LVCD: Reference-based Lineart Video Colorization with Diffusion Models: https://github.com/luckyhzt/LVCD
