@@ -1,5 +1,5 @@
 # TOC
-[AI Stuff](#ai-stuff)
+- [AI Stuff](#ai-stuff)
   * [LLMs](#llms)
     + [Basics](#basics)
     + [Models](#models)
@@ -13,20 +13,19 @@
     + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
     + [Music production](#music-production)
     + [Other](#other)
-  * [Image and Video and 3D generation](#image-and-video-and-3d-generation)
+  * [Image - Video - 3D - Other](#image---video---3d---other)
     + [Stable diffusion](#stable-diffusion)
     + [Flux](#flux)
-    + [Animation and Video etc](#animation-and-video-etc)
+    + [Animation - Video - Other](#animation---video---other)
   * [Reports and Articles and Sources](#reports-and-articles-and-sources)
     + [Reports](#reports)
     + [Articles](#articles)
     + [News sources](#news-sources)
 
-<sup><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i><sup>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # AI Stuff
-
 
 ## LLMs
 
@@ -151,15 +150,19 @@
   - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
   - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
-  - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
-  - Microsoft's Florence: https://huggingface.co/collections/microsoft/florence-6669f44df0d87d9c3bfb76de
-  - Microsoft's Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
+  - Microsoft
+    - Florence: https://huggingface.co/collections/microsoft/florence-6669f44df0d87d9c3bfb76de
+    - Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
   - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
   - Ultravox: https://github.com/fixie-ai/ultravox
-  - Nvidia's Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
+  - Nvidia
+    - Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
+    - NVLM-D: https://huggingface.co/nvidia/NVLM-D-72B
   - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
   - Mistral's Pixtral: https://huggingface.co/mistralai/Pixtral-12B-2409
   - Meta's Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+  - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
+  - Emu3: https://huggingface.co/BAAI/Emu3-Gen
 
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
@@ -195,6 +198,7 @@
   - OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
   - OpenDevin: https://github.com/OpenDevin/OpenDevin
   - VSCode plugin with Ollama for local coding assistant: https://ollama.com/blog/continue-code-assistant
+  - Napkins (wireframe to web app conversion): https://github.com/nutlope/napkins
 - More coding assistance
   - Aider (coding): https://github.com/paul-gauthier/aider
   - Cursor (GPT-API-based code editor app): https://cursor.sh/
@@ -204,6 +208,7 @@
   - Tabnine: https://www.tabnine.com/
   - Melty: https://github.com/meltylabs/melty
   - Clone Layout: https://github.com/dmh2000/clone-layout
+  - tldraw make-real: https://github.com/tldraw/make-real
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -408,7 +413,7 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 
-## Image and Video and 3D generation
+## Image - Video - 3D - Other
 
 ### Stable diffusion
 - Models
@@ -623,7 +628,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### Animation and Video etc
+### Animation - Video - Other
 - AnimateDiff
   - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
   - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
@@ -634,8 +639,9 @@
 - ToonCrafter: https://github.com/ToonCrafter/ToonCrafter
 - Video face swap: https://github.com/s0md3v/roop
 - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
-- Pixart-alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
-- Pixart-sigma (release soon): https://github.com/PixArt-alpha/PixArt-sigma
+- Pixart
+  - alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
+  - sigma: https://github.com/PixArt-alpha/PixArt-sigma
 - How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
 - ClioBot: https://github.com/herval/cliobot
@@ -647,12 +653,12 @@
 - CogVideoX
   - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
   - CogVideoX-5b-I2V: https://huggingface.co/THUDM/CogVideoX-5b-I2V
-- Segment Anything (SAM)
-  - Meta's SAM2: https://github.com/facebookresearch/segment-anything-2
-  - RobustSAM: https://github.com/robustsam/RobustSAM 
-
-<sup><sub>[back to top](#toc)</sub></sup>
-
+- YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
+- Meta's Segment Anything (SAM)
+  - SAM2: https://github.com/facebookresearch/segment-anything-2
+  - SAM2.1 Release: https://github.com/facebookresearch/sam2
+  - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
+- Google's AlphaChip: https://github.com/google-research/circuit_training
 
 ## Reports and Articles and Sources
 
