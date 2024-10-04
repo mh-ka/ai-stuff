@@ -116,7 +116,7 @@
     - https://huggingface.co/vikhyatk/moondream2
   - Yi-9B: https://huggingface.co/01-ai/Yi-9B
   - Mistral (feat. Nvidia)
-    - NeMo 12B:
+    - NeMo 12B
       - https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407
       - https://huggingface.co/nvidia/Mistral-NeMo-12B-Instruct
     - NeMo Minitron 8B (pruned & distilled)
@@ -257,7 +257,7 @@
     - Controllable RAG Agent: https://github.com/NirDiamant/Controllable-RAG-Agent
     - Infinity (AI optimized database): https://github.com/infiniflow/infinity
     - DataGemma: https://huggingface.co/collections/google/datagemma-release-66df7636084d2b150a4e6643
-  - Data extraction:
+  - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
     - URL to LLM input converter: https://github.com/jina-ai/reader
@@ -302,11 +302,11 @@
   - AI for journalism use cases: https://www.youtube.com/watch?v=BJxPKr6ixSM
   - AI Grant (accelerator program for AI startups with list of applicants): https://aigrant.com/
   - Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
-  - What We Learned from a Year of Building with LLMs:
+  - What We Learned from a Year of Building with LLMs
     - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i
     - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii
   - Showcase GPT-2 re-implementation in Rust: https://github.com/felix-andreas/gpt-burn
-  - Reproducing GPT-2 (124M) in llm.c:
+  - Reproducing GPT-2 (124M) in llm.c
     - Text: https://github.com/karpathy/llm.c/discussions/481
     - Video: https://www.youtube.com/watch?v=l8pRSuU81PU
   - Reproducing GPT-2 in Excel spreadsheet: https://spreadsheets-are-all-you-need.ai/
@@ -366,10 +366,12 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### speech2txt
-- OpenAI's Whisper: https://github.com/openai/whisper
+- OpenAI's Whisper
+  - Github: https://github.com/openai/whisper
   - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
   - Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
   - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
+  - Whisper turbo: https://github.com/openai/whisper/discussions/2363
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
@@ -404,7 +406,7 @@
 
 ### Other
 - LAION AI Voice Assistant BUD-E: https://github.com/LAION-AI/natural_voice_assistant
-- AI Language Tutor:
+- AI Language Tutor
   - https://www.univerbal.app/
   - https://yourteacher.ai/
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
@@ -459,6 +461,9 @@
   - Vintage Airbrushed: https://civitai.com/models/4291
   - Berlin Graffiti: https://huggingface.co/bakebrain/bergraffi-berlin-graffiti
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
+  - Ctrl-X
+    - Github: https://github.com/genforce/ctrl-x
+    - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fr1h6c/ctrlx_code_released_controlnet_without_finetuning
 
 - LORAs
   - SDXL
@@ -518,7 +523,8 @@
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
   - SDNext (Automatic1111 fork): https://github.com/vladmandic/automatic
-  - OneTrainer: https://github.com/Nerogar/OneTrainer
+  - OneTrainer
+    - https://github.com/Nerogar/OneTrainer
     - Training LORAs: https://www.reddit.com/r/StableDiffusion/comments/1cmxtnx/whats_your_preferred_method_to_train_sdxl_lora/
     - ![0018uf](https://github.com/mh-ka/ai-stuff/assets/52745439/fec433e9-15e6-42f3-80e6-80064f0ddfca)
   - DiffusionToolkit (AI Image Viewer): https://github.com/RupertAvery/DiffusionToolkit
@@ -531,7 +537,7 @@
   - Batch-tagging images
     - TagGUI: https://github.com/jhc13/taggui/releases
     - Image-Interrogator: https://github.com/DEVAIEXP/image-interrogator
-  - ComfyUI:
+  - ComfyUI
     - IP Adapter: https://github.com/cubiq/ComfyUI_IPAdapter_plus
     - InstantID ComfyUI workflow: https://github.com/cubiq/ComfyUI_InstantID
     - SDXL Turbo workflow: https://comfyanonymous.github.io/ComfyUI_examples/sdturbo/
@@ -553,7 +559,7 @@
     - Mega workflow: https://perilli.com/ai/comfyui/
     - LivePortrait: https://github.com/kijai/ComfyUI-LivePortraitKJ
     - AdvancedLivePortrait: https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
-  - Automatic1111 Extensions:
+  - Automatic1111 Extensions
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
     - LORA trainer: https://github.com/hako-mikan/sd-webui-traintrain
@@ -571,6 +577,9 @@
     - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
   - Create textures with stable diffusion: https://stableprojectorz.com
   - StoryMaker Workflow/Model: https://huggingface.co/RED-AIGC/StoryMaker
+  - InvokeAI
+    - Github: https://github.com/invoke-ai/InvokeAI
+    - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1focbhe/invoke_50_massive_update_introducing_a_new_canvas/
 
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
@@ -619,13 +628,19 @@
   - JWST Deep Space: https://civitai.com/models/727592
   - Topcraft Watercolor Animation: https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
+  - How2Draw: https://huggingface.co/glif/how2draw
+  - Coloring Book: https://civitai.com/models/794953/coloring-book-flux
+  - Amateur Photography v5: https://civitai.com/models/652699?modelVersionId=901587
+  - Simple Vector: https://civitai.com/models/785122/simple-vector-flux
+  - Retro Comic: https://civitai.com/models/806568
+  - RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
-  - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
   - Flux Gym: https://github.com/cocktailpeanut/fluxgym
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID: https://github.com/ToTheBeginning/PuLID
+  - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -635,10 +650,14 @@
   - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
   - ComfyUI Guide: https://civitai.com/articles/2379
   - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
-  - AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
+  - AnimateDiff-Lightning: https://hugging.co/ByteDance/AnimateDiff-Lightning
   - AnimateDiff Video Tutorial: https://www.youtube.com/watch?v=Gz9pT2CwdoI
 - ToonCrafter: https://github.com/ToonCrafter/ToonCrafter
+- LVCD: Reference-based Lineart Video Colorization with Diffusion Models: https://github.com/luckyhzt/LVCD
 - Video face swap: https://github.com/s0md3v/roop
+- FaceFusion (3.0.0)
+  - Github: https://github.com/facefusion/facefusion
+  - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
 - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
 - Pixart
   - alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
@@ -654,12 +673,16 @@
 - CogVideoX
   - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
   - CogVideoX-5b-I2V: https://huggingface.co/THUDM/CogVideoX-5b-I2V
+  - I2V workflow
+    - Github: https://github.com/henrique-galimberti/i2v-workflow/blob/main/CogVideoX-I2V-workflow_v2.json
+    - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fqy71b/cogvideoxi2v_updated_workflow
 - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
 - Meta's Segment Anything (SAM)
   - SAM2: https://github.com/facebookresearch/segment-anything-2
   - SAM2.1 Release: https://github.com/facebookresearch/sam2
   - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
 - Google's AlphaChip: https://github.com/google-research/circuit_training
+- Apple's Depth Pro: https://github.com/apple/ml-depth-pro
 
 ## Reports and Articles and Sources
 
