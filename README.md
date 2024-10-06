@@ -439,6 +439,7 @@
     - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
     - CineVisionXL: https://civitai.com/models/188208?modelVersionId=211388
     - Sahastrakoti XL: https://civitai.com/models/139489/sahastrakoti
+    - AlbedoBase XL: https://civitai.com/models/140737/albedobase-xl
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -508,6 +509,7 @@
     - SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
     - Aardman: https://civitai.com/models/62212/aardman-animations-style
     - xlmoreart: https://civitai.com/models/124347/xlmoreart-full-xlreal-enhancer
+    - 3D Render: https://civitai.com/models/696795?modelVersionId=796454
   - SD 1.5
     - Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
     - Real Mechanical Parts: https://civitai.com/models/64471?modelVersionId=85371
@@ -519,6 +521,7 @@
     - ColorSplash: https://civitai.com/models/247981/colorsplash?modelVersionId=279794
     - Transformers Style: https://civitai.com/models/216460
     - Vector Illustration v2.0: https://civitai.com/models/60132/vector-illustration
+    - Looney Tunes Background: https://civitai.com/models/797306?modelVersionId=891591
 
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
@@ -620,8 +623,6 @@
   - Oil Painting: https://civitai.com/models/723141
   - Pixel Art: https://civitai.com/models/672328
   - 1999 Digital Camera Style: https://civitai.com/models/724495
-  - Dashed Lines: https://civitai.com/models/724476
-  - Amateur Photo: https://civitai.com/models/652699
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Golden Hagaddah: https://civitai.com/models/746220
   - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -647,10 +648,48 @@
   - PsyPop70: https://civitai.com/models/810966/psypop70
   - Sameface Fix: https://civitai.com/models/766608/sameface-fix-flux-lora
   - Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
-  - Golden Haggadah: https://civitai.com/models/746220/golden-haggadah
   - Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
   - UltraRealistic: https://civitai.com/models/796382?modelVersionId=890545
   - IKEA Instructions: https://civitai.com/models/790332/ikea-instructions-style-flux
+  - Winamp Skin: https://civitai.com/models/800133/winamp-skin
+  - VST Plugins: https://civitai.com/models/768491/vst-plugins
+  - Copper Wire: https://civitai.com/models/797834/hszdcopper-or-art-copper-wire-style?modelVersionId=892313
+  - Epic Movie Poster: https://civitai.com/models/794781/epic-movie-poster-flux
+  - Movie Posters: https://civitai.com/models/799329/vintagemoviepostervfp
+  - Vintage Romance: https://civitai.com/models/248587
+  - Human Photo: https://civitai.com/models/790722?modelVersionId=884240
+  - Handpainted Miniature: https://civitai.com/models/685433/handpainted-miniature
+  - Yoshitoshi Moon: https://civitai.com/models/786783
+  - Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
+  - Elektroschutz: https://civitai.com/models/775046/elektroschutz
+  - Younger Jackie Chan: https://civitai.com/models/786259/youngerjackiechanyjc
+  - 80s film: https://civitai.com/models/781569?modelVersionId=874055
+  - Kurzgesagt: https://civitai.com/models/777200/kurzgesagt-art-style-flux?modelVersionId=869226
+  - VHS: https://civitai.com/models/774229/chromatic-aberration-vhs-flux
+  - Body Worlds: https://civitai.com/models/777158
+  - Metal Skulls: https://civitai.com/models/769303
+  - Nosferatu (1922): https://civitai.com/models/769335/nosferatu-1922-style-flux1-d?modelVersionId=860484
+  - Gesture Drawing: https://civitai.com/models/771610/gesture-draw
+  - WPAP: https://civitai.com/models/768696
+  - LowPolyArt: https://civitai.com/models/759268/lowpolyart-style?modelVersionId=848974
+  - Aethereal: https://civitai.com/models/726513/aethereal-flux-fast-4-step-flux-lora
+  - Cozy Ghibli Wallpaper: https://civitai.com/models/724054
+  - Dashed Line Drawing: https://civitai.com/models/724476
+  - Dune Cinematic Vision: https://civitai.com/models/710389?modelVersionId=794602
+  - Loving Vincent: https://civitai.com/models/705111
+  - Luminous Shadowscape: https://civitai.com/models/707312
+  - Brauncore: https://civitai.com/models/704017/brauncore-style
+  - Geometric Shapes: https://civitai.com/models/703939/geometric-shapes
+  - Pixel Art: https://civitai.com/models/689318/pixel-art-style
+  - Genndy Tartakovsky (Samurai Jack): https://civitai.com/models/700092/genndy-tartakovsky-samurai-jack-style
+  - Ernst Haeckel: https://civitai.com/models/686747/ernst-haeckel-style
+  - Flat Color Anime: https://civitai.com/models/180891/flat-color-anime
+  - Disney Animated: https://civitai.com/models/706762?modelVersionId=790552
+  - EarthKids: https://civitai.com/models/749780
+  - 80s Fisher Price: https://civitai.com/models/749320
+  - Pencil: https://civitai.com/models/737141
+  - Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
+  - Vintage Tattoo: https://civitai.com/models/726890/old-schoolvintage-tattoo-style-for-flux
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -658,6 +697,7 @@
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID: https://github.com/ToTheBeginning/PuLID
   - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
+  - Simple Flux ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows/tree/main
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
