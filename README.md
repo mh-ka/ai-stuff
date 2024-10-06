@@ -440,6 +440,7 @@
     - CineVisionXL: https://civitai.com/models/188208?modelVersionId=211388
     - Sahastrakoti XL: https://civitai.com/models/139489/sahastrakoti
     - AlbedoBase XL: https://civitai.com/models/140737/albedobase-xl
+    - Colorful XL: https://civitai.com/models/185258?modelVersionId=569951
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -453,6 +454,9 @@
     - Mistoon Anime: https://civitai.com/models/24149/mistoonanime
     - fReel_Photo: https://civitai.com/models/137522/freelphoto
     - Rage Unleashed: https://civitai.com/models/115100/rage-unleashed
+    - Batman Animated Series: https://huggingface.co/IShallRiseAgain/DCAU
+    - Western Animation: https://civitai.com/models/86546/western-animation-diffusion
+    - iCoMix: https://civitai.com/models/16164/icomix
   - Segmind SSD 1B (Destilled SDXL): https://civitai.com/models/188863/segmind-ssd-1b
   - Realities Edge XL (SDXL-Turbo): https://civitai.com/models/129666/realities-edge-xl
   - Anime Model: https://huggingface.co/XpucT/Anime
@@ -510,6 +514,9 @@
     - Aardman: https://civitai.com/models/62212/aardman-animations-style
     - xlmoreart: https://civitai.com/models/124347/xlmoreart-full-xlreal-enhancer
     - 3D Render: https://civitai.com/models/696795?modelVersionId=796454
+    - Electric Alien: https://civitai.com/models/520639/electric-alien-sdxl-lora-dreambooth-trained
+    - Hand Drawn Brush Pen: https://civitai.com/models/558635?modelVersionId=621895
+    - Marionettes: https://civitai.com/models/150042/marionettes-wooden-carved-puppets-on-strings
   - SD 1.5
     - Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
     - Real Mechanical Parts: https://civitai.com/models/64471?modelVersionId=85371
@@ -522,6 +529,10 @@
     - Transformers Style: https://civitai.com/models/216460
     - Vector Illustration v2.0: https://civitai.com/models/60132/vector-illustration
     - Looney Tunes Background: https://civitai.com/models/797306?modelVersionId=891591
+    - Rage Unleashed: https://civitai.com/models/115100/rage-unleashed
+    - ASCII: https://civitai.com/models/63254/notsoascii-or-the-controversial-ascii-art-lora
+    - Vector: https://civitai.com/models/63556?modelVersionId=68115
+    - 90s anime: https://civitai.com/models/78374
 
 - Tools
   - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
@@ -615,6 +626,7 @@
 ### Flux
 - LORAs
   - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
+  - N64: https://civitai.com/models/660136?modelVersionId=738680
   - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
   - PS2 Style: https://civitai.com/models/750208/ps2-style-flux 
   - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
@@ -690,6 +702,13 @@
   - Pencil: https://civitai.com/models/737141
   - Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
   - Vintage Tattoo: https://civitai.com/models/726890/old-schoolvintage-tattoo-style-for-flux
+  - 4 Step: https://civitai.com/models/686704?modelVersionId=768584
+  - Zombify: https://civitai.com/models/668227?modelVersionId=748025
+  - Cinematic: https://civitai.com/models/668238?modelVersionId=748039
+  - Tarot: https://huggingface.co/multimodalart/flux-tarot-v1
+  - Old-school cartoon: https://civitai.com/models/694273/old-school-cartoon-style-for-flux?modelVersionId=776973
+  - Only paint red: https://civitai.com/models/682797/i-only-paint-in-red
+  - Sketch: https://civitai.com/models/802807/sketch-art
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -697,7 +716,22 @@
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID: https://github.com/ToTheBeginning/PuLID
   - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
-  - Simple Flux ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows/tree/main
+  - Workflows
+    - Simple ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows/tree/main
+    - Another simple one: https://www.reddit.com/r/StableDiffusion/comments/1ewdllh/simple_comfyui_flux_workflows_v2_for_q8q5q4_models/
+    - More simple ones: https://civitai.com/models/664346?modelVersionId=766185
+    - Modular: https://civitai.com/models/642589
+    - Big Workflow: https://civitai.com/models/618578/flux-dev-hi-res-fix-img2img-in-and-out-paint-wildcards-loras-upscaler?modelVersionId=693048
+  - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
+  - LORA training
+    - Tools
+      - https://github.com/AmericanPresidentJimmyCarter/simple-flux-lora-training
+      - https://github.com/bghira/SimpleTuner
+      - https://github.com/XLabs-AI/x-flux
+      - https://github.com/ostris/ai-toolkit
+    - Tutorials 
+      - https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/
+      - https://civitai.com/articles/6792
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
