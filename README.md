@@ -191,6 +191,7 @@
   - Local OSS search engine: https://github.com/Nutlope/turboseek
   - LibreChat: https://github.com/danny-avila/LibreChat
   - OpenPerplex: https://github.com/YassKhazzan/openperplex_backend_os
+  - Harbor (containerized local LLM hosting): https://github.com/av/harbor
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -257,6 +258,7 @@
     - Controllable RAG Agent: https://github.com/NirDiamant/Controllable-RAG-Agent
     - Infinity (AI optimized database): https://github.com/infiniflow/infinity
     - DataGemma: https://huggingface.co/collections/google/datagemma-release-66df7636084d2b150a4e6643
+    - RAGBuilder: https://github.com/kruxai/ragbuilder
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -372,6 +374,7 @@
   - Insanely fast whisper: https://github.com/Vaibhavs10/insanely-fast-whisper
   - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
   - Whisper turbo: https://github.com/openai/whisper/discussions/2363
+  - Whisper Medusa: https://github.com/aiola-lab/whisper-medusa
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
@@ -441,6 +444,7 @@
     - Sahastrakoti XL: https://civitai.com/models/139489/sahastrakoti
     - AlbedoBase XL: https://civitai.com/models/140737/albedobase-xl
     - Colorful XL: https://civitai.com/models/185258?modelVersionId=569951
+    - Juggernaut XL: https://civitai.com/models/133005/juggernaut-xl
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -709,6 +713,12 @@
   - Old-school cartoon: https://civitai.com/models/694273/old-school-cartoon-style-for-flux?modelVersionId=776973
   - Only paint red: https://civitai.com/models/682797/i-only-paint-in-red
   - Sketch: https://civitai.com/models/802807/sketch-art
+  - Impressionist Landscape: https://civitai.com/models/640459/impressionist-landscape-lora-for-flux
+  - Dark Fantasy 80s: https://civitai.com/models/671094?modelVersionId=751285
+  - Alien Set Design: https://civitai.com/models/669303/alien-set-design-flux
+  - 3D Cartoon: https://civitai.com/models/677725
+  - Black & White: https://civitai.com/models/679352/wraith-bandw-flux
+  - Finnish Symbolism: https://civitai.com/models/699621/finnish-symbolism-art
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -716,12 +726,14 @@
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID: https://github.com/ToTheBeginning/PuLID
   - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
+  - Prompt Quill: https://github.com/osi1880vr/prompt_quill
   - Workflows
     - Simple ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows/tree/main
     - Another simple one: https://www.reddit.com/r/StableDiffusion/comments/1ewdllh/simple_comfyui_flux_workflows_v2_for_q8q5q4_models/
     - More simple ones: https://civitai.com/models/664346?modelVersionId=766185
     - Modular: https://civitai.com/models/642589
     - Big Workflow: https://civitai.com/models/618578/flux-dev-hi-res-fix-img2img-in-and-out-paint-wildcards-loras-upscaler?modelVersionId=693048
+    - Outpaint: https://openart.ai/workflows/myaiforce/M3OEFh46Ojtb6RcdOCsI
   - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
   - LORA training
     - Tools
