@@ -634,6 +634,23 @@
   - Simple Vector: https://civitai.com/models/785122/simple-vector-flux
   - Retro Comic: https://civitai.com/models/806568
   - RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
+  - Ayahuasca Dreams (Pablo Amaringo): https://civitai.com/models/806379?modelVersionId=901633
+  - Retro Ad: https://civitai.com/models/827395?modelVersionId=925301
+  - 70s SciFi: https://civitai.com/models/824478/70s-scifi-style-by-chronoknight-flux
+  - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
+  - Mario Striker: https://civitai.com/models/814822
+  - Early Heights Cover Art: https://civitai.com/models/821462/everly-heights-cover-art-flux
+  - Ghibli: https://civitai.com/models/433138/ghibli-style-flux-and-pdxl
+  - Iced Out Diamonds: https://civitai.com/models/819754/iced-out-diamonds-by-chronoknight-flux
+  - Neon Retrowave: https://civitai.com/models/816857/neon-retrowave-by-chronoknight-flux
+  - Shepard Fairey: https://civitai.com/models/810119?modelVersionId=905918
+  - PsyPop70: https://civitai.com/models/810966/psypop70
+  - Sameface Fix: https://civitai.com/models/766608/sameface-fix-flux-lora
+  - Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
+  - Golden Haggadah: https://civitai.com/models/746220/golden-haggadah
+  - Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
+  - UltraRealistic: https://civitai.com/models/796382?modelVersionId=890545
+  - IKEA Instructions: https://civitai.com/models/790332/ikea-instructions-style-flux
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -673,6 +690,7 @@
 - CogVideoX
   - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
   - CogVideoX-5b-I2V: https://huggingface.co/THUDM/CogVideoX-5b-I2V
+  - CogView3 (distilled): https://github.com/THUDM/CogView3
   - I2V workflow
     - Github: https://github.com/henrique-galimberti/i2v-workflow/blob/main/CogVideoX-I2V-workflow_v2.json
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fqy71b/cogvideoxi2v_updated_workflow
