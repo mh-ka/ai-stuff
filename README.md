@@ -47,6 +47,7 @@
 - Introduction to Vision Language Models: https://arxiv.org/pdf/2405.17247
 - Transformer Explainer: https://poloclub.github.io/transformer-explainer/
 - A Visual Guide to Quantization: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
+- A Visual Guide to Mixture of Experts (MoE): https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -229,6 +230,7 @@
   - ChatLLM: https://chatllm.abacus.ai/
 - Shopping assistant: https://www.claros.so/
 - STORM (Wikipedia article creator): https://github.com/stanford-oval/storm
+- Open NotebookLM: https://itsfoss.com/open-notebooklm/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -259,6 +261,7 @@
     - Infinity (AI optimized database): https://github.com/infiniflow/infinity
     - DataGemma: https://huggingface.co/collections/google/datagemma-release-66df7636084d2b150a4e6643
     - RAGBuilder: https://github.com/kruxai/ragbuilder
+    - RAG Notes: https://github.com/rmusser01/tldw/blob/main/Docs/RAG_Notes.md
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -625,6 +628,7 @@
     - Image Collection: https://civitai.com/collections/15937?sort=Most+Collected
     - ELLA tutorial: https://sandner.art/ella-leveraging-llms-for-enhanced-semantic-alignment-in-sd-15/
     - LORA training tutorial: https://rentry.org/PlumLora
+    - Stable Diffusion Glossary: https://blog.segmind.com/the-a-z-of-stable-diffusion-essential-concepts-and-terms-demystified/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -834,5 +838,7 @@
   - Stable Diffusion Workflows:
     - https://www.youtube.com/@NerdyRodent
     - https://www.youtube.com/@sebastiankamph
+- Other
+  - Papers and Frameworks: https://github.com/Hannibal046/Awesome-LLM 
 
 <sup><sub>[back to top](#toc)</sub></sup>
