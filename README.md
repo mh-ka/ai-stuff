@@ -341,8 +341,9 @@
 - LLM Eval simplified: https://www.philschmid.de/llm-evaluation
 - LiveBench: https://livebench.ai/
 - Benchmark Aggregator: https://benchmark-aggregator-lvss.vercel.app/
-- https://artificialanalysis.ai/
-- https://github.com/karthikv792/LLMs-Planning
+- LLM Comparison: https://artificialanalysis.ai/
+- LLM Planning Benchmark: https://github.com/karthikv792/LLMs-Planning
+- LLM Cross Capabilities: https://github.com/facebookresearch/llm-cross-capabilities
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
