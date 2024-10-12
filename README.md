@@ -48,6 +48,7 @@
 - Transformer Explainer: https://poloclub.github.io/transformer-explainer/
 - A Visual Guide to Quantization: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
 - A Visual Guide to Mixture of Experts (MoE): https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts
+- Training, Fine-Tuning, Evaluation LLMs: https://www.philschmid.de/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -193,6 +194,7 @@
   - LibreChat: https://github.com/danny-avila/LibreChat
   - OpenPerplex: https://github.com/YassKhazzan/openperplex_backend_os
   - Harbor (containerized local LLM hosting): https://github.com/av/harbor
+  - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -202,6 +204,7 @@
   - OpenDevin: https://github.com/OpenDevin/OpenDevin
   - VSCode plugin with Ollama for local coding assistant: https://ollama.com/blog/continue-code-assistant
   - Napkins (wireframe to web app conversion): https://github.com/nutlope/napkins
+  - Continue.dev: https://www.continue.dev/
 - More coding assistance
   - Aider (coding): https://github.com/paul-gauthier/aider
   - Cursor (GPT-API-based code editor app): https://cursor.sh/
@@ -552,6 +555,7 @@
     - ![0018uf](https://github.com/mh-ka/ai-stuff/assets/52745439/fec433e9-15e6-42f3-80e6-80064f0ddfca)
   - DiffusionToolkit (AI Image Viewer): https://github.com/RupertAvery/DiffusionToolkit
   - Fooocus-inswapper (face swapping): https://github.com/machineminded/Fooocus-inswapper
+  - Rope (face swapping): https://github.com/Alucard24/Rope
   - Swifty Animator: https://tavurth.itch.io/swifty-animator
   - Style Aligned WebUI: https://github.com/cocktailpeanut/StyleAligned.pinokio
   - LCM Drawing App (local): https://github.com/kidintwo3/LCMDraw
@@ -635,78 +639,87 @@
 
 ### Flux
 - LORAs
-  - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
-  - N64: https://civitai.com/models/660136?modelVersionId=738680
-  - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
-  - PS2 Style: https://civitai.com/models/750208/ps2-style-flux 
-  - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
+  - Gaming styles
+    - N64: https://civitai.com/models/660136?modelVersionId=738680
+    - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
+    - PS2 Style: https://civitai.com/models/750208/ps2-style-flux
+    - Pixel Art: https://civitai.com/models/672328
+    - 1999 Digital Camera Style: https://civitai.com/models/724495
+    - Mario Striker: https://civitai.com/models/814822
+    - LowPolyArt: https://civitai.com/models/759268/lowpolyart-style?modelVersionId=848974
+    - Pixel Art: https://civitai.com/models/689318/pixel-art-style
+    - VHS: https://civitai.com/models/774229/chromatic-aberration-vhs-flux
+    - Low Res Lora: https://huggingface.co/glif/l0w-r3z
+  - Realistic
+    - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
+    - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
+    - RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
+    - Sameface Fix: https://civitai.com/models/766608/sameface-fix-flux-lora
+    - Amateur Photography v5: https://civitai.com/models/652699?modelVersionId=901587
+    - UltraRealistic v1.2: https://civitai.com/models/796382?modelVersionId=940466
+    - 90s Asian look photography: https://civitai.com/models/834837?modelVersionId=934017
+    - Human Photo: https://civitai.com/models/790722?modelVersionId=884240
+    - Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
+  - Cinema / TV
+    - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
+    - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
+    - Dark Fantasy 80s: https://civitai.com/models/671094?modelVersionId=751285
+    - Alien Set Design: https://civitai.com/models/669303/alien-set-design-flux
+    - Ghibli: https://civitai.com/models/433138/ghibli-style-flux-and-pdxl
+    - Cinematic: https://civitai.com/models/668238?modelVersionId=748039
+    - Epic Movie Poster: https://civitai.com/models/794781/epic-movie-poster-flux
+    - Movie Posters: https://civitai.com/models/799329/vintagemoviepostervfp
+    - Younger Jackie Chan: https://civitai.com/models/786259/youngerjackiechanyjc
+    - 80s film: https://civitai.com/models/781569?modelVersionId=874055
+    - Nosferatu (1922): https://civitai.com/models/769335/nosferatu-1922-style-flux1-d?modelVersionId=860484
+    - Cozy Ghibli Wallpaper: https://civitai.com/models/724054
+    - Dune Cinematic Vision: https://civitai.com/models/710389?modelVersionId=794602
+    - Loving Vincent: https://civitai.com/models/705111
+    - Disney Animated: https://civitai.com/models/706762?modelVersionId=790552
+    - Genndy Tartakovsky (Samurai Jack): https://civitai.com/models/700092/genndy-tartakovsky-samurai-jack-style
+    - Flat Color Anime: https://civitai.com/models/180891/flat-color-anime
+    - 3D Cartoon: https://civitai.com/models/677725
   - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
   - Icon Maker: https://civitai.com/models/722531
   - Oil Painting: https://civitai.com/models/723141
-  - Pixel Art: https://civitai.com/models/672328
-  - 1999 Digital Camera Style: https://civitai.com/models/724495
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Golden Hagaddah: https://civitai.com/models/746220
-  - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
   - JWST Deep Space: https://civitai.com/models/727592
   - Topcraft Watercolor Animation: https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
   - How2Draw: https://huggingface.co/glif/how2draw
   - Coloring Book: https://civitai.com/models/794953/coloring-book-flux
-  - Amateur Photography v5: https://civitai.com/models/652699?modelVersionId=901587
   - Simple Vector: https://civitai.com/models/785122/simple-vector-flux
   - Retro Comic: https://civitai.com/models/806568
-  - RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
   - Ayahuasca Dreams (Pablo Amaringo): https://civitai.com/models/806379?modelVersionId=901633
   - Retro Ad: https://civitai.com/models/827395?modelVersionId=925301
   - 70s SciFi: https://civitai.com/models/824478/70s-scifi-style-by-chronoknight-flux
-  - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
-  - Mario Striker: https://civitai.com/models/814822
   - Early Heights Cover Art: https://civitai.com/models/821462/everly-heights-cover-art-flux
-  - Ghibli: https://civitai.com/models/433138/ghibli-style-flux-and-pdxl
   - Iced Out Diamonds: https://civitai.com/models/819754/iced-out-diamonds-by-chronoknight-flux
   - Neon Retrowave: https://civitai.com/models/816857/neon-retrowave-by-chronoknight-flux
   - Shepard Fairey: https://civitai.com/models/810119?modelVersionId=905918
   - PsyPop70: https://civitai.com/models/810966/psypop70
-  - Sameface Fix: https://civitai.com/models/766608/sameface-fix-flux-lora
   - Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
   - Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
-  - UltraRealistic: https://civitai.com/models/796382?modelVersionId=890545
   - IKEA Instructions: https://civitai.com/models/790332/ikea-instructions-style-flux
   - Winamp Skin: https://civitai.com/models/800133/winamp-skin
   - VST Plugins: https://civitai.com/models/768491/vst-plugins
   - Copper Wire: https://civitai.com/models/797834/hszdcopper-or-art-copper-wire-style?modelVersionId=892313
-  - Epic Movie Poster: https://civitai.com/models/794781/epic-movie-poster-flux
-  - Movie Posters: https://civitai.com/models/799329/vintagemoviepostervfp
   - Vintage Romance: https://civitai.com/models/248587
-  - Human Photo: https://civitai.com/models/790722?modelVersionId=884240
   - Handpainted Miniature: https://civitai.com/models/685433/handpainted-miniature
   - Yoshitoshi Moon: https://civitai.com/models/786783
-  - Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
   - Elektroschutz: https://civitai.com/models/775046/elektroschutz
-  - Younger Jackie Chan: https://civitai.com/models/786259/youngerjackiechanyjc
-  - 80s film: https://civitai.com/models/781569?modelVersionId=874055
   - Kurzgesagt: https://civitai.com/models/777200/kurzgesagt-art-style-flux?modelVersionId=869226
-  - VHS: https://civitai.com/models/774229/chromatic-aberration-vhs-flux
   - Body Worlds: https://civitai.com/models/777158
   - Metal Skulls: https://civitai.com/models/769303
-  - Nosferatu (1922): https://civitai.com/models/769335/nosferatu-1922-style-flux1-d?modelVersionId=860484
   - Gesture Drawing: https://civitai.com/models/771610/gesture-draw
   - WPAP: https://civitai.com/models/768696
-  - LowPolyArt: https://civitai.com/models/759268/lowpolyart-style?modelVersionId=848974
   - Aethereal: https://civitai.com/models/726513/aethereal-flux-fast-4-step-flux-lora
-  - Cozy Ghibli Wallpaper: https://civitai.com/models/724054
   - Dashed Line Drawing: https://civitai.com/models/724476
-  - Dune Cinematic Vision: https://civitai.com/models/710389?modelVersionId=794602
-  - Loving Vincent: https://civitai.com/models/705111
   - Luminous Shadowscape: https://civitai.com/models/707312
   - Brauncore: https://civitai.com/models/704017/brauncore-style
   - Geometric Shapes: https://civitai.com/models/703939/geometric-shapes
-  - Pixel Art: https://civitai.com/models/689318/pixel-art-style
-  - Genndy Tartakovsky (Samurai Jack): https://civitai.com/models/700092/genndy-tartakovsky-samurai-jack-style
   - Ernst Haeckel: https://civitai.com/models/686747/ernst-haeckel-style
-  - Flat Color Anime: https://civitai.com/models/180891/flat-color-anime
-  - Disney Animated: https://civitai.com/models/706762?modelVersionId=790552
   - EarthKids: https://civitai.com/models/749780
   - 80s Fisher Price: https://civitai.com/models/749320
   - Pencil: https://civitai.com/models/737141
@@ -714,17 +727,17 @@
   - Vintage Tattoo: https://civitai.com/models/726890/old-schoolvintage-tattoo-style-for-flux
   - 4 Step: https://civitai.com/models/686704?modelVersionId=768584
   - Zombify: https://civitai.com/models/668227?modelVersionId=748025
-  - Cinematic: https://civitai.com/models/668238?modelVersionId=748039
   - Tarot: https://huggingface.co/multimodalart/flux-tarot-v1
   - Old-school cartoon: https://civitai.com/models/694273/old-school-cartoon-style-for-flux?modelVersionId=776973
   - Only paint red: https://civitai.com/models/682797/i-only-paint-in-red
   - Sketch: https://civitai.com/models/802807/sketch-art
   - Impressionist Landscape: https://civitai.com/models/640459/impressionist-landscape-lora-for-flux
-  - Dark Fantasy 80s: https://civitai.com/models/671094?modelVersionId=751285
-  - Alien Set Design: https://civitai.com/models/669303/alien-set-design-flux
-  - 3D Cartoon: https://civitai.com/models/677725
   - Black & White: https://civitai.com/models/679352/wraith-bandw-flux
   - Finnish Symbolism: https://civitai.com/models/699621/finnish-symbolism-art
+  - Waterworld: https://civitai.com/models/829944/water-world-by-chronoknight-flux
+  - Barcoded: https://civitai.com/models/837782/ororbarcodedoror
+  - Animorph: https://civitai.com/models/822077
+  - Toy Box: https://civitai.com/models/842114/toy-box-flux
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -783,6 +796,7 @@
   - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
   - CogVideoX-5b-I2V: https://huggingface.co/THUDM/CogVideoX-5b-I2V
   - CogView3 (distilled): https://github.com/THUDM/CogView3
+  - SageAttention (speedup CogVideo gen): https://github.com/thu-ml/SageAttention
   - I2V workflow
     - Github: https://github.com/henrique-galimberti/i2v-workflow/blob/main/CogVideoX-I2V-workflow_v2.json
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fqy71b/cogvideoxi2v_updated_workflow
