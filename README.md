@@ -402,6 +402,7 @@
 - Parler TTS: https://github.com/huggingface/parler-tts
 - WhisperSpeech: https://github.com/collabora/WhisperSpeech
 - Fish Speech 1.4: https://huggingface.co/fishaudio/fish-speech-1.4
+- ebook2audiobook: https://github.com/DrewThomasson/ebook2audiobookXTTS
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
