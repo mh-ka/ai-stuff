@@ -113,6 +113,8 @@
     - Gemma2 9B: https://huggingface.co/bartowski/gemma-2-9b-it-GGUF
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
     - RecurrentGemma: https://huggingface.co/google/recurrentgemma-9b
+  - TigerGemma 9B v3: https://huggingface.co/TheDrummer/Tiger-Gemma-9B-v3
+  - Gemma 27B exl2: https://huggingface.co/mo137/gemma-2-27b-it-exl2
   - Moondream (vision model on edge devices)
     - https://github.com/vikhyat/moondream
     - https://huggingface.co/vikhyatk/moondream2
@@ -195,6 +197,7 @@
   - OpenPerplex: https://github.com/YassKhazzan/openperplex_backend_os
   - Harbor (containerized local LLM hosting): https://github.com/av/harbor
   - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
+  - Msty: https://msty.app/
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -234,6 +237,7 @@
 - Shopping assistant: https://www.claros.so/
 - STORM (Wikipedia article creator): https://github.com/stanford-oval/storm
 - Open NotebookLM: https://itsfoss.com/open-notebooklm/
+- LlavaImageTagger: https://github.com/jabberjabberjabber/LLavaImageTagger
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -273,6 +277,7 @@
     - Datachain (python library for unstructured data processing): https://github.com/iterative/datachain
     - ThePipe (markdown and visuals extraction from PDFs, URLs, etc.): https://github.com/emcf/thepipe
     - Firecrawl (websites2markdown): https://github.com/mendableai/firecrawl
+    - MinerU (PDF data extraction): https://github.com/opendatalab/MinerU
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
   - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
@@ -325,6 +330,7 @@
   - RouteLLM framework: https://github.com/lm-sys/RouteLLM
   - Reverse engineering of Github Copilot extension: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
   - LeRobot: https://github.com/huggingface/lerobot
+  - LLM Promptflow: https://microsoft.github.io/promptflow/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -332,7 +338,6 @@
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-- Zephyr 7B infos on reddit: https://www.reddit.com/r/LocalLLaMA/comments/17hjgdg/zephyr_7b_beta_a_new_mistral_finetune_is_out/
 - Coding Benchmark: https://prollm.toqan.ai/leaderboard
 - CanAiCode Leaderboard: https://huggingface.co/spaces/mike-ravkine/can-ai-code-results
 - Vision Language Model Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
@@ -382,6 +387,7 @@
   - WhisperKit for Apple devices: https://www.takeargmax.com/blog/whisperkit
   - Whisper turbo: https://github.com/openai/whisper/discussions/2363
   - Whisper Medusa: https://github.com/aiola-lab/whisper-medusa
+  - Tips against hallucinations: https://www.reddit.com/r/LocalLLaMA/comments/1fx7ri8/comment/lql41mk/
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
@@ -389,6 +395,7 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### txt2speech and txt2audio
+- TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
 - Bark: https://github.com/suno-ai/bark
@@ -396,7 +403,6 @@
 - MetaVoice: https://github.com/metavoiceio/metavoice-src
 - Pheme TTS framework: https://github.com/PolyAI-LDN/pheme
 - OpenAI TTS: https://platform.openai.com/docs/guides/text-to-speech
-- TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - Stable Audio Open: https://huggingface.co/stabilityai/stable-audio-open-1.0
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
@@ -405,7 +411,10 @@
 - Parler TTS: https://github.com/huggingface/parler-tts
 - WhisperSpeech: https://github.com/collabora/WhisperSpeech
 - Fish Speech 1.4: https://huggingface.co/fishaudio/fish-speech-1.4
+- ChatTTS: https://huggingface.co/2Noise/ChatTTS
 - ebook2audiobook: https://github.com/DrewThomasson/ebook2audiobookXTTS
+- GPT-SoVITS-WebUI: https://github.com/RVC-Boss/GPT-SoVITS
+- Example script for text to voice: https://github.com/dynamiccreator/voice-text-reader
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -574,7 +583,10 @@
     - Refiner workflow: https://github.com/ltdrdata/ComfyUI-extension-tutorials/blob/Main/ComfyUI-Experimental/sdxl-reencode/exp1.md
     - ELLA wrapper: https://github.com/kijai/ComfyUI-ELLA-wrapper
     - AniPortrait: https://github.com/chaojie/ComfyUI-AniPortrait
-    - SUPIR Upscaler: https://github.com/kijai/ComfyUI-SUPIR
+    - Upscaler
+      - https://github.com/kijai/ComfyUI-SUPIR
+      - https://civitai.com/models/364115/supir-upscale-comfyui
+      - https://github.com/camenduru/comfyui-ultralytics-upscaler-tost
     - InstantID Style Composition workflow: https://civitai.com/models/423960
     - DynamicCrafterWrapper (for ToonCrafter): https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
     - V-Express: https://github.com/AIFSH/ComfyUI_V-Express
@@ -586,6 +598,7 @@
     - Mega workflow: https://perilli.com/ai/comfyui/
     - LivePortrait: https://github.com/kijai/ComfyUI-LivePortraitKJ
     - AdvancedLivePortrait: https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
+    - Lineart Video Colorization: https://github.com/kijai/ComfyUI-LVCDWrapper
   - Automatic1111 Extensions
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -604,6 +617,7 @@
     - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
   - Create textures with stable diffusion: https://stableprojectorz.com
   - StoryMaker Workflow/Model: https://huggingface.co/RED-AIGC/StoryMaker
+  - FacePoke: https://github.com/jbilcke-hf/FacePoke
   - InvokeAI
     - Github: https://github.com/invoke-ai/InvokeAI
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1focbhe/invoke_50_massive_update_introducing_a_new_canvas/
