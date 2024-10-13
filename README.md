@@ -269,6 +269,7 @@
     - DataGemma: https://huggingface.co/collections/google/datagemma-release-66df7636084d2b150a4e6643
     - RAGBuilder: https://github.com/kruxai/ragbuilder
     - RAG Notes: https://github.com/rmusser01/tldw/blob/main/Docs/RAG_Notes.md
+    - Too long, did not watch: https://github.com/rmusser01/tldw
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -388,6 +389,7 @@
   - Whisper turbo: https://github.com/openai/whisper/discussions/2363
   - Whisper Medusa: https://github.com/aiola-lab/whisper-medusa
   - Tips against hallucinations: https://www.reddit.com/r/LocalLLaMA/comments/1fx7ri8/comment/lql41mk/
+  - Whisper Standalone Win: https://github.com/Purfview/whisper-standalone-win
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
@@ -415,6 +417,7 @@
 - ebook2audiobook: https://github.com/DrewThomasson/ebook2audiobookXTTS
 - GPT-SoVITS-WebUI: https://github.com/RVC-Boss/GPT-SoVITS
 - Example script for text to voice: https://github.com/dynamiccreator/voice-text-reader
+- F5 TTS: https://github.com/SWivid/F5-TTS
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -652,6 +655,12 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Flux
+- Models
+  - Dev
+    - Default: https://huggingface.co/black-forest-labs/FLUX.1-dev
+    - GGUF quants: https://huggingface.co/city96/FLUX.1-dev-gguf
+  - Schnell: https://huggingface.co/black-forest-labs/FLUX.1-schnell
+  - Turbo Alpha: https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha
 - LORAs
   - Gaming styles
     - N64: https://civitai.com/models/660136?modelVersionId=738680
@@ -659,11 +668,12 @@
     - PS2 Style: https://civitai.com/models/750208/ps2-style-flux
     - Pixel Art: https://civitai.com/models/672328
     - 1999 Digital Camera Style: https://civitai.com/models/724495
-    - Mario Striker: https://civitai.com/models/814822
+    - Mario Strikers: https://civitai.com/models/814822
     - LowPolyArt: https://civitai.com/models/759268/lowpolyart-style?modelVersionId=848974
     - Pixel Art: https://civitai.com/models/689318/pixel-art-style
     - VHS: https://civitai.com/models/774229/chromatic-aberration-vhs-flux
     - Low Res Lora: https://huggingface.co/glif/l0w-r3z
+    - 8Bit 16Bit Pixel: https://civitai.com/models/834943/8bit16bit-gameboy-inspired-anime-pixel-style-by-chronoknight-flux
   - Realistic
     - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
     - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
@@ -674,6 +684,7 @@
     - 90s Asian look photography: https://civitai.com/models/834837?modelVersionId=934017
     - Human Photo: https://civitai.com/models/790722?modelVersionId=884240
     - Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
+    - Chernobyl: https://civitai.com/models/844519?modelVersionId=944817
   - Cinema / TV
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -752,14 +763,20 @@
   - Barcoded: https://civitai.com/models/837782/ororbarcodedoror
   - Animorph: https://civitai.com/models/822077
   - Toy Box: https://civitai.com/models/842114/toy-box-flux
+  - Gorillaz: https://civitai.com/models/838390/gorillaz-style-flux
+  - Ghibsky: https://huggingface.co/aleksa-codes/flux-ghibsky-illustration
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
   - Flux Gym: https://github.com/cocktailpeanut/fluxgym
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID: https://github.com/ToTheBeginning/PuLID
-  - JoyCaption: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
+  - JoyCaption 
+    - https://huggingface.co/Wi-zz/joy-caption-pre-alpha
+    - https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
   - Prompt Quill: https://github.com/osi1880vr/prompt_quill
+  - Photo File Names Wildcards: https://civitai.com/models/830154
+  - Artist Styles Gallery: https://enragedantelope.github.io/Styles-FluxDev/
   - Workflows
     - Simple ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows/tree/main
     - Another simple one: https://www.reddit.com/r/StableDiffusion/comments/1ewdllh/simple_comfyui_flux_workflows_v2_for_q8q5q4_models/
@@ -774,9 +791,11 @@
       - https://github.com/bghira/SimpleTuner
       - https://github.com/XLabs-AI/x-flux
       - https://github.com/ostris/ai-toolkit
+      - https://github.com/psdwizzard/Lora-Toolkit
     - Tutorials 
       - https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/
       - https://civitai.com/articles/6792
+      - https://civitai.com/articles/7777
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -814,6 +833,7 @@
   - I2V workflow
     - Github: https://github.com/henrique-galimberti/i2v-workflow/blob/main/CogVideoX-I2V-workflow_v2.json
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fqy71b/cogvideoxi2v_updated_workflow
+    - CivitAI: https://civitai.com/models/785908/animate-from-still-using-cogvideox-5b-i2v
 - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
 - Meta's Segment Anything (SAM)
   - SAM2: https://github.com/facebookresearch/segment-anything-2
