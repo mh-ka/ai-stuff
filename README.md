@@ -199,6 +199,7 @@
   - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
   - Msty: https://msty.app/
   - Any Device: https://github.com/exo-explore/exo
+  - Local AI Assistant: https://github.com/v2rockets/Loyal-Elephie
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -636,6 +637,7 @@
   - DeciDiffusion v2.0: https://huggingface.co/Deci/DeciDiffusion-v2-0
   /LwT4AB8wEtKQilrjq2G8
   - FastSD CPU: https://github.com/rupeshs/fastsdcpu
+  - Face similarity analysis for ComfyUI: https://github.com/cubiq/ComfyUI_FaceAnalysis
   - Hints, lists and collections
     - SD Tutorials https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
     - Prompt Engineering Tools: https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
