@@ -175,7 +175,7 @@
 
 ### Tools around using LLMs
 - Local LLM hosting
-  - vLLM (local python library for running models): https://docs.vllm.ai/en/latest/getting_started/quickstart.html
+  - vLLM (local python library for running models including vision models): https://docs.vllm.ai/en/stable/index.html
   - LMStudio (local model hosting): https://lmstudio.ai/
   - Nvidia's ChatRTX (local chat with files and image search): https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
   - Jan app (local model hosting): https://jan.ai/
@@ -198,6 +198,7 @@
   - Harbor (containerized local LLM hosting): https://github.com/av/harbor
   - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
   - Msty: https://msty.app/
+  - Any Device: https://github.com/exo-explore/exo
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
@@ -238,6 +239,8 @@
 - STORM (Wikipedia article creator): https://github.com/stanford-oval/storm
 - Open NotebookLM: https://itsfoss.com/open-notebooklm/
 - LlavaImageTagger: https://github.com/jabberjabberjabber/LLavaImageTagger
+- LLM data analytics: https://github.com/yamalight/litlytics
+- LLM powered File Organizer: https://github.com/QiuYannnn/Local-File-Organizer 
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -270,6 +273,7 @@
     - RAGBuilder: https://github.com/kruxai/ragbuilder
     - RAG Notes: https://github.com/rmusser01/tldw/blob/main/Docs/RAG_Notes.md
     - Too long, did not watch: https://github.com/rmusser01/tldw
+    - Benchmarking RAG: https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -332,6 +336,7 @@
   - Reverse engineering of Github Copilot extension: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
   - LeRobot: https://github.com/huggingface/lerobot
   - LLM Promptflow: https://microsoft.github.io/promptflow/
+  - Abliteration: https://huggingface.co/blog/mlabonne/abliteration
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -685,6 +690,7 @@
     - Human Photo: https://civitai.com/models/790722?modelVersionId=884240
     - Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
     - Chernobyl: https://civitai.com/models/844519?modelVersionId=944817
+    - Diversity: https://civitai.com/models/119376?modelVersionId=808809
   - Cinema / TV
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -770,7 +776,7 @@
   - LORA search engine: https://www.fluxforge.app/
   - Flux Gym: https://github.com/cocktailpeanut/fluxgym
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
-  - PuLID: https://github.com/ToTheBeginning/PuLID
+  - PuLID ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
   - JoyCaption 
     - https://huggingface.co/Wi-zz/joy-caption-pre-alpha
     - https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
@@ -796,6 +802,7 @@
       - https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/
       - https://civitai.com/articles/6792
       - https://civitai.com/articles/7777
+      - https://civitai.com/articles/7097/flux-complete-lora-settings-and-dataset-guide-post-mortem-of-two-weeks-of-learning
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -887,6 +894,7 @@
   - Stable Diffusion Workflows:
     - https://www.youtube.com/@NerdyRodent
     - https://www.youtube.com/@sebastiankamph
+  - Explanations: https://www.youtube.com/@Computerphile/videos
 - Other
   - Papers and Frameworks: https://github.com/Hannibal046/Awesome-LLM 
 
