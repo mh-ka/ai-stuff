@@ -712,6 +712,8 @@
     - Genndy Tartakovsky (Samurai Jack): https://civitai.com/models/700092/genndy-tartakovsky-samurai-jack-style
     - Flat Color Anime: https://civitai.com/models/180891/flat-color-anime
     - 3D Cartoon: https://civitai.com/models/677725
+    - The Hound: https://huggingface.co/TheLastBen/The_Hound
+    - Tron Legacy: https://civitai.com/models/700761?modelVersionId=784086
   - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
   - Icon Maker: https://civitai.com/models/722531
   - Oil Painting: https://civitai.com/models/723141
@@ -785,6 +787,7 @@
   - Prompt Quill: https://github.com/osi1880vr/prompt_quill
   - Photo File Names Wildcards: https://civitai.com/models/830154
   - Artist Styles Gallery: https://enragedantelope.github.io/Styles-FluxDev/
+  - Style Cheatsheet: https://cheatsheet.strea.ly/
   - Workflows
     - Simple ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows/tree/main
     - Another simple one: https://www.reddit.com/r/StableDiffusion/comments/1ewdllh/simple_comfyui_flux_workflows_v2_for_q8q5q4_models/
