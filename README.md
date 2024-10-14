@@ -293,6 +293,7 @@
     - Yaraa (RAG Library): https://github.com/khalilbenkhaled/yaraa
     - Chainlit RAG (hybrid RAG app): https://github.com/agi-dude/chainlit-rag
     - RAG UI: https://github.com/Cinnamon/kotaemon
+    - RAG database: https://github.com/neuml/txtai
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -327,6 +328,7 @@
   - Empirical Study of LLaMA3 Quantization: https://arxiv.org/abs/2404.14047
   - Meta's Llama Stack Apps: https://github.com/meta-llama/llama-stack-apps
   - PostgresML AI Stack: https://github.com/postgresml/postgresml
+  - Wilmer (LLM Orchestration Middleware): https://github.com/SomeOddCodeGuy/WilmerAI/
 
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -407,12 +409,12 @@
   - Trying out MusicGen: https://til.simonwillison.net/machinelearning/musicgen
 - SeamlessStreaming: https://huggingface.co/facebook/seamless-streaming
   - Seamless Framework: https://github.com/facebookresearch/seamless_communication
-- MAGNeT (txt-2-music/-audio): https://analyticsindiamag.com/meta-launches-magnet-an-open-source-text-to-audio-model/
+- MAGNeT (-2-music/-audio): https://analyticsindiamag.com/meta-launches-magnet-an-open-source-text-to-audio-model/
   - Hugging Face page with models: https://huggingface.co/collections/facebook/magnet-659ef0ceb62804e6f41d1466
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### speech2txt
+### speech2
 - OpenAI's Whisper
   - Github: https://github.com/openai/whisper
   - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
@@ -428,7 +430,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### txt2speech and txt2audio
+### 2speech and 2audio
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
@@ -468,6 +470,7 @@
 - DenseAV (locates sound and learns meaning of words): https://github.com/mhamilton723/DenseAV
 - Moshi (speech2speech foundation model): https://huggingface.co/collections/kyutai/moshi-v01-release-66eaeaf3302bef6bd9ad7acd
 - Open VTuber App: https://github.com/t41372/Open-LLM-VTuber
+- Voicechat implementation: https://github.com/lhl/voicechat2 
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
