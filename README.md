@@ -49,6 +49,7 @@
 - A Visual Guide to Quantization: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
 - A Visual Guide to Mixture of Experts (MoE): https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts
 - Training, Fine-Tuning, Evaluation LLMs: https://www.philschmid.de/
+- Explaining how LLMs work: https://amgadhasan.substack.com/p/explaining-how-llms-work-in-7-levels
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -78,6 +79,7 @@
   - Qwen2.5
     - Collection: https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
     - Coder: https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
+    - Uncensored Model: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
 
 - Misc
   - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
@@ -138,6 +140,7 @@
     - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
   - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
+  - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
   - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
   - Meta's Llama 3.2 (collection of small models and big vision models): https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
 
@@ -157,8 +160,11 @@
   - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
   - Microsoft
     - Florence: https://huggingface.co/collections/microsoft/florence-6669f44df0d87d9c3bfb76de
+    - ComfyUI Florence2 Workflow: https://github.com/kijai/ComfyUI-Florence2
     - Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
-  - OpenBMB's MiniCPM-Llama3-V 2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
+  - OpenBMB's MiniCPM
+    - V2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
+    - V2.6: https://huggingface.co/openbmb/MiniCPM-V-2_6
   - Ultravox: https://github.com/fixie-ai/ultravox
   - Nvidia
     - Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
@@ -168,6 +174,10 @@
   - Meta's Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
   - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
   - Emu3: https://huggingface.co/BAAI/Emu3-Gen
+  - GOT OCR 2.0: https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
+  - Ovis 1.6 (vision model with LLM based on Gemma 2 9B)
+    - https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
+    - https://huggingface.co/stepfun-ai/GOT-OCR2_0
 
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
@@ -241,7 +251,11 @@
 - Open NotebookLM: https://itsfoss.com/open-notebooklm/
 - LlavaImageTagger: https://github.com/jabberjabberjabber/LLavaImageTagger
 - LLM data analytics: https://github.com/yamalight/litlytics
-- LLM powered File Organizer: https://github.com/QiuYannnn/Local-File-Organizer 
+- LLM powered File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
+- Clipboard Conqueror: https://github.com/aseichter2007/ClipboardConqueror
+- AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
+- Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
+- Personal Assistant: https://github.com/ErikBjare/gptme/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -275,6 +289,10 @@
     - RAG Notes: https://github.com/rmusser01/tldw/blob/main/Docs/RAG_Notes.md
     - Too long, did not watch: https://github.com/rmusser01/tldw
     - Benchmarking RAG: https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063
+    - Archyve (RAG API): https://github.com/nickthecook/archyve
+    - Yaraa (RAG Library): https://github.com/khalilbenkhaled/yaraa
+    - Chainlit RAG (hybrid RAG app): https://github.com/agi-dude/chainlit-rag
+    - RAG UI: https://github.com/Cinnamon/kotaemon
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -284,6 +302,12 @@
     - ThePipe (markdown and visuals extraction from PDFs, URLs, etc.): https://github.com/emcf/thepipe
     - Firecrawl (websites2markdown): https://github.com/mendableai/firecrawl
     - MinerU (PDF data extraction): https://github.com/opendatalab/MinerU
+    - Nougat (PDF parser): https://github.com/facebookresearch/nougat
+    - PDF Extract Kit: https://github.com/opendatalab/PDF-Extract-Kit
+    - Marker (PDF2Markdown): https://github.com/VikParuchuri/marker
+    - PyMPDF
+      - https://github.com/pymupdf/PyMuPDF
+      - https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/ 
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
   - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
@@ -301,7 +325,8 @@
   - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
   - Selfie (personalized local text generation): https://github.com/vana-com/selfie
   - Empirical Study of LLaMA3 Quantization: https://arxiv.org/abs/2404.14047
-  - Meta's Llama Stack Apps: https://github.com/meta-llama/llama-stack-apps 
+  - Meta's Llama Stack Apps: https://github.com/meta-llama/llama-stack-apps
+  - PostgresML AI Stack: https://github.com/postgresml/postgresml
 
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -338,6 +363,7 @@
   - LeRobot: https://github.com/huggingface/lerobot
   - LLM Promptflow: https://microsoft.github.io/promptflow/
   - Abliteration: https://huggingface.co/blog/mlabonne/abliteration
+  - Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -441,6 +467,7 @@
 - Speech Note Offline STT, TTS and Machine Translation: https://github.com/mkiol/dsnote
 - DenseAV (locates sound and learns meaning of words): https://github.com/mhamilton723/DenseAV
 - Moshi (speech2speech foundation model): https://huggingface.co/collections/kyutai/moshi-v01-release-66eaeaf3302bef6bd9ad7acd
+- Open VTuber App: https://github.com/t41372/Open-LLM-VTuber
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -608,6 +635,8 @@
     - LivePortrait: https://github.com/kijai/ComfyUI-LivePortraitKJ
     - AdvancedLivePortrait: https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
     - Lineart Video Colorization: https://github.com/kijai/ComfyUI-LVCDWrapper
+    - Lora Auto Trigger Node: https://github.com/idrirap/ComfyUI-Lora-Auto-Trigger-Words
+    - Youtube Tutorials: https://www.youtube.com/@CgTopTips
   - Automatic1111 Extensions
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -681,6 +710,7 @@
     - VHS: https://civitai.com/models/774229/chromatic-aberration-vhs-flux
     - Low Res Lora: https://huggingface.co/glif/l0w-r3z
     - 8Bit 16Bit Pixel: https://civitai.com/models/834943/8bit16bit-gameboy-inspired-anime-pixel-style-by-chronoknight-flux
+    - Vintage Anime: https://civitai.com/models/659761
   - Realistic
     - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
     - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
@@ -803,11 +833,13 @@
       - https://github.com/XLabs-AI/x-flux
       - https://github.com/ostris/ai-toolkit
       - https://github.com/psdwizzard/Lora-Toolkit
+      - https://github.com/kijai/ComfyUI-FluxTrainer
     - Tutorials 
       - https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/
       - https://civitai.com/articles/6792
       - https://civitai.com/articles/7777
       - https://civitai.com/articles/7097/flux-complete-lora-settings-and-dataset-guide-post-mortem-of-two-weeks-of-learning
+      - https://weirdwonderfulai.art/tutorial/flux-lora-training-tutorial-by-araminta/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
