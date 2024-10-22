@@ -137,10 +137,12 @@
   - Zyphra
     - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
+    - Zamba2-7B: https://huggingface.co/Zyphra/Zamba2-7B-Instruct
   - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
   - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
   - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
   - Meta's Llama 3.2 (collection of small models and big vision models): https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+  - Nvidia's Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -176,6 +178,7 @@
   - Ovis 1.6 (vision model with LLM based on Gemma 2 9B)
     - https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
     - https://huggingface.co/stepfun-ai/GOT-OCR2_0
+  - Aria: https://huggingface.co/rhymes-ai/Aria
 
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
@@ -228,6 +231,7 @@
   - Melty: https://github.com/meltylabs/melty
   - Clone Layout: https://github.com/dmh2000/clone-layout
   - tldraw make-real: https://github.com/tldraw/make-real
+  - Codeium: https://codeium.com/
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -256,6 +260,8 @@
 - Personal Assistant: https://github.com/ErikBjare/gptme/
 - PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
 - Surya (OCR): https://github.com/VikParuchuri/surya
+- Open Canvas: https://github.com/langchain-ai/open-canvas
+- Foyle (engineer assistant as VSCode extension): https://foyle.io/docs/overview/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -366,6 +372,7 @@
   - LLM Promptflow: https://microsoft.github.io/promptflow/
   - Abliteration: https://huggingface.co/blog/mlabonne/abliteration
   - Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
+  - Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -392,6 +399,7 @@
 - LLM Cross Capabilities: https://github.com/facebookresearch/llm-cross-capabilities
 - MLE-Bench (Machine Learning tasks benchmark): https://github.com/openai/mle-bench
 - Compliance EU AI Act Framework: https://github.com/compl-ai/compl-ai
+- Open Financial LLM Leaderboard: https://huggingface.co/spaces/finosfoundation/Open-Financial-LLM-Leaderboard
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -516,6 +524,7 @@
   - Ctrl-X
     - Github: https://github.com/genforce/ctrl-x
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fr1h6c/ctrlx_code_released_controlnet_without_finetuning
+  - Stable Diffusion 3.5: https://huggingface.co/collections/stabilityai/stable-diffusion-35-671785cca799084f71fa2838
 
 - LORAs
   - SDXL
@@ -818,12 +827,12 @@
   - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
   - LORA training
     - Tools
-      - https://github.com/AmericanPresidentJimmyCarter/simple-flux-lora-training
-      - https://github.com/bghira/SimpleTuner
-      - https://github.com/XLabs-AI/x-flux
-      - https://github.com/ostris/ai-toolkit
-      - https://github.com/psdwizzard/Lora-Toolkit
-      - https://github.com/kijai/ComfyUI-FluxTrainer
+      - SimpleTuner: https://github.com/bghira/SimpleTuner
+      - X-Flux: https://github.com/XLabs-AI/x-flux
+      - AI Toolkit: https://github.com/ostris/ai-toolkit
+      - Lora Toolkit: https://github.com/psdwizzard/Lora-Toolkit
+      - ComfyUI-FluxTrainer: https://github.com/kijai/ComfyUI-FluxTrainer
+      - Flux Lora Lab: https://huggingface.co/spaces/multimodalart/flux-lora-lab
     - Tutorials 
       - https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/
       - https://civitai.com/articles/6792
