@@ -256,6 +256,8 @@
 - AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
 - Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
 - Personal Assistant: https://github.com/ErikBjare/gptme/
+- PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
+- Surya (OCR): https://github.com/VikParuchuri/surya
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -375,7 +377,6 @@
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 - Coding Benchmark: https://prollm.toqan.ai/leaderboard
 - CanAiCode Leaderboard: https://huggingface.co/spaces/mike-ravkine/can-ai-code-results
-- Vision Language Model Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 - OpenCompass 2.0: https://github.com/open-compass/opencompass
 - Open LLM Progress Tracker: https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo
 - MMLU Pro: https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
@@ -383,6 +384,7 @@
 - SEAL Leaderboard: https://scale.com/leaderboard
 - Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
 - Open LLM Leaderboard 2: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+- Open VLM Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 - Skeleton Key Jailbreak: https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique
 - LLM Eval simplified: https://www.philschmid.de/llm-evaluation
 - LiveBench: https://livebench.ai/
@@ -414,7 +416,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### speech2
+### speech2txt
 - OpenAI's Whisper
   - Github: https://github.com/openai/whisper
   - Distil-Whisper: https://github.com/huggingface/distil-whisper/issues/4
@@ -427,10 +429,11 @@
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
+- Moonshine: https://github.com/usefulsensors/moonshine
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### 2speech and 2audio
+### txt2speech and txt2audio
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
