@@ -7,8 +7,6 @@
     + [AI Developer Topics](#ai-developer-topics)
     + [Evaluation](#evaluation)
   * [Audio](#audio)
-    + [Voicecraft](#voicecraft)
-    + [Meta](#meta)
     + [speech2txt](#speech2txt)
     + [txt2speech and txt2audio](#txt2speech-and-txt2audio)
     + [Music production](#music-production)
@@ -392,29 +390,13 @@
 - LLM Comparison: https://artificialanalysis.ai/
 - LLM Planning Benchmark: https://github.com/karthikv792/LLMs-Planning
 - LLM Cross Capabilities: https://github.com/facebookresearch/llm-cross-capabilities
+- MLE-Bench (Machine Learning tasks benchmark): https://github.com/openai/mle-bench
+- Compliance EU AI Act Framework: https://github.com/compl-ai/compl-ai
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
 
 ## Audio
-
-### Voicecraft
-- Repo: https://github.com/jasonppy/VoiceCraft
-- Huggingface: https://huggingface.co/pyp1/VoiceCraft/tree/main
-- Docker version: https://github.com/pselvana/VoiceCrafter
-- API version: https://github.com/lukaszliniewicz/VoiceCraft_API
-
-<sup><sub>[back to top](#toc)</sub></sup>
-
-### Meta
-- MusicGen: https://huggingface.co/facebook/musicgen-stereo-melody-large
-  - Trying out MusicGen: https://til.simonwillison.net/machinelearning/musicgen
-- SeamlessStreaming: https://huggingface.co/facebook/seamless-streaming
-  - Seamless Framework: https://github.com/facebookresearch/seamless_communication
-- MAGNeT (-2-music/-audio): https://analyticsindiamag.com/meta-launches-magnet-an-open-source-text-to-audio-model/
-  - Hugging Face page with models: https://huggingface.co/collections/facebook/magnet-659ef0ceb62804e6f41d1466
-
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ### speech2txt
 - OpenAI's Whisper
@@ -435,6 +417,7 @@
 
 ### txt2speech and txt2audio
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
+- VoiceCraft: https://github.com/jasonppy/VoiceCraft
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
 - AudioLDM2: https://github.com/haoheliu/audioldm2
 - Bark: https://github.com/suno-ai/bark
@@ -473,7 +456,8 @@
 - DenseAV (locates sound and learns meaning of words): https://github.com/mhamilton723/DenseAV
 - Moshi (speech2speech foundation model): https://huggingface.co/collections/kyutai/moshi-v01-release-66eaeaf3302bef6bd9ad7acd
 - Open VTuber App: https://github.com/t41372/Open-LLM-VTuber
-- Voicechat implementation: https://github.com/lhl/voicechat2 
+- Voicechat implementation: https://github.com/lhl/voicechat2
+- Podcastfy: https://github.com/souzatharsis/podcastfy
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -891,6 +875,7 @@
   - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
 - Google's AlphaChip: https://github.com/google-research/circuit_training
 - Apple's Depth Pro: https://github.com/apple/ml-depth-pro
+- List of popular txt2img generative models: https://github.com/vladmandic/automatic/wiki/Models
 
 ## Reports and Articles and Sources
 
