@@ -212,7 +212,7 @@
   - Any Device: https://github.com/exo-explore/exo
   - Local AI Assistant: https://github.com/v2rockets/Loyal-Elephie
 - Local coding assistance
-  - Open Interpreter (local model hosting with code execution and file input): https://github.com/KillianLucas/open-interpreter
+  - Open Interpreter (local model hosting with code execution and file input): https://github.com/OpenInterpreter/open-interpreter
   - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
   - Sweep (AI junior developer): https://github.com/sweepai/sweep
   - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
@@ -232,6 +232,7 @@
   - Clone Layout: https://github.com/dmh2000/clone-layout
   - tldraw make-real: https://github.com/tldraw/make-real
   - Codeium: https://codeium.com/
+  - Cline: https://github.com/cline/cline
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -254,6 +255,7 @@
 - LlavaImageTagger: https://github.com/jabberjabberjabber/LLavaImageTagger
 - LLM data analytics: https://github.com/yamalight/litlytics
 - LLM powered File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
+- Another File Organizer: https://github.com/AIxHunter/FileWizardAI
 - Clipboard Conqueror: https://github.com/aseichter2007/ClipboardConqueror
 - AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
 - Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
@@ -416,6 +418,7 @@
   - Whisper Medusa: https://github.com/aiola-lab/whisper-medusa
   - Tips against hallucinations: https://www.reddit.com/r/LocalLLaMA/comments/1fx7ri8/comment/lql41mk/
   - Whisper Standalone Win: https://github.com/Purfview/whisper-standalone-win
+  - Whisperfile: https://github.com/Mozilla-Ocho/llamafile/blob/main/whisper.cpp/doc/getting-started.md
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
@@ -521,6 +524,7 @@
   - Vintage Airbrushed: https://civitai.com/models/4291
   - Berlin Graffiti: https://huggingface.co/bakebrain/bergraffi-berlin-graffiti
   - Favorite Models: https://www.reddit.com/r/StableDiffusion/comments/19fdm0c/whats_your_favorite_model_currently/
+  - Mann-E Dreams (fast SDXL based model): https://civitai.com/models/548796
   - Ctrl-X
     - Github: https://github.com/genforce/ctrl-x
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fr1h6c/ctrlx_code_released_controlnet_without_finetuning
@@ -573,6 +577,7 @@
     - Electric Alien: https://civitai.com/models/520639/electric-alien-sdxl-lora-dreambooth-trained
     - Hand Drawn Brush Pen: https://civitai.com/models/558635?modelVersionId=621895
     - Marionettes: https://civitai.com/models/150042/marionettes-wooden-carved-puppets-on-strings
+    - Claymate: https://civitai.com/models/208168/claymate-claymation-style-for-sdxl
   - SD 1.5
     - Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
     - Real Mechanical Parts: https://civitai.com/models/64471?modelVersionId=85371
@@ -702,14 +707,18 @@
     - PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
     - PS2 Style: https://civitai.com/models/750208/ps2-style-flux
     - Pixel Art: https://civitai.com/models/672328
-    - 1999 Digital Camera Style: https://civitai.com/models/724495
+    - Pixel Art: https://civitai.com/models/689318/pixel-art-style
+    - Pixel Art: https://huggingface.co/glif-loradex-trainer/AP123_flux_dev_2DHD_pixel_art
     - Mario Strikers: https://civitai.com/models/814822
     - LowPolyArt: https://civitai.com/models/759268/lowpolyart-style?modelVersionId=848974
-    - Pixel Art: https://civitai.com/models/689318/pixel-art-style
     - VHS: https://civitai.com/models/774229/chromatic-aberration-vhs-flux
     - Low Res Lora: https://huggingface.co/glif/l0w-r3z
     - 8Bit 16Bit Pixel: https://civitai.com/models/834943/8bit16bit-gameboy-inspired-anime-pixel-style-by-chronoknight-flux
     - Vintage Anime: https://civitai.com/models/659761
+    - Clash Royale: https://civitai.com/models/879095
+    - WoW: https://civitai.com/models/825503/prealphawowparpflux
+    - Amiga: https://civitai.com/models/875790?modelVersionId=980423
+    - Adventure: https://civitai.com/models/870057?modelVersionId=973777
   - Realistic
     - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
     - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
@@ -722,6 +731,7 @@
     - Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
     - Chernobyl: https://civitai.com/models/844519?modelVersionId=944817
     - Diversity: https://civitai.com/models/119376?modelVersionId=808809
+    - 1999 Digital Camera Style: https://civitai.com/models/724495
   - Cinema / TV
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -743,6 +753,8 @@
     - 3D Cartoon: https://civitai.com/models/677725
     - The Hound: https://huggingface.co/TheLastBen/The_Hound
     - Tron Legacy: https://civitai.com/models/700761?modelVersionId=784086
+    - Cartoon 3D Render: https://civitai.com/models/871472?modelVersionId=975467
+    - Terminator: https://civitai.com/models/870298/skynet-cyberdyne-systems-by-chronoknight-flux
   - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
   - Icon Maker: https://civitai.com/models/722531
   - Oil Painting: https://civitai.com/models/723141
@@ -804,6 +816,23 @@
   - Toy Box: https://civitai.com/models/842114/toy-box-flux
   - Gorillaz: https://civitai.com/models/838390/gorillaz-style-flux
   - Ghibsky: https://huggingface.co/aleksa-codes/flux-ghibsky-illustration
+  - Fondart: https://civitai.com/models/871367/fondart
+  - Voodoo Dolls: https://civitai.com/models/871481
+  - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
+  - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
+  - Paper: https://civitai.com/models/873875/wizards-paper-model-universe
+  - Vintage Comic: https://civitai.com/models/210095?modelVersionId=967399
+  - Weird Things: https://civitai.com/models/867179/weird-things-flux
+  - Mythoscape Painting: https://civitai.com/models/863789
+  - Mechanical Insects: https://civitai.com/models/802361/mechanical-insects
+  - Comic: https://civitai.com/models/862856
+  - Lego: https://civitai.com/models/858798/better-lego-for-flux-by-chronoknight-flux
+  - Claymotion: https://civitai.com/models/855822/claymotion-f1-claymationstopmotion-style-blend-for-flux
+  - Murano Glass: https://civitai.com/models/853641/murano-glass
+  - Sketch Paint: https://civitai.com/models/851965/sketch-paint-flux
+  - Cracked: https://civitai.com/models/838572/flux-cracked-or-cracked-skin-and-surface
+  - Circle shaped: https://civitai.com/models/854366/fluxshaped
+  - Digital harmony: https://civitai.com/models/850806/flux-digital-harmony-or-rendered-painting-style
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -811,8 +840,9 @@
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
   - JoyCaption 
-    - https://huggingface.co/Wi-zz/joy-caption-pre-alpha
-    - https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
+    - Model: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
+    - ComfyUI workflow: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
+    - Batch script: https://github.com/MNeMoNiCuZ/joy-caption-batch
   - Prompt Quill: https://github.com/osi1880vr/prompt_quill
   - Photo File Names Wildcards: https://civitai.com/models/830154
   - Artist Styles Gallery: https://enragedantelope.github.io/Styles-FluxDev/
@@ -824,6 +854,8 @@
     - Modular: https://civitai.com/models/642589
     - Big Workflow: https://civitai.com/models/618578/flux-dev-hi-res-fix-img2img-in-and-out-paint-wildcards-loras-upscaler?modelVersionId=693048
     - Outpaint: https://openart.ai/workflows/myaiforce/M3OEFh46Ojtb6RcdOCsI
+    - VALHALLA (minimalistic workflow and fast generation): https://civitai.com/models/818589/flux-valhalla
+    - Clean workflow: https://civitai.com/models/698637?modelVersionId=781746
   - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
   - LORA training
     - Tools
@@ -885,6 +917,7 @@
 - Google's AlphaChip: https://github.com/google-research/circuit_training
 - Apple's Depth Pro: https://github.com/apple/ml-depth-pro
 - List of popular txt2img generative models: https://github.com/vladmandic/automatic/wiki/Models
+- ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
 
 ## Reports and Articles and Sources
 
