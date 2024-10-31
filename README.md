@@ -79,7 +79,7 @@
     - Coder: https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
     - Uncensored Model: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
 
-- Misc
+- More
   - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
   - Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
   - BigTranslate: https://github.com/ZNLP/BigTranslate
@@ -91,6 +91,7 @@
   - Cohere
     - Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
     - Command-R 08-2024: https://huggingface.co/bartowski/c4ai-command-r-08-2024-GGUF
+    - Aya Expanse: https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-671a83d6b2c07c692beab3c3
   - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
   - IBM's Granite: https://github.com/ibm-granite/granite-code-models
   - AutoCoder: https://github.com/bin123apple/AutoCoder
@@ -125,6 +126,7 @@
       - https://huggingface.co/nvidia/Mistral-NeMo-12B-Instruct
     - NeMo Minitron 8B (pruned & distilled)
       - https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base
+    - Ministral 8B Instruct: https://huggingface.co/mistralai/Ministral-8B-Instruct-2410
   - Apple
     - Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
     - Core ML Gallery of on-device models: https://huggingface.co/apple
@@ -155,7 +157,9 @@
     - Qwen-VL2
       - https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
       - https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
-  - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
+  - DeepSeek
+    - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
+    - Janus 1.3B: https://huggingface.co/deepseek-ai/Janus-1.3B
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
   - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
   - Microsoft
@@ -875,49 +879,56 @@
 <sup><sub>[back to top](#toc)</sub></sup>
 
 ### Animation - Video - 3D - Other
-- AnimateDiff
-  - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
-  - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
-  - ComfyUI Guide: https://civitai.com/articles/2379
-  - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
-  - AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
-  - AnimateDiff Video Tutorial: https://www.youtube.com/watch?v=Gz9pT2CwdoI
-- ToonCrafter: https://github.com/ToonCrafter/ToonCrafter
-- LVCD: Reference-based Lineart Video Colorization with Diffusion Models: https://github.com/luckyhzt/LVCD
-- Video face swap: https://github.com/s0md3v/roop
-- FaceFusion (3.0.0)
-  - Github: https://github.com/facefusion/facefusion
-  - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
-- Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
-- Pixart
-  - alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
-  - sigma: https://github.com/PixArt-alpha/PixArt-sigma
-- How to use Midjourney to design a brand identity: https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/
-- Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
-- ClioBot: https://github.com/herval/cliobot
-- InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
-- Open-Sora: https://github.com/hpcaitech/Open-Sora
-- BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
-- Blog around image detection techniques: https://blog.roboflow.com/
-- WildGaussians: https://github.com/jkulhanek/wild-gaussians/
-- CogVideoX
-  - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
-  - CogVideoX-5b-I2V: https://huggingface.co/THUDM/CogVideoX-5b-I2V
-  - CogView3 (distilled): https://github.com/THUDM/CogView3
-  - SageAttention (speedup CogVideo gen): https://github.com/thu-ml/SageAttention
-  - I2V workflow
-    - Github: https://github.com/henrique-galimberti/i2v-workflow/blob/main/CogVideoX-I2V-workflow_v2.json
-    - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fqy71b/cogvideoxi2v_updated_workflow
-    - CivitAI: https://civitai.com/models/785908/animate-from-still-using-cogvideox-5b-i2v
-- YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
-- Meta's Segment Anything (SAM)
-  - SAM2: https://github.com/facebookresearch/segment-anything-2
-  - SAM2.1 Release: https://github.com/facebookresearch/sam2
-  - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
-- Google's AlphaChip: https://github.com/google-research/circuit_training
-- Apple's Depth Pro: https://github.com/apple/ml-depth-pro
-- List of popular txt2img generative models: https://github.com/vladmandic/automatic/wiki/Models
-- ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
+- Image generation models
+  - Pixart
+    - alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
+    - sigma: https://github.com/PixArt-alpha/PixArt-sigma
+- Image manipulation 
+  - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
+  - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
+  - FaceFusion (3.0.0)
+    - Github: https://github.com/facefusion/facefusion
+    - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
+- Image classification / Object detection 
+  - Blog around image detection techniques: https://blog.roboflow.com/
+  - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
+  - Meta's Segment Anything (SAM)
+    - SAM2: https://github.com/facebookresearch/segment-anything-2
+    - SAM2.1 Release: https://github.com/facebookresearch/sam2
+    - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
+- 3D
+  - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
+  - Apple's Depth Pro: https://github.com/apple/ml-depth-pro
+  - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
+- Video generation models
+  - AnimateDiff
+    - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
+    - AnimateDiff CLI Prompt Travel: https://github.com/s9roll7/animatediff-cli-prompt-travel
+    - ComfyUI Guide: https://civitai.com/articles/2379
+    - ComfyUI Node Setup: https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
+    - AnimateDiff-Lightning: https://huggingface.co/ByteDance/AnimateDiff-Lightning
+    - AnimateDiff Video Tutorial: https://www.youtube.com/watch?v=Gz9pT2CwdoI
+  - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
+  - Open-Sora: https://github.com/hpcaitech/Open-Sora
+  - ToonCrafter: https://github.com/ToonCrafter/ToonCrafter
+  - LVCD: Reference-based Lineart Video Colorization with Diffusion Models: https://github.com/luckyhzt/LVCD
+  - CogVideoX
+    - CogVideoX-5b: https://huggingface.co/THUDM/CogVideoX-5b
+    - CogVideoX-5b-I2V: https://huggingface.co/THUDM/CogVideoX-5b-I2V
+    - CogView3 (distilled): https://github.com/THUDM/CogView3
+    - SageAttention (speedup CogVideo gen): https://github.com/thu-ml/SageAttention
+    - I2V workflow
+      - Github: https://github.com/henrique-galimberti/i2v-workflow/blob/main/CogVideoX-I2V-workflow_v2.json
+      - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fqy71b/cogvideoxi2v_updated_workflow
+      - CivitAI: https://civitai.com/models/785908/animate-from-still-using-cogvideox-5b-i2v
+    - Genmo - Mochi 1: https://github.com/genmoai/models
+    - Rhymes - AI Allegro: https://huggingface.co/rhymes-ai/Allegro
+- Video manipulation
+  - Video face swap: https://github.com/s0md3v/roop
+- Misc
+  - List of popular txt2img generative models: https://github.com/vladmandic/automatic/wiki/Models
+  - ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
+  - Google's AlphaChip: https://github.com/google-research/circuit_training
 
 ## Reports and Articles and Sources
 
