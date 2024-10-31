@@ -705,6 +705,8 @@
     - GGUF quants: https://huggingface.co/city96/FLUX.1-dev-gguf
   - Schnell: https://huggingface.co/black-forest-labs/FLUX.1-schnell
   - Turbo Alpha: https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha
+  - Pixelwave: https://civitai.com/models/141592/pixelwave
+  - Pixelwave Schnell: https://civitai.com/models/141592?modelVersionId=1002647
 - LORAs
   - Gaming styles
     - N64: https://civitai.com/models/660136?modelVersionId=738680
@@ -728,7 +730,7 @@
     - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
     - RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
     - Sameface Fix: https://civitai.com/models/766608/sameface-fix-flux-lora
-    - Amateur Photography v5: https://civitai.com/models/652699?modelVersionId=901587
+    - Amateur Photography v6: https://civitai.com/models/652699/amateur-photography-flux-dev
     - UltraRealistic v1.2: https://civitai.com/models/796382?modelVersionId=940466
     - 90s Asian look photography: https://civitai.com/models/834837?modelVersionId=934017
     - Human Photo: https://civitai.com/models/790722?modelVersionId=884240
@@ -736,7 +738,16 @@
     - Chernobyl: https://civitai.com/models/844519?modelVersionId=944817
     - Diversity: https://civitai.com/models/119376?modelVersionId=808809
     - 1999 Digital Camera Style: https://civitai.com/models/724495
-  - Cinema / TV
+    - RealAestheticSpectrum: https://civitai.com/models/878945?modelVersionId=983977
+    - JWST Deep Space: https://civitai.com/models/727592
+    - NASA raw images: https://civitai.com/models/883941?modelVersionId=989482
+    - NASA Astrophotography: https://civitai.com/models/890536?modelVersionId=996539
+    - Colourized America in the 50s: https://civitai.com/models/892014
+    - Body Worlds: https://civitai.com/models/777158
+    - Fondart: https://civitai.com/models/871367/fondart
+    - Then and Now: https://civitai.com/models/896697
+    - Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
+  - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
     - Dark Fantasy 80s: https://civitai.com/models/671094?modelVersionId=751285
@@ -759,84 +770,89 @@
     - Tron Legacy: https://civitai.com/models/700761?modelVersionId=784086
     - Cartoon 3D Render: https://civitai.com/models/871472?modelVersionId=975467
     - Terminator: https://civitai.com/models/870298/skynet-cyberdyne-systems-by-chronoknight-flux
-  - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
+    - 80s Fisher Price: https://civitai.com/models/749320
+    - Retro Ad: https://civitai.com/models/827395?modelVersionId=925301
+    - Lego: https://civitai.com/models/858798/better-lego-for-flux-by-chronoknight-flux
+    - 70s SciFi: https://civitai.com/models/824478/70s-scifi-style-by-chronoknight-flux
+    - Gorillaz: https://civitai.com/models/838390/gorillaz-style-flux
+    - IKEA Instructions: https://civitai.com/models/790332/ikea-instructions-style-flux
+    - Topcraft Watercolor Animation: https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft
+    - Old-school cartoon: https://civitai.com/models/694273/old-school-cartoon-style-for-flux?modelVersionId=776973
+    - Comic: https://civitai.com/models/862856
+    - Vintage Comic: https://civitai.com/models/210095?modelVersionId=967399
+    - Retro Comic: https://civitai.com/models/806568
+    - Neurocore Anime Cyberpunk: https://civitai.com/models/903057
+    - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
+    - Early Heights Cover Art: https://civitai.com/models/821462/everly-heights-cover-art-flux
+    - PsyPop70: https://civitai.com/models/810966/psypop70
+    - Brauncore: https://civitai.com/models/704017/brauncore-style
+    - Ghibsky: https://huggingface.co/aleksa-codes/flux-ghibsky-illustration
+  - Materials
+    - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
+    - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
+    - Gemstone Crafter: https://civitai.com/models/893965/gemstone-crafter-by-chronoknight-flux
+    - Paper: https://civitai.com/models/873875/wizards-paper-model-universe
+    - Murano Glass: https://civitai.com/models/853641/murano-glass
+    - Sculpture: https://civitai.com/models/897312
+    - Handpainted Miniature: https://civitai.com/models/685433/handpainted-miniature
+    - Claymotion: https://civitai.com/models/855822/claymotion-f1-claymationstopmotion-style-blend-for-flux
+    - Iced Out Diamonds: https://civitai.com/models/819754/iced-out-diamonds-by-chronoknight-flux
+    - Copper Wire: https://civitai.com/models/797834/hszdcopper-or-art-copper-wire-style?modelVersionId=892313
+    - Cracked: https://civitai.com/models/838572/flux-cracked-or-cracked-skin-and-surface
+    - Toy Box: https://civitai.com/models/842114/toy-box-flux
+  - Painting / Drawing
+    - Oil Painting: https://civitai.com/models/723141
+    - Golden Hagaddah: https://civitai.com/models/746220
+    - How2Draw: https://huggingface.co/glif/how2draw
+    - Coloring Book: https://civitai.com/models/794953/coloring-book-flux
+    - Gesture Drawing: https://civitai.com/models/771610/gesture-draw
+    - Dashed Line Drawing: https://civitai.com/models/724476
+    - Tarot: https://huggingface.co/multimodalart/flux-tarot-v1
+    - Only paint red: https://civitai.com/models/682797/i-only-paint-in-red
+    - Sketch: https://civitai.com/models/802807/sketch-art
+    - Impressionist Landscape: https://civitai.com/models/640459/impressionist-landscape-lora-for-flux
+    - Black & White: https://civitai.com/models/679352/wraith-bandw-flux
+    - Finnish Symbolism: https://civitai.com/models/699621/finnish-symbolism-art
+    - Sketch Paint: https://civitai.com/models/851965/sketch-paint-flux
+    - Mythoscape Painting: https://civitai.com/models/863789
+    - Ayahuasca Dreams (Pablo Amaringo): https://civitai.com/models/806379?modelVersionId=901633
+    - Yoshitoshi Moon: https://civitai.com/models/786783
+    - Ernst Haeckel: https://civitai.com/models/686747/ernst-haeckel-style
+    - Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
+    - Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
+    - Pencil: https://civitai.com/models/737141
   - Icon Maker: https://civitai.com/models/722531
-  - Oil Painting: https://civitai.com/models/723141
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
-  - Golden Hagaddah: https://civitai.com/models/746220
-  - JWST Deep Space: https://civitai.com/models/727592
-  - Topcraft Watercolor Animation: https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
-  - How2Draw: https://huggingface.co/glif/how2draw
-  - Coloring Book: https://civitai.com/models/794953/coloring-book-flux
   - Simple Vector: https://civitai.com/models/785122/simple-vector-flux
-  - Retro Comic: https://civitai.com/models/806568
-  - Ayahuasca Dreams (Pablo Amaringo): https://civitai.com/models/806379?modelVersionId=901633
-  - Retro Ad: https://civitai.com/models/827395?modelVersionId=925301
-  - 70s SciFi: https://civitai.com/models/824478/70s-scifi-style-by-chronoknight-flux
-  - Early Heights Cover Art: https://civitai.com/models/821462/everly-heights-cover-art-flux
-  - Iced Out Diamonds: https://civitai.com/models/819754/iced-out-diamonds-by-chronoknight-flux
   - Neon Retrowave: https://civitai.com/models/816857/neon-retrowave-by-chronoknight-flux
   - Shepard Fairey: https://civitai.com/models/810119?modelVersionId=905918
-  - PsyPop70: https://civitai.com/models/810966/psypop70
-  - Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
-  - Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
-  - IKEA Instructions: https://civitai.com/models/790332/ikea-instructions-style-flux
   - Winamp Skin: https://civitai.com/models/800133/winamp-skin
   - VST Plugins: https://civitai.com/models/768491/vst-plugins
-  - Copper Wire: https://civitai.com/models/797834/hszdcopper-or-art-copper-wire-style?modelVersionId=892313
   - Vintage Romance: https://civitai.com/models/248587
-  - Handpainted Miniature: https://civitai.com/models/685433/handpainted-miniature
-  - Yoshitoshi Moon: https://civitai.com/models/786783
   - Elektroschutz: https://civitai.com/models/775046/elektroschutz
   - Kurzgesagt: https://civitai.com/models/777200/kurzgesagt-art-style-flux?modelVersionId=869226
-  - Body Worlds: https://civitai.com/models/777158
   - Metal Skulls: https://civitai.com/models/769303
-  - Gesture Drawing: https://civitai.com/models/771610/gesture-draw
   - WPAP: https://civitai.com/models/768696
   - Aethereal: https://civitai.com/models/726513/aethereal-flux-fast-4-step-flux-lora
-  - Dashed Line Drawing: https://civitai.com/models/724476
   - Luminous Shadowscape: https://civitai.com/models/707312
-  - Brauncore: https://civitai.com/models/704017/brauncore-style
   - Geometric Shapes: https://civitai.com/models/703939/geometric-shapes
-  - Ernst Haeckel: https://civitai.com/models/686747/ernst-haeckel-style
   - EarthKids: https://civitai.com/models/749780
-  - 80s Fisher Price: https://civitai.com/models/749320
-  - Pencil: https://civitai.com/models/737141
-  - Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
   - Vintage Tattoo: https://civitai.com/models/726890/old-schoolvintage-tattoo-style-for-flux
   - 4 Step: https://civitai.com/models/686704?modelVersionId=768584
   - Zombify: https://civitai.com/models/668227?modelVersionId=748025
-  - Tarot: https://huggingface.co/multimodalart/flux-tarot-v1
-  - Old-school cartoon: https://civitai.com/models/694273/old-school-cartoon-style-for-flux?modelVersionId=776973
-  - Only paint red: https://civitai.com/models/682797/i-only-paint-in-red
-  - Sketch: https://civitai.com/models/802807/sketch-art
-  - Impressionist Landscape: https://civitai.com/models/640459/impressionist-landscape-lora-for-flux
-  - Black & White: https://civitai.com/models/679352/wraith-bandw-flux
-  - Finnish Symbolism: https://civitai.com/models/699621/finnish-symbolism-art
   - Waterworld: https://civitai.com/models/829944/water-world-by-chronoknight-flux
   - Barcoded: https://civitai.com/models/837782/ororbarcodedoror
   - Animorph: https://civitai.com/models/822077
-  - Toy Box: https://civitai.com/models/842114/toy-box-flux
-  - Gorillaz: https://civitai.com/models/838390/gorillaz-style-flux
-  - Ghibsky: https://huggingface.co/aleksa-codes/flux-ghibsky-illustration
-  - Fondart: https://civitai.com/models/871367/fondart
   - Voodoo Dolls: https://civitai.com/models/871481
-  - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
-  - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
-  - Paper: https://civitai.com/models/873875/wizards-paper-model-universe
-  - Vintage Comic: https://civitai.com/models/210095?modelVersionId=967399
   - Weird Things: https://civitai.com/models/867179/weird-things-flux
-  - Mythoscape Painting: https://civitai.com/models/863789
   - Mechanical Insects: https://civitai.com/models/802361/mechanical-insects
-  - Comic: https://civitai.com/models/862856
-  - Lego: https://civitai.com/models/858798/better-lego-for-flux-by-chronoknight-flux
-  - Claymotion: https://civitai.com/models/855822/claymotion-f1-claymationstopmotion-style-blend-for-flux
-  - Murano Glass: https://civitai.com/models/853641/murano-glass
-  - Sketch Paint: https://civitai.com/models/851965/sketch-paint-flux
-  - Cracked: https://civitai.com/models/838572/flux-cracked-or-cracked-skin-and-surface
   - Circle shaped: https://civitai.com/models/854366/fluxshaped
   - Digital harmony: https://civitai.com/models/850806/flux-digital-harmony-or-rendered-painting-style
+  - Digital abstraction: https://civitai.com/models/891762/digital-abstraction-by-chronoknight-flux
+  - hyperkraximalism: https://civitai.com/models/896472
+  - Sparklecraft: https://civitai.com/models/894283?modelVersionId=1000740
+  - ROYGBIV: https://civitai.com/models/885049/roygbiv-flux
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
