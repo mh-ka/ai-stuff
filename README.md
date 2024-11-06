@@ -102,6 +102,9 @@
   - Yi-Coder 9B: https://huggingface.co/01-ai/Yi-Coder-9B-Chat
   - Jina Embeddings v3: https://huggingface.co/jinaai/jina-embeddings-v3
   - Microsoft's GRIN-MoE: https://huggingface.co/microsoft/GRIN-MoE
+  - SuperNova-Medius (distillation merge between Qwen and Llama)
+    - https://huggingface.co/arcee-ai/SuperNova-Medius
+    - https://huggingface.co/bartowski/SuperNova-Medius-GGUF 
 
 - Small sized
   - Microsoft
@@ -268,6 +271,9 @@
 - Surya (OCR): https://github.com/VikParuchuri/surya
 - Open Canvas: https://github.com/langchain-ai/open-canvas
 - Foyle (engineer assistant as VSCode extension): https://foyle.io/docs/overview/
+- GPT-boosted Brainstorming Techniques: https://github.com/Azzedde/brainstormers
+- BlahST (easy Speech2Text on Linux): https://github.com/QuantiusBenignus/BlahST
+- ActuosusAI (chat interaction with word probabilities): https://github.com/TC-Zheng/ActuosusAI
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -453,6 +459,7 @@
 - GPT-SoVITS-WebUI: https://github.com/RVC-Boss/GPT-SoVITS
 - Example script for text to voice: https://github.com/dynamiccreator/voice-text-reader
 - F5 TTS: https://github.com/SWivid/F5-TTS
+- MaskGCT: https://huggingface.co/amphion/MaskGCT
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -725,6 +732,8 @@
     - WoW: https://civitai.com/models/825503/prealphawowparpflux
     - Amiga: https://civitai.com/models/875790?modelVersionId=980423
     - Adventure: https://civitai.com/models/870057?modelVersionId=973777
+    - Metal Gear Solid: https://civitai.com/models/914543/metal-gear-solid-by-chronoknight-flux
+    - Full Throttle: https://civitai.com/models/916333?modelVersionId=1025621
   - Realistic
     - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
     - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
@@ -747,6 +756,7 @@
     - Fondart: https://civitai.com/models/871367/fondart
     - Then and Now: https://civitai.com/models/896697
     - Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
+    - Dark Gray Photography: https://civitai.com/models/698954/dark-gray-photography?modelVersionId=782092
   - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -787,6 +797,8 @@
     - PsyPop70: https://civitai.com/models/810966/psypop70
     - Brauncore: https://civitai.com/models/704017/brauncore-style
     - Ghibsky: https://huggingface.co/aleksa-codes/flux-ghibsky-illustration
+    - Retro Anime: https://civitai.com/models/721039/retro-anime-flux-style?modelVersionId=806265
+    - Anime Art: https://civitai.com/models/832858/anime-art?modelVersionId=951509
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -853,12 +865,15 @@
   - hyperkraximalism: https://civitai.com/models/896472
   - Sparklecraft: https://civitai.com/models/894283?modelVersionId=1000740
   - ROYGBIV: https://civitai.com/models/885049/roygbiv-flux
+  - Spectral Glow: https://civitai.com/models/898482/zavys-spectral-glow-flux?modelVersionId=1005353
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
   - Flux Gym: https://github.com/cocktailpeanut/fluxgym
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
-  - PuLID ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
+  - PuLID
+    - ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
+    - PuLID v1.1: https://github.com/ToTheBeginning/PuLID/tree/main
   - JoyCaption 
     - Model: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
     - ComfyUI workflow: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
@@ -891,6 +906,7 @@
       - https://civitai.com/articles/7777
       - https://civitai.com/articles/7097/flux-complete-lora-settings-and-dataset-guide-post-mortem-of-two-weeks-of-learning
       - https://weirdwonderfulai.art/tutorial/flux-lora-training-tutorial-by-araminta/
+  - Regional Prompting: https://github.com/instantX-research/Regional-Prompting-FLUX
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
