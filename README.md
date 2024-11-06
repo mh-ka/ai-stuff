@@ -138,7 +138,9 @@
   - Cohere's Aya 23 (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
   - Mistral's 7B-Instruct-v0.3: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
   - Llama3 8B LexiFun Uncensored V1: https://huggingface.co/Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1
-  - Hugging Face's SmolLM: https://huggingface.co/blog/smollm
+  - Hugging Face's SmolLM
+    - v1: https://huggingface.co/blog/smollm
+    - v2: https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9
   - Zyphra
     - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
@@ -178,7 +180,9 @@
     - NVLM-D: https://huggingface.co/nvidia/NVLM-D-72B
   - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
   - Mistral's Pixtral: https://huggingface.co/mistralai/Pixtral-12B-2409
-  - Meta's Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+  - Meta
+    - Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+    - MobileLLM: https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95
   - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
   - Emu3: https://huggingface.co/BAAI/Emu3-Gen
   - GOT OCR 2.0: https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
@@ -274,6 +278,7 @@
 - GPT-boosted Brainstorming Techniques: https://github.com/Azzedde/brainstormers
 - BlahST (easy Speech2Text on Linux): https://github.com/QuantiusBenignus/BlahST
 - ActuosusAI (chat interaction with word probabilities): https://github.com/TC-Zheng/ActuosusAI
+- MiniSearch (LLM based web search): https://github.com/felladrin/MiniSearch
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -652,6 +657,7 @@
     - Lineart Video Colorization: https://github.com/kijai/ComfyUI-LVCDWrapper
     - Lora Auto Trigger Node: https://github.com/idrirap/ComfyUI-Lora-Auto-Trigger-Words
     - Youtube Tutorials: https://www.youtube.com/@CgTopTips
+    - HelloMeme (Face Re-Enactment SD1.5): https://github.com/HelloVision/ComfyUI_HelloMeme/tree/main
   - Automatic1111 Extensions
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -757,6 +763,8 @@
     - Then and Now: https://civitai.com/models/896697
     - Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
     - Dark Gray Photography: https://civitai.com/models/698954/dark-gray-photography?modelVersionId=782092
+    - PleinAirArt: https://huggingface.co/dasdsff/PleinAirArt/tree/main
+    - Sleeveface: https://civitai.com/models/913644/sleeveface?modelVersionId=1022541
   - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -833,6 +841,8 @@
     - Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
     - Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
     - Pencil: https://civitai.com/models/737141
+    - Goya: https://civitai.com/models/823353/goya-flux-classical-painting-style
+    - Classic Paint: https://civitai.com/models/707321/classic-paint?modelVersionId=791162
   - Icon Maker: https://civitai.com/models/722531
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
@@ -891,6 +901,7 @@
     - Outpaint: https://openart.ai/workflows/myaiforce/M3OEFh46Ojtb6RcdOCsI
     - VALHALLA (minimalistic workflow and fast generation): https://civitai.com/models/818589/flux-valhalla
     - Clean workflow: https://civitai.com/models/698637?modelVersionId=781746
+    - Flow (easy user friendly Comfy UI): https://github.com/diStyApps/ComfyUI-disty-Flow
   - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
   - LORA training
     - Tools
