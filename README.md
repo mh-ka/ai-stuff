@@ -104,7 +104,9 @@
   - Microsoft's GRIN-MoE: https://huggingface.co/microsoft/GRIN-MoE
   - SuperNova-Medius (distillation merge between Qwen and Llama)
     - https://huggingface.co/arcee-ai/SuperNova-Medius
-    - https://huggingface.co/bartowski/SuperNova-Medius-GGUF 
+    - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
+  - CodeGeeX4: https://huggingface.co/THUDM/codegeex4-all-9b
+  - Kurage: https://huggingface.co/lightblue/kurage-multilingual
 
 - Small sized
   - Microsoft
@@ -148,7 +150,9 @@
   - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
   - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
   - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
-  - Meta's Llama 3.2 (collection of small models and big vision models): https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+  - Meta
+    - Llama 3.2 (collection of small models and big vision models): https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
+    - MobileLLM: https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95
   - Nvidia's Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
 
 - Multimodal / Vision
@@ -180,9 +184,7 @@
     - NVLM-D: https://huggingface.co/nvidia/NVLM-D-72B
   - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
   - Mistral's Pixtral: https://huggingface.co/mistralai/Pixtral-12B-2409
-  - Meta
-    - Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
-    - MobileLLM: https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95
+  - Meta's Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/
   - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
   - Emu3: https://huggingface.co/BAAI/Emu3-Gen
   - GOT OCR 2.0: https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
@@ -279,6 +281,7 @@
 - BlahST (easy Speech2Text on Linux): https://github.com/QuantiusBenignus/BlahST
 - ActuosusAI (chat interaction with word probabilities): https://github.com/TC-Zheng/ActuosusAI
 - MiniSearch (LLM based web search): https://github.com/felladrin/MiniSearch
+- LynxHub (Local AI Management Hub): https://github.com/KindaBrazy/LynxHub
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
