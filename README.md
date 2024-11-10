@@ -192,6 +192,7 @@
     - https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
     - https://huggingface.co/stepfun-ai/GOT-OCR2_0
   - Aria: https://huggingface.co/rhymes-ai/Aria
+  - Google's Inksight (Hand-writing to text): https://github.com/google-research/inksight/
 
 - List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
 
@@ -282,6 +283,7 @@
 - ActuosusAI (chat interaction with word probabilities): https://github.com/TC-Zheng/ActuosusAI
 - MiniSearch (LLM based web search): https://github.com/felladrin/MiniSearch
 - LynxHub (Local AI Management Hub): https://github.com/KindaBrazy/LynxHub
+- Vulnerability Scanner: https://github.com/protectai/vulnhuntr
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -334,7 +336,8 @@
     - Marker (PDF2Markdown): https://github.com/VikParuchuri/marker
     - PyMPDF
       - https://github.com/pymupdf/PyMuPDF
-      - https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/ 
+      - https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/
+    - Sparrow: https://github.com/katanaml/sparrow
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
   - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
@@ -365,6 +368,8 @@
   - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
   - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
   - Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
+  - Microsoft's OmniParser: https://github.com/microsoft/OmniParser
+  - OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
