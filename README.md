@@ -107,6 +107,7 @@
     - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
   - CodeGeeX4: https://huggingface.co/THUDM/codegeex4-all-9b
   - Kurage: https://huggingface.co/lightblue/kurage-multilingual
+  - Athene V2 (Qwen Fine-Tune): https://huggingface.co/collections/Nexusflow/athene-v2-6735b85e505981a794fb02cc
 
 - Small sized
   - Microsoft
@@ -154,6 +155,7 @@
     - Llama 3.2 (collection of small models and big vision models): https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
     - MobileLLM: https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95
   - Nvidia's Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
+  - OpenCoder: https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -322,6 +324,7 @@
     - Chainlit RAG (hybrid RAG app): https://github.com/agi-dude/chainlit-rag
     - RAG UI: https://github.com/Cinnamon/kotaemon
     - RAG database: https://github.com/neuml/txtai
+    - Search vs. VectorDB: https://blog.elicit.com/search-vs-vector-db/
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
