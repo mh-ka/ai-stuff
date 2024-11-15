@@ -286,6 +286,7 @@
 - MiniSearch (LLM based web search): https://github.com/felladrin/MiniSearch
 - LynxHub (Local AI Management Hub): https://github.com/KindaBrazy/LynxHub
 - Vulnerability Scanner: https://github.com/protectai/vulnhuntr
+- Visual environment for prompt engineering: https://www.chainforge.ai
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
