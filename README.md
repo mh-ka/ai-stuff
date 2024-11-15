@@ -338,6 +338,7 @@
       - https://github.com/pymupdf/PyMuPDF
       - https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/
     - Sparrow: https://github.com/katanaml/sparrow
+    - Extractous: https://github.com/yobix-ai/extractous
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
   - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
