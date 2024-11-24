@@ -156,6 +156,7 @@
     - MobileLLM: https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95
   - Nvidia's Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
   - OpenCoder: https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e
+  - NuExtract 1.5: https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
