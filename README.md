@@ -170,6 +170,7 @@
     - Qwen-VL2
       - https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
       - https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
+    - Qwen2-Audio: https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6
   - DeepSeek
     - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
     - Janus 1.3B: https://huggingface.co/deepseek-ai/Janus-1.3B
@@ -309,6 +310,7 @@
 - Chat with PDF on device: https://github.com/NexaAI/nexa-sdk/tree/main/examples/Chat-with-PDF-locally
 - WritingTools: https://github.com/theJayTea/WritingTools
 - Local preference/recommendation training for data: https://github.com/volotat/Anagnorisis
+- AI video composer: https://huggingface.co/spaces/huggingface-projects/ai-video-composer/blob/main/README.md
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -984,6 +986,7 @@
       - https://weirdwonderfulai.art/tutorial/flux-lora-training-tutorial-by-araminta/
   - Regional Prompting: https://github.com/instantX-research/Regional-Prompting-FLUX
   - In-Context-LORA: https://github.com/ali-vilab/In-Context-LoRA
+  - Qwen2VL-Flux: https://github.com/erwold/qwen2vl-flux
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
