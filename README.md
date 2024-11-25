@@ -62,6 +62,7 @@
 - Mistral
   - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
   - Models on huggingface: https://huggingface.co/mistralai (Codestral, Mathstral, Nemo, Mixtral, Mistral Large etc.)
+  - Uncensored finetune: https://huggingface.co/concedo/Beepo-22B
 
 - DeepSeek
   - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
@@ -77,7 +78,7 @@
   - Qwen2.5
     - Collection: https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
     - Coder: https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
-    - Uncensored Model: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
+    - Uncensored finetune: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
 
 - More
   - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
@@ -204,6 +205,8 @@
 ### Tools around using LLMs
 - Local LLM hosting
   - vLLM (local python library for running models including vision models): https://docs.vllm.ai/en/stable/index.html
+  - koboldcpp: https://github.com/LostRuins/koboldcpp
+  - llama.cpp: https://github.com/ggerganov/llama.cpp
   - LMStudio (local model hosting): https://lmstudio.ai/
   - Nvidia's ChatRTX (local chat with files and image search): https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
   - Jan app (local model hosting): https://jan.ai/
@@ -215,22 +218,24 @@
   - h2oGPT (Private Q&A with your own documents): https://github.com/h2oai/h2ogpt
   - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
   - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one/tree/main)
-  - Opera One Developer (browser with LLMs): https://blogs.opera.com/news/2024/04/ai-feature-drops-local-llms/
   - LocalAI (local server hosting): https://localai.io/
   - LLM CLI tool: https://llm.datasette.io/en/stable/
   - Run Llama3 70B locally: https://simonwillison.net/2024/Apr/22/llama-3/
-  - Perplexica: https://github.com/ItzCrazyKns/Perplexica
-  - Local OSS search engine: https://github.com/Nutlope/turboseek
+  - Search Engines
+    - Perplexica: https://github.com/ItzCrazyKns/Perplexica
+    - OpenPerplex: https://github.com/YassKhazzan/openperplex_backend_os
+    - Perplexideez: https://github.com/brunostjohn/perplexideez
+    - Turboseek: https://github.com/Nutlope/turboseek
   - LibreChat: https://github.com/danny-avila/LibreChat
-  - OpenPerplex: https://github.com/YassKhazzan/openperplex_backend_os
   - Harbor (containerized local LLM hosting): https://github.com/av/harbor
   - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
   - Msty: https://msty.app/
   - Any Device: https://github.com/exo-explore/exo
   - Local AI Assistant: https://github.com/v2rockets/Loyal-Elephie
+  - Distributed Llama: https://github.com/b4rtaz/distributed-llama/
 - Local coding assistance
   - Open Interpreter (local model hosting with code execution and file input): https://github.com/OpenInterpreter/open-interpreter
-  - Tabby (Self-hosted coding assistant): https://tabby.tabbyml.com/docs/getting-started
+  - Tabby (Self-hosted coding assistant): https://github.com/TabbyML/tabby
   - Sweep (AI junior developer): https://github.com/sweepai/sweep
   - GPT-engineer (let GPT write and run code): https://github.com/gpt-engineer-org/gpt-engineer
   - OSS alternative to Devin AI Software Engineer: https://github.com/stitionai/devika
@@ -250,6 +255,8 @@
   - tldraw make-real: https://github.com/tldraw/make-real
   - Codeium: https://codeium.com/
   - Cline: https://github.com/cline/cline
+  - Codai (CLI with RAG): https://github.com/meysamhadeli/codai
+  - LLM code review: https://github.com/lukasrump/crllm
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -271,8 +278,10 @@
 - Open NotebookLM: https://itsfoss.com/open-notebooklm/
 - LlavaImageTagger: https://github.com/jabberjabberjabber/LLavaImageTagger
 - LLM data analytics: https://github.com/yamalight/litlytics
-- LLM powered File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
-- Another File Organizer: https://github.com/AIxHunter/FileWizardAI
+- File Organizer
+  - Local File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
+  - FileWizardAI: https://github.com/AIxHunter/FileWizardAI
+  - Sortify AI: https://github.com/quentin-r37/sortify-ai
 - Clipboard Conqueror: https://github.com/aseichter2007/ClipboardConqueror
 - AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
 - Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
@@ -288,6 +297,10 @@
 - LynxHub (Local AI Management Hub): https://github.com/KindaBrazy/LynxHub
 - Vulnerability Scanner: https://github.com/protectai/vulnhuntr
 - Visual environment for prompt engineering: https://www.chainforge.ai
+- WikiChat: https://github.com/stanford-oval/WikiChat
+- AI Snipping Tool: https://github.com/yannikkellerde/AI-Snip
+- Automated AI Web Researcher: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
+- Image Search: https://github.com/0ssamaak0/CLIPPyX
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -364,6 +377,10 @@
   - Meta's Llama Stack Apps: https://github.com/meta-llama/llama-stack-apps
   - PostgresML AI Stack: https://github.com/postgresml/postgresml
   - Wilmer (LLM Orchestration Middleware): https://github.com/SomeOddCodeGuy/WilmerAI/
+  - LLM API proxy server: https://github.com/yanolja/ogem
+  - ColiVara (RAG alternative using vision models): https://github.com/tjmlabs/ColiVara
+  - OptiLLM (LLM proxy with optimizations): https://github.com/codelion/optillm
+  - Memory management: https://github.com/caspianmoon/memoripy
 
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -376,6 +393,8 @@
   - Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
   - Microsoft's OmniParser: https://github.com/microsoft/OmniParser
   - OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
+  - Arch (prompt gateway): https://github.com/katanemo/archgw
+  - Letta (agents with memory): https://github.com/letta-ai/letta
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
@@ -499,6 +518,7 @@
 - Open VTuber App: https://github.com/t41372/Open-LLM-VTuber
 - Voicechat implementation: https://github.com/lhl/voicechat2
 - Podcastfy: https://github.com/souzatharsis/podcastfy
+- Open ASR Leaderboard: https://huggingface.co/spaces/hf-audio/open_asr_leaderboard
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -571,6 +591,7 @@
     - Pastel: https://civitai.com/models/493874/pastel-photography-franck-bohbot-style-sdxl-10
     - Dreamworks: https://civitai.com/models/188622/essenz-how-to-train-your-dragon-3-the-hidden-world-dreamworks-style-lora-for-sdxl-10
     - Darkest Dungeon: https://civitai.com/models/188582/essenz-darkest-dungeon-chris-bourassa-style-lora-for-sdxl-10
+    - More Darkest Dungeon: https://civitai.com/models/980106?modelVersionId=1097784
     - Jean Giraud/Moebius: https://civitai.com/models/188660/essenz-jean-giraudmoebius-voyage-dhermes-style-lora-for-sdxl-10
     - Makoto Shinkai Anime: https://civitai.com/models/177512/essenz-makoto-shinkai-anime-screencap-your-name-weathering-with-you-suzume-style-lora-for-sdxl-10
     - Better Photography: https://civitai.com/models/198378/essenz-high-quality-heavily-post-processed-photography-style-lora-for-sdxl-10
@@ -608,6 +629,7 @@
     - Hand Drawn Brush Pen: https://civitai.com/models/558635?modelVersionId=621895
     - Marionettes: https://civitai.com/models/150042/marionettes-wooden-carved-puppets-on-strings
     - Claymate: https://civitai.com/models/208168/claymate-claymation-style-for-sdxl
+    - Bread: https://civitai.com/models/278431/bread
   - SD 1.5
     - Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
     - Real Mechanical Parts: https://civitai.com/models/64471?modelVersionId=85371
@@ -657,15 +679,15 @@
       - https://github.com/kijai/ComfyUI-SUPIR
       - https://civitai.com/models/364115/supir-upscale-comfyui
       - https://github.com/camenduru/comfyui-ultralytics-upscaler-tost
-    - InstantID Style Composition workflow: https://civitai.com/models/423960
+    - InstantID Style Composition work: https://civitai.com/models/423960
     - DynamicCrafterWrapper (for ToonCrafter): https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
     - V-Express: https://github.com/AIFSH/ComfyUI_V-Express
     - MusePose: https://github.com/TMElyralab/Comfyui-MusePose
     - VLM Nodes: https://github.com/gokayfem/ComfyUI_VLM_nodes
-    - PixArt Sigma Workflow: https://civitai.com/models/420163
-    - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
-    - AnimateDiff workflow: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworkflows-including-prompt-scheduling-an-inner-reflections-guide
-    - Mega workflow: https://perilli.com/ai/comfyui/
+    - PixArt Sigma Work: https://civitai.com/models/420163
+    - Vid2Vid ComfyUI work: https://openart.ai/works/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
+    - AnimateDiff work: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworks-including-prompt-scheduling-an-inner-reflections-guide
+    - Mega work: https://perilli.com/ai/comfyui/
     - LivePortrait: https://github.com/kijai/ComfyUI-LivePortraitKJ
     - AdvancedLivePortrait: https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
     - Lineart Video Colorization: https://github.com/kijai/ComfyUI-LVCDWrapper
@@ -683,13 +705,13 @@
       - Infos about InstantID: https://github.com/Mikubill/sd-webui-controlnet/discussions/2589 
     - ReActor: https://github.com/Gourieff/sd-webui-reactor
     - Inpaint Anything: https://github.com/Uminosachi/sd-webui-inpaint-anything
-    - OneDiff: https://github.com/siliconflow/onediff/tree/main/onediff_sd_webui_extensions
+    - OneDiff: https://github.com/silicon/onediff/tree/main/onediff_sd_webui_extensions
     - Tabs: https://github.com/Haoming02/sd-webui-tabs-extension
     - Stylez: https://github.com/javsezlol1/Stylez
     - LobeTheme: https://github.com/lobehub/sd-webui-lobe-theme
     - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
   - Create textures with stable diffusion: https://stableprojectorz.com
-  - StoryMaker Workflow/Model: https://huggingface.co/RED-AIGC/StoryMaker
+  - StoryMaker Work/Model: https://huggingface.co/RED-AIGC/StoryMaker
   - FacePoke: https://github.com/jbilcke-hf/FacePoke
   - InvokeAI
     - Github: https://github.com/invoke-ai/InvokeAI
@@ -734,6 +756,9 @@
   - Turbo Alpha: https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha
   - Pixelwave: https://civitai.com/models/141592/pixelwave
   - Pixelwave Schnell: https://civitai.com/models/141592?modelVersionId=1002647
+  - Merges
+    - Jib Mix Flux: https://civitai.com/models/686814/jib-mix-flux?modelVersionId=1028151
+    - Fluxmania: https://civitai.com/models/778691?modelVersionId=1050076
 - LORAs
   - Gaming styles
     - N64: https://civitai.com/models/660136?modelVersionId=738680
@@ -890,6 +915,7 @@
   - Sparklecraft: https://civitai.com/models/894283?modelVersionId=1000740
   - ROYGBIV: https://civitai.com/models/885049/roygbiv-flux
   - Spectral Glow: https://civitai.com/models/898482/zavys-spectral-glow-flux?modelVersionId=1005353
+  - Minimalist Flat Color Illustration: https://civitai.com/models/961950/minimalist-flat-color-illustration-style
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -900,7 +926,7 @@
     - PuLID v1.1: https://github.com/ToTheBeginning/PuLID/tree/main
   - JoyCaption 
     - Model: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
-    - ComfyUI workflow: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
+    - ComfyUI work: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
     - Batch script: https://github.com/MNeMoNiCuZ/joy-caption-batch
   - Prompt Quill: https://github.com/osi1880vr/prompt_quill
   - Photo File Names Wildcards: https://civitai.com/models/830154
@@ -916,6 +942,7 @@
     - VALHALLA (minimalistic workflow and fast generation): https://civitai.com/models/818589/flux-valhalla
     - Clean workflow: https://civitai.com/models/698637?modelVersionId=781746
     - Flow (easy user friendly Comfy UI): https://github.com/diStyApps/ComfyUI-disty-Flow
+    - Collection of simple workflows: https://civitai.com/models/912123/all-simple-workflow-flux-or-upscale-or-lora-or-gguf-or-civitai-metadata
   - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
   - LORA training
     - Tools
@@ -932,6 +959,7 @@
       - https://civitai.com/articles/7097/flux-complete-lora-settings-and-dataset-guide-post-mortem-of-two-weeks-of-learning
       - https://weirdwonderfulai.art/tutorial/flux-lora-training-tutorial-by-araminta/
   - Regional Prompting: https://github.com/instantX-research/Regional-Prompting-FLUX
+  - In-Context-LORA: https://github.com/ali-vilab/In-Context-LoRA
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
