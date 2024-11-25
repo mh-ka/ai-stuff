@@ -149,7 +149,7 @@
     - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
     - Zamba2-7B: https://huggingface.co/Zyphra/Zamba2-7B-Instruct
-  - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device/tree/main
+  - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device
   - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
   - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
   - Meta
@@ -207,6 +207,7 @@
   - vLLM (local python library for running models including vision models): https://docs.vllm.ai/en/stable/index.html
   - koboldcpp: https://github.com/LostRuins/koboldcpp
   - llama.cpp: https://github.com/ggerganov/llama.cpp
+  - llamafile: https://github.com/Mozilla-Ocho/llamafile
   - LMStudio (local model hosting): https://lmstudio.ai/
   - Nvidia's ChatRTX (local chat with files and image search): https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
   - Jan app (local model hosting): https://jan.ai/
@@ -217,7 +218,7 @@
   - GPT4All (local LLM hosting): https://github.com/nomic-ai/gpt4all
   - h2oGPT (Private Q&A with your own documents): https://github.com/h2oai/h2ogpt
   - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
-  - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one/tree/main)
+  - Nextcloud AI assistant: https://docs.nextcloud.com/server/latest/admin_manual/ai/index.html (https://github.com/nextcloud/all-in-one)
   - LocalAI (local server hosting): https://localai.io/
   - LLM CLI tool: https://llm.datasette.io/en/stable/
   - Run Llama3 70B locally: https://simonwillison.net/2024/Apr/22/llama-3/
@@ -264,7 +265,7 @@
 - LogAI (log analytics): https://github.com/salesforce/logai
 - Jupyter AI (jupyter notebook AI assistance): https://github.com/jupyterlab/jupyter-ai
 - LLM CLI Tool: https://llm.datasette.io/en/stable/
-- OCR Tesseract tool (running in browser locally): https://github.com/simonw/tools/tree/main
+- OCR Tesseract tool (running in browser locally): https://github.com/simonw/tools
 - LLM cmd Assistant: https://github.com/simonw/llm-cmd
 - Semgrep (autofix using LLMs): https://choly.ca/post/semgrep-autofix-llm/
 - GPT Investor: https://github.com/mshumer/gpt-investor
@@ -301,6 +302,8 @@
 - AI Snipping Tool: https://github.com/yannikkellerde/AI-Snip
 - Automated AI Web Researcher: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
 - Image Search: https://github.com/0ssamaak0/CLIPPyX
+- Vector Companion: https://github.com/SingularityMan/vector_companion
+- Mikupad (very simple UI): https://github.com/lmg-anon/mikupad
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -423,6 +426,11 @@
   - Abliteration: https://huggingface.co/blog/mlabonne/abliteration
   - Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
   - Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
+  - Quantization Evals: https://neuralmagic.com/blog/we-ran-over-half-a-million-evaluations-on-quantized-llms-heres-what-we-found/
+  - GPU grafana metrics
+    - https://github.com/NVIDIA/dcgm-exporter
+    - https://grafana.com/grafana/dashboards/12239-nvidia-dcgm-exporter-dashboard/
+  - In-browser training playground: https://github.com/trekhleb/homemade-gpt-js
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -693,7 +701,7 @@
     - Lineart Video Colorization: https://github.com/kijai/ComfyUI-LVCDWrapper
     - Lora Auto Trigger Node: https://github.com/idrirap/ComfyUI-Lora-Auto-Trigger-Words
     - Youtube Tutorials: https://www.youtube.com/@CgTopTips
-    - HelloMeme (Face Re-Enactment SD1.5): https://github.com/HelloVision/ComfyUI_HelloMeme/tree/main
+    - HelloMeme (Face Re-Enactment SD1.5): https://github.com/HelloVision/ComfyUI_HelloMeme
   - Automatic1111 Extensions
     - CADS (diversity): https://github.com/v0xie/sd-webui-cads
     - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
@@ -724,6 +732,7 @@
   /LwT4AB8wEtKQilrjq2G8
   - FastSD CPU: https://github.com/rupeshs/fastsdcpu
   - Face similarity analysis for ComfyUI: https://github.com/cubiq/ComfyUI_FaceAnalysis
+  - civitai green: https://civitai.green/
   - Hints, lists and collections
     - SD Tutorials https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
     - Prompt Engineering Tools: https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
@@ -756,6 +765,7 @@
   - Turbo Alpha: https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha
   - Pixelwave: https://civitai.com/models/141592/pixelwave
   - Pixelwave Schnell: https://civitai.com/models/141592?modelVersionId=1002647
+  - AnimePro: https://civitai.com/models/934628?modelVersionId=1053818
   - Merges
     - Jib Mix Flux: https://civitai.com/models/686814/jib-mix-flux?modelVersionId=1028151
     - Fluxmania: https://civitai.com/models/778691?modelVersionId=1050076
@@ -785,7 +795,7 @@
     - RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
     - Sameface Fix: https://civitai.com/models/766608/sameface-fix-flux-lora
     - Amateur Photography v6: https://civitai.com/models/652699/amateur-photography-flux-dev
-    - UltraRealistic v1.2: https://civitai.com/models/796382?modelVersionId=940466
+    - UltraRealistic v2: https://civitai.com/models/796382?modelVersionId=1026423
     - 90s Asian look photography: https://civitai.com/models/834837?modelVersionId=934017
     - Human Photo: https://civitai.com/models/790722?modelVersionId=884240
     - Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
@@ -802,8 +812,9 @@
     - Then and Now: https://civitai.com/models/896697
     - Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
     - Dark Gray Photography: https://civitai.com/models/698954/dark-gray-photography?modelVersionId=782092
-    - PleinAirArt: https://huggingface.co/dasdsff/PleinAirArt/tree/main
+    - PleinAirArt: https://huggingface.co/dasdsff/PleinAirArt
     - Sleeveface: https://civitai.com/models/913644/sleeveface?modelVersionId=1022541
+    - Mall Portraits: https://civitai.com/models/929971/mall-portraits-1979
   - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -837,7 +848,7 @@
     - Old-school cartoon: https://civitai.com/models/694273/old-school-cartoon-style-for-flux?modelVersionId=776973
     - Comic: https://civitai.com/models/862856
     - Vintage Comic: https://civitai.com/models/210095?modelVersionId=967399
-    - Retro Comic: https://civitai.com/models/806568
+    - Retro Comic: https://civitai.com/models/806568/retro-comic-flux
     - Neurocore Anime Cyberpunk: https://civitai.com/models/903057
     - Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
     - Early Heights Cover Art: https://civitai.com/models/821462/everly-heights-cover-art-flux
@@ -882,6 +893,8 @@
     - Pencil: https://civitai.com/models/737141
     - Goya: https://civitai.com/models/823353/goya-flux-classical-painting-style
     - Classic Paint: https://civitai.com/models/707321/classic-paint?modelVersionId=791162
+    - Engelbert: https://civitai.com/models/949095/johannes-frederik-engelbert-ten-klooster-style
+    - Abstract Pastels: https://huggingface.co/glif-loradex-trainer/maxxd4240_AbstractPastels
   - Icon Maker: https://civitai.com/models/722531
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
@@ -916,6 +929,7 @@
   - ROYGBIV: https://civitai.com/models/885049/roygbiv-flux
   - Spectral Glow: https://civitai.com/models/898482/zavys-spectral-glow-flux?modelVersionId=1005353
   - Minimalist Flat Color Illustration: https://civitai.com/models/961950/minimalist-flat-color-illustration-style
+  - NewFantasyCore: https://civitai.com/models/810000/new-fantasy-core-flux-pony
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -923,7 +937,7 @@
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID
     - ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
-    - PuLID v1.1: https://github.com/ToTheBeginning/PuLID/tree/main
+    - PuLID v1.1: https://github.com/ToTheBeginning/PuLID
   - JoyCaption 
     - Model: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
     - ComfyUI workflow: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
@@ -933,7 +947,7 @@
   - Artist Styles Gallery: https://enragedantelope.github.io/Styles-FluxDev/
   - Style Cheatsheet: https://cheatsheet.strea.ly/
   - Workflows
-    - Simple ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows/tree/main
+    - Simple ComfyUI Workflow: https://github.com/Wonderflex/WonderflexComfyWorkflows
     - Another simple one: https://www.reddit.com/r/StableDiffusion/comments/1ewdllh/simple_comfyui_flux_workflows_v2_for_q8q5q4_models/
     - More simple ones: https://civitai.com/models/664346?modelVersionId=766185
     - Modular: https://civitai.com/models/642589
