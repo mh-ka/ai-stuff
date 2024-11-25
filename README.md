@@ -227,6 +227,8 @@
     - OpenPerplex: https://github.com/YassKhazzan/openperplex_backend_os
     - Perplexideez: https://github.com/brunostjohn/perplexideez
     - Turboseek: https://github.com/Nutlope/turboseek
+    - MiniSearch: https://github.com/felladrin/MiniSearch
+    - LLM websearch (very basic): https://github.com/Jay4242/llm-websearch
   - LibreChat: https://github.com/danny-avila/LibreChat
   - Harbor (containerized local LLM hosting): https://github.com/av/harbor
   - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
@@ -304,6 +306,9 @@
 - Image Search: https://github.com/0ssamaak0/CLIPPyX
 - Vector Companion: https://github.com/SingularityMan/vector_companion
 - Mikupad (very simple UI): https://github.com/lmg-anon/mikupad
+- Chat with PDF on device: https://github.com/NexaAI/nexa-sdk/tree/main/examples/Chat-with-PDF-locally
+- WritingTools: https://github.com/theJayTea/WritingTools
+- Local preference/recommendation training for data: https://github.com/volotat/Anagnorisis
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -343,6 +348,7 @@
     - RAG UI: https://github.com/Cinnamon/kotaemon
     - RAG database: https://github.com/neuml/txtai
     - Search vs. VectorDB: https://blog.elicit.com/search-vs-vector-db/
+    - Chunking library: https://github.com/bhavnicksm/chonkie
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -527,6 +533,9 @@
 - Voicechat implementation: https://github.com/lhl/voicechat2
 - Podcastfy: https://github.com/souzatharsis/podcastfy
 - Open ASR Leaderboard: https://huggingface.co/spaces/hf-audio/open_asr_leaderboard
+- Ebook2audiobook: https://github.com/DrewThomasson/ebook2audiobookpiper-tts
+- Voice Conversion: https://github.com/IAHispano/Applio
+- TTS comparison: https://tts.x86.st/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -724,6 +733,7 @@
   - InvokeAI
     - Github: https://github.com/invoke-ai/InvokeAI
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1focbhe/invoke_50_massive_update_introducing_a_new_canvas/
+  - IntraPaint: https://github.com/centuryglass/IntraPaint
 
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
@@ -995,6 +1005,7 @@
     - SAM2: https://github.com/facebookresearch/segment-anything-2
     - SAM2.1 Release: https://github.com/facebookresearch/sam2
     - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
+  - BEN (remove backgrounds): https://huggingface.co/PramaLLC/BEN
 - 3D
   - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
   - Apple's Depth Pro: https://github.com/apple/ml-depth-pro
