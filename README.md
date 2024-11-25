@@ -679,15 +679,15 @@
       - https://github.com/kijai/ComfyUI-SUPIR
       - https://civitai.com/models/364115/supir-upscale-comfyui
       - https://github.com/camenduru/comfyui-ultralytics-upscaler-tost
-    - InstantID Style Composition work: https://civitai.com/models/423960
+    - InstantID Style Composition workflow: https://civitai.com/models/423960
     - DynamicCrafterWrapper (for ToonCrafter): https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
     - V-Express: https://github.com/AIFSH/ComfyUI_V-Express
     - MusePose: https://github.com/TMElyralab/Comfyui-MusePose
     - VLM Nodes: https://github.com/gokayfem/ComfyUI_VLM_nodes
-    - PixArt Sigma Work: https://civitai.com/models/420163
-    - Vid2Vid ComfyUI work: https://openart.ai/works/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
-    - AnimateDiff work: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworks-including-prompt-scheduling-an-inner-reflections-guide
-    - Mega work: https://perilli.com/ai/comfyui/
+    - PixArt Sigma Workflow: https://civitai.com/models/420163
+    - Vid2Vid ComfyUI workflow: https://openart.ai/workflows/elephant_present_36/vid2vid_animatediff-hires-fix-face-detailer-hand-detailer-upscaler-mask-editor
+    - AnimateDiff workflow: https://civitai.com/articles/2379/guide-comfyui-animatediff-guideworkflows-including-prompt-scheduling-an-inner-reflections-guide
+    - Mega workflow: https://perilli.com/ai/comfyui/
     - LivePortrait: https://github.com/kijai/ComfyUI-LivePortraitKJ
     - AdvancedLivePortrait: https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
     - Lineart Video Colorization: https://github.com/kijai/ComfyUI-LVCDWrapper
@@ -705,13 +705,13 @@
       - Infos about InstantID: https://github.com/Mikubill/sd-webui-controlnet/discussions/2589 
     - ReActor: https://github.com/Gourieff/sd-webui-reactor
     - Inpaint Anything: https://github.com/Uminosachi/sd-webui-inpaint-anything
-    - OneDiff: https://github.com/silicon/onediff/tree/main/onediff_sd_webui_extensions
+    - OneDiff: https://github.com/siliconflow/onediff/tree/main/onediff_sd_webui_extensions
     - Tabs: https://github.com/Haoming02/sd-webui-tabs-extension
     - Stylez: https://github.com/javsezlol1/Stylez
     - LobeTheme: https://github.com/lobehub/sd-webui-lobe-theme
     - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
   - Create textures with stable diffusion: https://stableprojectorz.com
-  - StoryMaker Work/Model: https://huggingface.co/RED-AIGC/StoryMaker
+  - StoryMaker Workflow/Model: https://huggingface.co/RED-AIGC/StoryMaker
   - FacePoke: https://github.com/jbilcke-hf/FacePoke
   - InvokeAI
     - Github: https://github.com/invoke-ai/InvokeAI
@@ -926,7 +926,7 @@
     - PuLID v1.1: https://github.com/ToTheBeginning/PuLID/tree/main
   - JoyCaption 
     - Model: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
-    - ComfyUI work: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
+    - ComfyUI workflow: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
     - Batch script: https://github.com/MNeMoNiCuZ/joy-caption-batch
   - Prompt Quill: https://github.com/osi1880vr/prompt_quill
   - Photo File Names Wildcards: https://civitai.com/models/830154
