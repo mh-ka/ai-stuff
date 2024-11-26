@@ -199,7 +199,9 @@
   - Aria: https://huggingface.co/rhymes-ai/Aria
   - Google's Inksight (Hand-writing to text): https://github.com/google-research/inksight/
 
-- List of relevant European companies in LLM area: DeepL, Mistral, Silo AI, Aleph Alpha
+- List of relevant European companies in LLM area
+  - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
+  - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
