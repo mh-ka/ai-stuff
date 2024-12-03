@@ -48,6 +48,7 @@
 - A Visual Guide to Mixture of Experts (MoE): https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts
 - Training, Fine-Tuning, Evaluation LLMs: https://www.philschmid.de/
 - Explaining how LLMs work: https://amgadhasan.substack.com/p/explaining-how-llms-work-in-7-levels
+- Everything I learned so far about running local LLMs: https://nullprogram.com/blog/2024/11/10/
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
