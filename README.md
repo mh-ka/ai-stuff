@@ -159,6 +159,7 @@
   - Nvidia's Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
   - OpenCoder: https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e
   - NuExtract 1.5: https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d
+  - Teuken 7B (based on European languages): https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -409,6 +410,7 @@
   - OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
   - Arch (prompt gateway): https://github.com/katanemo/archgw
   - Letta (agents with memory): https://github.com/letta-ai/letta
+  - Microsoft's TinyTroupe: https://github.com/microsoft/TinyTroupe
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
@@ -1016,6 +1018,7 @@
   - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
   - Apple's Depth Pro: https://github.com/apple/ml-depth-pro
   - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
+  - Microsoft's Trellis: https://github.com/microsoft/TRELLIS
 - Video generation models
   - AnimateDiff
     - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
