@@ -1,6 +1,6 @@
-## LLMs
+# LLMs
 
-### Basics
+## Basics
 - What are LLMs: https://ig.ft.com/generative-ai/
 - What are Embeddings: https://simonwillison.net/2023/Oct/23/embeddings/
 - Visualization of how a LLM does work: https://bbycroft.net/llm
@@ -24,7 +24,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### Models
+## Models
 - Meta
   - Llama
     - CodeLLama: https://github.com/facebookresearch/codellama
@@ -179,7 +179,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### Tools around using LLMs
+## Tools around using LLMs
 - Local LLM hosting
   - vLLM (local python library for running models including vision models): https://docs.vllm.ai/en/stable/index.html
   - koboldcpp: https://github.com/LostRuins/koboldcpp
@@ -291,7 +291,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### AI Developer Topics
+## AI Developer Topics
 - Training and Fine-Tuning
   - Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
   - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
@@ -421,7 +421,7 @@
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
-### Evaluation
+## Evaluation
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
