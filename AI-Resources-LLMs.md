@@ -22,7 +22,6 @@
 - Explaining how LLMs work: https://amgadhasan.substack.com/p/explaining-how-llms-work-in-7-levels
 - Everything I learned so far about running local LLMs: https://nullprogram.com/blog/2024/11/10/
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Models
 - Meta
@@ -177,7 +176,6 @@
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
   - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Tools around using LLMs
 - Local LLM hosting
@@ -289,7 +287,6 @@
 - AI video composer: https://huggingface.co/spaces/huggingface-projects/ai-video-composer/blob/main/README.md
 - Ollama, ComfyUI, OpenWebUI on Kubernetes: https://github.com/GoingOffRoading?tab=repositories
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## AI Developer Topics
 - Training and Fine-Tuning
@@ -419,7 +416,6 @@
     - https://grafana.com/grafana/dashboards/12239-nvidia-dcgm-exporter-dashboard/
   - In-browser training playground: https://github.com/trekhleb/homemade-gpt-js
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Evaluation
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
@@ -445,5 +441,3 @@
 - MLE-Bench (Machine Learning tasks benchmark): https://github.com/openai/mle-bench
 - Compliance EU AI Act Framework: https://github.com/compl-ai/compl-ai
 - Open Financial LLM Leaderboard: https://huggingface.co/spaces/finosfoundation/Open-Financial-LLM-Leaderboard
-
-<sup><sub>[back to top](#toc)</sub></sup>
