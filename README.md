@@ -315,6 +315,7 @@
 - WritingTools: https://github.com/theJayTea/WritingTools
 - Local preference/recommendation training for data: https://github.com/volotat/Anagnorisis
 - AI video composer: https://huggingface.co/spaces/huggingface-projects/ai-video-composer/blob/main/README.md
+- Ollama, ComfyUI, OpenWebUI on Kubernetes: https://github.com/GoingOffRoading?tab=repositories
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -355,6 +356,7 @@
     - RAG database: https://github.com/neuml/txtai
     - Search vs. VectorDB: https://blog.elicit.com/search-vs-vector-db/
     - Chunking library: https://github.com/bhavnicksm/chonkie
+    - Open Scholar (research RAG article): https://allenai.org/blog/openscholar
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -492,6 +494,8 @@
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
 - Moonshine: https://github.com/usefulsensors/moonshine
+- Article about Speech recognition (comparisons and insights): https://amgadhasan.substack.com/p/sota-asr-tooling-long-form-transcription
+- DeepFilter for filtering noisy audio: https://github.com/duohub-ai/deepfilter-lambda-container
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
@@ -741,6 +745,7 @@
     - Github: https://github.com/invoke-ai/InvokeAI
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1focbhe/invoke_50_massive_update_introducing_a_new_canvas/
   - IntraPaint: https://github.com/centuryglass/IntraPaint
+  - IOPaint (Inpainting/Outpainting tool): https://github.com/Sanster/IOPaint
 
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
