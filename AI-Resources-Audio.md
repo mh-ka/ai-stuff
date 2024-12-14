@@ -18,7 +18,6 @@
 - Article about Speech recognition (comparisons and insights): https://amgadhasan.substack.com/p/sota-asr-tooling-long-form-transcription
 - DeepFilter for filtering noisy audio: https://github.com/duohub-ai/deepfilter-lambda-container
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## txt2speech and txt2audio
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
@@ -45,13 +44,11 @@
 - F5 TTS: https://github.com/SWivid/F5-TTS
 - MaskGCT: https://huggingface.co/amphion/MaskGCT
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
 - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Other
 - LAION AI Voice Assistant BUD-E: https://github.com/LAION-AI/natural_voice_assistant
@@ -68,5 +65,3 @@
 - Ebook2audiobook: https://github.com/DrewThomasson/ebook2audiobookpiper-tts
 - Voice Conversion: https://github.com/IAHispano/Applio
 - TTS comparison: https://tts.x86.st/
-
-<sup><sub>[back to top](#toc)</sub></sup>
