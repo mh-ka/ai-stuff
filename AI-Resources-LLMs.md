@@ -143,16 +143,21 @@
     - Qwen-VL2
       - https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
       - https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
+    - Qwen2-VL: https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d
     - Qwen2-Audio: https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6
   - DeepSeek
     - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
     - Janus 1.3B: https://huggingface.co/deepseek-ai/Janus-1.3B
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
-  - Google's PaliGemma: https://www.kaggle.com/models/google/paligemma
+  - Google
+    - PaliGemma: https://www.kaggle.com/models/google/paligemma
+    - PaliGemma 2: https://huggingface.co/collections/google/paligemma-2-release-67500e1e1dbfdd4dee27ba48
+    - Inksight (Hand-writing to text): https://github.com/google-research/inksight/
   - Microsoft
     - Florence: https://huggingface.co/collections/microsoft/florence-6669f44df0d87d9c3bfb76de
     - ComfyUI Florence2 Workflow: https://github.com/kijai/ComfyUI-Florence2
     - Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
+    - Florence-VL: https://huggingface.co/jiuhai
   - OpenBMB's MiniCPM
     - V2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
     - V2.6: https://huggingface.co/openbmb/MiniCPM-V-2_6
@@ -170,7 +175,7 @@
     - https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
     - https://huggingface.co/stepfun-ai/GOT-OCR2_0
   - Aria: https://huggingface.co/rhymes-ai/Aria
-  - Google's Inksight (Hand-writing to text): https://github.com/google-research/inksight/
+  - OpenGVLab's InternVL 2.5: https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c
 
 - List of relevant European companies in LLM area
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
@@ -286,6 +291,7 @@
 - Local preference/recommendation training for data: https://github.com/volotat/Anagnorisis
 - AI video composer: https://huggingface.co/spaces/huggingface-projects/ai-video-composer/blob/main/README.md
 - Ollama, ComfyUI, OpenWebUI on Kubernetes: https://github.com/GoingOffRoading?tab=repositories
+- AnnotateAI (paper annotation): https://github.com/neuml/annotateai
 
 
 ## AI Developer Topics
