@@ -811,7 +811,9 @@
     - Adventure: https://civitai.com/models/870057?modelVersionId=973777
     - Metal Gear Solid: https://civitai.com/models/914543/metal-gear-solid-by-chronoknight-flux
     - Full Throttle: https://civitai.com/models/916333?modelVersionId=1025621
+    - Atari 2600: https://civitai.com/models/468237/atari-2600-activision
   - Realistic
+    - RealismLora: https://huggingface.co/XLabs-AI/flux-RealismLora
     - Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
     - iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
     - RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
@@ -837,6 +839,14 @@
     - PleinAirArt: https://huggingface.co/dasdsff/PleinAirArt
     - Sleeveface: https://civitai.com/models/913644/sleeveface?modelVersionId=1022541
     - Mall Portraits: https://civitai.com/models/929971/mall-portraits-1979
+    - Fotochroma Eilers: https://civitai.com/models/951778/fotochroma-eilers
+    - Experimental Photography: https://civitai.com/models/1013496
+    - Glamour Shots 1990: https://civitai.com/models/966996/glamour-shots-1990
+    - Classic Portrait: https://civitai.com/models/1003949/classic-portrait-yousuf-karsh-style
+    - 60s glamour photography: https://civitai.com/models/980893/60s-glamour-photography-slim-aarons-style
+    - 60s portrait photo: https://civitai.com/models/483926/1960s-portrait-photo-david-bailey-style
+    - 80s polaroid photo: https://civitai.com/models/510388/80s-polaroid-photo
+    - Surreal photography: https://civitai.com/models/569271/surreal-photography-neil-krug-style
   - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -879,6 +889,8 @@
     - Ghibsky: https://huggingface.co/aleksa-codes/flux-ghibsky-illustration
     - Retro Anime: https://civitai.com/models/721039/retro-anime-flux-style?modelVersionId=806265
     - Anime Art: https://civitai.com/models/832858/anime-art?modelVersionId=951509
+    - American Propaganda: https://civitai.com/models/586368/american-propaganda-painting-james-montgomery-flagg-style
+    - 50s Pulp: https://civitai.com/models/506081/50s-pulp-rudolph-belarsky-style
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -892,6 +904,7 @@
     - Copper Wire: https://civitai.com/models/797834/hszdcopper-or-art-copper-wire-style?modelVersionId=892313
     - Cracked: https://civitai.com/models/838572/flux-cracked-or-cracked-skin-and-surface
     - Toy Box: https://civitai.com/models/842114/toy-box-flux
+    - PONGO Dough Style: https://civitai.com/models/1008012/pongo-childish-play-dough-style-for-flux
   - Painting / Drawing
     - Oil Painting: https://civitai.com/models/723141
     - Golden Hagaddah: https://civitai.com/models/746220
@@ -917,6 +930,11 @@
     - Classic Paint: https://civitai.com/models/707321/classic-paint?modelVersionId=791162
     - Engelbert: https://civitai.com/models/949095/johannes-frederik-engelbert-ten-klooster-style
     - Abstract Pastels: https://huggingface.co/glif-loradex-trainer/maxxd4240_AbstractPastels
+    - Jakub Rozalski: https://civitai.com/models/767009
+    - Thomas Nast (old political cartoons): https://civitai.com/models/597317/19th-century-political-cartoon-thomas-nast-style
+    - Jean Marc Cote (retro futurism): https://civitai.com/models/498036/19th-century-retro-futurism-jean-marc-cote-style
+    - Milton Glaser: https://civitai.com/models/529473/1960s-graphic-design-milton-glaser-style
+    - Gotlib (satirical comics): https://civitai.com/models/525206/french-1970s-satirical-comics-gotlib-style
   - Icon Maker: https://civitai.com/models/722531
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
@@ -952,6 +970,9 @@
   - Spectral Glow: https://civitai.com/models/898482/zavys-spectral-glow-flux?modelVersionId=1005353
   - Minimalist Flat Color Illustration: https://civitai.com/models/961950/minimalist-flat-color-illustration-style
   - NewFantasyCore: https://civitai.com/models/810000/new-fantasy-core-flux-pony
+  - Ethereal Fantasy: https://civitai.com/models/1017670/ethereal-fantasy
+  - Epic gorgeous details: https://civitai.com/models/736706?modelVersionId=863655
+  - Ancient Style: https://civitai.com/models/715253/flux-ancient-style-lora
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -997,6 +1018,7 @@
   - Regional Prompting: https://github.com/instantX-research/Regional-Prompting-FLUX
   - In-Context-LORA: https://github.com/ali-vilab/In-Context-LoRA
   - Qwen2VL-Flux: https://github.com/erwold/qwen2vl-flux
+  - ComfyUI Node for details: https://github.com/Jonseed/ComfyUI-Detail-Daemon
 
 <sup><sub>[back to top](#toc)</sub></sup>
 
