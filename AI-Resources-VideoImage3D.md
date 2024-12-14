@@ -223,7 +223,6 @@
     - LORA training tutorial: https://rentry.org/PlumLora
     - Stable Diffusion Glossary: https://blog.segmind.com/the-a-z-of-stable-diffusion-essential-concepts-and-terms-demystified/
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Flux
 - Models
@@ -467,7 +466,6 @@
   - Qwen2VL-Flux: https://github.com/erwold/qwen2vl-flux
   - ComfyUI Node for details: https://github.com/Jonseed/ComfyUI-Detail-Daemon
 
-<sup><sub>[back to top](#toc)</sub></sup>
 
 ## Animation - Video - 3D - Other
 - Image generation models
