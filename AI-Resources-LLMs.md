@@ -185,7 +185,9 @@
 ## Tools around using LLMs
 - Local LLM hosting
   - vLLM (local python library for running models including vision models): https://docs.vllm.ai/en/stable/index.html
-  - koboldcpp: https://github.com/LostRuins/koboldcpp
+  - koboldcpp:
+    - Default version: https://github.com/LostRuins/koboldcpp
+    - AMD ROCM version: https://github.com/YellowRoseCx/koboldcpp-rocm/
   - llama.cpp: https://github.com/ggerganov/llama.cpp
   - llamafile: https://github.com/Mozilla-Ocho/llamafile
   - LMStudio (local model hosting): https://lmstudio.ai/
