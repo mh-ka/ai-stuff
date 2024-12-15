@@ -24,6 +24,7 @@
     - AlbedoBase XL: https://civitai.com/models/140737/albedobase-xl
     - Colorful XL: https://civitai.com/models/185258?modelVersionId=569951
     - Juggernaut XL: https://civitai.com/models/133005/juggernaut-xl
+    - Lustify!: https://civitai.com/models/573152?modelVersionId=1094291
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -193,6 +194,7 @@
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1focbhe/invoke_50_massive_update_introducing_a_new_canvas/
   - IntraPaint: https://github.com/centuryglass/IntraPaint
   - IOPaint (Inpainting/Outpainting tool): https://github.com/Sanster/IOPaint
+  - Remacri Upscaling Model: https://openmodeldb.info/models/4x-Remacri
 
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
@@ -237,6 +239,11 @@
   - Merges
     - Jib Mix Flux: https://civitai.com/models/686814/jib-mix-flux?modelVersionId=1028151
     - Fluxmania: https://civitai.com/models/778691?modelVersionId=1050076
+    - lyh_anime_flux: https://civitai.com/models/684646/lyhanimeflux
+  - Canny Dev Lora: https://huggingface.co/black-forest-labs/FLUX.1-Canny-dev-lora
+  - Depth Dev Lora: https://huggingface.co/black-forest-labs/FLUX.1-Depth-dev-lora
+  - Fill Dev: https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev
+  - Redux Dev: https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev
 - LORAs
   - Gaming styles
     - N64: https://civitai.com/models/660136?modelVersionId=738680
@@ -293,6 +300,7 @@
     - 60s portrait photo: https://civitai.com/models/483926/1960s-portrait-photo-david-bailey-style
     - 80s polaroid photo: https://civitai.com/models/510388/80s-polaroid-photo
     - Surreal photography: https://civitai.com/models/569271/surreal-photography-neil-krug-style
+    - Improved photography: https://civitai.com/models/1023815/flux1-dev-lora-style-improved-photography-spectrum-0007
   - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -337,6 +345,9 @@
     - Anime Art: https://civitai.com/models/832858/anime-art?modelVersionId=951509
     - American Propaganda: https://civitai.com/models/586368/american-propaganda-painting-james-montgomery-flagg-style
     - 50s Pulp: https://civitai.com/models/506081/50s-pulp-rudolph-belarsky-style
+    - Niji Anime: https://civitai.com/models/871757?modelVersionId=1042979
+    - Anime (Your Name): https://civitai.com/models/1026146/flux1-dev-lora-style-makoto-shinkai-your-name-spectrum-0008
+    - Darkest Dungeon: https://civitai.com/models/980106/flux1-dev-lora-style-darkest-dungeon-spectrum-0002
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -419,9 +430,12 @@
   - Ethereal Fantasy: https://civitai.com/models/1017670/ethereal-fantasy
   - Epic gorgeous details: https://civitai.com/models/736706?modelVersionId=863655
   - Ancient Style: https://civitai.com/models/715253/flux-ancient-style-lora
+  - Handwriting: https://civitai.com/models/1037313/flux-handwriting
+  - Witcher Medallion: https://civitai.com/models/1033054/witcher-medallion-create-your-own-witcher-school-medallion
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
+  - Recommended LORA creators: https://civitai.com/user/Adel_AI/models
   - Flux Gym: https://github.com/cocktailpeanut/fluxgym
   - Flux Latent Upscaler: https://github.com/rickrender/FluxLatentUpscaler
   - PuLID
@@ -512,8 +526,13 @@
       - Github: https://github.com/henrique-galimberti/i2v-workflow/blob/main/CogVideoX-I2V-workflow_v2.json
       - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fqy71b/cogvideoxi2v_updated_workflow
       - CivitAI: https://civitai.com/models/785908/animate-from-still-using-cogvideox-5b-i2v
-    - Genmo - Mochi 1: https://github.com/genmoai/models
-    - Rhymes - AI Allegro: https://huggingface.co/rhymes-ai/Allegro
+    - LORAs
+      - Wallace & Gromit: https://huggingface.co/Cseti/CogVideoX-LoRA-Wallace_and_Gromit
+      - Arcane: https://huggingface.co/Cseti/CogVideoX1.0-LoRA-Arcane-v1
+  - Genmo - Mochi 1: https://github.com/genmoai/models
+  - Rhymes - AI Allegro: https://huggingface.co/rhymes-ai/Allegro
+  - Nvidia - Sana: https://github.com/NVlabs/Sana
+  - Tencent - Hunyuan: https://huggingface.co/tencent/HunyuanVideo
 - Video manipulation
   - Video face swap: https://github.com/s0md3v/roop
 - Misc
