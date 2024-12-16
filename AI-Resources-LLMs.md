@@ -81,6 +81,8 @@
   - CodeGeeX4: https://huggingface.co/THUDM/codegeex4-all-9b
   - Kurage: https://huggingface.co/lightblue/kurage-multilingual
   - Athene V2 (Qwen Fine-Tune): https://huggingface.co/collections/Nexusflow/athene-v2-6735b85e505981a794fb02cc
+  - LG's EXAONE-3.5 (several sizes): https://huggingface.co/collections/LGAI-EXAONE/exaone-35-674d0e1bb3dcd2ab6f39dbb4
+  - Nvidia's Llama-3.1-Nemotron-70B: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
 
 - Small sized
   - Microsoft
@@ -103,8 +105,9 @@
     - NeMo 12B
       - https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407
       - https://huggingface.co/nvidia/Mistral-NeMo-12B-Instruct
-    - NeMo Minitron 8B (pruned & distilled)
-      - https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base
+    - NeMo Minitron (pruned, distilled, quantized)
+      - 4B: https://huggingface.co/nvidia/Nemotron-Mini-4B-Instruct
+      - 8B: https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base
     - Ministral 8B Instruct: https://huggingface.co/mistralai/Ministral-8B-Instruct-2410
   - Apple
     - Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
@@ -131,6 +134,7 @@
   - OpenCoder: https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e
   - NuExtract 1.5: https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d
   - Teuken 7B (based on European languages): https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4
+  - EuroLLM: https://huggingface.co/utter-project/EuroLLM-9B
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -167,7 +171,9 @@
     - NVLM-D: https://huggingface.co/nvidia/NVLM-D-72B
   - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
   - Mistral's Pixtral: https://huggingface.co/mistralai/Pixtral-12B-2409
-  - Meta's Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/
+  - Meta
+    - Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/
+    - Apollo (based on Qwen 2.5): https://github.com/Apollo-LMMs/Apollo/
   - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
   - Emu3: https://huggingface.co/BAAI/Emu3-Gen
   - GOT OCR 2.0: https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
@@ -351,6 +357,7 @@
       - https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/
     - Sparrow: https://github.com/katanaml/sparrow
     - Extractous: https://github.com/yobix-ai/extractous
+    - Markitdown (nonAI data extractor provided by Microsoft): https://github.com/microsoft/markitdown
   - Docker GenAI Stack: https://github.com/docker/genai-stack
   - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
   - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
