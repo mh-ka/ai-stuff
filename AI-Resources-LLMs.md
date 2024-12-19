@@ -139,6 +139,7 @@
   - EuroLLM: https://huggingface.co/utter-project/EuroLLM-9B
   - Moxin 7B: https://github.com/moxin-org/Moxin-LLM
   - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
+  - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -255,6 +256,7 @@
   - Codai (CLI with RAG): https://github.com/meysamhadeli/codai
   - LLM code review: https://github.com/lukasrump/crllm
   - Codegate: https://github.com/stacklok/codegate
+  - Qwen specific coding assistant UI: https://github.com/slyfox1186/script-repo/tree/main/AI/Qwen2.5-Coder-32B-Instruct
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -284,7 +286,10 @@
 - AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
 - Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
 - Personal Assistant: https://github.com/ErikBjare/gptme/
-- PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
+- Mobile App
+  - PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
+  - ChatterUI: https://github.com/Vali-98/ChatterUI
+  - SmolChat Android: https://github.com/shubham0204/SmolChat-Android
 - Surya (OCR): https://github.com/VikParuchuri/surya
 - Open Canvas: https://github.com/langchain-ai/open-canvas
 - Foyle (engineer assistant as VSCode extension): https://foyle.io/docs/overview/
@@ -311,6 +316,8 @@
 - Tangent (UI with chats as branches): https://github.com/itsPreto/tangent
 - Chat-ext (chrome extension): https://github.com/abhishekkrthakur/chat-ext
 - Simple Chat UI: https://github.com/FishiaT/yawullm
+- WritingTools: https://github.com/theJayTea/WritingTools/
+- AI Assistant with focus on enterprise environment: https://github.com/onyx-dot-app/onyx
 
 
 ## AI Developer Topics
@@ -351,6 +358,7 @@
     - Search vs. VectorDB: https://blog.elicit.com/search-vs-vector-db/
     - Chunking library: https://github.com/bhavnicksm/chonkie
     - Open Scholar (research RAG article): https://allenai.org/blog/openscholar
+    - RAGHub: https://github.com/Andrew-Jang/RAGHub
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -397,6 +405,7 @@
   - Memory management: https://github.com/caspianmoon/memoripy
   - Graph-based editor for LLM workflows: https://github.com/PySpur-Dev/PySpur
   - OSS AI Stack: https://www.timescale.com/blog/the-emerging-open-source-ai-stack
+  - CLI tool: https://github.com/cagostino/npcsh
 
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
