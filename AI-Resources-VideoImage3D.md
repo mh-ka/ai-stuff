@@ -301,6 +301,9 @@
     - 80s polaroid photo: https://civitai.com/models/510388/80s-polaroid-photo
     - Surreal photography: https://civitai.com/models/569271/surreal-photography-neil-krug-style
     - Improved photography: https://civitai.com/models/1023815/flux1-dev-lora-style-improved-photography-spectrum-0007
+    - UltraReal Fine-Tune v2.0: https://civitai.com/models/978314?modelVersionId=1164498
+    - Dramatic Portrait: https://civitai.com/models/1038829/dramatic-portrait
+    - Dramatic Portrait B&W: https://civitai.com/models/1042672/dramatic-portrait-black-and-white
   - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -348,6 +351,7 @@
     - Niji Anime: https://civitai.com/models/871757?modelVersionId=1042979
     - Anime (Your Name): https://civitai.com/models/1026146/flux1-dev-lora-style-makoto-shinkai-your-name-spectrum-0008
     - Darkest Dungeon: https://civitai.com/models/980106/flux1-dev-lora-style-darkest-dungeon-spectrum-0002
+    - Christmas Vintage: https://www.shakker.ai/modelinfo/bb2de7edb2dd4d4182164080dac0fa74/Christmas-Vintage-Photography
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -392,6 +396,7 @@
     - Jean Marc Cote (retro futurism): https://civitai.com/models/498036/19th-century-retro-futurism-jean-marc-cote-style
     - Milton Glaser: https://civitai.com/models/529473/1960s-graphic-design-milton-glaser-style
     - Gotlib (satirical comics): https://civitai.com/models/525206/french-1970s-satirical-comics-gotlib-style
+    - Rough Sketching: https://civitai.com/models/1046599?modelVersionId=1174283
   - Icon Maker: https://civitai.com/models/722531
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
@@ -460,6 +465,8 @@
     - Clean workflow: https://civitai.com/models/698637?modelVersionId=781746
     - Flow (easy user friendly Comfy UI): https://github.com/diStyApps/ComfyUI-disty-Flow
     - Collection of simple workflows: https://civitai.com/models/912123/all-simple-workflow-flux-or-upscale-or-lora-or-gguf-or-civitai-metadata
+    - ComfyUI Node for details: https://github.com/Jonseed/ComfyUI-Detail-Daemon
+    - Upscale workflow: https://www.patreon.com/posts/113348776
   - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
   - LORA training
     - Tools
@@ -478,7 +485,7 @@
   - Regional Prompting: https://github.com/instantX-research/Regional-Prompting-FLUX
   - In-Context-LORA: https://github.com/ali-vilab/In-Context-LoRA
   - Qwen2VL-Flux: https://github.com/erwold/qwen2vl-flux
-  - ComfyUI Node for details: https://github.com/Jonseed/ComfyUI-Detail-Daemon
+  - Prompt catalyst chrome extension: https://chromewebstore.google.com/detail/prompt-catalyst/hehieakgdbakdajfpekgmfckplcjmgcf?pli=1
 
 
 ## Animation - Video - 3D - Other
@@ -538,3 +545,5 @@
 - Misc
   - List of popular txt2img generative models: https://github.com/vladmandic/automatic/wiki/Models
   - ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
+  - Video upscale workflows: https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid
+  - Live Portrait and Face Expression Tutorial: https://www.youtube.com/watch?v=q6poA8I7tRM
