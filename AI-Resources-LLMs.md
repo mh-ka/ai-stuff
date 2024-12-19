@@ -66,7 +66,9 @@
     - Command-R 08-2024: https://huggingface.co/bartowski/c4ai-command-r-08-2024-GGUF
     - Aya Expanse: https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-671a83d6b2c07c692beab3c3
   - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
-  - IBM's Granite: https://github.com/ibm-granite/granite-code-models
+  - IBM's Granite
+    - Code Models: https://github.com/ibm-granite/granite-code-models
+    - Granite v3.1: https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d
   - AutoCoder: https://github.com/bin123apple/AutoCoder
   - LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
   - Ollama library: https://ollama.com/library
@@ -135,6 +137,8 @@
   - NuExtract 1.5: https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d
   - Teuken 7B (based on European languages): https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4
   - EuroLLM: https://huggingface.co/utter-project/EuroLLM-9B
+  - Moxin 7B: https://github.com/moxin-org/Moxin-LLM
+  - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -173,7 +177,6 @@
   - Mistral's Pixtral: https://huggingface.co/mistralai/Pixtral-12B-2409
   - Meta
     - Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/
-    - Apollo (based on Qwen 2.5): https://github.com/Apollo-LMMs/Apollo/
   - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
   - Emu3: https://huggingface.co/BAAI/Emu3-Gen
   - GOT OCR 2.0: https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
@@ -182,6 +185,7 @@
     - https://huggingface.co/stepfun-ai/GOT-OCR2_0
   - Aria: https://huggingface.co/rhymes-ai/Aria
   - OpenGVLab's InternVL 2.5: https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c
+  - Megrez 3B Omni: https://huggingface.co/Infinigence/Megrez-3B-Omni
 
 - List of relevant European companies in LLM area
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
@@ -217,6 +221,8 @@
     - Turboseek: https://github.com/Nutlope/turboseek
     - MiniSearch: https://github.com/felladrin/MiniSearch
     - LLM websearch (very basic): https://github.com/Jay4242/llm-websearch
+    - Farfalle: https://github.com/rashadphz/farfalle
+    - More AI Web Search apps: https://www.victornogueira.app/awesome-ai-web-search/
   - LibreChat: https://github.com/danny-avila/LibreChat
   - Harbor (containerized local LLM hosting): https://github.com/av/harbor
   - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
@@ -248,6 +254,7 @@
   - Cline: https://github.com/cline/cline
   - Codai (CLI with RAG): https://github.com/meysamhadeli/codai
   - LLM code review: https://github.com/lukasrump/crllm
+  - Codegate: https://github.com/stacklok/codegate
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -300,6 +307,10 @@
 - AI video composer: https://huggingface.co/spaces/huggingface-projects/ai-video-composer/blob/main/README.md
 - Ollama, ComfyUI, OpenWebUI on Kubernetes: https://github.com/GoingOffRoading?tab=repositories
 - AnnotateAI (paper annotation): https://github.com/neuml/annotateai
+- Qwenroast: https://github.com/fsndzomga/qwenroast
+- Tangent (UI with chats as branches): https://github.com/itsPreto/tangent
+- Chat-ext (chrome extension): https://github.com/abhishekkrthakur/chat-ext
+- Simple Chat UI: https://github.com/FishiaT/yawullm
 
 
 ## AI Developer Topics
@@ -365,7 +376,9 @@
   - Dify (local LLM app development platform): https://github.com/langgenius/dify
   - Mergekit (framework for merging LLMs): https://github.com/arcee-ai/mergekit
   - Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
-  - Transformer.js (browser-based AI inference): https://github.com/xenova/transformers.js
+  - Transformer.js (browser-based AI inference):
+    - Github: https://github.com/xenova/transformers.js
+    - v3.2 Release (adds moonshine support): https://github.com/huggingface/transformers.js/releases/tag/3.2.0 
   - ExecuTorch (On-Device AI framework): https://pytorch.org/executorch/stable/intro-overview.html
   - Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
   - Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
@@ -382,6 +395,8 @@
   - ColiVara (RAG alternative using vision models): https://github.com/tjmlabs/ColiVara
   - OptiLLM (LLM proxy with optimizations): https://github.com/codelion/optillm
   - Memory management: https://github.com/caspianmoon/memoripy
+  - Graph-based editor for LLM workflows: https://github.com/PySpur-Dev/PySpur
+  - OSS AI Stack: https://www.timescale.com/blog/the-emerging-open-source-ai-stack
 
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
