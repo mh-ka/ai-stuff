@@ -140,6 +140,7 @@
   - Moxin 7B: https://github.com/moxin-org/Moxin-LLM
   - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
   - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
+  - Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
