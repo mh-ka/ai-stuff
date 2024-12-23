@@ -141,6 +141,7 @@
   - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
   - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
   - Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
+  - Falcon 3: https://huggingface.co/blog/falcon3
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
