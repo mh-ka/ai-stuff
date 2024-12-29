@@ -43,6 +43,7 @@
 - Example script for text to voice: https://github.com/dynamiccreator/voice-text-reader
 - F5 TTS: https://github.com/SWivid/F5-TTS
 - MaskGCT: https://huggingface.co/amphion/MaskGCT
+- Audiocraft Plus: https://github.com/GrandaddyShmax/audiocraft_plus
 
 
 ## Music production
