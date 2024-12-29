@@ -51,6 +51,7 @@
     - Collection: https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
     - Coder: https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
     - Uncensored finetune: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
+    - Abliterated: https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF
 
 - More
   - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
@@ -189,6 +190,7 @@
   - Aria: https://huggingface.co/rhymes-ai/Aria
   - OpenGVLab's InternVL 2.5: https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c
   - Megrez 3B Omni: https://huggingface.co/Infinigence/Megrez-3B-Omni
+  - YuLan Mini: https://github.com/RUC-GSAI/YuLan-Mini
 
 - List of relevant European companies in LLM area
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
@@ -228,6 +230,7 @@
     - More AI Web Search apps: https://www.victornogueira.app/awesome-ai-web-search/
   - LibreChat: https://github.com/danny-avila/LibreChat
   - Harbor (containerized local LLM hosting): https://github.com/av/harbor
+    - Harbor services docs: https://github.com/av/harbor/wiki/2.-Services 
   - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
   - Msty: https://msty.app/
   - Any Device: https://github.com/exo-explore/exo
@@ -259,6 +262,7 @@
   - LLM code review: https://github.com/lukasrump/crllm
   - Codegate: https://github.com/stacklok/codegate
   - Qwen specific coding assistant UI: https://github.com/slyfox1186/script-repo/tree/main/AI/Qwen2.5-Coder-32B-Instruct
+  - CleanCoderAI: https://github.com/Grigorij-Dudnik/Clean-Coder-AI
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -320,6 +324,8 @@
 - Simple Chat UI: https://github.com/FishiaT/yawullm
 - WritingTools: https://github.com/theJayTea/WritingTools/
 - AI Assistant with focus on enterprise environment: https://github.com/onyx-dot-app/onyx
+- CLI command explainer: https://github.com/shobrook/wut
+- Technical docs creation for python projects: https://github.com/charmandercha/ArchiDoc
 
 
 ## AI Developer Topics
@@ -408,6 +414,8 @@
   - Graph-based editor for LLM workflows: https://github.com/PySpur-Dev/PySpur
   - OSS AI Stack: https://www.timescale.com/blog/the-emerging-open-source-ai-stack
   - CLI tool: https://github.com/cagostino/npcsh
+  - Microsoft's GenAIScript (LLM orchestrator): https://github.com/microsoft/genaiscript/
+  - ModernBERT: https://huggingface.co/blog/modernbert
 
 - Agents
   - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
@@ -423,6 +431,7 @@
   - Arch (prompt gateway): https://github.com/katanemo/archgw
   - Letta (agents with memory): https://github.com/letta-ai/letta
   - Microsoft's TinyTroupe: https://github.com/microsoft/TinyTroupe
+  - Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
@@ -482,3 +491,5 @@
 - MLE-Bench (Machine Learning tasks benchmark): https://github.com/openai/mle-bench
 - Compliance EU AI Act Framework: https://github.com/compl-ai/compl-ai
 - Open Financial LLM Leaderboard: https://huggingface.co/spaces/finosfoundation/Open-Financial-LLM-Leaderboard
+- Aider Leaderboards: https://aider.chat/docs/leaderboards/
+- BigCodeBench: https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard
