@@ -91,6 +91,7 @@
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
     - phi-3 / phi-3.5: https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3
+    - phi-3.5 uncensored: https://huggingface.co/bartowski/Phi-3.5-mini-instruct_Uncensored-GGUF
   - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
   - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
   - Google
