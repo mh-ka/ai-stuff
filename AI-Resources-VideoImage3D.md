@@ -27,6 +27,7 @@
     - Lustify!: https://civitai.com/models/573152?modelVersionId=1094291
     - Painter's Checkpoint: https://civitai.com/models/240154?modelVersionId=289591
     - PixelPaint: https://civitai.com/models/284101?modelVersionId=532842
+    - Realistic Stock Photo v2.0: https://civitai.com/models/139565?modelVersionId=294470
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
