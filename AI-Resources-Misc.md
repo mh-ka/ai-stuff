@@ -32,8 +32,10 @@
   - https://diffusiondigest.beehiiv.com/
 - Websites
   - https://the-decoder.de/
-  - http://futuretools.io/
+  - https://www.futuretools.io/
   - https://lifearchitect.ai/
+  - https://www.reddit.com/r/StableDiffusion/
+  - https://www.reddit.com/r/LocalLLaMA/
 - Youtube Channels
   - LLM News: https://www.youtube.com/@DrAlanDThompson
   - AI Tools News
