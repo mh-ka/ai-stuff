@@ -16,7 +16,7 @@
     - ThinkDiffusionXL: https://civitai.com/models/169868/thinkdiffusionxl
     - Realism Engine SDXL: https://civitai.com/models/152525
     - Amiga Style: https://civitai.com/models/297955/amiga-style
-    - Cheyenne Comic Model: https://civitai.com/models/198051/cheyenne?modelVersionId=318969
+    - Cheyenne Comic Model: https://civitai.com/models/198051?modelVersionId=369370
     - LEOSAM AIArt: https://civitai.com/models/219791?modelVersionId=247832
     - Artfully Echelier: https://civitai.com/models/391436/artfullyechelier-sdxl-v1
     - CineVisionXL: https://civitai.com/models/188208?modelVersionId=211388
@@ -25,6 +25,8 @@
     - Colorful XL: https://civitai.com/models/185258?modelVersionId=569951
     - Juggernaut XL: https://civitai.com/models/133005/juggernaut-xl
     - Lustify!: https://civitai.com/models/573152?modelVersionId=1094291
+    - Painter's Checkpoint: https://civitai.com/models/240154?modelVersionId=289591
+    - PixelPaint: https://civitai.com/models/284101?modelVersionId=532842
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -55,6 +57,7 @@
     - Github: https://github.com/genforce/ctrl-x
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fr1h6c/ctrlx_code_released_controlnet_without_finetuning
   - Stable Diffusion 3.5: https://huggingface.co/collections/stabilityai/stable-diffusion-35-671785cca799084f71fa2838
+  - Stable Diffusion 3.5 Medium Turbo: https://huggingface.co/tensorart/stable-diffusion-3.5-medium-turbo#project-overview
 
 - LORAs
   - SDXL
@@ -106,6 +109,7 @@
     - Marionettes: https://civitai.com/models/150042/marionettes-wooden-carved-puppets-on-strings
     - Claymate: https://civitai.com/models/208168/claymate-claymation-style-for-sdxl
     - Bread: https://civitai.com/models/278431/bread
+    - Pixel Art: https://civitai.com/models/1050935/the-king-of-fighters-victory-portrait-pixel-art
   - SD 1.5
     - Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
     - Real Mechanical Parts: https://civitai.com/models/64471?modelVersionId=85371
@@ -352,6 +356,11 @@
     - Anime (Your Name): https://civitai.com/models/1026146/flux1-dev-lora-style-makoto-shinkai-your-name-spectrum-0008
     - Darkest Dungeon: https://civitai.com/models/980106/flux1-dev-lora-style-darkest-dungeon-spectrum-0002
     - Christmas Vintage: https://www.shakker.ai/modelinfo/bb2de7edb2dd4d4182164080dac0fa74/Christmas-Vintage-Photography
+    - Celebrity Deathmatch: https://civitai.com/models/1072410?modelVersionId=1203808
+    - Web Comics: https://civitai.com/models/1040797/everly-heights-web-comics-flux
+    - 90s Web Animation: https://civitai.com/models/1019789/everly-heights-90s-web-animation-flux
+    - Moral Crusade Comics: https://civitai.com/models/1037868/everly-heights-moral-crusade-comics-flux
+    - Character Sheets: https://civitai.com/models/844032/everly-heights-character-sheets
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -397,6 +406,7 @@
     - Milton Glaser: https://civitai.com/models/529473/1960s-graphic-design-milton-glaser-style
     - Gotlib (satirical comics): https://civitai.com/models/525206/french-1970s-satirical-comics-gotlib-style
     - Rough Sketching: https://civitai.com/models/1046599?modelVersionId=1174283
+    - Ligne Claire: https://civitai.com/models/1080092
   - Icon Maker: https://civitai.com/models/722531
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
@@ -437,6 +447,7 @@
   - Ancient Style: https://civitai.com/models/715253/flux-ancient-style-lora
   - Handwriting: https://civitai.com/models/1037313/flux-handwriting
   - Witcher Medallion: https://civitai.com/models/1033054/witcher-medallion-create-your-own-witcher-school-medallion
+  - Glowing and Glossy: https://civitai.com/models/1049316/glowing-and-glossy-style
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -493,6 +504,9 @@
   - Pixart
     - alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
     - sigma: https://github.com/PixArt-alpha/PixArt-sigma
+  - Kolors
+    - Model: https://huggingface.co/Kwai-Kolors/Kolors 
+    - Workflow: https://civitai.com/models/1078853/midjourney-is-kolorflux 
 - Image manipulation 
   - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
   - Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
