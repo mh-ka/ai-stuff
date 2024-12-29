@@ -11,6 +11,7 @@
   - Tips against hallucinations: https://www.reddit.com/r/LocalLLaMA/comments/1fx7ri8/comment/lql41mk/
   - Whisper Standalone Win: https://github.com/Purfview/whisper-standalone-win
   - Whisperfile: https://github.com/Mozilla-Ocho/llamafile/blob/main/whisper.cpp/doc/getting-started.md
+  - WhisperX: https://github.com/m-bain/whisperX
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
 - Qwen2-Audio-7B: https://huggingface.co/Qwen/Qwen2-Audio-7B
 - Speech2Speech pipeline: https://github.com/huggingface/speech-to-speech
