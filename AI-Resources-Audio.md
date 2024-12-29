@@ -24,6 +24,7 @@
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
 - VoiceCraft: https://github.com/jasonppy/VoiceCraft
 - XTTS v1: https://huggingface.co/coqui/XTTS-v1
+- XTTS v2: https://huggingface.co/coqui/XTTS-v2
 - AudioLDM2: https://github.com/haoheliu/audioldm2
 - Bark: https://github.com/suno-ai/bark
 - Tracker page for open access text2speech models: https://github.com/Vaibhavs10/open-tts-tracker
@@ -45,6 +46,11 @@
 - F5 TTS: https://github.com/SWivid/F5-TTS
 - MaskGCT: https://huggingface.co/amphion/MaskGCT
 - Audiocraft Plus: https://github.com/GrandaddyShmax/audiocraft_plus
+- TTS server: https://github.com/matatonic/openedai-speech
+- Voqal (voice native AI agent): https://github.com/voqal/voqal
+- Piper (local TTS system): https://github.com/rhasspy/piper
+- OuteTTS (onnx model for transformer.js WebGPU inference): https://huggingface.co/onnx-community/OuteTTS-0.2-500M
+- Auralis (speed focussed TTS inference engine): https://github.com/astramind-ai/Auralis
 
 
 ## Music production
