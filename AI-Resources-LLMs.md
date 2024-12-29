@@ -433,6 +433,9 @@
   - Letta (agents with memory): https://github.com/letta-ai/letta
   - Microsoft's TinyTroupe: https://github.com/microsoft/TinyTroupe
   - Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
+  - Microsoft's Autogen (agent framework): https://github.com/microsoft/autogen/tree/main
+  - OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
+  - Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
