@@ -18,8 +18,6 @@
 - Moonshine: https://github.com/usefulsensors/moonshine
 - Article about Speech recognition (comparisons and insights): https://amgadhasan.substack.com/p/sota-asr-tooling-long-form-transcription
 - DeepFilter for filtering noisy audio: https://github.com/duohub-ai/deepfilter-lambda-container
-- Voice cloning tutorial: https://techshinobi.org/posts/voice-vits/
-- LocalGlaDOS: https://github.com/dnhkng/GlaDOS
 
 
 ## txt2speech and txt2audio
@@ -75,3 +73,5 @@
 - Ebook2audiobook: https://github.com/DrewThomasson/ebook2audiobookpiper-tts
 - Voice Conversion: https://github.com/IAHispano/Applio
 - TTS comparison: https://tts.x86.st/
+- Voice cloning tutorial: https://techshinobi.org/posts/voice-vits/
+- LocalGlaDOS: https://github.com/dnhkng/GlaDOS
