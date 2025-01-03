@@ -56,6 +56,8 @@
     - Coder: https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
     - Uncensored finetune: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
     - Abliterated: https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF
+  - Marco-o1: https://huggingface.co/AIDC-AI/Marco-o1
+  - Qwen with Questions (Reasoning Preview): https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
 
 - More
   - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
@@ -93,7 +95,8 @@
   - WizardLM Uncensored
     - 13B: https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored
     - 7B: https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored
-  - Qwen Reasoning Preview: https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
+  - Tencent's Hunyuan Large: https://huggingface.co/tencent/Tencent-Hunyuan-Large
+  - Fix-1-1.6B-Instruct: https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1
 
 - Small sized
   - Microsoft
@@ -107,6 +110,7 @@
     - Gemma2 9B: https://huggingface.co/bartowski/gemma-2-9b-it-GGUF
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
     - RecurrentGemma: https://huggingface.co/google/recurrentgemma-9b
+    - SEA-LION (South East Asia finetune): https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base 
   - TigerGemma 9B v3: https://huggingface.co/TheDrummer/Tiger-Gemma-9B-v3
   - Gemma 27B exl2: https://huggingface.co/mo137/gemma-2-27b-it-exl2
   - Moondream (vision model on edge devices)
@@ -153,6 +157,7 @@
   - Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
   - Falcon 3: https://huggingface.co/blog/falcon3
   - SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
+  - AMD's OLMo: https://huggingface.co/amd/AMD-OLMo
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -188,7 +193,9 @@
     - Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
     - NVLM-D: https://huggingface.co/nvidia/NVLM-D-72B
   - Mini-Omni: https://huggingface.co/gpt-omni/mini-omni
-  - Mistral's Pixtral: https://huggingface.co/mistralai/Pixtral-12B-2409
+  - Mistral's Pixtral
+    - 12B: https://huggingface.co/mistralai/Pixtral-12B-2409
+    - 124B: https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411
   - Meta
     - Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/
   - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
