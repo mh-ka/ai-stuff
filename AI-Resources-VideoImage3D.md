@@ -362,6 +362,8 @@
     - 90s Web Animation: https://civitai.com/models/1019789/everly-heights-90s-web-animation-flux
     - Moral Crusade Comics: https://civitai.com/models/1037868/everly-heights-moral-crusade-comics-flux
     - Character Sheets: https://civitai.com/models/844032/everly-heights-character-sheets
+    - Supergirl: https://civitai.com/models/1002370/flux1-dev-lora-outfit-cw-arrowverse-supergirl-spectrum-0003
+    - Dark and Darker: https://civitai.com/models/1086758?modelVersionId=1220411
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -397,6 +399,7 @@
     - Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
     - Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
     - Pencil: https://civitai.com/models/737141
+    - Pencil Sketch: https://civitai.com/models/1096253/pencil-sketch-style-flux
     - Goya: https://civitai.com/models/823353/goya-flux-classical-painting-style
     - Classic Paint: https://civitai.com/models/707321/classic-paint?modelVersionId=791162
     - Engelbert: https://civitai.com/models/949095/johannes-frederik-engelbert-ten-klooster-style
@@ -449,6 +452,10 @@
   - Handwriting: https://civitai.com/models/1037313/flux-handwriting
   - Witcher Medallion: https://civitai.com/models/1033054/witcher-medallion-create-your-own-witcher-school-medallion
   - Glowing and Glossy: https://civitai.com/models/1049316/glowing-and-glossy-style
+  - Shrinks: https://civitai.com/models/1023802/flux1-dev-lora-concept-shrinks-spectrum-0006
+  - Giants: https://civitai.com/models/1009303/flux1-dev-lora-concept-giants-spectrum-0005
+  - Highres fix: https://civitai.com/models/1049158?modelVersionId=1177215
+  - Cutaway: https://huggingface.co/glif-loradex-trainer/AP123_flux_dev_cutaway_style
 
 - Misc
   - LORA search engine: https://www.fluxforge.app/
@@ -479,6 +486,8 @@
     - Collection of simple workflows: https://civitai.com/models/912123/all-simple-workflow-flux-or-upscale-or-lora-or-gguf-or-civitai-metadata
     - ComfyUI Node for details: https://github.com/Jonseed/ComfyUI-Detail-Daemon
     - Upscale workflow: https://www.patreon.com/posts/113348776
+    - Image Editing workflow: https://github.com/logtd/ComfyUI-Fluxtapoz
+    - Person mask generator workflows: https://github.com/djbielejeski/a-person-mask-generator
   - Model comparison: https://www.reddit.com/r/StableDiffusion/comments/1fdjkp4/flux_model_comparison/
   - LORA training
     - Tools
@@ -514,6 +523,9 @@
   - FaceFusion (3.0.0)
     - Github: https://github.com/facefusion/facefusion
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
+  - Human Animation
+    - Vid2DensePose: https://github.com/Flode-Labs/vid2densepose
+    - MagicAnimate: https://github.com/magic-research/magic-animate
 - Image classification / Object detection 
   - Blog around image detection techniques: https://blog.roboflow.com/
   - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
