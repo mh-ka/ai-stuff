@@ -176,6 +176,7 @@
   - DeepSeek
     - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
     - Janus 1.3B: https://huggingface.co/deepseek-ai/Janus-1.3B
+    - DeepSeek-VL2 (MoE): https://github.com/deepseek-ai/DeepSeek-VL2
   - Idefics2 8B: https://huggingface.co/HuggingFaceM4/idefics2-8b
   - Google
     - PaliGemma: https://www.kaggle.com/models/google/paligemma
@@ -463,6 +464,8 @@
   - OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
   - Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
   - OpenHands (coder agent): https://github.com/All-Hands-AI/OpenHands/
+  - bolt.diy (coder agent): https://github.com/stackblitz-labs/bolt.diy
+  - inferable (scalable agentic automation): https://github.com/inferablehq/inferable
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
@@ -527,3 +530,4 @@
 - BigCodeBench: https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard
 - BIG-bench: https://github.com/google/BIG-bench
 - TruthfulQA: https://github.com/sylinrl/TruthfulQA
+- FACTS Leaderboard: https://www.kaggle.com/facts-leaderboard
