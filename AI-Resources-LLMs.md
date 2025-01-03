@@ -21,6 +21,9 @@
 - Training, Fine-Tuning, Evaluation LLMs: https://www.philschmid.de/
 - Explaining how LLMs work: https://amgadhasan.substack.com/p/explaining-how-llms-work-in-7-levels
 - Everything I learned so far about running local LLMs: https://nullprogram.com/blog/2024/11/10/
+- Uncensored Models: https://erichartford.com/uncensored-models
+- 2024 AI Timeline: https://huggingface.co/spaces/reach-vb/2024-ai-timeline
+- Latent space explorer: https://www.goodfire.ai/papers/mapping-latent-spaces-llama/
 
 
 ## Models
@@ -35,6 +38,7 @@
   - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
   - Models on huggingface: https://huggingface.co/mistralai (Codestral, Mathstral, Nemo, Mixtral, Mistral Large etc.)
   - Uncensored finetune: https://huggingface.co/concedo/Beepo-22B
+  - Mistral Small Instruct: https://huggingface.co/bartowski/Mistral-Small-Instruct-2409-GGUF/blob/main/Mistral-Small-Instruct-2409-Q6_K.gguf
 
 - DeepSeek
   - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
@@ -86,6 +90,10 @@
   - Athene V2 (Qwen Fine-Tune): https://huggingface.co/collections/Nexusflow/athene-v2-6735b85e505981a794fb02cc
   - LG's EXAONE-3.5 (several sizes): https://huggingface.co/collections/LGAI-EXAONE/exaone-35-674d0e1bb3dcd2ab6f39dbb4
   - Nvidia's Llama-3.1-Nemotron-70B: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
+  - WizardLM Uncensored
+    - 13B: https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored
+    - 7B: https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored
+  - Qwen Reasoning Preview: https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
 
 - Small sized
   - Microsoft
@@ -144,6 +152,7 @@
   - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
   - Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
   - Falcon 3: https://huggingface.co/blog/falcon3
+  - SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -264,6 +273,9 @@
   - Codegate: https://github.com/stacklok/codegate
   - Qwen specific coding assistant UI: https://github.com/slyfox1186/script-repo/tree/main/AI/Qwen2.5-Coder-32B-Instruct
   - CleanCoderAI: https://github.com/Grigorij-Dudnik/Clean-Coder-AI
+  - VScode extension (for Fill-in-the-middle, supports Gemini, Deepseek, ...)
+    - Github: https://github.com/robertpiosik/gemini-vscode
+    - Marketplace: https://marketplace.visualstudio.com/items?itemName=robertpiosik.gemini-coder
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
 - Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
@@ -327,6 +339,9 @@
 - AI Assistant with focus on enterprise environment: https://github.com/onyx-dot-app/onyx
 - CLI command explainer: https://github.com/shobrook/wut
 - Technical docs creation for python projects: https://github.com/charmandercha/ArchiDoc
+- Terminal app prototyping tool: https://github.com/shobrook/termite
+- Papeg.ai (chatUI): https://github.com/flatsiedatsie/papeg_ai
+- Youtube Summarizer Chrome Extension: https://github.com/avarayr/youtube-summarizer-oss
 
 
 ## AI Developer Topics
@@ -368,6 +383,8 @@
     - Chunking library: https://github.com/bhavnicksm/chonkie
     - Open Scholar (research RAG article): https://allenai.org/blog/openscholar
     - RAGHub: https://github.com/Andrew-Jang/RAGHub
+    - Entity-DB (in-browser DB for semantic search): https://github.com/babycommando/entity-db
+    - Minicheck (fact-checking to reduce hallucinations): https://ollama.com/blog/reduce-hallucinations-with-bespoke-minicheck
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
@@ -436,6 +453,7 @@
   - Microsoft's Autogen (agent framework): https://github.com/microsoft/autogen/tree/main
   - OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
   - Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
+  - OpenHands (coder agent): https://github.com/All-Hands-AI/OpenHands/
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
@@ -497,3 +515,5 @@
 - Open Financial LLM Leaderboard: https://huggingface.co/spaces/finosfoundation/Open-Financial-LLM-Leaderboard
 - Aider Leaderboards: https://aider.chat/docs/leaderboards/
 - BigCodeBench: https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard
+- BIG-bench: https://github.com/google/BIG-bench
+- TruthfulQA: https://github.com/sylinrl/TruthfulQA
