@@ -77,3 +77,4 @@
 - TTS comparison: https://tts.x86.st/
 - Voice cloning tutorial: https://techshinobi.org/posts/voice-vits/
 - LocalGlaDOS: https://github.com/dnhkng/GlaDOS
+- ClearerVoice-Studio: https://github.com/modelscope/ClearerVoice-Studio/tree/main
