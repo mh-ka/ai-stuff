@@ -36,6 +36,7 @@
   - https://lifearchitect.ai/
   - https://www.reddit.com/r/StableDiffusion/
   - https://www.reddit.com/r/LocalLLaMA/
+  - https://semianalysis.com/
 - Youtube Channels
   - LLM News: https://www.youtube.com/@DrAlanDThompson
   - AI Tools News
