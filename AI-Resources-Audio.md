@@ -38,7 +38,9 @@
 - MeloTTS: https://github.com/myshell-ai/MeloTTS
 - Parler TTS: https://github.com/huggingface/parler-tts
 - WhisperSpeech: https://github.com/collabora/WhisperSpeech
-- Fish Speech 1.4: https://huggingface.co/fishaudio/fish-speech-1.4
+- Fishaudio:
+  - Fish Speech 1.4: https://huggingface.co/fishaudio/fish-speech-1.4
+  - Fish Speech 1.5: https://huggingface.co/fishaudio/fish-speech-1.5
 - ChatTTS: https://huggingface.co/2Noise/ChatTTS
 - ebook2audiobook: https://github.com/DrewThomasson/ebook2audiobookXTTS
 - GPT-SoVITS-WebUI: https://github.com/RVC-Boss/GPT-SoVITS
