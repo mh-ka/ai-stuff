@@ -32,6 +32,7 @@
     - CodeLLama: https://github.com/facebookresearch/codellama
     - slowllama: with offloading to SSD/Memory: https://github.com/okuvshynov/slowllama
     - Llama 3: https://llama.meta.com/llama3/
+    - Llama 3.3 70B: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
   - NLLB (No language left behind): https://github.com/facebookresearch/fairseq/tree/nllb
 
 - Mistral
@@ -493,6 +494,7 @@
     - https://github.com/NVIDIA/dcgm-exporter
     - https://grafana.com/grafana/dashboards/12239-nvidia-dcgm-exporter-dashboard/
   - In-browser training playground: https://github.com/trekhleb/homemade-gpt-js
+  - Fine-tuning tutorial for small language models: https://github.com/huggingface/smol-course
 
 
 ## Evaluation
