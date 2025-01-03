@@ -158,6 +158,7 @@
     - SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
     - AMD's OLMo 1B: https://huggingface.co/amd/AMD-OLMo
     - Fox-1-1.6B-Instruct: https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1
+    - Cohere's Command R7B: https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -198,6 +199,7 @@
     - 124B: https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411
   - Meta
     - Llama 3.2-Vision: https://huggingface.co/collections/meta-llama/
+    - Apollo 7B (based on Qwen, taken down by Meta): https://huggingface.co/GoodiesHere/Apollo-LMMs-Apollo-7B-t32
   - Molmo: https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
   - Emu3: https://huggingface.co/BAAI/Emu3-Gen
   - GOT OCR 2.0: https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
