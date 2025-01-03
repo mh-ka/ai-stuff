@@ -35,9 +35,9 @@
   - NLLB (No language left behind): https://github.com/facebookresearch/fairseq/tree/nllb
 
 - Mistral
-  - Finetune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
+  - Fine-tune Mistral on your own data: https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb
   - Models on huggingface: https://huggingface.co/mistralai (Codestral, Mathstral, Nemo, Mixtral, Mistral Large etc.)
-  - Uncensored finetune: https://huggingface.co/concedo/Beepo-22B
+  - Uncensored fine-tune: https://huggingface.co/concedo/Beepo-22B
   - Mistral Small Instruct: https://huggingface.co/bartowski/Mistral-Small-Instruct-2409-GGUF/blob/main/Mistral-Small-Instruct-2409-Q6_K.gguf
 
 - DeepSeek
@@ -54,69 +54,51 @@
   - Qwen2.5
     - Collection: https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e
     - Coder: https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f
-    - Uncensored finetune: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
+    - Uncensored fine-tune: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
     - Abliterated: https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF
   - Marco-o1: https://huggingface.co/AIDC-AI/Marco-o1
   - Qwen with Questions (Reasoning Preview): https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
 
 - More
+  - Ollama library: https://ollama.com/library
   - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
-  - Doctor Dignity: https://github.com/llSourcell/Doctor-Dignity
-  - BigTranslate: https://github.com/ZNLP/BigTranslate
-  - MaLA: https://huggingface.co/MaLA-LM/mala-500
-  - Prometheus 2 (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
-  - LLM360's K2 (fully open source): https://huggingface.co/LLM360/K2
-  - Starcoder 2: https://github.com/bigcode-project/starcoder2
-  - DBRX Base and Instruct: https://github.com/databricks/dbrx
+  - Prometheus 2 7B/8x7B (LLM for LLM evaluation): https://github.com/prometheus-eval/prometheus-eval
+  - LLM360's K2 70B (fully open source): https://huggingface.co/LLM360/K2
+  - Starcoder 2 3B/7B/15B: https://github.com/bigcode-project/starcoder2
+  - DBRX Base and Instruct MoE 36B: https://github.com/databricks/dbrx
   - Cohere
     - Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
     - Command-R 08-2024: https://huggingface.co/bartowski/c4ai-command-r-08-2024-GGUF
     - Aya Expanse: https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-671a83d6b2c07c692beab3c3
-  - Snowflake Arctic: https://github.com/Snowflake-Labs/snowflake-arctic
   - IBM's Granite
     - Code Models: https://github.com/ibm-granite/granite-code-models
     - Granite v3.1: https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d
-  - AutoCoder: https://github.com/bin123apple/AutoCoder
   - LagLlama (time series forecasting): https://github.com/time-series-foundation-models/lag-llama
-  - Ollama library: https://ollama.com/library
-  - DiagnosisGPT (medical diagnosis LLM): https://github.com/FreedomIntelligence/Chain-of-Diagnosis
-  - AI21 Jamba 1.5 Mini (hybrid SSM-Transformer): https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini
-  - Yi-Coder 9B: https://huggingface.co/01-ai/Yi-Coder-9B-Chat
+  - DiagnosisGPT 6B/34B (medical diagnosis LLM): https://github.com/FreedomIntelligence/Chain-of-Diagnosis
+  - AI21 Jamba 1.5 12B/94B (hybrid SSM-Transformer): https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini
   - Jina Embeddings v3: https://huggingface.co/jinaai/jina-embeddings-v3
   - Microsoft's GRIN-MoE: https://huggingface.co/microsoft/GRIN-MoE
-  - SuperNova-Medius (distillation merge between Qwen and Llama)
-    - https://huggingface.co/arcee-ai/SuperNova-Medius
-    - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
-  - CodeGeeX4: https://huggingface.co/THUDM/codegeex4-all-9b
-  - Kurage: https://huggingface.co/lightblue/kurage-multilingual
-  - Athene V2 (Qwen Fine-Tune): https://huggingface.co/collections/Nexusflow/athene-v2-6735b85e505981a794fb02cc
+  - Athene V2 72B (Qwen Fine-Tune): https://huggingface.co/collections/Nexusflow/athene-v2-6735b85e505981a794fb02cc
   - LG's EXAONE-3.5 (several sizes): https://huggingface.co/collections/LGAI-EXAONE/exaone-35-674d0e1bb3dcd2ab6f39dbb4
   - Nvidia's Llama-3.1-Nemotron-70B: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
-  - WizardLM Uncensored
-    - 13B: https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored
-    - 7B: https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored
-  - Tencent's Hunyuan Large: https://huggingface.co/tencent/Tencent-Hunyuan-Large
-  - Fix-1-1.6B-Instruct: https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1
+  - Gemma 27B (exl2 format): https://huggingface.co/mo137/gemma-2-27b-it-exl2
+  - Tencent's Hunyuan Large MoE: https://huggingface.co/tencent/Tencent-Hunyuan-Large
 
 - Small sized
   - Microsoft
     - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
     - phi-3 / phi-3.5: https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3
     - phi-3.5 uncensored: https://huggingface.co/bartowski/Phi-3.5-mini-instruct_Uncensored-GGUF
-  - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
-  - RWKV-5 Eagle 7B: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
   - Google
     - Gemma 2B and 7B: https://huggingface.co/blog/gemma
     - Gemma2 9B: https://huggingface.co/bartowski/gemma-2-9b-it-GGUF
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
     - RecurrentGemma: https://huggingface.co/google/recurrentgemma-9b
-    - SEA-LION (South East Asia finetune): https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base 
-  - TigerGemma 9B v3: https://huggingface.co/TheDrummer/Tiger-Gemma-9B-v3
-  - Gemma 27B exl2: https://huggingface.co/mo137/gemma-2-27b-it-exl2
+    - TigerGemma 9B v3 (fine-tune): https://huggingface.co/TheDrummer/Tiger-Gemma-9B-v3
+    - SEA-LION (South East Asia fine-tune): https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base 
   - Moondream (vision model on edge devices)
     - https://github.com/vikhyat/moondream
     - https://huggingface.co/vikhyatk/moondream2
-  - Yi-9B: https://huggingface.co/01-ai/Yi-9B
   - Mistral (feat. Nvidia)
     - NeMo 12B
       - https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407
@@ -128,11 +110,6 @@
   - Apple
     - Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
     - Core ML Gallery of on-device models: https://huggingface.co/apple
-  - RefuelLLM-2 (data labeling model): https://www.refuel.ai/blog-posts/announcing-refuel-llm-2
-  - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
-  - Cohere's Aya 23 (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
-  - Mistral's 7B-Instruct-v0.3: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
-  - Llama3 8B LexiFun Uncensored V1: https://huggingface.co/Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1
   - Hugging Face's SmolLM
     - v1: https://huggingface.co/blog/smollm
     - v2: https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9
@@ -140,24 +117,46 @@
     - Zamba2-2.7B: https://huggingface.co/Zyphra/Zamba2-2.7B
     - Zamba2-1.2B: https://huggingface.co/Zyphra/Zamba2-1.2B
     - Zamba2-7B: https://huggingface.co/Zyphra/Zamba2-7B-Instruct
-  - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device
-  - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
-  - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
   - Meta
     - Llama 3.2 (collection of small models and big vision models): https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf
     - MobileLLM: https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95
-  - Nvidia's Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
-  - OpenCoder: https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e
-  - NuExtract 1.5: https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d
-  - Teuken 7B (based on European languages): https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4
-  - EuroLLM: https://huggingface.co/utter-project/EuroLLM-9B
-  - Moxin 7B: https://github.com/moxin-org/Moxin-LLM
-  - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
-  - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
-  - Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
-  - Falcon 3: https://huggingface.co/blog/falcon3
-  - SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
-  - AMD's OLMo: https://huggingface.co/amd/AMD-OLMo
+    - Llama3 8B LexiFun Uncensored V1 (fine-tune): https://huggingface.co/Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1
+    - Nvidia's Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
+  - WizardLM Uncensored
+    - 13B: https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored
+    - 7B: https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored
+  - Misc
+    - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
+    - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device
+    - MaLA 7B: https://huggingface.co/MaLA-LM/mala-500
+    - Yi-9B: https://huggingface.co/01-ai/Yi-9B
+    - Yi-Coder 9B: https://huggingface.co/01-ai/Yi-Coder-9B-Chat
+    - AutoCoder 7B: https://github.com/bin123apple/AutoCoder
+    - Replit Code v1.5 3B for coding: https://huggingface.co/replit/replit-code-v1_5-3b
+    - RWKV-5 Eagle 7B: https://huggingface.co/RWKV/v5-Eagle-7B-pth
+    - RefuelLLM-2 8B (data labeling model): https://huggingface.co/refuelai/Llama-3-Refueled
+    - Doctor Dignity 7B: https://github.com/llSourcell/Doctor-Dignity
+    - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
+    - Cohere's Aya 23 8B/35B (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
+    - SuperNova-Medius 14B (distillation merge between Qwen and Llama)
+      - https://huggingface.co/arcee-ai/SuperNova-Medius
+      - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
+    - CodeGeeX4 9B: https://huggingface.co/THUDM/codegeex4-all-9b
+    - BigTranslate 13B: https://github.com/ZNLP/BigTranslate
+    - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
+    - OpenCoder 1.5B/8B: https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e
+    - NuExtract 1.5: https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d
+    - Kurage Multilingual 7B: https://huggingface.co/lightblue/kurage-multilingual
+    - Teuken 7B (based on European languages): https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4
+    - EuroLLM 9B: https://huggingface.co/utter-project/EuroLLM-9B
+    - Moxin 7B: https://github.com/moxin-org/Moxin-LLM
+    - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
+    - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
+    - Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
+    - Falcon 3 (several sizes): https://huggingface.co/blog/falcon3
+    - SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
+    - AMD's OLMo 1B: https://huggingface.co/amd/AMD-OLMo
+    - Fox-1-1.6B-Instruct: https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
@@ -352,8 +351,8 @@
 
 
 ## AI Developer Topics
-- Training and Fine-Tuning
-  - Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
+- Training and -Tuning
+  - -tune NLP models: https://towardsdatascience.com/domain-adaption--tune-pre-trained-nlp-models-a06659ca6668
   - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
   - How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
   - LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory
