@@ -574,3 +574,4 @@
   - ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
   - Video upscale workflows: https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid
   - Live Portrait and Face Expression Tutorial: https://www.youtube.com/watch?v=q6poA8I7tRM
+  - DiffSensei (manga panels generator): https://github.com/jianzongwu/DiffSensei
