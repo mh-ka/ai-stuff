@@ -466,6 +466,7 @@
   - OpenHands (coder agent): https://github.com/All-Hands-AI/OpenHands/
   - bolt.diy (coder agent): https://github.com/stackblitz-labs/bolt.diy
   - inferable (scalable agentic automation): https://github.com/inferablehq/inferable
+  - Smolagents (python based agent library with focus on simplicity): https://github.com/huggingface/smolagents
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
