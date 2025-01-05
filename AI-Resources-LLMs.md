@@ -160,6 +160,7 @@
     - AMD's OLMo 1B: https://huggingface.co/amd/AMD-OLMo
     - Fox-1-1.6B-Instruct: https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1
     - Cohere's Command R7B: https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024
+    - Pleias models (trained mainly on common corpus): https://huggingface.co/collections/PleIAs/common-models-674cd0667951ab7c4ef84cc4
 
 - Multimodal / Vision
   - LLaVA: https://github.com/haotian-liu/LLaVA
