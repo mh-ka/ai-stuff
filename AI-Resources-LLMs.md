@@ -24,6 +24,7 @@
 - Uncensored Models: https://erichartford.com/uncensored-models
 - 2024 AI Timeline: https://huggingface.co/spaces/reach-vb/2024-ai-timeline
 - Latent space explorer: https://www.goodfire.ai/papers/mapping-latent-spaces-llama/
+- Interpretability of Neural networks: https://80000hours.org/podcast/episodes/chris-olah-interpretability-research
 
 
 ## Models
