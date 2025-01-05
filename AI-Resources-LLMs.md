@@ -397,6 +397,7 @@
     - RAGHub: https://github.com/Andrew-Jang/RAGHub
     - Entity-DB (in-browser DB for semantic search): https://github.com/babycommando/entity-db
     - Minicheck (fact-checking to reduce hallucinations): https://ollama.com/blog/reduce-hallucinations-with-bespoke-minicheck
+    - Roaming RAG: https://arcturus-labs.com/blog/2024/11/21/roaming-rag--rag-without-the-vector-database/
   - Data extraction
     - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
     - Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
