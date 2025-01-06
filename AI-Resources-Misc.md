@@ -37,6 +37,7 @@
   - https://www.reddit.com/r/StableDiffusion/
   - https://www.reddit.com/r/LocalLLaMA/
   - https://semianalysis.com/
+  - https://www.aisnakeoil.com/
 - Youtube Channels
   - LLM News: https://www.youtube.com/@DrAlanDThompson
   - AI Tools News
