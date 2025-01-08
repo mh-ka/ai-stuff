@@ -28,6 +28,7 @@
     - Painter's Checkpoint: https://civitai.com/models/240154?modelVersionId=289591
     - PixelPaint: https://civitai.com/models/284101?modelVersionId=532842
     - Realistic Stock Photo v2.0: https://civitai.com/models/139565?modelVersionId=294470
+    - NoobAI-XL: https://civitai.com/models/833294/noobai-xl-nai-xl
   - SD 1.5 based Fine-tuned models
     - GhostMix: https://civitai.com/models/36520/ghostmix
     - ReV Animated: https://civitai.com/models/7371/rev-animated
@@ -200,6 +201,7 @@
   - IntraPaint: https://github.com/centuryglass/IntraPaint
   - IOPaint (Inpainting/Outpainting tool): https://github.com/Sanster/IOPaint
   - Remacri Upscaling Model: https://openmodeldb.info/models/4x-Remacri
+  - RefDrop Extension (Forge version): https://github.com/tocantrell/sd-refdrop-forge
 
 - Misc
   - I Made Stable Diffusion XL Smarter: https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/
@@ -309,6 +311,8 @@
     - UltraReal Fine-Tune v2.0: https://civitai.com/models/978314?modelVersionId=1164498
     - Dramatic Portrait: https://civitai.com/models/1038829/dramatic-portrait
     - Dramatic Portrait B&W: https://civitai.com/models/1042672/dramatic-portrait-black-and-white
+    - Boreal v2: https://civitai.com/models/639937/boreal-fd-boring-reality-flux-dev-lora
+    - Old photos: https://civitai.com/models/1105860/eerie-old-photos-lora-flux
   - Cinema / TV / Commercials / Pop culture / Anime
     - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
     - Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
@@ -364,6 +368,7 @@
     - Character Sheets: https://civitai.com/models/844032/everly-heights-character-sheets
     - Supergirl: https://civitai.com/models/1002370/flux1-dev-lora-outfit-cw-arrowverse-supergirl-spectrum-0003
     - Dark and Darker: https://civitai.com/models/1086758?modelVersionId=1220411
+    - Euromanga: https://civitai.com/models/1099696?modelVersionId=1235285
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -411,6 +416,7 @@
     - Gotlib (satirical comics): https://civitai.com/models/525206/french-1970s-satirical-comics-gotlib-style
     - Rough Sketching: https://civitai.com/models/1046599?modelVersionId=1174283
     - Ligne Claire: https://civitai.com/models/1080092
+    - Etch-A-Sketcher: https://civitai.com/models/995221/etch-a-sketcher-flux
   - Icon Maker: https://civitai.com/models/722531
   - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
   - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
@@ -526,6 +532,7 @@
   - Human Animation
     - Vid2DensePose: https://github.com/Flode-Labs/vid2densepose
     - MagicAnimate: https://github.com/magic-research/magic-animate
+  - Krita plugin for segmentation: https://github.com/Acly/krita-ai-tools
 - Image classification / Object detection 
   - Blog around image detection techniques: https://blog.roboflow.com/
   - YOLOv10 (Real-time object detection): https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics)
@@ -569,9 +576,11 @@
   - Tencent - Hunyuan: https://huggingface.co/tencent/HunyuanVideo
 - Video manipulation
   - Video face swap: https://github.com/s0md3v/roop
+  - Lipsync: https://github.com/bytedance/LatentSync
 - Misc
   - List of popular txt2img generative models: https://github.com/vladmandic/automatic/wiki/Models
   - ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
   - Video upscale workflows: https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid
   - Live Portrait and Face Expression Tutorial: https://www.youtube.com/watch?v=q6poA8I7tRM
   - DiffSensei (manga panels generator): https://github.com/jianzongwu/DiffSensei
+  - Nvidia's Cosmos models (txt2video, video2world, ...): https://huggingface.co/collections/nvidia/cosmos-6751e884dc10e013a0a0d8e6
