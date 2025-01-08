@@ -53,6 +53,10 @@
 - Piper (local TTS system): https://github.com/rhasspy/piper
 - OuteTTS (onnx model for transformer.js WebGPU inference): https://huggingface.co/onnx-community/OuteTTS-0.2-500M
 - Auralis (speed focussed TTS inference engine): https://github.com/astramind-ai/Auralis
+- Kokoro
+  - Model: https://huggingface.co/hexgrad/Kokoro-82M
+  - ONNX variant: https://github.com/thewh1teagle/kokoro-onnx
+  - Dockerized: https://github.com/remsky/Kokoro-FastAPI
 
 
 ## Music production
