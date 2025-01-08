@@ -369,6 +369,7 @@
     - Supergirl: https://civitai.com/models/1002370/flux1-dev-lora-outfit-cw-arrowverse-supergirl-spectrum-0003
     - Dark and Darker: https://civitai.com/models/1086758?modelVersionId=1220411
     - Euromanga: https://civitai.com/models/1099696?modelVersionId=1235285
+    - Weirdos: https://civitai.com/models/1087910/everly-heights-weirdos-flux
   - Materials
     - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
     - Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
@@ -513,6 +514,15 @@
   - In-Context-LORA: https://github.com/ali-vilab/In-Context-LoRA
   - Qwen2VL-Flux: https://github.com/erwold/qwen2vl-flux
   - Prompt catalyst chrome extension: https://chromewebstore.google.com/detail/prompt-catalyst/hehieakgdbakdajfpekgmfckplcjmgcf?pli=1
+  - LORA scheduling in ComfyUI: https://blog.comfy.org/p/masking-and-scheduling-lora-and-model-weights
+  - CivitAI collections
+    - https://civitai.com/collections/3109994
+    - https://civitai.com/collections/906833
+    - https://civitai.com/collections/6473820
+    - https://civitai.com/collections/4192940
+    - https://civitai.com/collections/4649716
+    - https://civitai.com/collections/5757484
+    - https://civitai.com/collections/4184293
 
 
 ## Animation - Video - 3D - Other
