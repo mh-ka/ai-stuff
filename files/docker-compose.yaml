@@ -1,0 +1,24 @@
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ./ollama:/root/.ollama
+    ports:
+      - "127.0.0.1:11434:11434"
+    restart: unless-stopped
+
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - ANONYMIZED_TELEMETRY=False
+    volumes:
+      - ./open-webui:/app/backend/data
+    ports:
+      - "127.0.0.1:3000:8080"
+    restart: unless-stopped
