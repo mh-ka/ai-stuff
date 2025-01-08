@@ -354,11 +354,13 @@
 - Terminal app prototyping tool: https://github.com/shobrook/termite
 - Papeg.ai (chatUI): https://github.com/flatsiedatsie/papeg_ai
 - Youtube Summarizer Chrome Extension: https://github.com/avarayr/youtube-summarizer-oss
+- Local AI assistant: https://github.com/CNTRLAI/notate
+- GraphLLM (graph based data processing with LLMs): https://github.com/matteoserva/GraphLLM
 
 
 ## AI Developer Topics
-- Training and -Tuning
-  - -tune NLP models: https://towardsdatascience.com/domain-adaption--tune-pre-trained-nlp-models-a06659ca6668
+- Training and Fine-Tuning
+  - Fine-tune NLP models: https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668
   - TensorBoard for TensorFlow visualization: https://www.tensorflow.org/tensorboard
   - How to use consumer hardware to train 70b LLM: https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html
   - LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory
@@ -470,6 +472,8 @@
   - bolt.diy (coder agent): https://github.com/stackblitz-labs/bolt.diy
   - inferable (scalable agentic automation): https://github.com/inferablehq/inferable
   - Smolagents (python based agent library with focus on simplicity): https://github.com/huggingface/smolagents
+  - n8n (LLM workflow editor): https://github.com/n8n-io/n8n
+  - Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
