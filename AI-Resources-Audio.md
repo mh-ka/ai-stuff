@@ -83,3 +83,4 @@
 - LocalGlaDOS: https://github.com/dnhkng/GlaDOS
 - ClearerVoice-Studio: https://github.com/modelscope/ClearerVoice-Studio/tree/main
 - OmniAudio 2.6B (edge device setup for taking input audio and integrate LLM): https://huggingface.co/NexaAIDev/OmniAudio-2.6B
+- BlahST (speech2txt tool based on whisper for linux): https://github.com/QuantiusBenignus/BlahST
