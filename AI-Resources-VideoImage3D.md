@@ -555,7 +555,9 @@
   - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
   - Apple's Depth Pro: https://github.com/apple/ml-depth-pro
   - InstantMesh (img -> 3D Mesh): https://github.com/TencentARC/InstantMesh
-  - Microsoft's Trellis: https://github.com/microsoft/TRELLIS
+  - Microsoft's Trellis
+    - Official github: https://github.com/microsoft/TRELLIS
+    - One-Click Installer: https://github.com/IgorAherne/trellis-stable-projectorz
 - Video generation models
   - AnimateDiff
     - Prompt Travel Video2Video Tutorial: https://stable-diffusion-art.com/animatediff-prompt-travel-video2video/
@@ -583,10 +585,14 @@
   - Genmo - Mochi 1: https://github.com/genmoai/models
   - Rhymes - AI Allegro: https://huggingface.co/rhymes-ai/Allegro
   - Nvidia - Sana: https://github.com/NVlabs/Sana
-  - Tencent - Hunyuan: https://huggingface.co/tencent/HunyuanVideo
+  - Tencent - Hunyuan
+    - HuggingFace: https://huggingface.co/tencent/HunyuanVideo
+    - ComfyUI workflow: https://civitai.com/models/1092466?modelVersionId=1243590
+    - Multi Lora Node: https://github.com/facok/ComfyUI-HunyuanVideoMultiLora
 - Video manipulation
   - Video face swap: https://github.com/s0md3v/roop
   - Lipsync: https://github.com/bytedance/LatentSync
+  - Video upscaling: https://huggingface.co/SherryX/STAR
 - Misc
   - List of popular txt2img generative models: https://github.com/vladmandic/automatic/wiki/Models
   - ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
