@@ -63,6 +63,7 @@
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
 - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
 - Sample generator: https://huggingface.co/adlb/Audialab_EDM_Elements
+- RC stable audio tools (Gradio app for using audio models): https://github.com/RoyalCities/RC-stable-audio-tools
 
 
 ## Other
