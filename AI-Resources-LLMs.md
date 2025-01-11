@@ -63,6 +63,7 @@
   - Qwen with Questions (Reasoning Preview): https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
   - QwQ-Unofficial-14B-Math-v0.2 (Math and logic fine-tune): https://huggingface.co/bartowski/QwQ-Unofficial-14B-Math-v0.2-GGUF
   - QwQ-LCoT-7B-Instruct (reasoning fine-tune): https://huggingface.co/bartowski/QwQ-LCoT-7B-Instruct-GGUF
+  - QwQ-32B-Preview-IdeaWhiz-v1-GGUF (scientific creativity fine-tune): https://huggingface.co/6cf/QwQ-32B-Preview-IdeaWhiz-v1-GGUF
 
 - More
   - Ollama library: https://ollama.com/library
@@ -503,6 +504,7 @@
   - n8n (LLM workflow editor): https://github.com/n8n-io/n8n
   - Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
   - Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
+  - freeact (library for code-based agents): https://github.com/gradion-ai/freeact
 
 - Misc
   - List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
