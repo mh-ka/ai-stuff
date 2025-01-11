@@ -62,6 +62,7 @@
 ## Music production
 - LANDR mastering plugin: https://www.gearnews.de/landr-mastering-plugin/
 - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
+- Sample generator: https://huggingface.co/adlb/Audialab_EDM_Elements
 
 
 ## Other
