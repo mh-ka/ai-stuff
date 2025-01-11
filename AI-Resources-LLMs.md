@@ -61,6 +61,8 @@
     - Qwentile (custom model merge): https://huggingface.co/maldv/Qwentile2.5-32B-Instruct
   - Marco-o1: https://huggingface.co/AIDC-AI/Marco-o1
   - Qwen with Questions (Reasoning Preview): https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
+  - QwQ-Unofficial-14B-Math-v0.2 (Math and logic fine-tune): https://huggingface.co/bartowski/QwQ-Unofficial-14B-Math-v0.2-GGUF
+  - QwQ-LCoT-7B-Instruct (reasoning fine-tune): https://huggingface.co/bartowski/QwQ-LCoT-7B-Instruct-GGUF
 
 - More
   - Ollama library: https://ollama.com/library
@@ -73,6 +75,7 @@
     - Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
     - Command-R 08-2024: https://huggingface.co/bartowski/c4ai-command-r-08-2024-GGUF
     - Aya Expanse: https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-671a83d6b2c07c692beab3c3
+    - Aya Expanse 32B ungated GGUF: https://huggingface.co/tensorblock/aya-expanse-32b-ungated-GGUF
   - IBM's Granite
     - Code Models: https://github.com/ibm-granite/granite-code-models
     - Granite v3.1: https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d
@@ -98,7 +101,8 @@
     - CodeGemma: https://www.kaggle.com/models/google/codegemma
     - RecurrentGemma: https://huggingface.co/google/recurrentgemma-9b
     - TigerGemma 9B v3 (fine-tune): https://huggingface.co/TheDrummer/Tiger-Gemma-9B-v3
-    - SEA-LION (South East Asia fine-tune): https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base 
+    - SEA-LION (South East Asia fine-tune): https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base
+    - Gemma with questions (fine-tune): https://huggingface.co/prithivMLmods/GWQ-9B-Preview2
   - Moondream (vision model on edge devices)
     - https://github.com/vikhyat/moondream
     - https://huggingface.co/vikhyatk/moondream2
@@ -566,3 +570,4 @@
 - BIG-bench: https://github.com/google/BIG-bench
 - TruthfulQA: https://github.com/sylinrl/TruthfulQA
 - FACTS Leaderboard: https://www.kaggle.com/facts-leaderboard
+- Massive Text Embedding Benchmark Leaderboard: https://huggingface.co/spaces/mteb/leaderboard
