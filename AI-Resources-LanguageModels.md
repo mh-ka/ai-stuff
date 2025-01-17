@@ -63,6 +63,7 @@
   - Uncensored fine-tune: https://huggingface.co/AiCloser/Qwen2.5-32B-AGI
   - Abliterated: https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF
   - Qwentile (custom model merge): https://huggingface.co/maldv/Qwentile2.5-32B-Instruct
+  - Reasoning fine-tune: https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview
 - Marco-o1: https://huggingface.co/AIDC-AI/Marco-o1
 - Qwen with Questions (Reasoning Preview): https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
 - QwQ-Unofficial-14B-Math-v0.2 (Math and logic fine-tune): https://huggingface.co/bartowski/QwQ-Unofficial-14B-Math-v0.2-GGUF
@@ -184,6 +185,7 @@
 - Cohere's Command R7B: https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024
 - Pleias models (trained mainly on common corpus): https://huggingface.co/collections/PleIAs/common-models-674cd0667951ab7c4ef84cc4
 - AllenAI's OLMo 2: https://huggingface.co/collections/allenai/olmo-2-674117b93ab84e98afc72edc
+- InternLM3 8B Instruct: https://huggingface.co/internlm/internlm3-8b-instruct
 
 ### Multimodal / Vision models
 
@@ -249,6 +251,8 @@
 - OpenGVLab's InternVL 2.5: https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c
 - Megrez 3B Omni: https://huggingface.co/Infinigence/Megrez-3B-Omni
 - YuLan Mini: https://github.com/RUC-GSAI/YuLan-Mini
+- Bytedance's Sa2VA: https://huggingface.co/collections/ByteDance/sa2va-model-zoo-677e3084d71b5f108d00e093
+- LlamaV o1 11B Vision Instruct: https://huggingface.co/omkarthawakar/LlamaV-o1
 
 
 ## Working with LLMs
@@ -477,8 +481,17 @@
 - Markitdown (nonAI data extractor provided by Microsoft): https://github.com/microsoft/markitdown
 - ExtractThinker: https://github.com/enoch3712/ExtractThinker
 - semhash (deduplicating datasets): https://github.com/MinishLab/semhash
+- Jina's ReaderLM v2 (HTML to Json): https://huggingface.co/jinaai/ReaderLM-v2
 
 ### Agents and workflows
+
+#### Microsoft
+- OmniParser: https://github.com/microsoft/OmniParser
+- TinyTroupe: https://github.com/microsoft/TinyTroupe
+- Autogen (agent framework): https://github.com/microsoft/autogen/tree/main
+- Autogen magentic one: https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one
+
+#### Other
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
 - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
 - Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
@@ -487,13 +500,10 @@
 - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
 - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
 - Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
-- Microsoft's OmniParser: https://github.com/microsoft/OmniParser
 - OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
 - Arch (prompt gateway): https://github.com/katanemo/archgw
 - Letta (agents with memory): https://github.com/letta-ai/letta
-- Microsoft's TinyTroupe: https://github.com/microsoft/TinyTroupe
 - Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
-- Microsoft's Autogen (agent framework): https://github.com/microsoft/autogen/tree/main
 - OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
 - Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
 - OpenHands (coder agent): https://github.com/All-Hands-AI/OpenHands/
@@ -504,6 +514,8 @@
 - Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
 - Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
 - freeact (library for code-based agents): https://github.com/gradion-ai/freeact
+- Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
+- Agent recipes: https://www.agentrecipes.com/
 
 ### Other
 - Docker GenAI Stack: https://github.com/docker/genai-stack
