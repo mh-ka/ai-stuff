@@ -220,6 +220,7 @@
 #### OpenBMB
 - MiniCPM V2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
 - MiniCPM V2.6: https://huggingface.co/openbmb/MiniCPM-V-2_6
+- MiniCPM-o 2.6: https://huggingface.co/openbmb/MiniCPM-o-2_6
 
 #### Nvidia
 - Eagle: https://huggingface.co/NVEagle/Eagle-X5-13B
@@ -340,6 +341,7 @@
   - Marketplace: https://marketplace.visualstudio.com/items?itemName=robertpiosik.gemini-coder
 - Turn github repo into text ingest for LLM: https://github.com/lcandy2/gitingest-extension
 - Source to prompt: https://github.com/Dicklesworthstone/your-source-to-prompt.html
+- Agentless: https://github.com/OpenAutoCoder/Agentless
 
 ### File organizer
 - Local File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
@@ -453,6 +455,7 @@
 - Minicheck (fact-checking to reduce hallucinations): https://ollama.com/blog/reduce-hallucinations-with-bespoke-minicheck
 - Roaming RAG: https://arcturus-labs.com/blog/2024/11/21/roaming-rag--rag-without-the-vector-database/
 - RAG setups for long documents: https://www.reddit.com/r/LocalLLaMA/comments/1hq36dn/practical_online_offline_rag_setups_for_long/
+- AutoRAG: https://github.com/Marker-Inc-Korea/AutoRAG
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -473,6 +476,7 @@
 - Extractous: https://github.com/yobix-ai/extractous
 - Markitdown (nonAI data extractor provided by Microsoft): https://github.com/microsoft/markitdown
 - ExtractThinker: https://github.com/enoch3712/ExtractThinker
+- semhash (deduplicating datasets): https://github.com/MinishLab/semhash
 
 ### Agents and workflows
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
