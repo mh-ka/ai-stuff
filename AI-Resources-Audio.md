@@ -37,6 +37,7 @@
 - Model: https://huggingface.co/hexgrad/Kokoro-82M
 - ONNX variant: https://github.com/thewh1teagle/kokoro-onnx
 - Dockerized: https://github.com/remsky/Kokoro-FastAPI
+- Kokoros (Rust based engine): https://github.com/lucasjinreal/Kokoros
 
 ### Other
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
