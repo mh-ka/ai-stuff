@@ -373,7 +373,6 @@
 - AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
 - Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
 - Personal Assistant: https://github.com/ErikBjare/gptme/
-- Surya (OCR): https://github.com/VikParuchuri/surya
 - Open Canvas: https://github.com/langchain-ai/open-canvas
 - Foyle (engineer assistant as VSCode extension): https://foyle.io/docs/overview/
 - GPT-boosted Brainstorming Techniques: https://github.com/Azzedde/brainstormers
@@ -412,6 +411,7 @@
 - Logging assistant creation: https://github.com/jetro30087/Ollogger
 - Office plugin for text genAI: https://github.com/suncloudsmoon/TextCraft
 - AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
+- Local Computer Vision (LCLV) with Moondream: https://github.com/HafizalJohari/lclv
 
 
 ## AI developer topics
@@ -461,63 +461,7 @@
 - RAG setups for long documents: https://www.reddit.com/r/LocalLLaMA/comments/1hq36dn/practical_online_offline_rag_setups_for_long/
 - AutoRAG: https://github.com/Marker-Inc-Korea/AutoRAG
 
-### Data extraction
-- Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
-- Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
-- URL to LLM input converter: https://github.com/jina-ai/reader
-- LLM Scraper (extract structured data from URL): https://github.com/mishushakov/llm-scraper
-- Datachain (python library for unstructured data processing): https://github.com/iterative/datachain
-- ThePipe (markdown and visuals extraction from PDFs, URLs, etc.): https://github.com/emcf/thepipe
-- Firecrawl (websites2markdown): https://github.com/mendableai/firecrawl
-- MinerU (PDF data extraction): https://github.com/opendatalab/MinerU
-- Nougat (PDF parser): https://github.com/facebookresearch/nougat
-- PDF Extract Kit: https://github.com/opendatalab/PDF-Extract-Kit
-- Marker (PDF2Markdown): https://github.com/VikParuchuri/marker
-- PyMPDF
-  - https://github.com/pymupdf/PyMuPDF
-  - https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/
-- Sparrow: https://github.com/katanaml/sparrow
-- Extractous: https://github.com/yobix-ai/extractous
-- Markitdown (nonAI data extractor provided by Microsoft): https://github.com/microsoft/markitdown
-- ExtractThinker: https://github.com/enoch3712/ExtractThinker
-- semhash (deduplicating datasets): https://github.com/MinishLab/semhash
-- Jina's ReaderLM v2 (HTML to Json): https://huggingface.co/jinaai/ReaderLM-v2
-
-### Agents and workflows
-
-#### Microsoft
-- OmniParser: https://github.com/microsoft/OmniParser
-- TinyTroupe: https://github.com/microsoft/TinyTroupe
-- Autogen (agent framework): https://github.com/microsoft/autogen/tree/main
-- Autogen magentic one: https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one
-
-#### Other
-- How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
-- Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
-- Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
-- Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
-- AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
-- Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
-- LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
-- Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
-- OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
-- Arch (prompt gateway): https://github.com/katanemo/archgw
-- Letta (agents with memory): https://github.com/letta-ai/letta
-- Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
-- OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
-- Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
-- OpenHands (coder agent): https://github.com/All-Hands-AI/OpenHands/
-- bolt.diy (coder agent): https://github.com/stackblitz-labs/bolt.diy
-- inferable (scalable agentic automation): https://github.com/inferablehq/inferable
-- Smolagents (python based agent library with focus on simplicity): https://github.com/huggingface/smolagents
-- n8n (LLM workflow editor): https://github.com/n8n-io/n8n
-- Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
-- Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
-- freeact (library for code-based agents): https://github.com/gradion-ai/freeact
-- Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
-- Agent recipes: https://www.agentrecipes.com/
-
-### Other
+### Frameworks, stacks, articles etc.
 - Docker GenAI Stack: https://github.com/docker/genai-stack
 - LLM App Stack: https://github.com/a16z-infra/llm-app-stack
 - Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
@@ -589,6 +533,64 @@
 - Fine-tuning tutorial for small language models: https://github.com/huggingface/smol-course
 - Linux GPU temperature reader: https://github.com/ThomasBaruzier/gddr6-core-junction-vram-temps
 - Docker GPU power limiting tool: https://github.com/sammcj/NVApi
+
+### Data extraction
+- Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
+- Crawl4AI (simplify crawling and data extraction as input for LLMs): https://github.com/unclecode/crawl4ai
+- URL to LLM input converter: https://github.com/jina-ai/reader
+- LLM Scraper (extract structured data from URL): https://github.com/mishushakov/llm-scraper
+- Datachain (python library for unstructured data processing): https://github.com/iterative/datachain
+- ThePipe (markdown and visuals extraction from PDFs, URLs, etc.): https://github.com/emcf/thepipe
+- Firecrawl (websites2markdown): https://github.com/mendableai/firecrawl
+- MinerU (PDF data extraction): https://github.com/opendatalab/MinerU
+- Nougat (PDF parser): https://github.com/facebookresearch/nougat
+- PDF Extract Kit: https://github.com/opendatalab/PDF-Extract-Kit
+- Marker (PDF2Markdown): https://github.com/VikParuchuri/marker
+- PyMPDF
+  - https://github.com/pymupdf/PyMuPDF
+  - https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/
+- Sparrow: https://github.com/katanaml/sparrow
+- Extractous: https://github.com/yobix-ai/extractous
+- Markitdown (nonAI data extractor provided by Microsoft): https://github.com/microsoft/markitdown
+- ExtractThinker: https://github.com/enoch3712/ExtractThinker
+- semhash (deduplicating datasets): https://github.com/MinishLab/semhash
+- Jina's ReaderLM v2 (HTML to Json): https://huggingface.co/jinaai/ReaderLM-v2
+- Docling (document parser): https://github.com/DS4SD/docling
+- Surya (OCR): https://github.com/VikParuchuri/surya
+
+### Agents and workflows
+
+#### Microsoft
+- OmniParser: https://github.com/microsoft/OmniParser
+- TinyTroupe: https://github.com/microsoft/TinyTroupe
+- Autogen (agent framework): https://github.com/microsoft/autogen/tree/main
+- Autogen magentic one: https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one
+
+#### Other
+- How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
+- Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
+- Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
+- Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
+- AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
+- Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
+- LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
+- Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
+- OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
+- Arch (prompt gateway): https://github.com/katanemo/archgw
+- Letta (agents with memory): https://github.com/letta-ai/letta
+- Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
+- OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
+- Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
+- OpenHands (coder agent): https://github.com/All-Hands-AI/OpenHands/
+- bolt.diy (coder agent): https://github.com/stackblitz-labs/bolt.diy
+- inferable (scalable agentic automation): https://github.com/inferablehq/inferable
+- Smolagents (python based agent library with focus on simplicity): https://github.com/huggingface/smolagents
+- n8n (LLM workflow editor): https://github.com/n8n-io/n8n
+- Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
+- Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
+- freeact (library for code-based agents): https://github.com/gradion-ai/freeact
+- Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
+- Agent recipes: https://www.agentrecipes.com/
 
 
 ## Evaluation and leaderboards
