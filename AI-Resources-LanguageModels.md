@@ -538,6 +538,7 @@
 - Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
 - Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
 - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
+- prompt-owl (prompt engineering library): https://github.com/lks-ai/prowl
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -597,6 +598,16 @@
 - Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
 - Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
 - Agent recipes: https://www.agentrecipes.com/
+- phidata (framework for building multi-modal agents): https://github.com/phidatahq/phidata
+- langroid (framework to easily build LLM-powered applications): https://github.com/langroid/langroid
+- Agent stack example
+  - AG2: https://github.com/ag2ai/ag2
+  - Guidance for constraint generation: https://github.com/guidance-ai/guidance
+  - ChromaDB as a vector store: https://github.com/chroma-core/chroma
+  - Stella v5 for embeddings: https://huggingface.co/dunzhang/stella_en_400M_v5
+  - Marker for converting PDFs to Markdown: https://github.com/VikParuchuri/marker
+  - Markitdown for converting non-PDFs to Markdown: https://github.com/microsoft/markitdown
+  - JoyCaption for image captioning: https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-hf-llava
 
 
 ## Evaluation and leaderboards
