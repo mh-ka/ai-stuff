@@ -264,6 +264,7 @@
 - Depth Dev Lora: https://huggingface.co/black-forest-labs/FLUX.1-Depth-dev-lora
 - Fill Dev: https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev
 - Redux Dev: https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev
+- UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1164498
   
 ### LORAs
 
@@ -329,6 +330,8 @@
 - Dramatic Portrait B&W: https://civitai.com/models/1042672/dramatic-portrait-black-and-white
 - Boreal v2: https://civitai.com/models/639937/boreal-fd-boring-reality-flux-dev-lora
 - Old photos: https://civitai.com/models/1105860/eerie-old-photos-lora-flux
+- 2000s Analog Core: https://civitai.com/models/1134895?modelVersionId=1276001
+- Sony Maciva: https://civitai.com/models/1147127?modelVersionId=1290161
 
 #### Cinema / TV / Commercials / Pop culture / Anime
 - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
@@ -402,6 +405,8 @@
 - Cracked: https://civitai.com/models/838572/flux-cracked-or-cracked-skin-and-surface
 - Toy Box: https://civitai.com/models/842114/toy-box-flux
 - PONGO Dough Style: https://civitai.com/models/1008012/pongo-childish-play-dough-style-for-flux
+- 2.5D Mural: https://civitai.com/models/1132730?modelVersionId=1273449
+- Chinese Seal Carving: https://civitai.com/models/1148354/chinese-seal-carving-sololora
 
 #### Painting / Drawing
 - Oil Painting: https://civitai.com/models/723141
@@ -437,8 +442,10 @@
 - Rough Sketching: https://civitai.com/models/1046599?modelVersionId=1174283
 - Ligne Claire: https://civitai.com/models/1080092
 - Etch-A-Sketcher: https://civitai.com/models/995221/etch-a-sketcher-flux
+- Traditional Chinese: https://civitai.com/models/1139929?modelVersionId=1281929
+- Korea, KimHongDo: https://civitai.com/models/1117292/korea-kimhongdo-style-lora
 
-#### Other Flux related tools and links
+#### Other Flux LORAs
 - Icon Maker: https://civitai.com/models/722531
 - Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
 - Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
@@ -484,6 +491,13 @@
 - Giants: https://civitai.com/models/1009303/flux1-dev-lora-concept-giants-spectrum-0005
 - Highres fix: https://civitai.com/models/1049158?modelVersionId=1177215
 - Cutaway: https://huggingface.co/glif-loradex-trainer/AP123_flux_dev_cutaway_style
+- Propaganda Games: https://civitai.com/models/1124756/propaganda-games
+- Maoist Propaganda Posters: https://civitai.com/models/1138760/maoist-propaganda-posters-style-lora-flux-spectrum0016-by-aicharacters
+- Taped Faces: https://civitai.com/models/1144079
+- Windtunnel Faces: https://civitai.com/models/1129300/windtunnel-face
+- Smol Faces: https://civitai.com/models/1140656/smol-faces-flux
+- Infernal Demons Fantasy Portrait: https://civitai.com/models/1148845/jibs-infernal-demons-fantasy-portrait?modelVersionId=1292142
+- Doddle: https://civitai.com/models/1152849/flux-doddle
 
 ### Tools and links
 
@@ -618,6 +632,7 @@
 - Genmo - Mochi 1: https://github.com/genmoai/models
 - Rhymes - AI Allegro: https://huggingface.co/rhymes-ai/Allegro
 - Nvidia's Cosmos models (txt2video, video2world, ...): https://huggingface.co/collections/nvidia/cosmos-6751e884dc10e013a0a0d8e6
+- DepthFlow: https://github.com/BrokenSource/DepthFlow
 
 ### Video manipulation
 - Video face swap: https://github.com/s0md3v/roop
