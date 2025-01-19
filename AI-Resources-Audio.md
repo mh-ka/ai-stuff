@@ -38,6 +38,7 @@
 - ONNX variant: https://github.com/thewh1teagle/kokoro-onnx
 - Dockerized: https://github.com/remsky/Kokoro-FastAPI
 - Kokoros (Rust based engine): https://github.com/lucasjinreal/Kokoros
+- KokoDOS (GlaDOS fork): https://github.com/kaminoer/KokoDOS
 
 ### Other
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
