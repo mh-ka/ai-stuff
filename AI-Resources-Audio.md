@@ -35,10 +35,15 @@
 
 ### Kokoro
 - Model: https://huggingface.co/hexgrad/Kokoro-82M
-- ONNX variant: https://github.com/thewh1teagle/kokoro-onnx
+- ONNX variant: https://huggingface.co/onnx-community/Kokoro-82M-ONNX
 - Dockerized: https://github.com/remsky/Kokoro-FastAPI
 - Kokoros (Rust based engine): https://github.com/lucasjinreal/Kokoros
 - KokoDOS (GlaDOS fork): https://github.com/kaminoer/KokoDOS
+- kokoro-js: https://www.npmjs.com/package/kokoro-js
+
+### OuteTTS
+- v0.2 (onnx model for transformer.js WebGPU inference): https://huggingface.co/onnx-community/OuteTTS-0.2-500M
+- v0.3: https://huggingface.co/collections/OuteAI/outetts-03-6786b1ebc7aeb757bc17a2fa
 
 ### Other
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
@@ -66,7 +71,6 @@
 - TTS server: https://github.com/matatonic/openedai-speech
 - Voqal (voice native AI agent): https://github.com/voqal/voqal
 - Piper (local TTS system): https://github.com/rhasspy/piper
-- OuteTTS (onnx model for transformer.js WebGPU inference): https://huggingface.co/onnx-community/OuteTTS-0.2-500M
 - Auralis (speed focussed TTS inference engine): https://github.com/astramind-ai/Auralis
 
 
@@ -97,3 +101,4 @@
 - ClearerVoice-Studio: https://github.com/modelscope/ClearerVoice-Studio/tree/main
 - OmniAudio 2.6B (edge device setup for taking input audio and integrate LLM): https://huggingface.co/NexaAIDev/OmniAudio-2.6B
 - BlahST (speech2txt tool based on whisper for linux): https://github.com/QuantiusBenignus/BlahST
+- Weebo (speech-to-speech chatbot using whisper, llama, kokoro): https://github.com/amanvirparhar/weebo
