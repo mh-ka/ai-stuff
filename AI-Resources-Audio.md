@@ -72,6 +72,8 @@
 - Voqal (voice native AI agent): https://github.com/voqal/voqal
 - Piper (local TTS system): https://github.com/rhasspy/piper
 - Auralis (speed focussed TTS inference engine): https://github.com/astramind-ai/Auralis
+- Speaches (server for STT, translation, TTS): https://github.com/speaches-ai/speaches
+- TTS library: https://github.com/idiap/coqui-ai-TTS
 
 
 ## Music production
