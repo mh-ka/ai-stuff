@@ -26,6 +26,7 @@
 - Latent space explorer: https://www.goodfire.ai/papers/mapping-latent-spaces-llama/
 - Interpretability of Neural networks: https://80000hours.org/podcast/episodes/chris-olah-interpretability-research
 - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
+- Prompting Guide: https://www.promptingguide.ai/
 - List of relevant European companies in LLM area
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
   - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
@@ -192,6 +193,9 @@
 - Pleias models (trained mainly on common corpus): https://huggingface.co/collections/PleIAs/common-models-674cd0667951ab7c4ef84cc4
 - AllenAI's OLMo 2: https://huggingface.co/collections/allenai/olmo-2-674117b93ab84e98afc72edc
 - InternLM3 8B Instruct: https://huggingface.co/internlm/internlm3-8b-instruct
+- Recommended for translation
+  - Meta's NLLB: https://huggingface.co/facebook/nllb-200-3.3B
+  - ALMA: https://github.com/fe1ixxu/ALMA
 
 ### Multimodal / Vision models
 
@@ -441,6 +445,7 @@
 - Abliteration: https://huggingface.co/blog/mlabonne/abliteration
 - In-browser training playground: https://github.com/trekhleb/homemade-gpt-js
 - Fine-tuning tutorial for small language models: https://github.com/huggingface/smol-course
+- Kiln (fine-tuning, synthetic data generation, prompt generation, etc.): https://github.com/Kiln-AI/Kiln
 
 ### Retrieval-Augmented Generation
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
@@ -472,6 +477,7 @@
 - Roaming RAG: https://arcturus-labs.com/blog/2024/11/21/roaming-rag--rag-without-the-vector-database/
 - RAG setups for long documents: https://www.reddit.com/r/LocalLLaMA/comments/1hq36dn/practical_online_offline_rag_setups_for_long/
 - AutoRAG: https://github.com/Marker-Inc-Korea/AutoRAG
+- Volo (local wikipedia RAG): https://github.com/AdyTech99/volo/
 
 ### Frameworks, stacks, articles etc.
 
@@ -539,6 +545,7 @@
 - Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
 - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
 - prompt-owl (prompt engineering library): https://github.com/lks-ai/prowl
+- PocketFlow (minimalist LLM framework): https://github.com/miniLLMFlow/PocketFlow/
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -563,6 +570,8 @@
 - Jina's ReaderLM v2 (HTML to Json): https://huggingface.co/jinaai/ReaderLM-v2
 - Docling (document parser): https://github.com/DS4SD/docling
 - Surya (OCR): https://github.com/VikParuchuri/surya
+- Trafilatura (python library for crawling, scraping, extracting, processing text): https://trafilatura.readthedocs.io/en/latest/
+- readability (js library for text extraction): https://github.com/mozilla/readability
 
 ### Agents and workflows
 
@@ -640,3 +649,6 @@
 - TruthfulQA: https://github.com/sylinrl/TruthfulQA
 - FACTS Leaderboard: https://www.kaggle.com/facts-leaderboard
 - Massive Text Embedding Benchmark Leaderboard: https://huggingface.co/spaces/mteb/leaderboard
+- Reasoning challenges prompts: https://github.com/cpldcpu/MisguidedAttention
+- Evaluation model: https://huggingface.co/Unbabel/XCOMET-XL
+- UGI (Uncensored) Leaderboard: https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard
