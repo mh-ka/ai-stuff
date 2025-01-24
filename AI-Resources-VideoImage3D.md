@@ -640,6 +640,7 @@
 - Video upscaling: https://huggingface.co/SherryX/STAR
 - Video upscale workflows: https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid
 - Live Portrait and Face Expression Tutorial: https://www.youtube.com/watch?v=q6poA8I7tRM
+- Video face restoration: https://github.com/wangzhiyaoo/SVFR
 
 ### Object detection 
 - Blog around image detection techniques: https://blog.roboflow.com/
