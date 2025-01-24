@@ -27,6 +27,8 @@
 - Interpretability of Neural networks: https://80000hours.org/podcast/episodes/chris-olah-interpretability-research
 - GGUF Explanation: https://www.shepbryan.com/blog/what-is-gguf
 - Prompting Guide: https://www.promptingguide.ai/
+- How I use AI: https://nicholas.carlini.com/writing/2024/how-i-use-ai.html
+- My benchmark for LLMs: https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html
 - List of relevant European companies in LLM area
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
   - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
@@ -54,6 +56,9 @@
 - DeepSeek-LLM 67B: https://github.com/deepseek-ai/DeepSeek-LLM
 - DeepSeek-V2-Chat: https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat
 - DeepSeek-Coder-V2: https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct-0724
+- DeepSeek-R1
+  - Collection: https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d
+  - Model merge: https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview
 
 #### Alibaba
 - Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
@@ -68,6 +73,7 @@
   - Abliterated: https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF
   - Qwentile (custom model merge): https://huggingface.co/maldv/Qwentile2.5-32B-Instruct
   - Reasoning fine-tune: https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview
+  - Another variant (cross-architecture distillation of Qwen and Llama): https://huggingface.co/arcee-ai/Virtuoso-Small
 - Marco-o1: https://huggingface.co/AIDC-AI/Marco-o1
 - Qwen with Questions (Reasoning Preview): https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
 - QwQ-Unofficial-14B-Math-v0.2 (Math and logic fine-tune): https://huggingface.co/bartowski/QwQ-Unofficial-14B-Math-v0.2-GGUF
@@ -360,6 +366,10 @@
 - Turn github repo into text ingest for LLM: https://github.com/lcandy2/gitingest-extension
 - Source to prompt: https://github.com/Dicklesworthstone/your-source-to-prompt.html
 - Agentless: https://github.com/OpenAutoCoder/Agentless
+- Source code files as input for LLM 
+  - Ingest (source code to markdown as LLM input): https://github.com/sammcj/ingest
+  - Repomix: https://github.com/yamadashy/repomix
+  - Yek: https://github.com/bodo-run/yek
 
 ### File organizer
 - Local File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
@@ -421,6 +431,7 @@
 - Office plugin for text genAI: https://github.com/suncloudsmoon/TextCraft
 - AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
 - Local Computer Vision (LCLV) with Moondream: https://github.com/HafizalJohari/lclv
+- Website scraper: https://github.com/raznem/parsera
 
 
 ## AI developer topics
@@ -546,6 +557,7 @@
 - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
 - prompt-owl (prompt engineering library): https://github.com/lks-ai/prowl
 - PocketFlow (minimalist LLM framework): https://github.com/miniLLMFlow/PocketFlow/
+- HuggingFace downloader: https://github.com/huggingface/hf_transfer
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -652,3 +664,4 @@
 - Reasoning challenges prompts: https://github.com/cpldcpu/MisguidedAttention
 - Evaluation model: https://huggingface.co/Unbabel/XCOMET-XL
 - UGI (Uncensored) Leaderboard: https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard
+- GPU Poor LLM Arena: https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena
