@@ -32,6 +32,7 @@
 - List of relevant European companies in LLM area
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
   - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
+- AI and power consumption: https://about.bnef.com/blog/liebreich-generative-ai-the-power-and-the-glory/
 
 
 ## Models
@@ -370,6 +371,7 @@
   - Ingest (source code to markdown as LLM input): https://github.com/sammcj/ingest
   - Repomix: https://github.com/yamadashy/repomix
   - Yek: https://github.com/bodo-run/yek
+- What we learned copying all the best code assistants: https://blog.val.town/blog/fast-follow/
 
 ### File organizer
 - Local File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
@@ -629,6 +631,7 @@
   - Marker for converting PDFs to Markdown: https://github.com/VikParuchuri/marker
   - Markitdown for converting non-PDFs to Markdown: https://github.com/microsoft/markitdown
   - JoyCaption for image captioning: https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-hf-llava
+- Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
 
 
 ## Evaluation and leaderboards
