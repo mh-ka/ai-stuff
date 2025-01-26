@@ -695,4 +695,5 @@
 | 12. MT-Bench | - Conversational coherence<br>- Instruction-following | - Multi-turn conversations<br>- LLM-as-a-Judge<br>- Human preference annotations |
 | 13. FinBen | - Financial domain capabilities | - 36 datasets across 24 financial tasks<br>- Practical financial testing |
 | 14. LegalBench | - Legal reasoning capabilities | - Collaborative legal task development<br>- Real-world legal scenario simulation |
+
 Source: https://www.reddit.com/r/LocalLLaMA/comments/1i4l5hb/what_llm_benchmarks_actually_measure_explained/
