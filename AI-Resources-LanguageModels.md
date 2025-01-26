@@ -60,6 +60,11 @@
 - DeepSeek-R1
   - Collection: https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d
   - Model merge: https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview
+  - Flash variant (less overthinking)
+    - Article: https://novasky-ai.github.io/posts/reduce-overthinking/
+    - Model: https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview
+  - Another model merge variant (good for coding): https://huggingface.co/mradermacher/FuseO1-DeepSeekR1-Qwen2.5-Instruct-32B-Preview-i1-GGUF
+  
 
 #### Alibaba
 - Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
@@ -632,9 +637,12 @@
   - Markitdown for converting non-PDFs to Markdown: https://github.com/microsoft/markitdown
   - JoyCaption for image captioning: https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-hf-llava
 - Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
+- Atomic agents: https://github.com/BrainBlend-AI/atomic-agents
 
 
 ## Evaluation and leaderboards
+
+### Links
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
 - Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
 - Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
@@ -668,3 +676,23 @@
 - Evaluation model: https://huggingface.co/Unbabel/XCOMET-XL
 - UGI (Uncensored) Leaderboard: https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard
 - GPU Poor LLM Arena: https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena
+
+### Benchmark List
+
+| Benchmark | Measures | Key Features |
+|-----------|----------|--------------|
+| 1. GPQA | - Challenging graduate-level questions in science<br>- Requires deep specialized understanding | - Extreme difficulty (~65% expert accuracy)<br>- Domain-specific expertise<br>- Scalable oversight experiments |
+| 2. MMLU | - General knowledge across 57 subjects<br>- World knowledge and reasoning | - Broad topic coverage<br>- Zero-shot/few-shot evaluation<br>- Multiple-choice scoring |
+| 3. MMLU-Pro | - Enhanced reasoning-focused questions<br>- Increased complexity | - Ten answer choices<br>- More reasoning-intensive<br>- Greater prompt stability |
+| 4. MATH | - Mathematical problem-solving | - High school to competition-level problems<br>- Covers multiple math domains<br>- Detailed step-by-step solutions |
+| 5. HumanEval | - Functional code generation correctness | - Code generation from docstrings<br>- Pass@k evaluation metric<br>- Simulates real-world coding |
+| 6. MMMU | - Multimodal reasoning<br>- College-level subject knowledge | - Text and image understanding<br>- 183+ subfields<br>- Expert-level questions |
+| 7. MathVista | - Mathematical reasoning in visual contexts | - Combines math and graphical tasks<br>- Highlights visual reasoning gaps |
+| 8. DocVQA | - Question answering from document images | - Document element interpretation<br>- Real-world document analysis<br>- Normalized Levenshtein Similarity |
+| 9. HELM | - Comprehensive model performance | - Multifaceted assessment<br>- Error analysis<br>- Diverse task coverage |
+| 10. GLUE | - General language understanding | - Multiple NLP tasks<br>- Public datasets<br>- Performance leaderboard |
+| 11. BIG-Bench Hard | - Model limitations and challenges | - 23 tasks beyond human-rater performance<br>- Focuses on reasoning boundaries |
+| 12. MT-Bench | - Conversational coherence<br>- Instruction-following | - Multi-turn conversations<br>- LLM-as-a-Judge<br>- Human preference annotations |
+| 13. FinBen | - Financial domain capabilities | - 36 datasets across 24 financial tasks<br>- Practical financial testing |
+| 14. LegalBench | - Legal reasoning capabilities | - Collaborative legal task development<br>- Real-world legal scenario simulation |
+Source: https://www.reddit.com/r/LocalLLaMA/comments/1i4l5hb/what_llm_benchmarks_actually_measure_explained/
