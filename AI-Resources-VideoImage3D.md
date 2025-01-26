@@ -332,6 +332,8 @@
 - Old photos: https://civitai.com/models/1105860/eerie-old-photos-lora-flux
 - 2000s Analog Core: https://civitai.com/models/1134895?modelVersionId=1276001
 - Sony Maciva: https://civitai.com/models/1147127?modelVersionId=1290161
+- Improved Amateur Realism: https://civitai.com/models/970862?modelVersionId=1322249
+- Sony Alpha A7 III: https://civitai.com/models/1174190
 
 #### Cinema / TV / Commercials / Pop culture / Anime
 - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
@@ -516,6 +518,8 @@
 - Upscale workflow: https://www.patreon.com/posts/113348776
 - Image Editing workflow: https://github.com/logtd/ComfyUI-Fluxtapoz
 - Person mask generator workflows: https://github.com/djbielejeski/a-person-mask-generator
+- Insert character: https://github.com/kinelite/Flux-insert-character
+- OmniControl: https://github.com/Macoron/ComfyUI-Diffusers-OminiControl
 
 #### PuLID
 - ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
@@ -583,7 +587,11 @@
 
 ### Image manipulation 
 - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
-- Removal of Backgrounds: https://huggingface.co/briaai/RMBG-1.4
+- Removal of Backgrounds
+  - RMBG: https://huggingface.co/briaai/RMBG-1.4
+  - InSPyReNet: https://github.com/plemeri/InSPyReNet
+  - BiRefNet: https://github.com/ZhengPeng7/BiRefNet
+  - BEN: https://huggingface.co/PramaLLC/BEN (ComfyUI: https://github.com/DoctorDiffusion/ComfyUI-BEN)
 - FaceFusion (3.0.0)
   - Github: https://github.com/facefusion/facefusion
   - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
@@ -591,7 +599,6 @@
   - Vid2DensePose: https://github.com/Flode-Labs/vid2densepose
   - MagicAnimate: https://github.com/magic-research/magic-animate
 - Krita plugin for segmentation: https://github.com/Acly/krita-ai-tools
-- BEN (remove backgrounds): https://huggingface.co/PramaLLC/BEN
 
 
 ## Video / Animation / 3D
@@ -635,7 +642,7 @@
 - DepthFlow: https://github.com/BrokenSource/DepthFlow
 
 ### Video manipulation
-- Video face swap: https://github.com/s0md3v/roop
+- Video face swap: https://codeberg.org/Cognibuild/ROOP-FLOYD
 - Lipsync: https://github.com/bytedance/LatentSync
 - Video upscaling: https://huggingface.co/SherryX/STAR
 - Video upscale workflows: https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid
@@ -649,6 +656,7 @@
   - SAM2: https://github.com/facebookresearch/segment-anything-2
   - SAM2.1 Release: https://github.com/facebookresearch/sam2
   - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
+  - Grounded-SAM-2: https://github.com/IDEA-Research/Grounded-SAM-2
 
 ### 3D
 - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
