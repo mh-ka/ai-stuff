@@ -224,6 +224,7 @@
   - https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
 - Qwen2-VL: https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d
 - Qwen2-Audio: https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6
+- VideoLLaMA3 (video understanding): https://huggingface.co/collections/DAMO-NLP-SG/videollama3-678cdda9281a0e32fe79af15
 
 #### DeepSeek
 - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
@@ -439,6 +440,7 @@
 - AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
 - Local Computer Vision (LCLV) with Moondream: https://github.com/HafizalJohari/lclv
 - Website scraper: https://github.com/raznem/parsera
+- Bytedance's UI-TARS (automated GUI interaction): https://github.com/bytedance/UI-TARS
 
 
 ## AI developer topics
