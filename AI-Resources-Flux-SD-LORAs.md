@@ -1,0 +1,304 @@
+# LORAs for Stable Diffusion 1.5, SDXL, Flux 
+
+## Stable Diffusion 1.5 based
+- Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
+- Real Mechanical Parts: https://civitai.com/models/64471?modelVersionId=85371
+- Cinnamon Bun: https://civitai.com/models/182311/cinnamon-bun-style-make-anything-sweet
+- Croissant: https://civitai.com/models/113365/croissant-style-croissantify-anything?modelVersionId=122454
+- Aardman: https://civitai.com/models/125317?modelVersionId=136883
+- B3L: https://civitai.com/models/167872/b3l
+- Vulcan: https://civitai.com/models/129132?modelVersionId=141479
+- ColorSplash: https://civitai.com/models/247981/colorsplash?modelVersionId=279794
+- Transformers Style: https://civitai.com/models/216460
+- Vector Illustration v2.0: https://civitai.com/models/60132/vector-illustration
+- Looney Tunes Background: https://civitai.com/models/797306?modelVersionId=891591
+- Rage Unleashed: https://civitai.com/models/115100/rage-unleashed
+- ASCII: https://civitai.com/models/63254/notsoascii-or-the-controversial-ascii-art-lora
+- Vector: https://civitai.com/models/63556?modelVersionId=68115
+- 90s anime: https://civitai.com/models/78374
+
+## Stable Diffusion XL based
+- Remix XL: https://huggingface.co/Stkzzzz222/remixXL
+- iPhone Mirror Selfie: https://civitai.com/models/256058/iphone-mirror-selfie-or-sdxl
+- Aether Aqua: https://civitai.com/models/210754/aether-aqua-lora-for-sdxl
+- Claymation Style: https://civitai.com/models/208168/claymate-stop-motion-claymation-style-for-sdxl
+- Michael Craig Martin Style: https://civitai.com/models/488021/flat-colors-in-the-style-of-michael-craig-martin-sdxl-10
+- Retro Comics Style: https://civitai.com/models/491322/retro-comics-with-words-steven-rhodes-style-sdxl-10
+- Pastel: https://civitai.com/models/493874/pastel-photography-franck-bohbot-style-sdxl-10
+- Dreamworks: https://civitai.com/models/188622/essenz-how-to-train-your-dragon-3-the-hidden-world-dreamworks-style-lora-for-sdxl-10
+- Darkest Dungeon: https://civitai.com/models/188582/essenz-darkest-dungeon-chris-bourassa-style-lora-for-sdxl-10
+- More Darkest Dungeon: https://civitai.com/models/980106?modelVersionId=1097784
+- Jean Giraud/Moebius: https://civitai.com/models/188660/essenz-jean-giraudmoebius-voyage-dhermes-style-lora-for-sdxl-10
+- Makoto Shinkai Anime: https://civitai.com/models/177512/essenz-makoto-shinkai-anime-screencap-your-name-weathering-with-you-suzume-style-lora-for-sdxl-10
+- Better Photography: https://civitai.com/models/198378/essenz-high-quality-heavily-post-processed-photography-style-lora-for-sdxl-10
+- Aether Watercolor & Ink: https://civitai.com/models/190242/aether-watercolor-and-ink-lora-for-sdxl
+- Jakub Rozalski: https://civitai.com/models/182205/essenz-jakub-rozalski-1920-scythe-iron-harvest-style-lora-for-sdxl-10
+- Ghibli: https://civitai.com/models/181883/essenz-nausicaa-of-the-valley-of-the-wind-anime-screencap-ghibli-hayao-myazaki-style-lora-for-sdxl-10
+- Another Ghibli: https://civitai.com/models/137562/s
+- MSPaint: https://civitai.com/models/183354?modelVersionId=205793
+- The Legend Of Korra: https://civitai.com/models/198368/essenz-the-legend-of-korra-screencap-avatar-style-lora-for-sdxl-10
+- Bubbles and Foam: https://civitai.com/models/170188/aether-bubbles-and-foam-lora-for-sdxl
+- Glitch: https://civitai.com/models/151542/aether-glitch-lora-for-sdxl
+- Loving Vincent: https://civitai.com/models/167991?modelVersionId=188927
+- Coloring Book: https://civitai.com/models/136348
+- Blacklight Makeup: https://civitai.com/models/134643
+- Stickers: https://civitai.com/models/144142
+- Clay: https://civitai.com/models/143769
+- LucasArts Game: https://civitai.com/models/151539/lucasarts-style-1990s-pc-adventure-games-sdxl-lora-dreambooth-trained?modelVersionId=169452
+- App Icons: https://civitai.com/models/149101?modelVersionId=166450
+- Voxel: https://civitai.com/models/118536
+- Watercolor: https://civitai.com/models/120789?modelVersionId=131382
+- Medieval Illustration: https://civitai.com/models/121290?modelVersionId=131944
+- Luigi Serafini: https://civitai.com/models/129910
+- Bad Quality: https://civitai.com/models/259627
+- HR Giger Rainbow: https://civitai.com/models/270990?modelVersionId=305459
+- Stop Motion Style: https://civitai.com/models/212442
+- Atari Style: https://civitai.com/models/468237/atari-2600-activision
+- Walking Dead Zombies: https://civitai.com/models/469054/the-walking-dead-zombies
+- InfernoFrames: https://civitai.com/models/203975/infernoframes-the-comics-from-beyond-the-grave
+- More LORAs (SDXL): https://civitai.com/user/Thaevilone/models
+- SDXL LORA comparison: https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/
+- Aardman: https://civitai.com/models/62212/aardman-animations-style
+- xlmoreart: https://civitai.com/models/124347/xlmoreart-full-xlreal-enhancer
+- 3D Render: https://civitai.com/models/696795?modelVersionId=796454
+- Electric Alien: https://civitai.com/models/520639/electric-alien-sdxl-lora-dreambooth-trained
+- Hand Drawn Brush Pen: https://civitai.com/models/558635?modelVersionId=621895
+- Marionettes: https://civitai.com/models/150042/marionettes-wooden-carved-puppets-on-strings
+- Claymate: https://civitai.com/models/208168/claymate-claymation-style-for-sdxl
+- Bread: https://civitai.com/models/278431/bread
+- Pixel Art: https://civitai.com/models/1050935/the-king-of-fighters-victory-portrait-pixel-art
+
+## Flux based
+
+### Gaming styles
+- N64: https://civitai.com/models/660136?modelVersionId=738680
+- PS1/PS2: https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux
+- PS2 Style: https://civitai.com/models/750208/ps2-style-flux
+- Pixel Art: https://civitai.com/models/672328
+- Pixel Art: https://civitai.com/models/689318/pixel-art-style
+- Pixel Art: https://huggingface.co/glif-loradex-trainer/AP123_flux_dev_2DHD_pixel_art
+- Mario Strikers: https://civitai.com/models/814822
+- LowPolyArt: https://civitai.com/models/759268/lowpolyart-style?modelVersionId=848974
+- VHS: https://civitai.com/models/774229/chromatic-aberration-vhs-flux
+- Low Res Lora: https://huggingface.co/glif/l0w-r3z
+- 8Bit 16Bit Pixel: https://civitai.com/models/834943/8bit16bit-gameboy-inspired-anime-pixel-style-by-chronoknight-flux
+- Vintage Anime: https://civitai.com/models/659761
+- Clash Royale: https://civitai.com/models/879095
+- WoW: https://civitai.com/models/825503/prealphawowparpflux
+- Amiga: https://civitai.com/models/875790?modelVersionId=980423
+- Adventure: https://civitai.com/models/870057?modelVersionId=973777
+- Metal Gear Solid: https://civitai.com/models/914543/metal-gear-solid-by-chronoknight-flux
+- Full Throttle: https://civitai.com/models/916333?modelVersionId=1025621
+- Atari 2600: https://civitai.com/models/468237/atari-2600-activision
+
+### Realistic
+- RealismLora: https://huggingface.co/XLabs-AI/flux-RealismLora
+- Phlux: https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting
+- iPhone Photo: https://civitai.com/models/738556?modelVersionId=913438
+- RealFlux 1.0b: https://civitai.com/models/788550/realflux-10b
+- Sameface Fix: https://civitai.com/models/766608/sameface-fix-flux-lora
+- Amateur Photography v6: https://civitai.com/models/652699/amateur-photography-flux-dev
+- UltraRealistic v2: https://civitai.com/models/796382?modelVersionId=1026423
+- 90s Asian look photography: https://civitai.com/models/834837?modelVersionId=934017
+- Human Photo: https://civitai.com/models/790722?modelVersionId=884240
+- Amateur Photography: https://civitai.com/models/652699?modelVersionId=901587
+- Chernobyl: https://civitai.com/models/844519?modelVersionId=944817
+- Diversity: https://civitai.com/models/119376?modelVersionId=808809
+- 1999 Digital Camera Style: https://civitai.com/models/724495
+- RealAestheticSpectrum: https://civitai.com/models/878945?modelVersionId=983977
+- JWST Deep Space: https://civitai.com/models/727592
+- NASA raw images: https://civitai.com/models/883941?modelVersionId=989482
+- NASA Astrophotography: https://civitai.com/models/890536?modelVersionId=996539
+- Colourized America in the 50s: https://civitai.com/models/892014
+- Body Worlds: https://civitai.com/models/777158
+- Fondart: https://civitai.com/models/871367/fondart
+- Then and Now: https://civitai.com/models/896697
+- Eldritch Photography: https://civitai.com/models/717449/eldritch-photography-or-for-flux1-dev
+- Dark Gray Photography: https://civitai.com/models/698954/dark-gray-photography?modelVersionId=782092
+- PleinAirArt: https://huggingface.co/dasdsff/PleinAirArt
+- Sleeveface: https://civitai.com/models/913644/sleeveface?modelVersionId=1022541
+- Mall Portraits: https://civitai.com/models/929971/mall-portraits-1979
+- Fotochroma Eilers: https://civitai.com/models/951778/fotochroma-eilers
+- Experimental Photography: https://civitai.com/models/1013496
+- Glamour Shots 1990: https://civitai.com/models/966996/glamour-shots-1990
+- Classic Portrait: https://civitai.com/models/1003949/classic-portrait-yousuf-karsh-style
+- 60s glamour photography: https://civitai.com/models/980893/60s-glamour-photography-slim-aarons-style
+- 60s portrait photo: https://civitai.com/models/483926/1960s-portrait-photo-david-bailey-style
+- 80s polaroid photo: https://civitai.com/models/510388/80s-polaroid-photo
+- Surreal photography: https://civitai.com/models/569271/surreal-photography-neil-krug-style
+- Improved photography: https://civitai.com/models/1023815/flux1-dev-lora-style-improved-photography-spectrum-0007
+- UltraReal Fine-Tune v2.0: https://civitai.com/models/978314?modelVersionId=1164498
+- Dramatic Portrait: https://civitai.com/models/1038829/dramatic-portrait
+- Dramatic Portrait B&W: https://civitai.com/models/1042672/dramatic-portrait-black-and-white
+- Boreal v2: https://civitai.com/models/639937/boreal-fd-boring-reality-flux-dev-lora
+- Old photos: https://civitai.com/models/1105860/eerie-old-photos-lora-flux
+- 2000s Analog Core: https://civitai.com/models/1134895?modelVersionId=1276001
+- Sony Maciva: https://civitai.com/models/1147127?modelVersionId=1290161
+- Improved Amateur Realism: https://civitai.com/models/970862?modelVersionId=1322249
+- Sony Alpha A7 III: https://civitai.com/models/1174190
+
+### Cinema / TV / Commercials / Pop culture / Anime
+- CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
+- Filmfotos: https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67
+- Dark Fantasy 80s: https://civitai.com/models/671094?modelVersionId=751285
+- Alien Set Design: https://civitai.com/models/669303/alien-set-design-flux
+- Ghibli: https://civitai.com/models/433138/ghibli-style-flux-and-pdxl
+- Cinematic: https://civitai.com/models/668238?modelVersionId=748039
+- Epic Movie Poster: https://civitai.com/models/794781/epic-movie-poster-flux
+- Movie Posters: https://civitai.com/models/799329/vintagemoviepostervfp
+- Younger Jackie Chan: https://civitai.com/models/786259/youngerjackiechanyjc
+- 80s film: https://civitai.com/models/781569?modelVersionId=874055
+- Nosferatu (1922): https://civitai.com/models/769335/nosferatu-1922-style-flux1-d?modelVersionId=860484
+- Cozy Ghibli Wallpaper: https://civitai.com/models/724054
+- Dune Cinematic Vision: https://civitai.com/models/710389?modelVersionId=794602
+- Loving Vincent: https://civitai.com/models/705111
+- Disney Animated: https://civitai.com/models/706762?modelVersionId=790552
+- Genndy Tartakovsky (Samurai Jack): https://civitai.com/models/700092/genndy-tartakovsky-samurai-jack-style
+- Flat Color Anime: https://civitai.com/models/180891/flat-color-anime
+- 3D Cartoon: https://civitai.com/models/677725
+- The Hound: https://huggingface.co/TheLastBen/The_Hound
+- Tron Legacy: https://civitai.com/models/700761?modelVersionId=784086
+- Cartoon 3D Render: https://civitai.com/models/871472?modelVersionId=975467
+- Terminator: https://civitai.com/models/870298/skynet-cyberdyne-systems-by-chronoknight-flux
+- 80s Fisher Price: https://civitai.com/models/749320
+- Retro Ad: https://civitai.com/models/827395?modelVersionId=925301
+- Lego: https://civitai.com/models/858798/better-lego-for-flux-by-chronoknight-flux
+- 70s SciFi: https://civitai.com/models/824478/70s-scifi-style-by-chronoknight-flux
+- Gorillaz: https://civitai.com/models/838390/gorillaz-style-flux
+- IKEA Instructions: https://civitai.com/models/790332/ikea-instructions-style-flux
+- Topcraft Watercolor Animation: https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft
+- Old-school cartoon: https://civitai.com/models/694273/old-school-cartoon-style-for-flux?modelVersionId=776973
+- Comic: https://civitai.com/models/862856
+- Vintage Comic: https://civitai.com/models/210095?modelVersionId=967399
+- Retro Comic: https://civitai.com/models/806568/retro-comic-flux
+- Neurocore Anime Cyberpunk: https://civitai.com/models/903057
+- Naoki Urasawa: https://civitai.com/models/690155/naoki-urasawa-manga-style-flux-lora?modelVersionId=772410
+- Early Heights Cover Art: https://civitai.com/models/821462/everly-heights-cover-art-flux
+- PsyPop70: https://civitai.com/models/810966/psypop70
+- Brauncore: https://civitai.com/models/704017/brauncore-style
+- Ghibsky: https://huggingface.co/aleksa-codes/flux-ghibsky-illustration
+- Retro Anime: https://civitai.com/models/721039/retro-anime-flux-style?modelVersionId=806265
+- Anime Art: https://civitai.com/models/832858/anime-art?modelVersionId=951509
+- American Propaganda: https://civitai.com/models/586368/american-propaganda-painting-james-montgomery-flagg-style
+- 50s Pulp: https://civitai.com/models/506081/50s-pulp-rudolph-belarsky-style
+- Niji Anime: https://civitai.com/models/871757?modelVersionId=1042979
+- Anime (Your Name): https://civitai.com/models/1026146/flux1-dev-lora-style-makoto-shinkai-your-name-spectrum-0008
+- Darkest Dungeon: https://civitai.com/models/980106/flux1-dev-lora-style-darkest-dungeon-spectrum-0002
+- Christmas Vintage: https://www.shakker.ai/modelinfo/bb2de7edb2dd4d4182164080dac0fa74/Christmas-Vintage-Photography
+- Celebrity Deathmatch: https://civitai.com/models/1072410?modelVersionId=1203808
+- Web Comics: https://civitai.com/models/1040797/everly-heights-web-comics-flux
+- 90s Web Animation: https://civitai.com/models/1019789/everly-heights-90s-web-animation-flux
+- Moral Crusade Comics: https://civitai.com/models/1037868/everly-heights-moral-crusade-comics-flux
+- Character Sheets: https://civitai.com/models/844032/everly-heights-character-sheets
+- Supergirl: https://civitai.com/models/1002370/flux1-dev-lora-outfit-cw-arrowverse-supergirl-spectrum-0003
+- Dark and Darker: https://civitai.com/models/1086758?modelVersionId=1220411
+- Euromanga: https://civitai.com/models/1099696?modelVersionId=1235285
+- Weirdos: https://civitai.com/models/1087910/everly-heights-weirdos-flux
+
+### Materials
+- Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
+- Wood Carving Crafter: https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux
+- Gemstone Crafter: https://civitai.com/models/893965/gemstone-crafter-by-chronoknight-flux
+- Paper: https://civitai.com/models/873875/wizards-paper-model-universe
+- Murano Glass: https://civitai.com/models/853641/murano-glass
+- Sculpture: https://civitai.com/models/897312
+- Handpainted Miniature: https://civitai.com/models/685433/handpainted-miniature
+- Claymotion: https://civitai.com/models/855822/claymotion-f1-claymationstopmotion-style-blend-for-flux
+- Iced Out Diamonds: https://civitai.com/models/819754/iced-out-diamonds-by-chronoknight-flux
+- Copper Wire: https://civitai.com/models/797834/hszdcopper-or-art-copper-wire-style?modelVersionId=892313
+- Cracked: https://civitai.com/models/838572/flux-cracked-or-cracked-skin-and-surface
+- Toy Box: https://civitai.com/models/842114/toy-box-flux
+- PONGO Dough Style: https://civitai.com/models/1008012/pongo-childish-play-dough-style-for-flux
+- 2.5D Mural: https://civitai.com/models/1132730?modelVersionId=1273449
+- Chinese Seal Carving: https://civitai.com/models/1148354/chinese-seal-carving-sololora
+
+### Painting / Drawing
+- Oil Painting: https://civitai.com/models/723141
+- Golden Hagaddah: https://civitai.com/models/746220
+- How2Draw: https://huggingface.co/glif/how2draw
+- Coloring Book: https://civitai.com/models/794953/coloring-book-flux
+- Gesture Drawing: https://civitai.com/models/771610/gesture-draw
+- Dashed Line Drawing: https://civitai.com/models/724476
+- Tarot: https://huggingface.co/multimodalart/flux-tarot-v1
+- Only paint red: https://civitai.com/models/682797/i-only-paint-in-red
+- Sketch: https://civitai.com/models/802807/sketch-art
+- Impressionist Landscape: https://civitai.com/models/640459/impressionist-landscape-lora-for-flux
+- Black & White: https://civitai.com/models/679352/wraith-bandw-flux
+- Finnish Symbolism: https://civitai.com/models/699621/finnish-symbolism-art
+- Sketch Paint: https://civitai.com/models/851965/sketch-paint-flux
+- Mythoscape Painting: https://civitai.com/models/863789
+- Ayahuasca Dreams (Pablo Amaringo): https://civitai.com/models/806379?modelVersionId=901633
+- Yoshitoshi Moon: https://civitai.com/models/786783
+- Ernst Haeckel: https://civitai.com/models/686747/ernst-haeckel-style
+- Yamato-e: https://civitai.com/models/807813?modelVersionId=903274
+- Kai Carpenter: https://civitai.com/models/806145/kai-carpenter-style-flux
+- Pencil: https://civitai.com/models/737141
+- Pencil Sketch: https://civitai.com/models/1096253/pencil-sketch-style-flux
+- Goya: https://civitai.com/models/823353/goya-flux-classical-painting-style
+- Classic Paint: https://civitai.com/models/707321/classic-paint?modelVersionId=791162
+- Engelbert: https://civitai.com/models/949095/johannes-frederik-engelbert-ten-klooster-style
+- Abstract Pastels: https://huggingface.co/glif-loradex-trainer/maxxd4240_AbstractPastels
+- Jakub Rozalski: https://civitai.com/models/767009
+- Thomas Nast (old political cartoons): https://civitai.com/models/597317/19th-century-political-cartoon-thomas-nast-style
+- Jean Marc Cote (retro futurism): https://civitai.com/models/498036/19th-century-retro-futurism-jean-marc-cote-style
+- Milton Glaser: https://civitai.com/models/529473/1960s-graphic-design-milton-glaser-style
+- Gotlib (satirical comics): https://civitai.com/models/525206/french-1970s-satirical-comics-gotlib-style
+- Rough Sketching: https://civitai.com/models/1046599?modelVersionId=1174283
+- Ligne Claire: https://civitai.com/models/1080092
+- Etch-A-Sketcher: https://civitai.com/models/995221/etch-a-sketcher-flux
+- Traditional Chinese: https://civitai.com/models/1139929?modelVersionId=1281929
+- Korea, KimHongDo: https://civitai.com/models/1117292/korea-kimhongdo-style-lora
+
+### Other Flux LORAs
+- Icon Maker: https://civitai.com/models/722531
+- Anti-blur: https://civitai.com/models/675581/anti-blur-flux-lora
+- Soviet Era Mosaic Style: https://civitai.com/models/749146/soviet-era-mosaic-style-cccp
+- Simple Vector: https://civitai.com/models/785122/simple-vector-flux
+- Neon Retrowave: https://civitai.com/models/816857/neon-retrowave-by-chronoknight-flux
+- Shepard Fairey: https://civitai.com/models/810119?modelVersionId=905918
+- Winamp Skin: https://civitai.com/models/800133/winamp-skin
+- VST Plugins: https://civitai.com/models/768491/vst-plugins
+- Vintage Romance: https://civitai.com/models/248587
+- Elektroschutz: https://civitai.com/models/775046/elektroschutz
+- Kurzgesagt: https://civitai.com/models/777200/kurzgesagt-art-style-flux?modelVersionId=869226
+- Metal Skulls: https://civitai.com/models/769303
+- WPAP: https://civitai.com/models/768696
+- Aethereal: https://civitai.com/models/726513/aethereal-flux-fast-4-step-flux-lora
+- Luminous Shadowscape: https://civitai.com/models/707312
+- Geometric Shapes: https://civitai.com/models/703939/geometric-shapes
+- EarthKids: https://civitai.com/models/749780
+- Vintage Tattoo: https://civitai.com/models/726890/old-schoolvintage-tattoo-style-for-flux
+- 4 Step: https://civitai.com/models/686704?modelVersionId=768584
+- Zombify: https://civitai.com/models/668227?modelVersionId=748025
+- Waterworld: https://civitai.com/models/829944/water-world-by-chronoknight-flux
+- Barcoded: https://civitai.com/models/837782/ororbarcodedoror
+- Animorph: https://civitai.com/models/822077
+- Voodoo Dolls: https://civitai.com/models/871481
+- Weird Things: https://civitai.com/models/867179/weird-things-flux
+- Mechanical Insects: https://civitai.com/models/802361/mechanical-insects
+- Circle shaped: https://civitai.com/models/854366/fluxshaped
+- Digital harmony: https://civitai.com/models/850806/flux-digital-harmony-or-rendered-painting-style
+- Digital abstraction: https://civitai.com/models/891762/digital-abstraction-by-chronoknight-flux
+- hyperkraximalism: https://civitai.com/models/896472
+- Sparklecraft: https://civitai.com/models/894283?modelVersionId=1000740
+- ROYGBIV: https://civitai.com/models/885049/roygbiv-flux
+- Spectral Glow: https://civitai.com/models/898482/zavys-spectral-glow-flux?modelVersionId=1005353
+- Minimalist Flat Color Illustration: https://civitai.com/models/961950/minimalist-flat-color-illustration-style
+- NewFantasyCore: https://civitai.com/models/810000/new-fantasy-core-flux-pony
+- Ethereal Fantasy: https://civitai.com/models/1017670/ethereal-fantasy
+- Epic gorgeous details: https://civitai.com/models/736706?modelVersionId=863655
+- Ancient Style: https://civitai.com/models/715253/flux-ancient-style-lora
+- Handwriting: https://civitai.com/models/1037313/flux-handwriting
+- Witcher Medallion: https://civitai.com/models/1033054/witcher-medallion-create-your-own-witcher-school-medallion
+- Glowing and Glossy: https://civitai.com/models/1049316/glowing-and-glossy-style
+- Shrinks: https://civitai.com/models/1023802/flux1-dev-lora-concept-shrinks-spectrum-0006
+- Giants: https://civitai.com/models/1009303/flux1-dev-lora-concept-giants-spectrum-0005
+- Highres fix: https://civitai.com/models/1049158?modelVersionId=1177215
+- Cutaway: https://huggingface.co/glif-loradex-trainer/AP123_flux_dev_cutaway_style
+- Propaganda Games: https://civitai.com/models/1124756/propaganda-games
+- Maoist Propaganda Posters: https://civitai.com/models/1138760/maoist-propaganda-posters-style-lora-flux-spectrum0016-by-aicharacters
+- Taped Faces: https://civitai.com/models/1144079
+- Windtunnel Faces: https://civitai.com/models/1129300/windtunnel-face
+- Smol Faces: https://civitai.com/models/1140656/smol-faces-flux
+- Infernal Demons Fantasy Portrait: https://civitai.com/models/1148845/jibs-infernal-demons-fantasy-portrait?modelVersionId=1292142
+- Doddle: https://civitai.com/models/1152849/flux-doddle
