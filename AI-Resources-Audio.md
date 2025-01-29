@@ -74,6 +74,9 @@
 - Auralis (speed focussed TTS inference engine): https://github.com/astramind-ai/Auralis
 - Speaches (server for STT, translation, TTS): https://github.com/speaches-ai/speaches
 - TTS library: https://github.com/idiap/coqui-ai-TTS
+- German
+  - Thorsten voice: https://github.com/thorstenMueller/Thorsten-Voice
+  - German TTS on Huggingface: https://huggingface.co/models?search=German%20tts
 
 
 ## Music production
