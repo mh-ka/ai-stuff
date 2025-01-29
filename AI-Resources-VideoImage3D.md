@@ -666,3 +666,4 @@
   - Official github: https://github.com/microsoft/TRELLIS
   - One-Click Installer: https://github.com/IgorAherne/trellis-stable-projectorz
 - Stable Point Aware 3D: https://huggingface.co/stabilityai/stable-point-aware-3d
+- Hunyuan3D-2: https://github.com/tencent/Hunyuan3D-2
