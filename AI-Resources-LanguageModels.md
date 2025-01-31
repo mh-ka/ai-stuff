@@ -532,7 +532,9 @@
 - Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
 - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
 - Selfie (personalized local text generation): https://github.com/vana-com/selfie
-- Meta's Llama Stack Apps: https://github.com/meta-llama/llama-stack-apps
+- Meta's Llama Stack
+  - Github: https://github.com/meta-llama/llama-stack
+  - Apps: https://github.com/meta-llama/llama-stack-apps
 - PostgresML AI Stack: https://github.com/postgresml/postgresml
 - Wilmer (LLM Orchestration Middleware): https://github.com/SomeOddCodeGuy/WilmerAI/
 - LLM API proxy server: https://github.com/yanolja/ogem
