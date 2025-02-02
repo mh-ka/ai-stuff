@@ -80,6 +80,7 @@
   - Qwentile (custom model merge): https://huggingface.co/maldv/Qwentile2.5-32B-Instruct
   - Reasoning fine-tune: https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview
   - Another variant (cross-architecture distillation of Qwen and Llama): https://huggingface.co/arcee-ai/Virtuoso-Small
+  - 1 Million token context window: https://huggingface.co/collections/Qwen/qwen25-1m-679325716327ec07860530ba
 - Marco-o1: https://huggingface.co/AIDC-AI/Marco-o1
 - Qwen with Questions (Reasoning Preview): https://huggingface.co/bartowski/QwQ-32B-Preview-GGUF
 - QwQ-Unofficial-14B-Math-v0.2 (Math and logic fine-tune): https://huggingface.co/bartowski/QwQ-Unofficial-14B-Math-v0.2-GGUF
@@ -112,6 +113,7 @@
 - Nvidia's Llama-3.1-Nemotron-70B: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
 - Gemma 27B (exl2 format): https://huggingface.co/mo137/gemma-2-27b-it-exl2
 - Tencent's Hunyuan Large MoE: https://huggingface.co/tencent/Tencent-Hunyuan-Large
+- AllenAI's Tulu 3 (Llama3.1 Fine-Tune): https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5
 
 ### Smaller model releases (model series and derivatives)
 
@@ -141,6 +143,7 @@
   - 4B: https://huggingface.co/nvidia/Nemotron-Mini-4B-Instruct
   - 8B: https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base
 - Ministral 8B Instruct: https://huggingface.co/mistralai/Ministral-8B-Instruct-2410
+- Mistral-Small-24B-Instruct-2501 (aka Mistral Small 3): https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501
 
 #### Apple
 - Open-ELM: https://github.com/apple/corenet/tree/main/mlx_examples/open_elm
@@ -223,6 +226,7 @@
   - https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
   - https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
 - Qwen2-VL: https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d
+- Qwen2.5-VL: https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5
 - Qwen2-Audio: https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6
 - VideoLLaMA3 (video understanding): https://huggingface.co/collections/DAMO-NLP-SG/videollama3-678cdda9281a0e32fe79af15
 
@@ -230,6 +234,7 @@
 - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
 - Janus 1.3B: https://huggingface.co/deepseek-ai/Janus-1.3B
 - DeepSeek-VL2 (MoE): https://github.com/deepseek-ai/DeepSeek-VL2
+- Janus Pro 7B: https://huggingface.co/deepseek-ai/Janus-Pro-7B
 
 #### Google
 - PaliGemma: https://www.kaggle.com/models/google/paligemma
@@ -642,6 +647,7 @@
   - JoyCaption for image captioning: https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-hf-llava
 - Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
 - Atomic agents: https://github.com/BrainBlend-AI/atomic-agents
+- Goose: https://github.com/block/goose
 
 
 ## Evaluation and leaderboards
