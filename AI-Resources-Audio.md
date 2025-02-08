@@ -80,6 +80,10 @@
   - Thorsten voice: https://github.com/thorstenMueller/Thorsten-Voice
   - German TTS on Huggingface: https://huggingface.co/models?search=German%20tts
 - autiobooks (audiobook generation): https://github.com/plusuncold/autiobooks
+- Llasa (TTS and voice cloning)
+  - Github setup: https://github.com/nivibilla/local-llasa-tts
+  - Huggingface model collection: https://huggingface.co/collections/HKUSTAudio/llasa-679b87dbd06ac556cc0e0f44
+  - Blog page: https://huggingface.co/blog/srinivasbilla/llasa-tts
 
 
 ## Music production
@@ -114,3 +118,4 @@
 - Hibiki (Speech2Speech translation en <-> fr): https://github.com/kyutai-labs/hibiki
 - Sage (speech conversation with LLMs): https://github.com/farshed/sage
 - chaplin (lip read / visual speech recognition): https://github.com/amanvirparhar/chaplin
+- Meta's SeamlessM4T (translation framework): https://huggingface.co/facebook/seamless-m4t-v2-large
