@@ -34,6 +34,7 @@
   - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
 - AI and power consumption: https://about.bnef.com/blog/liebreich-generative-ai-the-power-and-the-glory/
 - A deep dive into LLMs: https://www.youtube.com/watch?v=7xTGNNLPyMI
+- Global AI regulation tracker: https://www.techieray.com/GlobalAIRegulationTracker
 
 
 ## Models
@@ -65,7 +66,6 @@
     - Article: https://novasky-ai.github.io/posts/reduce-overthinking/
     - Model: https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview
   - Another model merge variant (good for coding): https://huggingface.co/mradermacher/FuseO1-DeepSeekR1-Qwen2.5-Instruct-32B-Preview-i1-GGUF
-  
 
 #### Alibaba
 - Qwen 1.5: https://qwenlm.github.io/blog/qwen1.5/
@@ -87,6 +87,7 @@
 - QwQ-Unofficial-14B-Math-v0.2 (Math and logic fine-tune): https://huggingface.co/bartowski/QwQ-Unofficial-14B-Math-v0.2-GGUF
 - QwQ-LCoT-7B-Instruct (reasoning fine-tune): https://huggingface.co/bartowski/QwQ-LCoT-7B-Instruct-GGUF
 - QwQ-32B-Preview-IdeaWhiz-v1-GGUF (scientific creativity fine-tune): https://huggingface.co/6cf/QwQ-32B-Preview-IdeaWhiz-v1-GGUF
+- Simple reasoning fine-tune example based on Qwen ("test-time scaling"): https://github.com/simplescaling/s1
 
 #### Cohere
 - Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
@@ -212,6 +213,9 @@
 - Recommended for translation
   - Meta's NLLB: https://huggingface.co/facebook/nllb-200-3.3B
   - ALMA: https://github.com/fe1ixxu/ALMA
+- Selene-1-Mini-Llama-3.1-8B (small evaluation and scoring LLM): https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B
+- Arch-Function-3B (function calling): https://huggingface.co/katanemo/Arch-Function-3B
+- Confucius-o1-14B (Qwen reasoning fine-tune): https://huggingface.co/netease-youdao/Confucius-o1-14B
 
 ### Multimodal / Vision models
 
@@ -234,7 +238,9 @@
 #### DeepSeek
 - DeepSeek-VL: https://github.com/deepseek-ai/DeepSeek-VL
 - Janus 1.3B: https://huggingface.co/deepseek-ai/Janus-1.3B
-- DeepSeek-VL2 (MoE): https://github.com/deepseek-ai/DeepSeek-VL2
+- DeepSeek-VL2 (MoE)
+  - Github: https://github.com/deepseek-ai/DeepSeek-VL2
+  - HuggingFace: https://huggingface.co/collections/deepseek-ai/deepseek-vl2-675c22accc456d3beb4613ab
 - Janus Pro 7B: https://huggingface.co/deepseek-ai/Janus-Pro-7B
 
 #### Google
@@ -322,6 +328,7 @@
 - Rust LLM server: https://github.com/gagansingh894/jams-rs
 - Ollama, ComfyUI, OpenWebUI on Kubernetes: https://github.com/GoingOffRoading?tab=repositories
 - llama.ttf (using font engine to host a LLM): https://fuglede.github.io/llama.ttf
+- TransformerLab: https://github.com/transformerlab/transformerlab-app
 
 ### Mobile apps
 - PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
@@ -457,6 +464,8 @@
 - Local Computer Vision (LCLV) with Moondream: https://github.com/HafizalJohari/lclv
 - Website scraper: https://github.com/raznem/parsera
 - Bytedance's UI-TARS (automated GUI interaction): https://github.com/bytedance/UI-TARS
+- Grammar checking VS code extension: https://marketplace.visualstudio.com/items?itemName=OlePetersen.lm-writing-tool
+- LLM calculator (memory estimation): https://github.com/Raskoll2/LLMcalc
 
 
 ## AI developer topics
@@ -482,7 +491,7 @@
 - In-browser training playground: https://github.com/trekhleb/homemade-gpt-js
 - Fine-tuning tutorial for small language models: https://github.com/huggingface/smol-course
 - Kiln (fine-tuning, synthetic data generation, prompt generation, etc.): https://github.com/Kiln-AI/Kiln
-- Model with symbolic representation (glyphs): https://github.com/severian42/Computational-Model-for-Symbolic-Representations
+- Train your own reasoning model with unsloth: https://unsloth.ai/blog/r1-reasoning
 
 ### Retrieval-Augmented Generation
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
@@ -589,6 +598,10 @@
 - PocketFlow (minimalist LLM framework): https://github.com/miniLLMFlow/PocketFlow/
 - HuggingFace downloader: https://github.com/huggingface/hf_transfer
 - State of AI - China: https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf
+- Model with symbolic representation (glyphs): https://github.com/severian42/Computational-Model-for-Symbolic-Representations
+- Llama Swap (proxy server for model swapping): https://github.com/mostlygeek/llama-swap
+- Openorch: https://github.com/openorch/openorch
+- Outlines (python package for structured generation): https://dottxt-ai.github.io/outlines/latest/welcome/
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -663,6 +676,8 @@
 - Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
 - Atomic agents: https://github.com/BrainBlend-AI/atomic-agents
 - Goose: https://github.com/block/goose
+- Manifold (workflow editor): https://github.com/intelligencedev/manifold
+- Intellagent (advanced multi-agent framework for evaluation and optimization of conversational agents): https://github.com/plurai-ai/intellagent
 
 
 ## Evaluation and leaderboards
@@ -701,6 +716,8 @@
 - Evaluation model: https://huggingface.co/Unbabel/XCOMET-XL
 - UGI (Uncensored) Leaderboard: https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard
 - GPU Poor LLM Arena: https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena
+- Several LLM benchmarks: https://github.com/lechmazur
+- Creative writing benchmark: https://eqbench.com/creative_writing.html
 
 ### Benchmark List
 
