@@ -293,8 +293,9 @@
 - Removal of Backgrounds
   - RMBG: https://huggingface.co/briaai/RMBG-1.4
   - InSPyReNet: https://github.com/plemeri/InSPyReNet
-  - BiRefNet: https://github.com/ZhengPeng7/BiRefNet
+  - BiRefNet: https://github.com/ZhengPeng7/BiRefNet (ComfyUI: https://github.com/1038lab/ComfyUI-RMBG)
   - BEN: https://huggingface.co/PramaLLC/BEN (ComfyUI: https://github.com/DoctorDiffusion/ComfyUI-BEN)
+  - BEN2: https://huggingface.co/PramaLLC/BEN2
 - FaceFusion (3.0.0)
   - Github: https://github.com/facefusion/facefusion
   - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
