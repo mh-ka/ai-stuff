@@ -119,3 +119,5 @@
 - Sage (speech conversation with LLMs): https://github.com/farshed/sage
 - chaplin (lip read / visual speech recognition): https://github.com/amanvirparhar/chaplin
 - Meta's SeamlessM4T (translation framework): https://huggingface.co/facebook/seamless-m4t-v2-large
+- MiraConverse (voice interaction with LLMs): https://github.com/KartDriver/mira_converse
+
