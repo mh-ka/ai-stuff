@@ -33,6 +33,7 @@
   - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
   - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
 - AI and power consumption: https://about.bnef.com/blog/liebreich-generative-ai-the-power-and-the-glory/
+- A deep dive into LLMs: https://www.youtube.com/watch?v=7xTGNNLPyMI
 
 
 ## Models
@@ -389,6 +390,16 @@
 - FileWizardAI: https://github.com/AIxHunter/FileWizardAI
 - Sortify AI: https://github.com/quentin-r37/sortify-ai
 
+### Deep Research
+- From HuggingFace: https://huggingface.co/blog/open-deep-research
+- From Firecrawl: https://github.com/nickscamara/open-deep-research
+- From Jina AI: https://github.com/jina-ai/node-DeepResearch
+- Tutorial from Milvus: https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md
+
+### Medical assistant
+- Open Health: https://github.com/OpenHealthForAll/open-health
+- Health server: https://github.com/seapoe1809/Health_server
+
 ### Other
 - LLMs comparison for translation: https://www.reddit.com/r/LocalLLaMA/comments/1h4ji6x/comment/lzzsjhi/
 - List of models for hosting on 3090: https://www.reddit.com/r/LocalLLaMA/comments/1gai2ol/list_of_models_to_use_on_single_3090_or_4090/
@@ -471,6 +482,7 @@
 - In-browser training playground: https://github.com/trekhleb/homemade-gpt-js
 - Fine-tuning tutorial for small language models: https://github.com/huggingface/smol-course
 - Kiln (fine-tuning, synthetic data generation, prompt generation, etc.): https://github.com/Kiln-AI/Kiln
+- Model with symbolic representation (glyphs): https://github.com/severian42/Computational-Model-for-Symbolic-Representations
 
 ### Retrieval-Augmented Generation
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
@@ -503,6 +515,8 @@
 - RAG setups for long documents: https://www.reddit.com/r/LocalLLaMA/comments/1hq36dn/practical_online_offline_rag_setups_for_long/
 - AutoRAG: https://github.com/Marker-Inc-Korea/AutoRAG
 - Volo (local wikipedia RAG): https://github.com/AdyTech99/volo/
+- UroBot (medical RAG example): https://github.com/DBO-DKFZ/UroBot
+- Legit RAG (RAG Docker setup): https://github.com/Emissary-Tech/legit-rag
 
 ### Frameworks, stacks, articles etc.
 
@@ -574,6 +588,7 @@
 - prompt-owl (prompt engineering library): https://github.com/lks-ai/prowl
 - PocketFlow (minimalist LLM framework): https://github.com/miniLLMFlow/PocketFlow/
 - HuggingFace downloader: https://github.com/huggingface/hf_transfer
+- State of AI - China: https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
