@@ -213,6 +213,8 @@
 - Recommended for translation
   - Meta's NLLB: https://huggingface.co/facebook/nllb-200-3.3B
   - ALMA: https://github.com/fe1ixxu/ALMA
+  - Unbabel's Towerbase: https://huggingface.co/Unbabel/TowerBase-13B-v0.1
+  - Google's MADLAD-400-10B-MT: https://huggingface.co/google/madlad400-10b-mt 
 - Selene-1-Mini-Llama-3.1-8B (small evaluation and scoring LLM): https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B
 - Arch-Function-3B (function calling): https://huggingface.co/katanemo/Arch-Function-3B
 - Confucius-o1-14B (Qwen reasoning fine-tune): https://huggingface.co/netease-youdao/Confucius-o1-14B
