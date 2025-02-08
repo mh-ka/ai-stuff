@@ -21,6 +21,7 @@
 - Moonshine: https://github.com/usefulsensors/moonshine
 - Article about Speech recognition (comparisons and insights): https://amgadhasan.substack.com/p/sota-asr-tooling-long-form-transcription
 - DeepFilter for filtering noisy audio: https://github.com/duohub-ai/deepfilter-lambda-container
+- Vosk: https://alphacephei.com/vosk/
 
 
 ## txt2speech and txt2audio
@@ -40,6 +41,7 @@
 - Kokoros (Rust based engine): https://github.com/lucasjinreal/Kokoros
 - KokoDOS (GlaDOS fork): https://github.com/kaminoer/KokoDOS
 - kokoro-js: https://www.npmjs.com/package/kokoro-js
+- KokoVoiceLabs: https://github.com/RobViren/kokovoicelab
 
 ### OuteTTS
 - v0.2 (onnx model for transformer.js WebGPU inference): https://huggingface.co/onnx-community/OuteTTS-0.2-500M
@@ -77,6 +79,7 @@
 - German
   - Thorsten voice: https://github.com/thorstenMueller/Thorsten-Voice
   - German TTS on Huggingface: https://huggingface.co/models?search=German%20tts
+- autiobooks (audiobook generation): https://github.com/plusuncold/autiobooks
 
 
 ## Music production
@@ -86,7 +89,7 @@
 - RC stable audio tools (Gradio app for using audio models): https://github.com/RoyalCities/RC-stable-audio-tools
 
 
-## Other audio models and related tools
+## Other audio models and related tools and resources
 - LAION AI Voice Assistant BUD-E: https://github.com/LAION-AI/natural_voice_assistant
 - AI Language Tutor
   - https://www.univerbal.app/
@@ -107,3 +110,7 @@
 - OmniAudio 2.6B (edge device setup for taking input audio and integrate LLM): https://huggingface.co/NexaAIDev/OmniAudio-2.6B
 - BlahST (speech2txt tool based on whisper for linux): https://github.com/QuantiusBenignus/BlahST
 - Weebo (speech-to-speech chatbot using whisper, llama, kokoro): https://github.com/amanvirparhar/weebo
+- AI voice agents overview: https://a16z.com/ai-voice-agents-2025-update
+- Hibiki (Speech2Speech translation en <-> fr): https://github.com/kyutai-labs/hibiki
+- Sage (speech conversation with LLMs): https://github.com/farshed/sage
+- chaplin (lip read / visual speech recognition): https://github.com/amanvirparhar/chaplin
