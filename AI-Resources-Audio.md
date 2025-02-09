@@ -91,6 +91,7 @@
 - Drumloop.ai: https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/
 - Sample generator: https://huggingface.co/adlb/Audialab_EDM_Elements
 - RC stable audio tools (Gradio app for using audio models): https://github.com/RoyalCities/RC-stable-audio-tools
+- YuE GP: https://github.com/deepbeepmeep/YuEGP
 
 
 ## Other audio models and related tools and resources
