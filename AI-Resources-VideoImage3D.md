@@ -31,11 +31,14 @@
 
 #### SDXL-based Fine-tuned models
 - DreamShaper XL Turbo v2: https://civitai.com/models/112902/dreamshaper-xl
-- Animagine XL 3.0: https://huggingface.co/cagliostrolab/animagine-xl-3.0
+- Animagine
+  - XL 3.0: https://huggingface.co/cagliostrolab/animagine-xl-3.0
+  - XL 4.0: https://huggingface.co/cagliostrolab/animagine-xl-4.0
 - Nebul.Redmond: https://civitai.com/models/269988
 - Pixel Art Diffusion XL: https://civitai.com/models/277680/pixel-art-diffusion-xl
-- Juggernaut XL v7: https://civitai.com/models/133005?modelVersionId=240840
-- Juggernaut XL v9: https://huggingface.co/RunDiffusion/Juggernaut-XL-v9
+- Juggernaut XL
+  - v7: https://civitai.com/models/133005?modelVersionId=240840
+  - v9: https://huggingface.co/RunDiffusion/Juggernaut-XL-v9
 - ThinkDiffusionXL: https://civitai.com/models/169868/thinkdiffusionxl
 - Realism Engine SDXL: https://civitai.com/models/152525
 - Amiga Style: https://civitai.com/models/297955/amiga-style
@@ -46,7 +49,6 @@
 - Sahastrakoti XL: https://civitai.com/models/139489/sahastrakoti
 - AlbedoBase XL: https://civitai.com/models/140737/albedobase-xl
 - Colorful XL: https://civitai.com/models/185258?modelVersionId=569951
-- Juggernaut XL: https://civitai.com/models/133005/juggernaut-xl
 - Lustify!: https://civitai.com/models/573152?modelVersionId=1094291
 - Painter's Checkpoint: https://civitai.com/models/240154?modelVersionId=289591
 - PixelPaint: https://civitai.com/models/284101?modelVersionId=532842
@@ -67,6 +69,7 @@
 - Ctrl-X
   - Github: https://github.com/genforce/ctrl-x
   - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fr1h6c/ctrlx_code_released_controlnet_without_finetuning
+- Absynth (SD 3.5 Medium Fine-Tune): https://civitai.com/models/900300/absynth-enhanced-stable-diffusion-35-base-models
 
 ### LORAs
 
@@ -108,6 +111,7 @@
 - Lora Auto Trigger Node: https://github.com/idrirap/ComfyUI-Lora-Auto-Trigger-Words
 - Youtube Tutorials: https://www.youtube.com/@CgTopTips
 - HelloMeme (Face Re-Enactment SD1.5): https://github.com/HelloVision/ComfyUI_HelloMeme
+- ControlNet Xinsir: https://openart.ai/workflows/toucan_chilly_4/controlnet-xinsir-simple-text-string/XRjF9rUn9NBl5K7T2bjc
 
 #### Automatic1111 Extensions
 - CADS (diversity): https://github.com/v0xie/sd-webui-cads
@@ -157,6 +161,7 @@
 - FastSD CPU: https://github.com/rupeshs/fastsdcpu
 - Face similarity analysis for ComfyUI: https://github.com/cubiq/ComfyUI_FaceAnalysis
 - civitai green: https://civitai.green/
+- Stable Diffusion Visualizer: https://github.com/nathannlu/aperture
 
 ### Hints, lists and collections
 - SD Tutorials https://www.reddit.com/r/StableDiffusion/comments/yknrjt/list_of_sd_tutorials_resources/
@@ -199,6 +204,7 @@
 - Fill Dev: https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev
 - Redux Dev: https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev
 - UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1164498
+- Sigma Vision Fine-Tune: https://civitai.com/models/1223425/sigma-vision
   
 ### LORAs
 
@@ -223,6 +229,8 @@
 - Person mask generator workflows: https://github.com/djbielejeski/a-person-mask-generator
 - Insert character: https://github.com/kinelite/Flux-insert-character
 - OmniControl: https://github.com/Macoron/ComfyUI-Diffusers-OminiControl
+- Ultimate Flux v4: https://www.patreon.com/posts/120952448
+- Consistent Character: https://civitai.com/articles/8916/workflow-i2i-consistent-character-generation-flux
 
 #### PuLID
 - ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
@@ -296,13 +304,19 @@
   - BiRefNet: https://github.com/ZhengPeng7/BiRefNet (ComfyUI: https://github.com/1038lab/ComfyUI-RMBG)
   - BEN: https://huggingface.co/PramaLLC/BEN (ComfyUI: https://github.com/DoctorDiffusion/ComfyUI-BEN)
   - BEN2: https://huggingface.co/PramaLLC/BEN2
-- FaceFusion (3.0.0)
-  - Github: https://github.com/facefusion/facefusion
-  - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
+  - Leaderboard: https://huggingface.co/spaces/bgsys/background-removal-arena
+- Face Swapping
+  - Roop Unleashed: https://codeberg.org/rcthans/roop-unleashednew
+  - Roop Floyd: https://codeberg.org/Cognibuild/ROOP-FLOYD 
+  - VisoMaster: https://github.com/visomaster/VisoMaster
+  - FaceFusion (3.0.0)
+    - Github: https://github.com/facefusion/facefusion
+    - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
 - Human Animation
   - Vid2DensePose: https://github.com/Flode-Labs/vid2densepose
   - MagicAnimate: https://github.com/magic-research/magic-animate
 - Krita plugin for segmentation: https://github.com/Acly/krita-ai-tools
+- Parallax / VR creation from 2D image: https://github.com/combatwombat/tiefling
 
 
 ## Video / Animation / 3D
@@ -334,6 +348,8 @@
 - HuggingFace: https://huggingface.co/tencent/HunyuanVideo
 - ComfyUI workflow: https://civitai.com/models/1092466?modelVersionId=1243590
 - Multi Lora Node: https://github.com/facok/ComfyUI-HunyuanVideoMultiLora
+- LORAs
+  - Boreal-HL: https://civitai.com/models/1222102/boreal-hl?modelVersionId=1376844
 
 #### Other video gen models and tools
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
