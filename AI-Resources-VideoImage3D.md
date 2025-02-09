@@ -312,11 +312,13 @@
   - FaceFusion (3.0.0)
     - Github: https://github.com/facefusion/facefusion
     - Reddit: https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/
+  - ACE++: https://www.patreon.com/posts/face-swapping-121224741
 - Human Animation
   - Vid2DensePose: https://github.com/Flode-Labs/vid2densepose
   - MagicAnimate: https://github.com/magic-research/magic-animate
 - Krita plugin for segmentation: https://github.com/Acly/krita-ai-tools
 - Parallax / VR creation from 2D image: https://github.com/combatwombat/tiefling
+- Stable Flow image editing (high VRAM needed or CPU offload!): https://github.com/snap-research/stable-flow
 
 
 ## Video / Animation / 3D
