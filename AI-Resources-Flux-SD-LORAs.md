@@ -134,8 +134,9 @@
 - Old photos: https://civitai.com/models/1105860/eerie-old-photos-lora-flux
 - 2000s Analog Core: https://civitai.com/models/1134895?modelVersionId=1276001
 - Sony Maciva: https://civitai.com/models/1147127?modelVersionId=1290161
-- Improved Amateur Realism: https://civitai.com/models/970862?modelVersionId=1322249
+- Improved Amateur Realism: https://civitai.com/models/970862
 - Sony Alpha A7 III: https://civitai.com/models/1174190
+- BODYADI: https://civitai.com/models/1214697?modelVersionId=1368270
 
 ### Cinema / TV / Commercials / Pop culture / Anime
 - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
@@ -194,6 +195,7 @@
 - Dark and Darker: https://civitai.com/models/1086758?modelVersionId=1220411
 - Euromanga: https://civitai.com/models/1099696?modelVersionId=1235285
 - Weirdos: https://civitai.com/models/1087910/everly-heights-weirdos-flux
+- Don Martin Cartoon: https://civitai.com/models/1222183/don-martin-cartoon-style-characters?modelVersionId=1376948
 
 ### Materials
 - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
@@ -248,6 +250,10 @@
 - Etch-A-Sketcher: https://civitai.com/models/995221/etch-a-sketcher-flux
 - Traditional Chinese: https://civitai.com/models/1139929?modelVersionId=1281929
 - Korea, KimHongDo: https://civitai.com/models/1117292/korea-kimhongdo-style-lora
+- BaiMioa (Line Art): https://civitai.com/models/1187284
+- Riches Heures (medieval): https://civitai.com/models/1182168/riches-heures
+- Vibrant Watercolor Painting: https://civitai.com/models/1200817/vibrant-watercolor-paintingsketch-v1
+- Cave Paintings: https://tensor.art/models/823913863108995790/Cave-Paintings-20
 
 ### Other Flux LORAs
 - Icon Maker: https://civitai.com/models/722531
@@ -302,3 +308,5 @@
 - Smol Faces: https://civitai.com/models/1140656/smol-faces-flux
 - Infernal Demons Fantasy Portrait: https://civitai.com/models/1148845/jibs-infernal-demons-fantasy-portrait?modelVersionId=1292142
 - Doddle: https://civitai.com/models/1152849/flux-doddle
+- Doodle Toon: https://civitai.com/models/1218348
+- Vibrant sharp: https://civitai.com/models/1212132/vibrantly-sharp-style
