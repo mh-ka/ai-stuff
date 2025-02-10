@@ -1,4 +1,3 @@
-- [README](README.md)
 - [AI-Resources-Audio.md](AI-Resources-Audio.md)
 - [AI-Resources-Flux-SD-LORAs.md](AI-Resources-Flux-SD-LORAs.md)
 - [AI-Resources-LanguageModels.md](AI-Resources-LanguageModels.md)
