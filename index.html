@@ -11,7 +11,7 @@
   <meta name="description" content="An awesome docsify site for publishing some content on the web.">
 
   <!-- Default Theme (see https://docsify.js.org/#/themes) -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
 
 </head>
 
@@ -28,7 +28,11 @@
       loadSidebar: true,
       maxLevel: 0,
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
-      subMaxLevel: 3,
+      subMaxLevel: 2,
+      'page-toc': {
+        tocMaxLevel: 3,
+        target: 'h1, h2, h3'
+      },
 
       // Search Plugin Configuration
       search: {
@@ -46,6 +50,7 @@
   <!-- Recommended -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify-page-toc/dist/docsify-page-toc.js"></script>
 
 </body>
 </html>

@@ -1,2 +1,6 @@
 - [README](README.md)
-- [Chapter 1](AI-Resources-Audio.md)
+- [AI-Resources-Audio.md](AI-Resources-Audio.md)
+- [AI-Resources-Flux-SD-LORAs.md](AI-Resources-Flux-SD-LORAs.md)
+- [AI-Resources-LanguageModels.md](AI-Resources-LanguageModels.md)
+- [AI-Resources-OnlineReferences.md](AI-Resources-OnlineReferences.md)
+- [AI-Resources-VideoImage3D.md](AI-Resources-VideoImage3D.md)
