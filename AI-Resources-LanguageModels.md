@@ -498,6 +498,7 @@
 
 ### Retrieval-Augmented Generation
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
+- RAG from scratch (langchain notebook examples): https://github.com/langchain-ai/rag-from-scratch
 - RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
 - Mistral Guide on basic RAG: https://docs.mistral.ai/guides/basic-RAG/
 - How faithful are RAG models: https://arxiv.org/pdf/2404.10198
