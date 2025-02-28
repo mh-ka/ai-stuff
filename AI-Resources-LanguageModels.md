@@ -722,6 +722,7 @@
 - GPU Poor LLM Arena: https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena
 - Several LLM benchmarks: https://github.com/lechmazur
 - Creative writing benchmark: https://eqbench.com/creative_writing.html
+- Agent leaderboard: https://huggingface.co/spaces/galileo-ai/agent-leaderboard
 
 ### Benchmark List
 
