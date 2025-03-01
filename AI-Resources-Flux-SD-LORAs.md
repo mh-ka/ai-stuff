@@ -314,3 +314,7 @@
 - Doddle: https://civitai.com/models/1152849/flux-doddle
 - Doodle Toon: https://civitai.com/models/1218348
 - Vibrant sharp: https://civitai.com/models/1212132/vibrantly-sharp-style
+- Hairless animals: https://civitai.com/models/1244633
+- Crusade: https://civitai.com/models/1250822?modelVersionId=1410033
+- Synthwave Glow: https://civitai.com/models/1047517/jibs-synthwave-glow
+- BirdMacro: https://civitai.com/models/1192800/birdmacro
