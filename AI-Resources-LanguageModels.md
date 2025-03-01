@@ -171,6 +171,7 @@
   - Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
   - Llama-3.1-Nemotron-51B-Instruct: https://huggingface.co/ymcki/Llama-3_1-Nemotron-51B-Instruct-GGUF
 - Selene-1-Mini-Llama-3.1-8B (Llama-based small evaluation and scoring LLM): https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B
+- DeepHermes 3 Llama 3 8B: https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview
 
 #### WizardLM Uncensored
 - 13B: https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored
@@ -349,11 +350,18 @@
 - List of models for hosting on 3090: https://www.reddit.com/r/LocalLLaMA/comments/1gai2ol/list_of_models_to_use_on_single_3090_or_4090/
 - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
 - LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device
+- LynxHub: https://github.com/KindaBrazy/LynxHub
+- UMbreLLa (local 70B model hosting): https://github.com/Infini-AI-Lab/UMbreLLa
 
 ### Mobile apps
 - PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
 - ChatterUI: https://github.com/Vali-98/ChatterUI
 - SmolChat Android: https://github.com/shubham0204/SmolChat-Android
+
+### Model playgrounds
+- Poe: https://poe.com/login
+- Qolaba: https://www.qolaba.ai/
+- ChatLLM: https://chatllm.abacus.ai/
 
 ### Search engines
 - Perplexica: https://github.com/ItzCrazyKns/Perplexica
@@ -367,10 +375,22 @@
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - MiniSearch (LLM based web search): https://github.com/felladrin/MiniSearch
 
-### Model playgrounds
-- Poe: https://poe.com/login
-- Qolaba: https://www.qolaba.ai/
-- ChatLLM: https://chatllm.abacus.ai/
+### Researcher / Analytics
+- From HuggingFace: https://huggingface.co/blog/open-deep-research
+- From Firecrawl: https://github.com/nickscamara/open-deep-research
+- From Jina AI: https://github.com/jina-ai/node-DeepResearch
+- Tutorial from Milvus: https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md
+- Open NotebookLM: https://itsfoss.com/open-notebooklm/
+- GPT-boosted Brainstorming Techniques: https://github.com/Azzedde/brainstormers
+- Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
+- LogAI (log analytics): https://github.com/salesforce/logai
+- LLM data analytics: https://github.com/yamalight/litlytics
+- Automated AI Web Researcher: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
+- AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
+- Open Gemini Deep Research: https://github.com/eRuaro/open-gemini-deep-research
+- Open-Deep-Research: https://danielkliewer.com/2025/02/05/open-deep-research
+- NanoSage: https://github.com/masterFoad/NanoSage
+- Local Deep Research: https://github.com/LearningCircuit/local-deep-research
 
 ### Coding assistance
 - Open Interpreter (local model hosting with code execution and file input): https://github.com/OpenInterpreter/open-interpreter
@@ -418,7 +438,7 @@
 ### More Chat UIs
 - AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
 - ActuosusAI (chat interaction with word probabilities): https://github.com/TC-Zheng/ActuosusAI
-- Mikupad (very simple UI): https://github.com/lmg-anon/mikupad
+- Mikupad (very simple UI for interaction with LLMs): https://github.com/lmg-anon/mikupad
 - Tangent (UI with chats as branches): https://github.com/itsPreto/tangent
 - Simple Chat UI: https://github.com/FishiaT/yawullm
 - AI Assistant with focus on enterprise environment: https://github.com/onyx-dot-app/onyx
@@ -426,6 +446,7 @@
 - Local AI assistant: https://github.com/CNTRLAI/notate
 - Chat WebUI: https://github.com/Toy-97/Chat-WebUI
 - Project Shard (next.js based Chat GUI): https://github.com/Ablasko32/Project-Shard
+- aiaio: https://github.com/abhishekkrthakur/aiaio/
 
 ### CLI / Shell
 - LLM cmd Assistant: https://github.com/simonw/llm-cmd
@@ -441,24 +462,10 @@
 - FileWizardAI: https://github.com/AIxHunter/FileWizardAI
 - Sortify AI: https://github.com/quentin-r37/sortify-ai
 
-### Researcher / Analytics
-- From HuggingFace: https://huggingface.co/blog/open-deep-research
-- From Firecrawl: https://github.com/nickscamara/open-deep-research
-- From Jina AI: https://github.com/jina-ai/node-DeepResearch
-- Tutorial from Milvus: https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md
-- Open NotebookLM: https://itsfoss.com/open-notebooklm/
-- GPT-boosted Brainstorming Techniques: https://github.com/Azzedde/brainstormers
-- Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
-- LogAI (log analytics): https://github.com/salesforce/logai
-- LLM data analytics: https://github.com/yamalight/litlytics
-- Automated AI Web Researcher: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
-- AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
-- Open Gemini Deep Research: https://github.com/eRuaro/open-gemini-deep-research
-- Open-Deep-Research: https://danielkliewer.com/2025/02/05/open-deep-research
-
 ### Medical assistant
 - Open Health: https://github.com/OpenHealthForAll/open-health
 - Health server: https://github.com/seapoe1809/Health_server
+- Phlox: https://github.com/bloodworks-io/phlox
 
 ### Extensions (VSCode / Chrome)
 - Chat-ext: https://github.com/abhishekkrthakur/chat-ext
@@ -499,6 +506,7 @@
 - Office plugin for text genAI: https://github.com/suncloudsmoon/TextCraft
 - Website scraper: https://github.com/raznem/parsera
 - files-to-prompt (concatenate a directory full of files into single prompt for LLM use): https://github.com/simonw/files-to-prompt
+- How to safely connect cloud server to home GPU: https://zohaib.me/safely-connect-cloud-server-to-home-gpu-server/
 
 
 ## AI developer topics
@@ -526,6 +534,9 @@
 - Kiln (fine-tuning, synthetic data generation, prompt generation, etc.): https://github.com/Kiln-AI/Kiln
 - Train your own reasoning model with unsloth: https://unsloth.ai/blog/r1-reasoning
 - Fine-tuning OCR model for PDFs: https://github.com/allenai/olmocr
+- Build LLM from scratch: https://github.com/meetrais/A-Z-of-Tranformer-Architecture
+- Distillation introduction: https://www.horusailabs.com/blogs/a-primer-to-distillation
+- Distillation framework: https://github.com/horus-ai-labs/DistillFlow/
 
 ### Frameworks, stacks, articles etc.
 
@@ -558,7 +569,7 @@
 - Llama Swap (proxy server for model swapping): https://github.com/mostlygeek/llama-swap
 - mockllm: https://github.com/stacklok/mockllm
 
-#### Articles and knwoledge resources
+#### Articles and knowledge resources
 - Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
 - OSS AI Stack: https://www.timescale.com/blog/the-emerging-open-source-ai-stack
 - Lessons from developing/deploying a copilot: https://www.pulumi.com/blog/copilot-lessons/
@@ -638,6 +649,7 @@
 - Legit RAG (RAG Docker setup): https://github.com/Emissary-Tech/legit-rag
 - Ragit: https://github.com/baehyunsol/ragit
 - ColiVara (RAG alternative using vision models): https://github.com/tjmlabs/ColiVara
+- Simba (knowledge management with RAG): https://github.com/GitHamza0206/simba
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -679,27 +691,34 @@
 - bolt.diy (coder agent): https://github.com/stackblitz-labs/bolt.diy
 - freeact (library for code-based agents): https://github.com/gradion-ai/freeact
 
-#### Other
-- AI Flow (connect different models): https://ai-flow.net
+#### Articles and knowledge resources
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
+- AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
 - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
+- Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
+- Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
+- Huggingface Tutorial: https://github.com/huggingface/agents-course
+- Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
+
+#### Workflow editor
+- AI Flow (connect different models): https://ai-flow.net
+- n8n (LLM workflow editor): https://github.com/n8n-io/n8n
+- Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
+- Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
+- Manifold (workflow editor): https://github.com/intelligencedev/manifold
+
+#### Other
 - Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
 - Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
-- AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
 - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
 - Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
 - OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
 - Arch (prompt gateway): https://github.com/katanemo/archgw
 - Letta (agents with memory): https://github.com/letta-ai/letta
-- Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
 - OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
 - Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
 - inferable (scalable agentic automation): https://github.com/inferablehq/inferable
 - Smolagents (python based agent library with focus on simplicity): https://github.com/huggingface/smolagents
-- n8n (LLM workflow editor): https://github.com/n8n-io/n8n
-- Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
-- Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
-- Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
 - Agent recipes: https://www.agentrecipes.com/
 - phidata (framework for building multi-modal agents): https://github.com/phidatahq/phidata
 - langroid (framework to easily build LLM-powered applications): https://github.com/langroid/langroid
@@ -711,15 +730,14 @@
   - Marker for converting PDFs to Markdown: https://github.com/VikParuchuri/marker
   - Markitdown for converting non-PDFs to Markdown: https://github.com/microsoft/markitdown
   - JoyCaption for image captioning: https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-hf-llava
-- Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
 - Atomic agents: https://github.com/BrainBlend-AI/atomic-agents
 - Goose: https://github.com/block/goose
-- Manifold (workflow editor): https://github.com/intelligencedev/manifold
 - Intellagent (advanced multi-agent framework for evaluation and optimization of conversational agents): https://github.com/plurai-ai/intellagent
 - Proxy structuring engine: https://github.com/TheProxyCompany/proxy-structuring-engine
 - Bytedance's UI-TARS (automated GUI interaction): https://github.com/bytedance/UI-TARS
 - Outlines (python package for structured generation): https://dottxt-ai.github.io/outlines/latest/welcome/
 - Pydantic AI (agent framework for production deployment): https://github.com/pydantic/pydantic-ai
+- AutoAgent: https://github.com/HKUDS/AutoAgent
 
 
 ## Evaluation / Leaderboards / Comparisons
@@ -763,6 +781,9 @@
 - Agent leaderboard: https://huggingface.co/spaces/galileo-ai/agent-leaderboard
 - LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
 - Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
+- Context Size Evals: https://github.com/NVIDIA/RULER
+- Model context sizes: https://github.com/taylorwilsdon/llm-context-limits
+- LLM translation comparison: https://nuenki.app/blog/llm_translation_comparison
 
 ### Benchmark List
 
