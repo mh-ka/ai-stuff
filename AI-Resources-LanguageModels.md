@@ -125,6 +125,7 @@
 - phi-3 / phi-3.5: https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3
 - phi-3.5 uncensored: https://huggingface.co/bartowski/Phi-3.5-mini-instruct_Uncensored-GGUF
 - phi-4: https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4
+- Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
 
 #### Google
 - Gemma 2B and 7B: https://huggingface.co/blog/gemma
@@ -169,6 +170,7 @@
 - Nvidia's Nemotron
   - Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
   - Llama-3.1-Nemotron-51B-Instruct: https://huggingface.co/ymcki/Llama-3_1-Nemotron-51B-Instruct-GGUF
+- Selene-1-Mini-Llama-3.1-8B (Llama-based small evaluation and scoring LLM): https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B
 
 #### WizardLM Uncensored
 - 13B: https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored
@@ -177,6 +179,19 @@
 #### Cohere
 - Aya 23 8B/35B (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
 - Command R7B: https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024
+
+#### Qwen merges / fine-tunes
+- SuperNova-Medius 14B (distillation merge between Qwen and Llama)
+  - https://huggingface.co/arcee-ai/SuperNova-Medius
+  - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
+- SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
+- Confucius-o1-14B (Qwen reasoning fine-tune): https://huggingface.co/netease-youdao/Confucius-o1-14B
+- Chirp 3B: https://huggingface.co/ozone-research/Chirp-01
+- UIGEN 14B (based on Qwen 2.5 14B Coder): https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B
+
+#### Deepseek
+- R1 distillations: https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d
+- Arcee Meastro 7B (distillation fine-tune): https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview
 
 #### Other
 - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
@@ -190,9 +205,6 @@
 - RefuelLLM-2 8B (data labeling model): https://huggingface.co/refuelai/Llama-3-Refueled
 - Doctor Dignity 7B: https://github.com/llSourcell/Doctor-Dignity
 - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
-- SuperNova-Medius 14B (distillation merge between Qwen and Llama)
-  - https://huggingface.co/arcee-ai/SuperNova-Medius
-  - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
 - CodeGeeX4 9B: https://huggingface.co/THUDM/codegeex4-all-9b
 - BigTranslate 13B: https://github.com/ZNLP/BigTranslate
 - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
@@ -204,9 +216,7 @@
 - Moxin 7B: https://github.com/moxin-org/Moxin-LLM
 - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
 - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
-- Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
 - Falcon 3 (several sizes): https://huggingface.co/blog/falcon3
-- SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
 - AMD's OLMo 1B: https://huggingface.co/amd/AMD-OLMo
 - Fox-1-1.6B-Instruct: https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1
 - Pleias models (trained mainly on common corpus): https://huggingface.co/collections/PleIAs/common-models-674cd0667951ab7c4ef84cc4
@@ -217,9 +227,7 @@
   - ALMA: https://github.com/fe1ixxu/ALMA
   - Unbabel's Towerbase: https://huggingface.co/Unbabel/TowerBase-13B-v0.1
   - Google's MADLAD-400-10B-MT: https://huggingface.co/google/madlad400-10b-mt 
-- Selene-1-Mini-Llama-3.1-8B (small evaluation and scoring LLM): https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B
 - Arch-Function-3B (function calling): https://huggingface.co/katanemo/Arch-Function-3B
-- Confucius-o1-14B (Qwen reasoning fine-tune): https://huggingface.co/netease-youdao/Confucius-o1-14B
 
 ### Multimodal / Vision models
 
@@ -295,6 +303,7 @@
 - Bytedance's Sa2VA: https://huggingface.co/collections/ByteDance/sa2va-model-zoo-677e3084d71b5f108d00e093
 - LlamaV o1 11B Vision Instruct: https://huggingface.co/omkarthawakar/LlamaV-o1
 - IBM's Granite v3.2: https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800
+- Ovis2 collection (strong with OCR): https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464
 
 
 ## Working with LLMs
@@ -338,6 +347,8 @@
 - LLM calculator (memory estimation): https://github.com/Raskoll2/LLMcalc
 - LLMs comparison for translation: https://www.reddit.com/r/LocalLLaMA/comments/1h4ji6x/comment/lzzsjhi/
 - List of models for hosting on 3090: https://www.reddit.com/r/LocalLLaMA/comments/1gai2ol/list_of_models_to_use_on_single_3090_or_4090/
+- Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
+- LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device
 
 ### Mobile apps
 - PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
@@ -443,6 +454,7 @@
 - Automated AI Web Researcher: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
 - AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
 - Open Gemini Deep Research: https://github.com/eRuaro/open-gemini-deep-research
+- Open-Deep-Research: https://danielkliewer.com/2025/02/05/open-deep-research
 
 ### Medical assistant
 - Open Health: https://github.com/OpenHealthForAll/open-health
@@ -652,6 +664,7 @@
 - Surya (OCR): https://github.com/VikParuchuri/surya
 - Trafilatura (python library for crawling, scraping, extracting, processing text): https://trafilatura.readthedocs.io/en/latest/
 - readability (js library for text extraction): https://github.com/mozilla/readability
+- web2markdown: https://github.com/h2210316651/lexicrawler
 
 ### Agents and workflows
 
@@ -706,6 +719,7 @@
 - Proxy structuring engine: https://github.com/TheProxyCompany/proxy-structuring-engine
 - Bytedance's UI-TARS (automated GUI interaction): https://github.com/bytedance/UI-TARS
 - Outlines (python package for structured generation): https://dottxt-ai.github.io/outlines/latest/welcome/
+- Pydantic AI (agent framework for production deployment): https://github.com/pydantic/pydantic-ai
 
 
 ## Evaluation / Leaderboards / Comparisons
