@@ -205,6 +205,7 @@
 - Redux Dev: https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev
 - UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1164498
 - Sigma Vision Fine-Tune: https://civitai.com/models/1223425/sigma-vision
+- Layer-Diffuse (transparent): https://github.com/RedAIGC/Flux-version-LayerDiffuse
   
 ### LORAs
 
@@ -319,6 +320,8 @@
 - Krita plugin for segmentation: https://github.com/Acly/krita-ai-tools
 - Parallax / VR creation from 2D image: https://github.com/combatwombat/tiefling
 - Stable Flow image editing (high VRAM needed or CPU offload!): https://github.com/snap-research/stable-flow
+- IDM-VTON (Virtual Try-On): https://github.com/yisol/IDM-VTON
+- MEMO (Expressive Talking): https://github.com/gjnave/memo-for-windows
 
 
 ## Video / Animation / 3D
@@ -352,6 +355,7 @@
 - Multi Lora Node: https://github.com/facok/ComfyUI-HunyuanVideoMultiLora
 - LORAs
   - Boreal-HL: https://civitai.com/models/1222102/boreal-hl?modelVersionId=1376844
+  - Misc: https://civitai.com/user/Remade
 
 #### Other video gen models and tools
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
@@ -379,6 +383,9 @@
   - SAM2.1 Release: https://github.com/facebookresearch/sam2
   - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
   - Grounded-SAM-2: https://github.com/IDEA-Research/Grounded-SAM-2
+- DEIM: https://github.com/ShihuaHuang95/DEIM
+- D-FINE: https://github.com/Peterande/D-FINE
+- RT-DETRv3: https://github.com/clxia12/RT-DETRv3
 
 ### 3D
 - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
