@@ -208,7 +208,7 @@
 - UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1164498
 - Sigma Vision Fine-Tune: https://civitai.com/models/1223425/sigma-vision
 - Layer-Diffuse (transparent): https://github.com/RedAIGC/Flux-version-LayerDiffuse
-- UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1413133
+- UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1413133 (Amplifier LORA: https://civitai.com/models/1200242/realistic-amplifier-for-ultrareal-fine-tune)
   
 ### LORAs
 
@@ -332,6 +332,10 @@
 - Stable Flow image editing (high VRAM needed or CPU offload!): https://github.com/snap-research/stable-flow
 - IDM-VTON (Virtual Try-On): https://github.com/yisol/IDM-VTON
 - MEMO (Expressive Talking): https://github.com/gjnave/memo-for-windows
+- Upscaler
+  - Siax: https://civitai.com/models/147641/nmkd-siax-cx
+  - Ultrasharp: https://civitai.com/models/116225/4x-ultrasharp
+  - Superscale: https://civitai.com/models/141491/4x-nmkd-superscale
 
 
 ## Video / Animation / 3D
