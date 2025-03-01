@@ -13,6 +13,9 @@
 - Whisper Standalone Win: https://github.com/Purfview/whisper-standalone-win
 - Whisperfile: https://github.com/Mozilla-Ocho/llamafile/blob/main/whisper.cpp/doc/getting-started.md
 - WhisperX: https://github.com/m-bain/whisperX
+- ctranslate2: https://github.com/Softcatala/whisper-ctranslate2
+- Whisper WebUI: https://github.com/jhj0517/Whisper-WebUI
+- MisterWhisper: https://github.com/openconcerto/MisterWhisper
 
 ### Other
 - Nvidia's Canary (with translation): https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
@@ -22,6 +25,9 @@
 - Article about Speech recognition (comparisons and insights): https://amgadhasan.substack.com/p/sota-asr-tooling-long-form-transcription
 - DeepFilter for filtering noisy audio: https://github.com/duohub-ai/deepfilter-lambda-container
 - Vosk: https://alphacephei.com/vosk/
+- MeetingBuddy (GUI for realtime transcription): https://github.com/psdwizzard/MeetingBuddy
+- HalfwayML (OSS transcription service): https://github.com/moaljumaa/halfwayml_open
+- Vibe (GUI for transcription): https://github.com/thewh1teagle/vibe/
 
 
 ## txt2speech and txt2audio
@@ -42,10 +48,19 @@
 - KokoDOS (GlaDOS fork): https://github.com/kaminoer/KokoDOS
 - kokoro-js: https://www.npmjs.com/package/kokoro-js
 - KokoVoiceLabs: https://github.com/RobViren/kokovoicelab
+- Kokoro-Web: https://github.com/xenova/kokoro-web
 
 ### OuteTTS
 - v0.2 (onnx model for transformer.js WebGPU inference): https://huggingface.co/onnx-community/OuteTTS-0.2-500M
 - v0.3: https://huggingface.co/collections/OuteAI/outetts-03-6786b1ebc7aeb757bc17a2fa
+
+### Zonos
+- v0.1: https://huggingface.co/Zyphra/Zonos-v0.1-transformer
+- Github: https://github.com/Zyphra/Zonos
+- Windows fork: https://github.com/sdbds/Zonos-for-windows
+
+### StepAudio
+- TTS 3B: https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B
 
 ### Other
 - TTS Arena Leaderboard: https://huggingface.co/spaces/TTS-AGI/TTS-Arena
@@ -84,6 +99,11 @@
   - Github setup: https://github.com/nivibilla/local-llasa-tts
   - Huggingface model collection: https://huggingface.co/collections/HKUSTAudio/llasa-679b87dbd06ac556cc0e0f44
   - Blog page: https://huggingface.co/blog/srinivasbilla/llasa-tts
+- Sherpa-Onnx (framework for STT, TTS, etc.): https://github.com/k2-fsa/sherpa-onnx
+- OpenReader (document reader): https://github.com/richardr1126/OpenReader-WebUI
+- Audiobook creator: https://github.com/prakharsr/audiobook-creator/
+- OpenDubbing: https://github.com/Softcatala/open-dubbing
+- Audiblez (ebook2audiobook): https://github.com/santinic/audiblez
 
 
 ## Music production
@@ -121,4 +141,3 @@
 - chaplin (lip read / visual speech recognition): https://github.com/amanvirparhar/chaplin
 - Meta's SeamlessM4T (translation framework): https://huggingface.co/facebook/seamless-m4t-v2-large
 - MiraConverse (voice interaction with LLMs): https://github.com/KartDriver/mira_converse
-
