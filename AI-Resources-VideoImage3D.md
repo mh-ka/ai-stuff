@@ -247,6 +247,7 @@
 - Model: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
 - ComfyUI workflow: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
 - Batch script: https://github.com/MNeMoNiCuZ/joy-caption-batch
+- GGUF: https://huggingface.co/Jobaar/Llama-JoyCaption-Alpha-Two-GGUF
 
 #### LORA training
 - Tools
@@ -401,9 +402,21 @@
   - SAM2.1 Release: https://github.com/facebookresearch/sam2
   - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
   - Grounded-SAM-2: https://github.com/IDEA-Research/Grounded-SAM-2
-- DEIM: https://github.com/ShihuaHuang95/DEIM
-- D-FINE: https://github.com/Peterande/D-FINE
-- RT-DETRv3: https://github.com/clxia12/RT-DETRv3
+- ViTPose (pose detection): https://huggingface.co/collections/usyd-community/vitpose-677fcfd0a0b2b5c8f79c4335
+- Real-time object detection
+  - Roboflow leaderboard: https://leaderboard.roboflow.com/
+  - DEIM: https://github.com/ShihuaHuang95/DEIM
+  - D-FINE: https://github.com/Peterande/D-FINE
+  - DAB-DETR
+    - https://huggingface.co/IDEA-Research/dab-detr-resnet-50
+    - https://huggingface.co/docs/transformers/main/en/model_doc/dab-detr
+  - RT-DETRv3
+    - https://github.com/clxia12/RT-DETRv3
+    - https://huggingface.co/docs/transformers/main/en/model_doc/rt_detr_v2
+    - https://huggingface.co/PekingU/rtdetr_r18vd
+- Depth estimation
+  - https://huggingface.co/apple/DepthPro-hf
+  - https://huggingface.co/docs/transformers/main/en/model_doc/depth_pro
 
 ### 3D
 - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
