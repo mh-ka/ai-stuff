@@ -98,6 +98,7 @@
 #### IBM
 - Granite Code Models: https://github.com/ibm-granite/granite-code-models
 - Granite v3.1: https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d
+- Granite v3.2: https://huggingface.co/collections/ibm-granite/granite-32-language-models-67b3bc8c13508f6d064cff9a
 
 #### Other
 - Phind-CodeLlama-34B v2: https://huggingface.co/Phind/Phind-CodeLlama-34B-v2
@@ -123,6 +124,8 @@
 - phi-2 2.7B: https://huggingface.co/microsoft/phi-2
 - phi-3 / phi-3.5: https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3
 - phi-3.5 uncensored: https://huggingface.co/bartowski/Phi-3.5-mini-instruct_Uncensored-GGUF
+- phi-4: https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4
+- Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
 
 #### Google
 - Gemma 2B and 7B: https://huggingface.co/blog/gemma
@@ -167,6 +170,8 @@
 - Nvidia's Nemotron
   - Llama-3.1-Nemotron-70B-Instruct: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
   - Llama-3.1-Nemotron-51B-Instruct: https://huggingface.co/ymcki/Llama-3_1-Nemotron-51B-Instruct-GGUF
+- Selene-1-Mini-Llama-3.1-8B (Llama-based small evaluation and scoring LLM): https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B
+- DeepHermes 3 Llama 3 8B: https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview
 
 #### WizardLM Uncensored
 - 13B: https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored
@@ -175,6 +180,19 @@
 #### Cohere
 - Aya 23 8B/35B (multilingual specialized): https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc
 - Command R7B: https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024
+
+#### Qwen merges / fine-tunes
+- SuperNova-Medius 14B (distillation merge between Qwen and Llama)
+  - https://huggingface.co/arcee-ai/SuperNova-Medius
+  - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
+- SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
+- Confucius-o1-14B (Qwen reasoning fine-tune): https://huggingface.co/netease-youdao/Confucius-o1-14B
+- Chirp 3B: https://huggingface.co/ozone-research/Chirp-01
+- UIGEN 14B (based on Qwen 2.5 14B Coder): https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B
+
+#### Deepseek
+- R1 distillations: https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d
+- Arcee Meastro 7B (distillation fine-tune): https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview
 
 #### Other
 - Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
@@ -188,9 +206,6 @@
 - RefuelLLM-2 8B (data labeling model): https://huggingface.co/refuelai/Llama-3-Refueled
 - Doctor Dignity 7B: https://github.com/llSourcell/Doctor-Dignity
 - Prem-1B (RAG expert model): https://blog.premai.io/introducing-prem-1b/
-- SuperNova-Medius 14B (distillation merge between Qwen and Llama)
-  - https://huggingface.co/arcee-ai/SuperNova-Medius
-  - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
 - CodeGeeX4 9B: https://huggingface.co/THUDM/codegeex4-all-9b
 - BigTranslate 13B: https://github.com/ZNLP/BigTranslate
 - ContextualAI's OLMoE: https://contextual.ai/olmoe-mixture-of-experts
@@ -202,9 +217,7 @@
 - Moxin 7B: https://github.com/moxin-org/Moxin-LLM
 - Megrez 3B Instruct: https://huggingface.co/Infinigence/Megrez-3B-Instruct
 - GRMR v2.0 (grammar checking): https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc
-- Glider (Phi 3.5 Mini based text evaluation model): https://huggingface.co/PatronusAI/glider
 - Falcon 3 (several sizes): https://huggingface.co/blog/falcon3
-- SmallThinker-3B-Preview: https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
 - AMD's OLMo 1B: https://huggingface.co/amd/AMD-OLMo
 - Fox-1-1.6B-Instruct: https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1
 - Pleias models (trained mainly on common corpus): https://huggingface.co/collections/PleIAs/common-models-674cd0667951ab7c4ef84cc4
@@ -215,9 +228,7 @@
   - ALMA: https://github.com/fe1ixxu/ALMA
   - Unbabel's Towerbase: https://huggingface.co/Unbabel/TowerBase-13B-v0.1
   - Google's MADLAD-400-10B-MT: https://huggingface.co/google/madlad400-10b-mt 
-- Selene-1-Mini-Llama-3.1-8B (small evaluation and scoring LLM): https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B
 - Arch-Function-3B (function calling): https://huggingface.co/katanemo/Arch-Function-3B
-- Confucius-o1-14B (Qwen reasoning fine-tune): https://huggingface.co/netease-youdao/Confucius-o1-14B
 
 ### Multimodal / Vision models
 
@@ -255,6 +266,8 @@
 - ComfyUI Florence2 Workflow: https://github.com/kijai/ComfyUI-Florence2
 - Phi-3-vision: https://huggingface.co/microsoft/Phi-3-vision-128k-instruct-onnx-cuda
 - Florence-VL: https://huggingface.co/jiuhai
+- Phi-4: https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4
+- Magma 8B (agentic multimodal): https://huggingface.co/microsoft/Magma-8B
 
 #### OpenBMB
 - MiniCPM V2.5: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
@@ -290,6 +303,9 @@
 - YuLan Mini: https://github.com/RUC-GSAI/YuLan-Mini
 - Bytedance's Sa2VA: https://huggingface.co/collections/ByteDance/sa2va-model-zoo-677e3084d71b5f108d00e093
 - LlamaV o1 11B Vision Instruct: https://huggingface.co/omkarthawakar/LlamaV-o1
+- IBM's Granite v3.2: https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800
+- Ovis2 collection (strong with OCR): https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464
+- Huggingface's SmolVLM2: https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7
 
 
 ## Working with LLMs
@@ -318,7 +334,6 @@
 - chatd (chat with your own documents): https://github.com/BruceMacD/chatd
 - Nextcloud AI assistant: https://github.com/nextcloud/all-in-one
 - LocalAI (local server hosting): https://localai.io/
-- LLM CLI tool: https://llm.datasette.io/en/stable/
 - LibreChat: https://github.com/danny-avila/LibreChat
 - Harbor (containerized local LLM hosting)
   - Github: https://github.com/av/harbor
@@ -331,11 +346,23 @@
 - Ollama, ComfyUI, OpenWebUI on Kubernetes: https://github.com/GoingOffRoading?tab=repositories
 - llama.ttf (using font engine to host a LLM): https://fuglede.github.io/llama.ttf
 - TransformerLab: https://github.com/transformerlab/transformerlab-app
+- LLM calculator (memory estimation): https://github.com/Raskoll2/LLMcalc
+- LLMs comparison for translation: https://www.reddit.com/r/LocalLLaMA/comments/1h4ji6x/comment/lzzsjhi/
+- List of models for hosting on 3090: https://www.reddit.com/r/LocalLLaMA/comments/1gai2ol/list_of_models_to_use_on_single_3090_or_4090/
+- Awesome Small Language Models list: https://github.com/slashml/awesome-small-language-models
+- LLMs for on-device deployment: https://github.com/NexaAI/Awesome-LLMs-on-device
+- LynxHub: https://github.com/KindaBrazy/LynxHub
+- UMbreLLa (local 70B model hosting): https://github.com/Infini-AI-Lab/UMbreLLa
 
 ### Mobile apps
 - PocketPal AI: https://github.com/a-ghorbani/pocketpal-ai
 - ChatterUI: https://github.com/Vali-98/ChatterUI
 - SmolChat Android: https://github.com/shubham0204/SmolChat-Android
+
+### Model playgrounds
+- Poe: https://poe.com/login
+- Qolaba: https://www.qolaba.ai/
+- ChatLLM: https://chatllm.abacus.ai/
 
 ### Search engines
 - Perplexica: https://github.com/ItzCrazyKns/Perplexica
@@ -349,10 +376,22 @@
 - Phind (AI based search engine): https://www.phind.com/search?home=true
 - MiniSearch (LLM based web search): https://github.com/felladrin/MiniSearch
 
-### Model playgrounds
-- Poe: https://poe.com/login
-- Qolaba: https://www.qolaba.ai/
-- ChatLLM: https://chatllm.abacus.ai/
+### Researcher / Analytics
+- From HuggingFace: https://huggingface.co/blog/open-deep-research
+- From Firecrawl: https://github.com/nickscamara/open-deep-research
+- From Jina AI: https://github.com/jina-ai/node-DeepResearch
+- Tutorial from Milvus: https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md
+- Open NotebookLM: https://itsfoss.com/open-notebooklm/
+- GPT-boosted Brainstorming Techniques: https://github.com/Azzedde/brainstormers
+- Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
+- LogAI (log analytics): https://github.com/salesforce/logai
+- LLM data analytics: https://github.com/yamalight/litlytics
+- Automated AI Web Researcher: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
+- AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
+- Open Gemini Deep Research: https://github.com/eRuaro/open-gemini-deep-research
+- Open-Deep-Research: https://danielkliewer.com/2025/02/05/open-deep-research
+- NanoSage: https://github.com/masterFoad/NanoSage
+- Local Deep Research: https://github.com/LearningCircuit/local-deep-research
 
 ### Coding assistance
 - Open Interpreter (local model hosting with code execution and file input): https://github.com/OpenInterpreter/open-interpreter
@@ -393,82 +432,82 @@
   - Repomix: https://github.com/yamadashy/repomix
   - Yek: https://github.com/bodo-run/yek
 - What we learned copying all the best code assistants: https://blog.val.town/blog/fast-follow/
+- Jupyter AI (jupyter notebook AI assistance): https://github.com/jupyterlab/jupyter-ai
+- Technical docs creation for python projects: https://github.com/charmandercha/ArchiDoc
+- Terminal app prototyping tool: https://github.com/shobrook/termite
+
+### More Chat UIs
+- AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
+- ActuosusAI (chat interaction with word probabilities): https://github.com/TC-Zheng/ActuosusAI
+- Mikupad (very simple UI for interaction with LLMs): https://github.com/lmg-anon/mikupad
+- Tangent (UI with chats as branches): https://github.com/itsPreto/tangent
+- Simple Chat UI: https://github.com/FishiaT/yawullm
+- AI Assistant with focus on enterprise environment: https://github.com/onyx-dot-app/onyx
+- Papeg.ai (chatUI): https://github.com/flatsiedatsie/papeg_ai
+- Local AI assistant: https://github.com/CNTRLAI/notate
+- Chat WebUI: https://github.com/Toy-97/Chat-WebUI
+- Project Shard (next.js based Chat GUI): https://github.com/Ablasko32/Project-Shard
+- aiaio: https://github.com/abhishekkrthakur/aiaio/
+
+### CLI / Shell
+- LLM cmd Assistant: https://github.com/simonw/llm-cmd
+- Personal Assistant: https://github.com/ErikBjare/gptme/
+- CLI command explainer: https://github.com/shobrook/wut
+- Generative Shell: https://github.com/atinylittleshell/gsh
+- CLI Assistant: https://github.com/sigoden/aichat
+- LLM Shell: https://github.com/phildougherty/llmsh
+- CLI tool: https://github.com/cagostino/npcsh
 
 ### File organizer
 - Local File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
 - FileWizardAI: https://github.com/AIxHunter/FileWizardAI
 - Sortify AI: https://github.com/quentin-r37/sortify-ai
 
-### Deep Research
-- From HuggingFace: https://huggingface.co/blog/open-deep-research
-- From Firecrawl: https://github.com/nickscamara/open-deep-research
-- From Jina AI: https://github.com/jina-ai/node-DeepResearch
-- Tutorial from Milvus: https://milvus.io/blog/i-built-a-deep-research-with-open-source-so-can-you.md
-
 ### Medical assistant
 - Open Health: https://github.com/OpenHealthForAll/open-health
 - Health server: https://github.com/seapoe1809/Health_server
+- Phlox: https://github.com/bloodworks-io/phlox
+
+### Extensions (VSCode / Chrome)
+- Chat-ext: https://github.com/abhishekkrthakur/chat-ext
+- Youtube Summarizer: https://github.com/avarayr/youtube-summarizer-oss
+- Image filename generator: https://github.com/kliewerdaniel/chrome-ai-filename-generator
+- Grammar checking: https://marketplace.visualstudio.com/items?itemName=OlePetersen.lm-writing-tool
+- Graph text view: https://marketplace.visualstudio.com/items?itemName=infranodus.infranodus-graph-view
+
+### Image processing
+- OCR Tesseract tool (running in browser locally): https://github.com/simonw/tools
+- LlavaImageTagger: https://github.com/jabberjabberjabber/LLavaImageTagger
+- Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
+- AI Snipping Tool: https://github.com/yannikkellerde/AI-Snip
+- Image Search: https://github.com/0ssamaak0/CLIPPyX
+- Vector Companion: https://github.com/SingularityMan/vector_companion
+- Local Computer Vision (LCLV) with Moondream: https://github.com/HafizalJohari/lclv
+- Logging assistant creation: https://github.com/jetro30087/Ollogger
 
 ### Other
-- LLMs comparison for translation: https://www.reddit.com/r/LocalLLaMA/comments/1h4ji6x/comment/lzzsjhi/
-- List of models for hosting on 3090: https://www.reddit.com/r/LocalLLaMA/comments/1gai2ol/list_of_models_to_use_on_single_3090_or_4090/
 - Scalene (High Performance Python Profiler): https://github.com/plasma-umass/scalene
-- Lida (visualization and infographics generated with LLMs): https://github.com/microsoft/lida
 - OpenCopilot (LLM integration with provided Swagger APIs): https://github.com/openchatai/OpenCopilot
-- LogAI (log analytics): https://github.com/salesforce/logai
-- Jupyter AI (jupyter notebook AI assistance): https://github.com/jupyterlab/jupyter-ai
-- OCR Tesseract tool (running in browser locally): https://github.com/simonw/tools
-- LLM cmd Assistant: https://github.com/simonw/llm-cmd
 - Semgrep (autofix using LLMs): https://choly.ca/post/semgrep-autofix-llm/
 - GPT Investor: https://github.com/mshumer/gpt-investor
-- AI Flow (connect different models): https://ai-flow.net
 - Shopping assistant: https://www.claros.so/
 - STORM (Wikipedia article creator): https://github.com/stanford-oval/storm
-- Open NotebookLM: https://itsfoss.com/open-notebooklm/
-- LlavaImageTagger: https://github.com/jabberjabberjabber/LLavaImageTagger
-- LLM data analytics: https://github.com/yamalight/litlytics
 - Clipboard Conqueror: https://github.com/aseichter2007/ClipboardConqueror
-- AnythingLLM: https://github.com/Mintplex-Labs/anything-llm
-- Screen Analysis Overlay: https://github.com/PasiKoodaa/Screen-Analysis-Overlay
-- Personal Assistant: https://github.com/ErikBjare/gptme/
 - Open Canvas: https://github.com/langchain-ai/open-canvas
-- GPT-boosted Brainstorming Techniques: https://github.com/Azzedde/brainstormers
-- ActuosusAI (chat interaction with word probabilities): https://github.com/TC-Zheng/ActuosusAI
 - LynxHub (Local AI Management Hub): https://github.com/KindaBrazy/LynxHub
 - Vulnerability Scanner: https://github.com/protectai/vulnhuntr
 - Visual environment for prompt engineering: https://www.chainforge.ai
 - WikiChat: https://github.com/stanford-oval/WikiChat
-- AI Snipping Tool: https://github.com/yannikkellerde/AI-Snip
-- Automated AI Web Researcher: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
-- Image Search: https://github.com/0ssamaak0/CLIPPyX
-- Vector Companion: https://github.com/SingularityMan/vector_companion
-- Mikupad (very simple UI): https://github.com/lmg-anon/mikupad
 - Chat with PDF on device: https://github.com/NexaAI/nexa-sdk/tree/main/examples/Chat-with-PDF-locally
 - WritingTools: https://github.com/theJayTea/WritingTools
 - Local preference/recommendation system for personal data: https://github.com/volotat/Anagnorisis
 - AnnotateAI (paper annotation): https://github.com/neuml/annotateai
-- Tangent (UI with chats as branches): https://github.com/itsPreto/tangent
-- Chat-ext (chrome extension): https://github.com/abhishekkrthakur/chat-ext
-- Simple Chat UI: https://github.com/FishiaT/yawullm
-- AI Assistant with focus on enterprise environment: https://github.com/onyx-dot-app/onyx
-- CLI command explainer: https://github.com/shobrook/wut
-- Technical docs creation for python projects: https://github.com/charmandercha/ArchiDoc
-- Terminal app prototyping tool: https://github.com/shobrook/termite
-- Papeg.ai (chatUI): https://github.com/flatsiedatsie/papeg_ai
-- Youtube Summarizer Chrome Extension: https://github.com/avarayr/youtube-summarizer-oss
-- Local AI assistant: https://github.com/CNTRLAI/notate
 - GraphLLM (graph based data processing with LLMs): https://github.com/matteoserva/GraphLLM
 - Context aware translator: https://github.com/CyrusCKF/translator/
-- Generative Shell: https://github.com/atinylittleshell/gsh
-- Logging assistant creation: https://github.com/jetro30087/Ollogger
 - Office plugin for text genAI: https://github.com/suncloudsmoon/TextCraft
-- AI dashboard builder (for data analytics): https://github.com/pnmartinez/ai-dashboard-builder
-- Local Computer Vision (LCLV) with Moondream: https://github.com/HafizalJohari/lclv
 - Website scraper: https://github.com/raznem/parsera
-- Bytedance's UI-TARS (automated GUI interaction): https://github.com/bytedance/UI-TARS
-- Grammar checking VS code extension: https://marketplace.visualstudio.com/items?itemName=OlePetersen.lm-writing-tool
-- LLM calculator (memory estimation): https://github.com/Raskoll2/LLMcalc
-- files-to-prompt (concatenate a directory full of files into a single prompt for use with LLMs): https://github.com/simonw/files-to-prompt
+- files-to-prompt (concatenate a directory full of files into single prompt for LLM use): https://github.com/simonw/files-to-prompt
+- How to safely connect cloud server to home GPU: https://zohaib.me/safely-connect-cloud-server-to-home-gpu-server/
 
 
 ## AI developer topics
@@ -495,8 +534,89 @@
 - Fine-tuning tutorial for small language models: https://github.com/huggingface/smol-course
 - Kiln (fine-tuning, synthetic data generation, prompt generation, etc.): https://github.com/Kiln-AI/Kiln
 - Train your own reasoning model with unsloth: https://unsloth.ai/blog/r1-reasoning
+- Fine-tuning OCR model for PDFs: https://github.com/allenai/olmocr
+- Build LLM from scratch: https://github.com/meetrais/A-Z-of-Tranformer-Architecture
+- Ultrascale playbook for GPU clusters: https://huggingface.co/spaces/nanotron/ultrascale-playbook
+- Distillation introduction: https://www.horusailabs.com/blogs/a-primer-to-distillation
+- Distillation framework: https://github.com/horus-ai-labs/DistillFlow/
 
-### Retrieval-Augmented Generation
+### Frameworks, stacks, articles etc.
+
+#### GPT-2
+- In Rust: https://github.com/felix-andreas/gpt-burn
+- In llm.c: https://github.com/karpathy/llm.c/discussions/481
+- In Excel spreadsheet: https://spreadsheets-are-all-you-need.ai/
+
+#### Monitoring
+- Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
+- GPU grafana metrics
+  - https://github.com/NVIDIA/dcgm-exporter
+  - https://grafana.com/grafana/dashboards/12239-nvidia-dcgm-exporter-dashboard/
+- Linux GPU temperature reader: https://github.com/ThomasBaruzier/gddr6-core-junction-vram-temps
+- Docker GPU power limiting tool: https://github.com/sammcj/NVApi
+
+#### Transformer.js (browser-based AI inference)
+- Github: https://github.com/xenova/transformers.js
+- v3.2 Release (adds moonshine support): https://github.com/huggingface/transformers.js/releases/tag/3.2.0
+
+#### Phi-3
+- Phi-3 on device: https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime
+- Microsoft's Cookbook on using Phi-3: https://github.com/microsoft/Phi-3CookBook
+
+#### Proxy / Middleware / Mocking
+- Wilmer (LLM Orchestration Middleware): https://github.com/SomeOddCodeGuy/WilmerAI/
+- LLM API proxy server: https://github.com/yanolja/ogem
+- OptiLLM (LLM proxy with optimizations): https://github.com/codelion/optillm
+- RouteLLM framework: https://github.com/lm-sys/RouteLLM
+- Llama Swap (proxy server for model swapping): https://github.com/mostlygeek/llama-swap
+- mockllm: https://github.com/stacklok/mockllm
+
+#### Articles and knowledge resources
+- Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
+- OSS AI Stack: https://www.timescale.com/blog/the-emerging-open-source-ai-stack
+- Lessons from developing/deploying a copilot: https://www.pulumi.com/blog/copilot-lessons/
+- List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
+- LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
+- Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
+- What We Learned from a Year of Building with LLMs
+  - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i
+  - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii
+- How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
+- Reverse engineering of Github Copilot extension: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
+- AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
+- Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
+- State of AI - China: https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf
+- FastRTC library for building apps with real-time communication: https://huggingface.co/blog/fastrtc 
+
+#### Other
+- Docker GenAI Stack: https://github.com/docker/genai-stack
+- LLM App Stack: https://github.com/a16z-infra/llm-app-stack
+- Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
+- Dify (local LLM app development platform): https://github.com/langgenius/dify
+- ExecuTorch (On-Device AI framework): https://pytorch.org/executorch/stable/intro-overview.html
+- Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
+- Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
+- Selfie (personalized local text generation): https://github.com/vana-com/selfie
+- Meta's Llama Stack
+  - Github: https://github.com/meta-llama/llama-stack
+  - Apps: https://github.com/meta-llama/llama-stack-apps
+- PostgresML AI Stack: https://github.com/postgresml/postgresml
+- Memory management: https://github.com/caspianmoon/memoripy
+- Graph-based editor for LLM workflows: https://github.com/PySpur-Dev/PySpur
+- Microsoft's GenAIScript (LLM orchestrator): https://github.com/microsoft/genaiscript/
+- ModernBERT: https://huggingface.co/blog/modernbert
+- Haystack (LLM app dev framework): https://github.com/deepset-ai/haystack
+- Llamaindex (LLM app dev framework): https://docs.llamaindex.ai/en/stable/#introduction
+- Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
+- LeRobot: https://github.com/huggingface/lerobot
+- LLM Promptflow: https://microsoft.github.io/promptflow/
+- prompt-owl (prompt engineering library): https://github.com/lks-ai/prowl
+- PocketFlow (minimalist LLM framework): https://github.com/miniLLMFlow/PocketFlow/
+- HuggingFace downloader: https://github.com/huggingface/hf_transfer
+- Model with symbolic representation (glyphs): https://github.com/severian42/Computational-Model-for-Symbolic-Representations
+- Openorch: https://github.com/openorch/openorch
+
+### Retrieval-Augmented Generation (RAG)
 - RAGs ("Build ChatGPT over your data"): https://github.com/run-llama/rags
 - RAG from scratch (langchain notebook examples): https://github.com/langchain-ai/rag-from-scratch
 - RAGFlow (RAG framework): https://github.com/infiniflow/ragflow
@@ -530,82 +650,9 @@
 - Volo (local wikipedia RAG): https://github.com/AdyTech99/volo/
 - UroBot (medical RAG example): https://github.com/DBO-DKFZ/UroBot
 - Legit RAG (RAG Docker setup): https://github.com/Emissary-Tech/legit-rag
-
-### Frameworks, stacks, articles etc.
-
-#### GPT-2
-- In Rust: https://github.com/felix-andreas/gpt-burn
-- In llm.c: https://github.com/karpathy/llm.c/discussions/481
-- In Excel spreadsheet: https://spreadsheets-are-all-you-need.ai/
-
-#### Monitoring
-- Langwatch (LLM monitoring tools suite): https://github.com/langwatch/langwatch
-- GPU grafana metrics
-  - https://github.com/NVIDIA/dcgm-exporter
-  - https://grafana.com/grafana/dashboards/12239-nvidia-dcgm-exporter-dashboard/
-- Linux GPU temperature reader: https://github.com/ThomasBaruzier/gddr6-core-junction-vram-temps
-- Docker GPU power limiting tool: https://github.com/sammcj/NVApi
-
-#### Transformer.js (browser-based AI inference)
-- Github: https://github.com/xenova/transformers.js
-- v3.2 Release (adds moonshine support): https://github.com/huggingface/transformers.js/releases/tag/3.2.0
-
-#### Phi-3
-- Phi-3 on device: https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime
-- Microsoft's Cookbook on using Phi-3: https://github.com/microsoft/Phi-3CookBook
-
-#### Other
-- Docker GenAI Stack: https://github.com/docker/genai-stack
-- LLM App Stack: https://github.com/a16z-infra/llm-app-stack
-- Prem AI infrastructure tooling: https://github.com/premAI-io/prem-app
-- Dify (local LLM app development platform): https://github.com/langgenius/dify
-- ExecuTorch (On-Device AI framework): https://pytorch.org/executorch/stable/intro-overview.html
-- Code Interpreter SDK (sandbox for LLM code execution): https://github.com/e2b-dev/code-interpreter
-- Ratchet (ML developer toolkit for web browser inference): https://github.com/huggingface/ratchet
-- Build private research assistant using llamaindex and llamafile: https://www.llamaindex.ai/blog/using-llamaindex-and-llamafile-to-build-a-local-private-research-assistant
-- Selfie (personalized local text generation): https://github.com/vana-com/selfie
-- Meta's Llama Stack
-  - Github: https://github.com/meta-llama/llama-stack
-  - Apps: https://github.com/meta-llama/llama-stack-apps
-- PostgresML AI Stack: https://github.com/postgresml/postgresml
-- Wilmer (LLM Orchestration Middleware): https://github.com/SomeOddCodeGuy/WilmerAI/
-- LLM API proxy server: https://github.com/yanolja/ogem
+- Ragit: https://github.com/baehyunsol/ragit
 - ColiVara (RAG alternative using vision models): https://github.com/tjmlabs/ColiVara
-- OptiLLM (LLM proxy with optimizations): https://github.com/codelion/optillm
-- Memory management: https://github.com/caspianmoon/memoripy
-- Graph-based editor for LLM workflows: https://github.com/PySpur-Dev/PySpur
-- OSS AI Stack: https://www.timescale.com/blog/the-emerging-open-source-ai-stack
-- CLI tool: https://github.com/cagostino/npcsh
-- Microsoft's GenAIScript (LLM orchestrator): https://github.com/microsoft/genaiscript/
-- ModernBERT: https://huggingface.co/blog/modernbert
-- Haystack (LLM app dev framework): https://github.com/deepset-ai/haystack
-- Llamaindex (LLM app dev framework): https://docs.llamaindex.ai/en/stable/#introduction
-- Lessons from developing/deploying a copilot: https://www.pulumi.com/blog/copilot-lessons/
-- List of AI developer tools: https://github.com/sidhq/YC-alum-ai-tools
-- LLMs and political biases: https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases
-- Using LLM to create a audio storyline: https://github.com/Audio-AGI/WavJourney
-- AI for journalism use cases: https://www.youtube.com/watch?v=BJxPKr6ixSM
-- Reducing costs and improving performance using LLMs: https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs
-- What We Learned from a Year of Building with LLMs
-  - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i
-  - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii
-- How to get great AI code completions (technical insights on code completion): https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion
-- AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
-- RouteLLM framework: https://github.com/lm-sys/RouteLLM
-- Reverse engineering of Github Copilot extension: https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
-- LeRobot: https://github.com/huggingface/lerobot
-- LLM Promptflow: https://microsoft.github.io/promptflow/
-- Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
-- Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
-- LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
-- prompt-owl (prompt engineering library): https://github.com/lks-ai/prowl
-- PocketFlow (minimalist LLM framework): https://github.com/miniLLMFlow/PocketFlow/
-- HuggingFace downloader: https://github.com/huggingface/hf_transfer
-- State of AI - China: https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf
-- Model with symbolic representation (glyphs): https://github.com/severian42/Computational-Model-for-Symbolic-Representations
-- Llama Swap (proxy server for model swapping): https://github.com/mostlygeek/llama-swap
-- Openorch: https://github.com/openorch/openorch
-- Outlines (python package for structured generation): https://dottxt-ai.github.io/outlines/latest/welcome/
+- Simba (knowledge management with RAG): https://github.com/GitHamza0206/simba
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -632,6 +679,7 @@
 - Surya (OCR): https://github.com/VikParuchuri/surya
 - Trafilatura (python library for crawling, scraping, extracting, processing text): https://trafilatura.readthedocs.io/en/latest/
 - readability (js library for text extraction): https://github.com/mozilla/readability
+- web2markdown: https://github.com/h2210316651/lexicrawler
 
 ### Agents and workflows
 
@@ -646,26 +694,34 @@
 - bolt.diy (coder agent): https://github.com/stackblitz-labs/bolt.diy
 - freeact (library for code-based agents): https://github.com/gradion-ai/freeact
 
-#### Other
+#### Articles and knowledge resources
 - How to design an agent for production: https://blog.langchain.dev/how-to-design-an-agent-for-production/
+- AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
 - Document-Oriented Agents: https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4
+- Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
+- Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
+- Huggingface Tutorial: https://github.com/huggingface/agents-course
+- Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
+
+#### Workflow editor
+- AI Flow (connect different models): https://ai-flow.net
+- n8n (LLM workflow editor): https://github.com/n8n-io/n8n
+- Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
+- Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
+- Manifold (workflow editor): https://github.com/intelligencedev/manifold
+
+#### Other
 - Experts.js (Multi AI Agent Systems Framework in Javascript): https://github.com/metaskills/experts
 - Pipecat (build conversational agents): https://github.com/pipecat-ai/pipecat
-- AI Agent Infrastructure: https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
 - Qwen Agent framework: https://github.com/QwenLM/Qwen-Agent
 - Mem-Zero (memory layer for AI agents): https://github.com/mem0ai/mem0
 - OS-Atlas: https://github.com/OS-Copilot/OS-Atlas
 - Arch (prompt gateway): https://github.com/katanemo/archgw
 - Letta (agents with memory): https://github.com/letta-ai/letta
-- Building Effective Agents (article from Anthropic): https://www.anthropic.com/research/building-effective-agents
 - OpenAI's Swarm (agent orchestrator): https://github.com/openai/swarm
 - Amazon's Multi-Agent orchestrator: https://github.com/awslabs/multi-agent-orchestrator
 - inferable (scalable agentic automation): https://github.com/inferablehq/inferable
 - Smolagents (python based agent library with focus on simplicity): https://github.com/huggingface/smolagents
-- n8n (LLM workflow editor): https://github.com/n8n-io/n8n
-- Flowise (LLM workflow editor): https://github.com/FlowiseAI/Flowise
-- Omnichain (LLM workflow editor): chttps://github.com/zenoverflow/omnichain
-- Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
 - Agent recipes: https://www.agentrecipes.com/
 - phidata (framework for building multi-modal agents): https://github.com/phidatahq/phidata
 - langroid (framework to easily build LLM-powered applications): https://github.com/langroid/langroid
@@ -677,14 +733,17 @@
   - Marker for converting PDFs to Markdown: https://github.com/VikParuchuri/marker
   - Markitdown for converting non-PDFs to Markdown: https://github.com/microsoft/markitdown
   - JoyCaption for image captioning: https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-hf-llava
-- Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
 - Atomic agents: https://github.com/BrainBlend-AI/atomic-agents
 - Goose: https://github.com/block/goose
-- Manifold (workflow editor): https://github.com/intelligencedev/manifold
 - Intellagent (advanced multi-agent framework for evaluation and optimization of conversational agents): https://github.com/plurai-ai/intellagent
+- Proxy structuring engine: https://github.com/TheProxyCompany/proxy-structuring-engine
+- Bytedance's UI-TARS (automated GUI interaction): https://github.com/bytedance/UI-TARS
+- Outlines (python package for structured generation): https://dottxt-ai.github.io/outlines/latest/welcome/
+- Pydantic AI (agent framework for production deployment): https://github.com/pydantic/pydantic-ai
+- AutoAgent: https://github.com/HKUDS/AutoAgent
 
 
-## Evaluation and leaderboards
+## Evaluation / Leaderboards / Comparisons
 
 ### Links
 - How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
@@ -722,6 +781,12 @@
 - GPU Poor LLM Arena: https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena
 - Several LLM benchmarks: https://github.com/lechmazur
 - Creative writing benchmark: https://eqbench.com/creative_writing.html
+- Agent leaderboard: https://huggingface.co/spaces/galileo-ai/agent-leaderboard
+- LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
+- Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
+- Context Size Evals: https://github.com/NVIDIA/RULER
+- Model context sizes: https://github.com/taylorwilsdon/llm-context-limits
+- LLM translation comparison: https://nuenki.app/blog/llm_translation_comparison
 
 ### Benchmark List
 

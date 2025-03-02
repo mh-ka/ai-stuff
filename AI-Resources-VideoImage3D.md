@@ -112,8 +112,9 @@
 - Youtube Tutorials: https://www.youtube.com/@CgTopTips
 - HelloMeme (Face Re-Enactment SD1.5): https://github.com/HelloVision/ComfyUI_HelloMeme
 - ControlNet Xinsir: https://openart.ai/workflows/toucan_chilly_4/controlnet-xinsir-simple-text-string/XRjF9rUn9NBl5K7T2bjc
+- SDXL Model Merge workflow: https://openart.ai/workflows/jEwUNAe6hcxcdHEUM9DK
 
-#### Automatic1111 Extensions
+#### Automatic1111 / Forge Extensions
 - CADS (diversity): https://github.com/v0xie/sd-webui-cads
 - Forge (Speed and RAM optimizer): https://github.com/lllyasviel/stable-diffusion-webui-forge
 - LORA trainer: https://github.com/hako-mikan/sd-webui-traintrain
@@ -129,6 +130,7 @@
 - Stylez: https://github.com/javsezlol1/Stylez
 - LobeTheme: https://github.com/lobehub/sd-webui-lobe-theme
 - De-oldify: https://github.com/SpenserCai/sd-webui-deoldify
+- sd-amateur-filter: https://github.com/ZyloO-ai/sd-amateur-filter
 
 #### Other tools and links
 - Krita SD Plugin: https://github.com/Acly/krita-ai-diffusion
@@ -205,6 +207,8 @@
 - Redux Dev: https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev
 - UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1164498
 - Sigma Vision Fine-Tune: https://civitai.com/models/1223425/sigma-vision
+- Layer-Diffuse (transparent): https://github.com/RedAIGC/Flux-version-LayerDiffuse
+- UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1413133 (Amplifier LORA: https://civitai.com/models/1200242/realistic-amplifier-for-ultrareal-fine-tune)
   
 ### LORAs
 
@@ -231,15 +235,19 @@
 - OmniControl: https://github.com/Macoron/ComfyUI-Diffusers-OminiControl
 - Ultimate Flux v4: https://www.patreon.com/posts/120952448
 - Consistent Character: https://civitai.com/articles/8916/workflow-i2i-consistent-character-generation-flux
+- Product photography: https://civitai.com/posts/12667036
+- ControlNet: https://www.patreon.com/posts/flux-depth-canny-118065837
 
 #### PuLID
 - ComfyUI Flux: https://github.com/balazik/ComfyUI-PuLID-Flux
 - PuLID v1.1: https://github.com/ToTheBeginning/PuLID
+- PuLID Flux II: https://github.com/lldacing/ComfyUI_PuLID_Flux_ll (Workflow: https://github.com/ViewComfy/cloud-public/blob/main/workflows/Image-Face-Swap-PuLID-II/workflow.json)
 
 #### JoyCaption 
 - Model: https://huggingface.co/Wi-zz/joy-caption-pre-alpha
 - ComfyUI workflow: https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two
 - Batch script: https://github.com/MNeMoNiCuZ/joy-caption-batch
+- GGUF: https://huggingface.co/Jobaar/Llama-JoyCaption-Alpha-Two-GGUF
 
 #### LORA training
 - Tools
@@ -285,9 +293,10 @@
 ## More image generation models and links
 
 ### Models
-- Pixart
+- PixArt
   - alpha/-delta: https://github.com/PixArt-alpha/PixArt-alpha
   - sigma: https://github.com/PixArt-alpha/PixArt-sigma
+  - TinyBreaker (based on PixArt): https://civitai.com/models/1213728/tinybreaker
 - Kolors
   - Model: https://huggingface.co/Kwai-Kolors/Kolors 
   - Workflow: https://civitai.com/models/1078853/midjourney-is-kolorflux
@@ -295,6 +304,8 @@
 - ComfyUI workflows for several diffusion models: https://github.com/city96/ComfyUI_ExtraModels
 - DiffSensei (manga panels generator): https://github.com/jianzongwu/DiffSensei
 - Nvidia's Sana: https://github.com/NVlabs/Sana
+- Lumina Image 2.0: https://civitai.com/models/1222266?modelVersionId=1377095
+- OmniGen: https://github.com/VectorSpaceLab/OmniGen
 
 ### Image manipulation 
 - BIRD (Image restoration): https://github.com/hamadichihaoui/BIRD
@@ -307,7 +318,8 @@
   - Leaderboard: https://huggingface.co/spaces/bgsys/background-removal-arena
 - Face Swapping
   - Roop Unleashed: https://codeberg.org/rcthans/roop-unleashednew
-  - Roop Floyd: https://codeberg.org/Cognibuild/ROOP-FLOYD 
+  - Roop Floyd: https://codeberg.org/Cognibuild/ROOP-FLOYD
+  - Rope-next: https://github.com/lodgecku/Rope-next
   - VisoMaster: https://github.com/visomaster/VisoMaster
   - FaceFusion (3.0.0)
     - Github: https://github.com/facefusion/facefusion
@@ -319,6 +331,12 @@
 - Krita plugin for segmentation: https://github.com/Acly/krita-ai-tools
 - Parallax / VR creation from 2D image: https://github.com/combatwombat/tiefling
 - Stable Flow image editing (high VRAM needed or CPU offload!): https://github.com/snap-research/stable-flow
+- IDM-VTON (Virtual Try-On): https://github.com/yisol/IDM-VTON
+- MEMO (Expressive Talking): https://github.com/gjnave/memo-for-windows
+- Upscaler
+  - Siax: https://civitai.com/models/147641/nmkd-siax-cx
+  - Ultrasharp: https://civitai.com/models/116225/4x-ultrasharp
+  - Superscale: https://civitai.com/models/141491/4x-nmkd-superscale
 
 
 ## Video / Animation / 3D
@@ -352,6 +370,10 @@
 - Multi Lora Node: https://github.com/facok/ComfyUI-HunyuanVideoMultiLora
 - LORAs
   - Boreal-HL: https://civitai.com/models/1222102/boreal-hl?modelVersionId=1376844
+  - Misc: https://civitai.com/user/Remade
+- Fine-Tunes
+  - SkyReels v1: https://github.com/SkyworkAI/SkyReels-V1
+  - SkyReels i2v workflow: https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy
 
 #### Other video gen models and tools
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
@@ -362,6 +384,7 @@
 - Rhymes - AI Allegro: https://huggingface.co/rhymes-ai/Allegro
 - Nvidia's Cosmos models (txt2video, video2world, ...): https://huggingface.co/collections/nvidia/cosmos-6751e884dc10e013a0a0d8e6
 - DepthFlow: https://github.com/BrokenSource/DepthFlow
+- Video crop tool (helpful for training dataset creation): https://github.com/Tr1dae/HunyClip
 
 ### Video manipulation
 - Video face swap: https://codeberg.org/Cognibuild/ROOP-FLOYD
@@ -379,6 +402,21 @@
   - SAM2.1 Release: https://github.com/facebookresearch/sam2
   - RobustSAM (Fine-tuning for improved segmentation of low-quality images): https://github.com/robustsam/RobustSAM
   - Grounded-SAM-2: https://github.com/IDEA-Research/Grounded-SAM-2
+- ViTPose (pose detection): https://huggingface.co/collections/usyd-community/vitpose-677fcfd0a0b2b5c8f79c4335
+- Real-time object detection
+  - Roboflow leaderboard: https://leaderboard.roboflow.com/
+  - DEIM: https://github.com/ShihuaHuang95/DEIM
+  - D-FINE: https://github.com/Peterande/D-FINE
+  - DAB-DETR
+    - https://huggingface.co/IDEA-Research/dab-detr-resnet-50
+    - https://huggingface.co/docs/transformers/main/en/model_doc/dab-detr
+  - RT-DETRv3
+    - https://github.com/clxia12/RT-DETRv3
+    - https://huggingface.co/docs/transformers/main/en/model_doc/rt_detr_v2
+    - https://huggingface.co/PekingU/rtdetr_r18vd
+- Depth estimation
+  - https://huggingface.co/apple/DepthPro-hf
+  - https://huggingface.co/docs/transformers/main/en/model_doc/depth_pro
 
 ### 3D
 - WildGaussians: https://github.com/jkulhanek/wild-gaussians/
@@ -389,3 +427,4 @@
   - One-Click Installer: https://github.com/IgorAherne/trellis-stable-projectorz
 - Stable Point Aware 3D: https://huggingface.co/stabilityai/stable-point-aware-3d
 - Hunyuan3D-2: https://github.com/tencent/Hunyuan3D-2
+- Pippo (turnaround view of person): https://github.com/facebookresearch/pippo

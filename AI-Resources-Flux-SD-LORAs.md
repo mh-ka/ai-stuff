@@ -137,6 +137,8 @@
 - Improved Amateur Realism: https://civitai.com/models/970862
 - Sony Alpha A7 III: https://civitai.com/models/1174190
 - BODYADI: https://civitai.com/models/1214697?modelVersionId=1368270
+- Fisheye Lens: https://civitai.com/models/1303901/fisheye-lens-or-y2k-aestheti
+- Into the trench: https://civitai.com/models/1298699/into-the-trench-thalassophobia-inducing-abyssal-critters-for-flux
 
 ### Cinema / TV / Commercials / Pop culture / Anime
 - CCTV: https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev
@@ -196,6 +198,7 @@
 - Euromanga: https://civitai.com/models/1099696?modelVersionId=1235285
 - Weirdos: https://civitai.com/models/1087910/everly-heights-weirdos-flux
 - Don Martin Cartoon: https://civitai.com/models/1222183/don-martin-cartoon-style-characters?modelVersionId=1376948
+- Vintage Mascot Logotypes: https://civitai.com/models/1271908/wizards-vintage-mascot-logotypes
 
 ### Materials
 - Woodpiece Crafter: https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux
@@ -254,6 +257,7 @@
 - Riches Heures (medieval): https://civitai.com/models/1182168/riches-heures
 - Vibrant Watercolor Painting: https://civitai.com/models/1200817/vibrant-watercolor-paintingsketch-v1
 - Cave Paintings: https://tensor.art/models/823913863108995790/Cave-Paintings-20
+- Hyperdetailed Colored Pencil: https://civitai.com/models/1155749?modelVersionId=1405684
 
 ### Other Flux LORAs
 - Icon Maker: https://civitai.com/models/722531
@@ -310,3 +314,7 @@
 - Doddle: https://civitai.com/models/1152849/flux-doddle
 - Doodle Toon: https://civitai.com/models/1218348
 - Vibrant sharp: https://civitai.com/models/1212132/vibrantly-sharp-style
+- Hairless animals: https://civitai.com/models/1244633
+- Crusade: https://civitai.com/models/1250822?modelVersionId=1410033
+- Synthwave Glow: https://civitai.com/models/1047517/jibs-synthwave-glow
+- BirdMacro: https://civitai.com/models/1192800/birdmacro
