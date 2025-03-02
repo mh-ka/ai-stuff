@@ -305,6 +305,7 @@
 - LlamaV o1 11B Vision Instruct: https://huggingface.co/omkarthawakar/LlamaV-o1
 - IBM's Granite v3.2: https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800
 - Ovis2 collection (strong with OCR): https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464
+- Huggingface's SmolVLM2: https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7
 
 
 ## Working with LLMs
@@ -535,6 +536,7 @@
 - Train your own reasoning model with unsloth: https://unsloth.ai/blog/r1-reasoning
 - Fine-tuning OCR model for PDFs: https://github.com/allenai/olmocr
 - Build LLM from scratch: https://github.com/meetrais/A-Z-of-Tranformer-Architecture
+- Ultrascale playbook for GPU clusters: https://huggingface.co/spaces/nanotron/ultrascale-playbook
 - Distillation introduction: https://www.horusailabs.com/blogs/a-primer-to-distillation
 - Distillation framework: https://github.com/horus-ai-labs/DistillFlow/
 
@@ -584,6 +586,7 @@
 - AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
 - Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
 - State of AI - China: https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf
+- FastRTC library for building apps with real-time communication: https://huggingface.co/blog/fastrtc 
 
 #### Other
 - Docker GenAI Stack: https://github.com/docker/genai-stack
