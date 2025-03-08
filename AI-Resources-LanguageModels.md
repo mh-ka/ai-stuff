@@ -117,6 +117,7 @@
 - Gemma 27B (exl2 format): https://huggingface.co/mo137/gemma-2-27b-it-exl2
 - Tencent's Hunyuan Large MoE: https://huggingface.co/tencent/Tencent-Hunyuan-Large
 - AllenAI's Tulu 3 (Llama3.1 Fine-Tune): https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5
+- Nomic Embeddings v2 MoE: https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe
 
 ### Smaller model releases (model series and derivatives)
 
@@ -543,6 +544,7 @@
 - Distillation introduction: https://www.horusailabs.com/blogs/a-primer-to-distillation
 - Distillation framework: https://github.com/horus-ai-labs/DistillFlow/
 - LLM Post-Training overview: https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
+- The role of embeddings: https://www.nomic.ai/blog/posts/embeddings-are-for-so-much-more-than-rag
 
 ### Frameworks, stacks, articles etc.
 
