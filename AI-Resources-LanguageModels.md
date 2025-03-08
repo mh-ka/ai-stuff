@@ -457,6 +457,9 @@
 - CLI Assistant: https://github.com/sigoden/aichat
 - LLM Shell: https://github.com/phildougherty/llmsh
 - CLI tool: https://github.com/cagostino/npcsh
+- Github Copilot Terminal IntelliSense: https://github.com/microsoft/vscode-docs/blob/main/docs/terminal/shell-integration.md#terminal-shell-integration
+- Microsoft AIShell (powershell with AI assistance): https://github.com/PowerShell/AIShell
+- Warp (intelligent terminal): https://www.warp.dev/i
 
 ### File organizer
 - Local File Organizer: https://github.com/QiuYannnn/Local-File-Organizer
@@ -539,6 +542,7 @@
 - Ultrascale playbook for GPU clusters: https://huggingface.co/spaces/nanotron/ultrascale-playbook
 - Distillation introduction: https://www.horusailabs.com/blogs/a-primer-to-distillation
 - Distillation framework: https://github.com/horus-ai-labs/DistillFlow/
+- LLM Post-Training overview: https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
 
 ### Frameworks, stacks, articles etc.
 
@@ -653,6 +657,7 @@
 - Ragit: https://github.com/baehyunsol/ragit
 - ColiVara (RAG alternative using vision models): https://github.com/tjmlabs/ColiVara
 - Simba (knowledge management with RAG): https://github.com/GitHamza0206/simba
+- RAG - detecting hallicunations: https://towardsdatascience.com/detecting-hallucination-in-rag-ecaf251a6633/
 
 ### Data extraction
 - Pre-processing unstructured data: https://github.com/Unstructured-IO/unstructured
@@ -741,6 +746,7 @@
 - Outlines (python package for structured generation): https://dottxt-ai.github.io/outlines/latest/welcome/
 - Pydantic AI (agent framework for production deployment): https://github.com/pydantic/pydantic-ai
 - AutoAgent: https://github.com/HKUDS/AutoAgent
+- Langfuse (LLM tracing / monitoring): https://github.com/langfuse/langfuse (article: https://mlvanguards.substack.com/p/monitoring-is-boring)
 
 
 ## Evaluation / Leaderboards / Comparisons
