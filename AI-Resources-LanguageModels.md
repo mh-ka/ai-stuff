@@ -595,7 +595,8 @@
 - AI NPCs in games: https://huggingface.co/blog/npc-gigax-cubzh
 - Open Source AI Cookbook: https://huggingface.co/learn/cookbook/index
 - State of AI - China: https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf
-- FastRTC library for building apps with real-time communication: https://huggingface.co/blog/fastrtc 
+- FastRTC library for building apps with real-time communication: https://huggingface.co/blog/fastrtc
+- Deepseek's building block optimizations for training / inference infrastructure: https://github.com/deepseek-ai/open-infra-index
 
 #### Other
 - Docker GenAI Stack: https://github.com/docker/genai-stack
@@ -712,6 +713,7 @@
 - Different agent definitions summed up with LLM: https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654
 - Huggingface Tutorial: https://github.com/huggingface/agents-course
 - Agents - tools and planning: https://huyenchip.com/2025/01/07/agents.html
+- List of resources: https://github.com/francedot/acu
 
 #### Workflow editor
 - AI Flow (connect different models): https://ai-flow.net
@@ -752,6 +754,7 @@
 - Pydantic AI (agent framework for production deployment): https://github.com/pydantic/pydantic-ai
 - AutoAgent: https://github.com/HKUDS/AutoAgent
 - Langfuse (LLM tracing / monitoring): https://github.com/langfuse/langfuse (article: https://mlvanguards.substack.com/p/monitoring-is-boring)
+- AgentGPT: https://github.com/reworkd/AgentGPT
 
 
 ## Evaluation / Leaderboards / Comparisons
