@@ -1,4 +1,4 @@
-# LORAs for Stable Diffusion 1.5, SDXL, Flux 
+# Image Generation - LORAs for Stable Diffusion 1.5, SDXL, Flux 
 
 ## Stable Diffusion 1.5 based
 - Artstyle Jackson Pollock: https://civitai.com/models/181433/artstyle-jackson-pollock
