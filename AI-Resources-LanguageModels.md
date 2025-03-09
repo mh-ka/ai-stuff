@@ -88,6 +88,7 @@
 - QwQ-LCoT-7B-Instruct (reasoning fine-tune): https://huggingface.co/bartowski/QwQ-LCoT-7B-Instruct-GGUF
 - QwQ-32B-Preview-IdeaWhiz-v1-GGUF (scientific creativity fine-tune): https://huggingface.co/6cf/QwQ-32B-Preview-IdeaWhiz-v1-GGUF
 - Simple reasoning fine-tune example based on Qwen ("test-time scaling"): https://github.com/simplescaling/s1
+- Qwen QwQ 32B Reasoning Model: https://huggingface.co/bartowski/Qwen_QwQ-32B-GGUF
 
 #### Cohere
 - Command-R: https://huggingface.co/CohereForAI/c4ai-command-r-v01
