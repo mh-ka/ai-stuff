@@ -333,10 +333,13 @@
 - Stable Flow image editing (high VRAM needed or CPU offload!): https://github.com/snap-research/stable-flow
 - IDM-VTON (Virtual Try-On): https://github.com/yisol/IDM-VTON
 - MEMO (Expressive Talking): https://github.com/gjnave/memo-for-windows
-- Upscaler
+- Upscaler Models and Tools
   - Siax: https://civitai.com/models/147641/nmkd-siax-cx
   - Ultrasharp: https://civitai.com/models/116225/4x-ultrasharp
   - Superscale: https://civitai.com/models/141491/4x-nmkd-superscale
+  - 4x-IllustrationJaNai-V1-DAT2: https://openmodeldb.info/models/4x-IllustrationJaNai-V1-DAT2
+  - Upscayl: https://github.com/upscayl/upscayl
+- PhotoDoodle (inpainting effects / decoration): https://github.com/showlab/PhotoDoodle
 
 
 ## Video / Animation / 3D
