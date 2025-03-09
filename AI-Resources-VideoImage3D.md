@@ -377,6 +377,7 @@
 - Fine-Tunes
   - SkyReels v1: https://github.com/SkyworkAI/SkyReels-V1
   - SkyReels i2v workflow: https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy
+- Image2Video: https://huggingface.co/tencent/HunyuanVideo-I2V
 
 #### Other video gen models and tools
 - Alibaba VGen (video generation projects): https://github.com/ali-vilab/VGen
