@@ -309,6 +309,7 @@
 - IBM's Granite v3.2: https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800
 - Ovis2 collection (strong with OCR): https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464
 - Huggingface's SmolVLM2: https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7
+- Cohere's Aya Vision 8B & 32B: https://huggingface.co/collections/CohereForAI/c4ai-aya-vision-67c4ccd395ca064308ee1484
 
 
 ## Working with LLMs
