@@ -1,4 +1,4 @@
-# Reports, Articles, Repos and other sources
+# Reports, Articles, Repos and News Sources
 
 ## Reports
 - Kaggle AI Report 2023: https://www.kaggle.com/AI-Report-2023
