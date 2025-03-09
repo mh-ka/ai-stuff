@@ -20,11 +20,12 @@
 - UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1164498
 - Sigma Vision Fine-Tune: https://civitai.com/models/1223425/sigma-vision
 - Layer-Diffuse (transparent): https://github.com/RedAIGC/Flux-version-LayerDiffuse
-- UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1413133 (Amplifier LORA: https://civitai.com/models/1200242/realistic-amplifier-for-ultrareal-fine-tune)
+- UltraReal Fine-Tune: https://civitai.com/models/978314?modelVersionId=1413133
+  - Amplifier LORA: https://civitai.com/models/1200242/realistic-amplifier-for-ultrareal-fine-tune
   
 ## LORAs
 
-[LORAs](AI-Resources-Flux-SD-LORAs.md)
+[LORAs](ai-image_gen_loras.md)
 
 ## Tools and links
 
