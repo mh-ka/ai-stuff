@@ -119,6 +119,7 @@
 - Tencent's Hunyuan Large MoE: https://huggingface.co/tencent/Tencent-Hunyuan-Large
 - AllenAI's Tulu 3 (Llama3.1 Fine-Tune): https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5
 - Nomic Embeddings v2 MoE: https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe
+- Jamba 1.6 (hybrid SSM-Transformer): https://huggingface.co/collections/ai21labs/jamba-16-67c990671a26dcbfa62d18fa
 
 ### Smaller model releases (model series and derivatives)
 
