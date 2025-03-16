@@ -1,47 +1,47 @@
 # LLMs - Evaluation / Leaderboards / Comparisons
 
 ## Links
-- How to construct domain-specific LLM evaluation systems: https://hamel.dev/blog/posts/evals/
-- Big Code Models Leaderboard: https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard
-- Chatbot Arena: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-- Coding Benchmark: https://prollm.toqan.ai/leaderboard
-- CanAiCode Leaderboard: https://huggingface.co/spaces/mike-ravkine/can-ai-code-results
-- OpenCompass 2.0: https://github.com/open-compass/opencompass
-- Open LLM Progress Tracker: https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo
-- MMLU Pro: https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
-- LLM API Performance Leaderboard: https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard
-- SEAL Leaderboard: https://scale.com/leaderboard
-- Lightweight Library from OpenAI to evaluate LLMs: https://github.com/openai/simple-evals
-- Open LLM Leaderboard 2: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
-- Open VLM Leaderboard: https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
-- Skeleton Key Jailbreak: https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique
-- LLM Eval simplified: https://www.philschmid.de/llm-evaluation
-- LiveBench: https://livebench.ai/
-- Benchmark Aggregator: https://benchmark-aggregator-lvss.vercel.app/
-- LLM Comparison: https://artificialanalysis.ai/
-- LLM Planning Benchmark: https://github.com/karthikv792/LLMs-Planning
-- LLM Cross Capabilities: https://github.com/facebookresearch/llm-cross-capabilities
-- MLE-Bench (Machine Learning tasks benchmark): https://github.com/openai/mle-bench
-- Compliance EU AI Act Framework: https://github.com/compl-ai/compl-ai
-- Open Financial LLM Leaderboard: https://huggingface.co/spaces/finosfoundation/Open-Financial-LLM-Leaderboard
-- Aider Leaderboards: https://aider.chat/docs/leaderboards/
-- BigCodeBench: https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard
-- BIG-bench: https://github.com/google/BIG-bench
-- TruthfulQA: https://github.com/sylinrl/TruthfulQA
-- FACTS Leaderboard: https://www.kaggle.com/facts-leaderboard
-- Massive Text Embedding Benchmark Leaderboard: https://huggingface.co/spaces/mteb/leaderboard
-- Reasoning challenges prompts: https://github.com/cpldcpu/MisguidedAttention
-- Evaluation model: https://huggingface.co/Unbabel/XCOMET-XL
-- UGI (Uncensored) Leaderboard: https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard
-- GPU Poor LLM Arena: https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena
-- Several LLM benchmarks: https://github.com/lechmazur
-- Creative writing benchmark: https://eqbench.com/creative_writing.html
-- Agent leaderboard: https://huggingface.co/spaces/galileo-ai/agent-leaderboard
-- LLM Pricing: https://huggingface.co/spaces/philschmid/llm-pricing
-- Vision Models Survey: https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
-- Context Size Evals: https://github.com/NVIDIA/RULER
-- Model context sizes: https://github.com/taylorwilsdon/llm-context-limits
-- LLM translation comparison: https://nuenki.app/blog/llm_translation_comparison
+- [How to construct domain-specific LLM evaluation systems](https://hamel.dev/blog/posts/evals/)
+- [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)
+- [Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+- [Coding Benchmark](https://prollm.toqan.ai/leaderboard)
+- [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
+- [OpenCompass 2.0](https://github.com/open-compass/opencompass)
+- [Open LLM Progress Tracker](https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo)
+- [MMLU Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro)
+- [LLM API Performance Leaderboard](https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard)
+- [SEAL Leaderboard](https://scale.com/leaderboard)
+- [Lightweight Library from OpenAI to evaluate LLMs](https://github.com/openai/simple-evals)
+- [Open LLM Leaderboard 2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+- [Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)
+- [Skeleton Key Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique)
+- [LLM Eval simplified](https://www.philschmid.de/llm-evaluation)
+- [LiveBench](https://livebench.ai/)
+- [Benchmark Aggregator](https://benchmark-aggregator-lvss.vercel.app/)
+- [LLM Comparison](https://artificialanalysis.ai/)
+- [LLM Planning Benchmark](https://github.com/karthikv792/LLMs-Planning)
+- [LLM Cross Capabilities](https://github.com/facebookresearch/llm-cross-capabilities)
+- [MLE-Bench (Machine Learning tasks benchmark)](https://github.com/openai/mle-bench)
+- [Compliance EU AI Act Framework](https://github.com/compl-ai/compl-ai)
+- [Open Financial LLM Leaderboard](https://huggingface.co/spaces/finosfoundation/Open-Financial-LLM-Leaderboard)
+- [Aider Leaderboards](https://aider.chat/docs/leaderboards/)
+- [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)
+- [BIG-bench](https://github.com/google/BIG-bench)
+- [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+- [FACTS Leaderboard](https://www.kaggle.com/facts-leaderboard)
+- [Massive Text Embedding Benchmark Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- [Reasoning challenges prompts](https://github.com/cpldcpu/MisguidedAttention)
+- [Evaluation model](https://huggingface.co/Unbabel/XCOMET-XL)
+- [UGI (Uncensored) Leaderboard](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard)
+- [GPU Poor LLM Arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena)
+- [Several LLM benchmarks](https://github.com/lechmazur)
+- [Creative writing benchmark](https://eqbench.com/creative_writing.html)
+- [Agent leaderboard](https://huggingface.co/spaces/galileo-ai/agent-leaderboard)
+- [LLM Pricing](https://huggingface.co/spaces/philschmid/llm-pricing)
+- [Vision Models Survey](https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/)
+- [Context Size Evals](https://github.com/NVIDIA/RULER)
+- [Model context sizes](https://github.com/taylorwilsdon/llm-context-limits)
+- [LLM translation comparison](https://nuenki.app/blog/llm_translation_comparison)
 
 ## Benchmark List
 | Benchmark | Measures | Key Features |
