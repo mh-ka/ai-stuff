@@ -24,7 +24,6 @@
   - [Amplifier LORA](https://civitai.com/models/1200242/realistic-amplifier-for-ultrareal-fine-tune)
   
 ## LORAs
-
 [LORAs](ai-image_gen_loras.md)
 
 ## Tools and links
