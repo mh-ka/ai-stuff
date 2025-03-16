@@ -22,7 +22,7 @@
 - [Layer-Diffuse (transparent)](https://github.com/RedAIGC/Flux-version-LayerDiffuse)
 - [UltraReal Fine-Tune](https://civitai.com/models/978314?modelVersionId=1413133)
   - [Amplifier LORA](https://civitai.com/models/1200242/realistic-amplifier-for-ultrareal-fine-tune)
-  
+
 ## LORAs
 [LORAs](ai-image_gen_loras.md)
 
