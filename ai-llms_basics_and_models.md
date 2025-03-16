@@ -30,8 +30,8 @@
 - [How I use AI](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 - [My benchmark for LLMs](https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html)
 - List of relevant European companies in LLM area
-  - [AI Models](DeepL, Mistral, Silo AI, Aleph Alpha)
-  - [Cloud Hosting](Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud)
+  - AI Models: DeepL, Mistral, Silo AI, Aleph Alpha
+  - Cloud Hosting: Schwarz Gruppe, Nebius, Impossible Cloud, Delos Cloud, Open Telekom Cloud
 - [AI and power consumption](https://about.bnef.com/blog/liebreich-generative-ai-the-power-and-the-glory/)
 - [A deep dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [Global AI regulation tracker](https://www.techieray.com/GlobalAIRegulationTracker)
