@@ -18,7 +18,9 @@
 - [MisterWhisper](https://github.com/openconcerto/MisterWhisper)
 
 ### Other
-- [Nvidia's Canary (with translation)](https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/)
+- Nvidia's Canary (with translation)
+  - https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
+  - https://huggingface.co/nvidia/canary-1b-flash
 - [Qwen2-Audio-7B](https://huggingface.co/Qwen/Qwen2-Audio-7B)
 - [Speech2Speech pipeline](https://github.com/huggingface/speech-to-speech)
 - [Moonshine](https://github.com/usefulsensors/moonshine)
@@ -28,6 +30,7 @@
 - [MeetingBuddy (GUI for realtime transcription)](https://github.com/psdwizzard/MeetingBuddy)
 - [HalfwayML (OSS transcription service)](https://github.com/moaljumaa/halfwayml_open)
 - [Vibe (GUI for transcription)](https://github.com/thewh1teagle/vibe/)
+- [Real Time Speech Transcription FastRTC](https://github.com/sofi444/realtime-transcription-fastrtc)
 
 
 ## txt2speech and txt2audio
