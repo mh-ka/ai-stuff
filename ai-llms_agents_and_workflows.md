@@ -64,3 +64,5 @@
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [MARBLE (multi-agent simulation framework)](https://github.com/MultiagentBench/MARBLE)
 - [PromptPex (prompt testing)](https://github.com/microsoft/promptpex/)
+- [AgentKit (LangChain-based starter kit)](https://github.com/BCG-X-Official/agentkit)
+- [Upsonic (reliabilty focused framework)](https://github.com/Upsonic/Upsonic)
