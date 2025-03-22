@@ -62,3 +62,5 @@
 - [AutoAgent](https://github.com/HKUDS/AutoAgent)
 - [Langfuse (LLM tracing / monitoring): https://github.com/langfuse/langfuse (article](https://mlvanguards.substack.com/p/monitoring-is-boring))
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
+- [MARBLE (multi-agent simulation framework)](https://github.com/MultiagentBench/MARBLE)
+- [PromptPex (prompt testing)](https://github.com/microsoft/promptpex/)
