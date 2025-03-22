@@ -48,6 +48,7 @@
   - [4x-IllustrationJaNai-V1-DAT2](https://openmodeldb.info/models/4x-IllustrationJaNai-V1-DAT2)
   - [Upscayl](https://github.com/upscayl/upscayl)
 - [PhotoDoodle (inpainting effects / decoration)](https://github.com/showlab/PhotoDoodle)
+- [img2svg](https://huggingface.co/starvector/starvector-8b-im2svg)
 
 ## Video Generation Models
 
@@ -121,6 +122,7 @@
     - https://github.com/clxia12/RT-DETRv3
     - https://huggingface.co/docs/transformers/main/en/model_doc/rt_detr_v2
     - https://huggingface.co/PekingU/rtdetr_r18vd
+  - [RF-DETR (Roboflow)](https://github.com/roboflow/rf-detr)
 - Depth estimation
   - https://huggingface.co/apple/DepthPro-hf
   - https://huggingface.co/docs/transformers/main/en/model_doc/depth_pro
@@ -133,5 +135,7 @@
   - [Official github](https://github.com/microsoft/TRELLIS)
   - [One-Click Installer](https://github.com/IgorAherne/trellis-stable-projectorz)
 - [Stable Point Aware 3D](https://huggingface.co/stabilityai/stable-point-aware-3d)
-- [Hunyuan3D-2](https://github.com/tencent/Hunyuan3D-2)
+- Hunyuan3D
+  - https://github.com/tencent/Hunyuan3D-2
+  - https://huggingface.co/tencent/Hunyuan3D-2mini
 - [Pippo (turnaround view of person)](https://github.com/facebookresearch/pippo)
