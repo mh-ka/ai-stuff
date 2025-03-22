@@ -93,6 +93,7 @@
 #### Cohere
 - [Command-R](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
 - [Command-R 08-2024](https://huggingface.co/bartowski/c4ai-command-r-08-2024-GGUF)
+- [Command-R 03-2025](https://huggingface.co/CohereForAI/c4ai-command-a-03-2025)
 - [Aya Expanse](https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-671a83d6b2c07c692beab3c3)
 - [Aya Expanse 32B ungated GGUF](https://huggingface.co/tensorblock/aya-expanse-32b-ungated-GGUF)
 
@@ -232,6 +233,7 @@
   - [Unbabel's Towerbase](https://huggingface.co/Unbabel/TowerBase-13B-v0.1)
   - [Google's MADLAD-400-10B-MT](https://huggingface.co/google/madlad400-10b-mt )
 - [Arch-Function-3B (function calling)](https://huggingface.co/katanemo/Arch-Function-3B)
+- [Reka-Flash-3 21B](https://huggingface.co/RekaAI/reka-flash-3)
 
 ### Multimodal / Vision models
 

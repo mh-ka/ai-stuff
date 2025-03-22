@@ -20,6 +20,7 @@
 - [Huggingface Tutorial](https://github.com/huggingface/agents-course)
 - [Agents - tools and planning](https://huyenchip.com/2025/01/07/agents.html)
 - [List of resources](https://github.com/francedot/acu)
+- [Survey paper for planning of LLM agents](https://arxiv.org/pdf/2402.02716)
 
 ## Workflow editors
 - [AI Flow (connect different models)](https://ai-flow.net)
@@ -61,3 +62,7 @@
 - [AutoAgent](https://github.com/HKUDS/AutoAgent)
 - [Langfuse (LLM tracing / monitoring): https://github.com/langfuse/langfuse (article](https://mlvanguards.substack.com/p/monitoring-is-boring))
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
+- [MARBLE (multi-agent simulation framework)](https://github.com/MultiagentBench/MARBLE)
+- [PromptPex (prompt testing)](https://github.com/microsoft/promptpex/)
+- [AgentKit (LangChain-based starter kit)](https://github.com/BCG-X-Official/agentkit)
+- [Upsonic (reliabilty focused framework)](https://github.com/Upsonic/Upsonic)
