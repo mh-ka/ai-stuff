@@ -21,6 +21,7 @@
 - [Agents - tools and planning](https://huyenchip.com/2025/01/07/agents.html)
 - [List of resources](https://github.com/francedot/acu)
 - [Survey paper for planning of LLM agents](https://arxiv.org/pdf/2402.02716)
+- [AI Agent for Email Automation with SmolAgents](https://www.llmwatch.com/p/ai-agent-for-email-automation-with)
 
 ## Workflow editors
 - [AI Flow (connect different models)](https://ai-flow.net)
