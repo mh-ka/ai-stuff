@@ -1,4 +1,4 @@
-# Reports, Articles, Repos and News Sources
+# Reports, Articles, Courses, News Sources
 
 ## Reports
 - [Kaggle AI Report 2023](https://www.kaggle.com/AI-Report-2023)
@@ -22,6 +22,18 @@
 - [AGI Predictions](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf)
 - [Robocasa (large-scale simulation framework for robot training)](https://github.com/robocasa/robocasa)
 - [Google's AlphaChip](https://github.com/google-research/circuit_training)
+
+
+## Courses
+- Google
+  - https://grow.google/ai/
+  - https://cloud.google.com/learn/training/machinelearning-ai
+- Havard
+  - https://www.edx.org/cs50
+- OpenAI
+  - https://academy.openai.com/
+- Microsoft
+  - https://github.com/microsoft/ai-agents-for-beginners
 
 
 ## News sources
