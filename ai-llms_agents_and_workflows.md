@@ -5,6 +5,7 @@
 - [TinyTroupe](https://github.com/microsoft/TinyTroupe)
 - [Autogen (agent framework)](https://github.com/microsoft/autogen/tree/main)
 - [Autogen magentic one](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp)
 
 ## Coder Agents
 - [OpenHands (coder agent)](https://github.com/All-Hands-AI/OpenHands/)
@@ -22,6 +23,7 @@
 - [List of resources](https://github.com/francedot/acu)
 - [Survey paper for planning of LLM agents](https://arxiv.org/pdf/2402.02716)
 - [AI Agent for Email Automation with SmolAgents](https://www.llmwatch.com/p/ai-agent-for-email-automation-with)
+- [AI Agents for beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 ## Workflow editors
 - [AI Flow (connect different models)](https://ai-flow.net)
