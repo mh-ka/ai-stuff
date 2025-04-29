@@ -29,6 +29,7 @@
 - [Distillation framework](https://github.com/horus-ai-labs/DistillFlow/)
 - [LLM Post-Training overview](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)
 - [The role of embeddings](https://www.nomic.ai/blog/posts/embeddings-are-for-so-much-more-than-rag)
+- [The state of reinforcement learning](https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html)
 
 ## Frameworks, stacks, articles etc.
 
