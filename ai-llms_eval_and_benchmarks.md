@@ -42,6 +42,7 @@
 - [Context Size Evals](https://github.com/NVIDIA/RULER)
 - [Model context sizes](https://github.com/taylorwilsdon/llm-context-limits)
 - [LLM translation comparison](https://nuenki.app/blog/llm_translation_comparison)
+- [Pydantic Evals](https://ai.pydantic.dev/evals)
 
 ## Benchmark List
 | Benchmark | Measures | Key Features |
