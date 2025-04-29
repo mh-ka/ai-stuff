@@ -30,6 +30,11 @@
   - https://lifearchitect.substack.com/
   - https://simonwillison.net/
   - https://diffusiondigest.beehiiv.com/
+  - https://hungrymindsdev.substack.com/
+  - https://neuralbits.substack.com/
+  - https://pythonandchill.substack.com/
+  - https://theneuralmaze.substack.com/
+  - https://www.llmwatch.com/
 - Websites
   - https://the-decoder.de/
   - https://www.futuretools.io/
