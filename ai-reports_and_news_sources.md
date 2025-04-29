@@ -51,6 +51,14 @@
   - Stable Diffusion Workflows:
     - https://www.youtube.com/@NerdyRodent
     - https://www.youtube.com/@sebastiankamph
-  - [Explanations](https://www.youtube.com/@Computerphile/videos)
+    - https://www.youtube.com/@TheArt-OfficialTrainer
+  - AI related channels
+    - https://www.youtube.com/@BenjisAIPlayground
+    - https://www.youtube.com/@TheFutureThinker
+    - https://www.youtube.com/@BobDoyleMedia
+    - https://www.youtube.com/@OlivioSarikas
+    - https://www.youtube.com/@pixaroma
+  - Explanations
+    - https://www.youtube.com/@Computerphile/videos
 - Other
   - [Papers and Frameworks](https://github.com/Hannibal046/Awesome-LLM)
