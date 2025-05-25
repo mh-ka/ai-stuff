@@ -37,17 +37,24 @@
 - [llama.ttf (using font engine to host a LLM)](https://fuglede.github.io/llama.ttf)
 - [TransformerLab](https://github.com/transformerlab/transformerlab-app)
 - [LLM calculator (memory estimation)](https://github.com/Raskoll2/LLMcalc)
-- [LLMs comparison for translation](https://www.reddit.com/r/LocalLLaMA/comments/1h4ji6x/comment/lzzsjhi/)
 - [List of models for hosting on 3090](https://www.reddit.com/r/LocalLLaMA/comments/1gai2ol/list_of_models_to_use_on_single_3090_or_4090/)
 - [Awesome Small Language Models list](https://github.com/slashml/awesome-small-language-models)
 - [LLMs for on-device deployment](https://github.com/NexaAI/Awesome-LLMs-on-device)
 - [LynxHub](https://github.com/KindaBrazy/LynxHub)
 - [UMbreLLa (local 70B model hosting)](https://github.com/Infini-AI-Lab/UMbreLLa)
+- [WebOllama (ollama GUI)](https://github.com/dkruyt/webollama)
+
+## Translation
+- [LLMs comparison for translation](https://www.reddit.com/r/LocalLLaMA/comments/1h4ji6x/comment/lzzsjhi/)
+- [Hybrid translator and benchmark](https://nuenki.app/blog/the_best_translator_is_a_hybrid_translator)
 
 ## Mobile apps
-- [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai)
-- [ChatterUI](https://github.com/Vali-98/ChatterUI)
+- [PocketPal AI iOS/Android](https://github.com/a-ghorbani/pocketpal-ai)
+- [ChatterUI Android](https://github.com/Vali-98/ChatterUI)
 - [SmolChat Android](https://github.com/shubham0204/SmolChat-Android)
+- [Google's Edge Gallery Android](https://github.com/google-ai-edge/gallery)
+- [MyDeviceAI iOS](https://github.com/navedmerchant/MyDeviceAI)
+- [RTranslator Android](https://github.com/niedev/RTranslator)
 
 ## Model playgrounds
 - [Poe](https://poe.com/login)
@@ -82,6 +89,7 @@
 - [Open-Deep-Research](https://danielkliewer.com/2025/02/05/open-deep-research)
 - [NanoSage](https://github.com/masterFoad/NanoSage)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research)
+- [DeerFlow](https://github.com/bytedance/deer-flow)
 
 ## Coding assistance
 - [Open Interpreter (local model hosting with code execution and file input)](https://github.com/OpenInterpreter/open-interpreter)
@@ -125,6 +133,12 @@
 - [Jupyter AI (jupyter notebook AI assistance)](https://github.com/jupyterlab/jupyter-ai)
 - [Technical docs creation for python projects](https://github.com/charmandercha/ArchiDoc)
 - [Terminal app prototyping tool](https://github.com/shobrook/termite)
+- [Void](https://github.com/voideditor/void)
+- [plainrepo (select repo contents for LLM context)](https://github.com/rickkoh/plainrepo)
+- [Codebase analyze and export](https://github.com/lakpahana/export-to-llm-gitingest)
+- [AiderDesk](https://github.com/hotovo/aider-desk)
+- [Aider Advanced](https://github.com/qemqemqem/aider-advanced)
+- [Dyad App Builder](https://github.com/dyad-sh/dyad)
 
 ## More Chat UIs
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
@@ -138,6 +152,10 @@
 - [Chat WebUI](https://github.com/Toy-97/Chat-WebUI)
 - [Project Shard (next.js based Chat GUI)](https://github.com/Ablasko32/Project-Shard)
 - [aiaio](https://github.com/abhishekkrthakur/aiaio/)
+- [Cobolt (MCP integration)](https://github.com/platinum-hill/cobolt)
+- [Witsy (MCP integration)](https://github.com/nbonamy/witsy)
+- [smOllama](https://github.com/GUNNM-VR/smOllama)
+- [Newelle](https://github.com/qwersyk/Newelle/)
 
 ## CLI / Shell
 - [LLM cmd Assistant](https://github.com/simonw/llm-cmd)
@@ -161,12 +179,13 @@
 - [Health server](https://github.com/seapoe1809/Health_server)
 - [Phlox](https://github.com/bloodworks-io/phlox)
 
-## Extensions (VSCode / Chrome)
-- [Chat-ext](https://github.com/abhishekkrthakur/chat-ext)
-- [Youtube Summarizer](https://github.com/avarayr/youtube-summarizer-oss)
-- [Image filename generator](https://github.com/kliewerdaniel/chrome-ai-filename-generator)
-- [Grammar checking](https://marketplace.visualstudio.com/items?itemName=OlePetersen.lm-writing-tool)
-- [Graph text view](https://marketplace.visualstudio.com/items?itemName=infranodus.infranodus-graph-view)
+## Extensions
+- [Chat-ext (Chrome)](https://github.com/abhishekkrthakur/chat-ext)
+- [Youtube Summarizer (Chrome)](https://github.com/avarayr/youtube-summarizer-oss)
+- [Image filename generator (Chrome)](https://github.com/kliewerdaniel/chrome-ai-filename-generator)
+- [Grammar checking (VSCode)](https://marketplace.visualstudio.com/items?itemName=OlePetersen.lm-writing-tool)
+- [Graph text view (VSCode)](https://marketplace.visualstudio.com/items?itemName=infranodus.infranodus-graph-view)
+- [WebAI Summarizer (Chrome)](https://github.com/miolini/webai)
 
 ## Image processing
 - [OCR Tesseract tool (running in browser locally)](https://github.com/simonw/tools)
@@ -201,3 +220,4 @@
 - [Website scraper](https://github.com/raznem/parsera)
 - [files-to-prompt (concatenate a directory full of files into single prompt for LLM use)](https://github.com/simonw/files-to-prompt)
 - [How to safely connect cloud server to home GPU](https://zohaib.me/safely-connect-cloud-server-to-home-gpu-server/)
+- [Meetily (meeting minutes)](https://github.com/Zackriya-Solutions/meeting-minutes)
