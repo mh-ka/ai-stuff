@@ -126,6 +126,8 @@
 - [Speaches (server for STT, translation, TTS)](https://github.com/speaches-ai/speaches)
 - [OpenReader (document reader)](https://github.com/richardr1126/OpenReader-WebUI)
 - [OpenDubbing](https://github.com/Softcatala/open-dubbing)
+- [Audiblez (ebook2audiobook)](https://github.com/santinic/audiblez)
+- [Dia](https://github.com/nari-labs/dia/)
 
 
 ## Music production
@@ -174,9 +176,4 @@
 - [chaplin (lip read / visual speech recognition)](https://github.com/amanvirparhar/chaplin)
 - [Meta's SeamlessM4T (translation framework)](https://huggingface.co/facebook/seamless-m4t-v2-large)
 - [MiraConverse (voice interaction with LLMs)](https://github.com/KartDriver/mira_converse)
-- [Kimi-Audio-7B-Instruct (universal audio model)](https://huggingface.co/moonshotai/Kimi-Audio-7B-Instruct)
-- [OllamaGTTS](https://github.com/ExoFi-Labs/OllamaGTTS)
-- [Vocal-Agent](https://github.com/tarun7r/Vocal-Agent)
-- [Vocalis](https://github.com/Lex-au/Vocalis)
-- [Persona Engine](https://github.com/fagenorn/handcrafted-persona-engine)
-- [RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
+- [Kimi-Audio (universal audio model)](https://github.com/MoonshotAI/Kimi-Audio)

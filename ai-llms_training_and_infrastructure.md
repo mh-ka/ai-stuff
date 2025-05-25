@@ -1,5 +1,6 @@
 # LLMs - Training and infrastructure
 
+
 ## Training, quantization, pruning, merging and fine-tuning
 - [Fine-tune NLP models](https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668)
 - [TensorBoard for TensorFlow visualization](https://www.tensorflow.org/tensorboard)
@@ -29,8 +30,13 @@
 - [Distillation framework](https://github.com/horus-ai-labs/DistillFlow/)
 - [LLM Post-Training overview](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)
 - [The role of embeddings](https://www.nomic.ai/blog/posts/embeddings-are-for-so-much-more-than-rag)
-- [Kolo (fine-tuning setup framework)](https://github.com/MaxHastings/Kolo)
-- [Reasoning LLM course](https://huggingface.co/reasoning-course)
+- [The state of reinforcement learning](https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html)
+- [nanoVLM (VLM training)](https://github.com/huggingface/nanoVLM)
+- [Agent Reinforcement Trainer](https://github.com/OpenPipe/ART)
+- [Atropos (framework for reinforcement learning environment with LLMs)](https://github.com/NousResearch/atropos)
+- [ReCall (RL training for Reasoning with tool call)](https://github.com/Agent-RL/ReCall)
+- [ms-swift (model fine-tuning framework)](https://github.com/modelscope/ms-swift)
+
 
 ## Frameworks, stacks, articles etc.
 
@@ -81,11 +87,7 @@
 - [State of AI - China](https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf)
 - [FastRTC library for building apps with real-time communication](https://huggingface.co/blog/fastrtc)
 - [Deepseek's building block optimizations for training / inference infrastructure](https://github.com/deepseek-ai/open-infra-index)
-- [How to run QwQ-32B](https://docs.unsloth.ai/basics/tutorials-how-to-fine-tune-and-run-llms/qwq-32b-how-to-run-effectively)
-- Smolvlm Realtime WebGPU example
-  - [Huggingface space](https://huggingface.co/spaces/webml-community/smolvlm-realtime-webgpu/blob/main/index.html)
-  - [Github demo](https://github.com/ngxson/smolvlm-realtime-webcam)
-- [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator)
+- [Vision Language Models Recap](https://huggingface.co/blog/vlms-2025)
 
 ### Other
 - [Docker GenAI Stack](https://github.com/docker/genai-stack)
@@ -95,14 +97,11 @@
 - [ExecuTorch (On-Device AI framework)](https://pytorch.org/executorch/stable/intro-overview.html)
 - [Code Interpreter SDK (sandbox for LLM code execution)](https://github.com/e2b-dev/code-interpreter)
 - [Ratchet (ML developer toolkit for web browser inference)](https://github.com/huggingface/ratchet)
-- [Selfie (personalized local text generation)](https://github.com/vana-com/selfie)
 - Meta's Llama Stack
   - [Github](https://github.com/meta-llama/llama-stack)
   - [Apps](https://github.com/meta-llama/llama-stack-apps)
 - [PostgresML AI Stack](https://github.com/postgresml/postgresml)
-- [Memory management](https://github.com/caspianmoon/memoripy)
-- [Graph-based editor for LLM workflows](https://github.com/PySpur-Dev/PySpur)
-- [Microsoft's GenAIScript (LLM orchestrator)](https://github.com/microsoft/genaiscript/)
+- [Memory Pi (python lib for memory management)](https://github.com/caspianmoon/memoripy)
 - [ModernBERT](https://huggingface.co/blog/modernbert)
 - [Haystack (LLM app dev framework)](https://github.com/deepset-ai/haystack)
 - [Llamaindex (LLM app dev framework)](https://docs.llamaindex.ai/en/stable/#introduction)
@@ -110,7 +109,6 @@
 - [LeRobot](https://github.com/huggingface/lerobot)
 - [LLM Promptflow](https://microsoft.github.io/promptflow/)
 - [prompt-owl (prompt engineering library)](https://github.com/lks-ai/prowl)
-- [PocketFlow (minimalist LLM framework)](https://github.com/miniLLMFlow/PocketFlow/)
 - [HuggingFace downloader](https://github.com/huggingface/hf_transfer)
 - [Model with symbolic representation (glyphs)](https://github.com/severian42/Computational-Model-for-Symbolic-Representations)
 - [Openorch](https://github.com/openorch/openorch)
@@ -119,6 +117,7 @@
 - [Dataset questions for testing Chinese models with bias ](https://huggingface.co/datasets/augmxnt/deccp)
 - [RecallWeaver (persistent graph memory system)](https://github.com/Asagix/RecallWeaver)
 - [lmdeploy (compressing, deploying, serving LLM)](https://github.com/InternLM/lmdeploy)
+
 
 ## Retrieval-Augmented Generation (RAG)
 - [RAGs ("Build ChatGPT over your data")](https://github.com/run-llama/rags)
@@ -136,7 +135,6 @@
 - [RAGBuilder](https://github.com/kruxai/ragbuilder)
 - [RAG Notes](https://github.com/rmusser01/tldw/blob/main/Docs/RAG_Notes.md)
 - [Too long, did not watch](https://github.com/rmusser01/tldw)
-- [Benchmarking RAG](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063)
 - [Archyve (RAG API)](https://github.com/nickthecook/archyve)
 - [Yaraa (RAG Library)](https://github.com/khalilbenkhaled/yaraa)
 - [Chainlit RAG (hybrid RAG app)](https://github.com/agi-dude/chainlit-rag)
@@ -157,7 +155,21 @@
 - [Ragit](https://github.com/baehyunsol/ragit)
 - [ColiVara (RAG alternative using vision models)](https://github.com/tjmlabs/ColiVara)
 - [Simba (knowledge management with RAG)](https://github.com/GitHamza0206/simba)
-- [RAG - detecting hallicunations](https://towardsdatascience.com/detecting-hallucination-in-rag-ecaf251a6633/)
+- [KAG (logical reasoning for RAG)](https://github.com/OpenSPG/KAG)
+- [dsRAG (RAG with optimization techniques)](https://github.com/D-Star-AI/dsRAG)
+- [llmware (RAG with spezialized small models)](https://github.com/llmware-ai/llmware)
+- Hallucination detection
+  - [Benchmarking RAG](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063)
+  - [RAG - detecting hallicunations](https://towardsdatascience.com/detecting-hallucination-in-rag-ecaf251a6633/)
+  - [LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect)
+  - [Adaptive Classifier](https://github.com/codelion/adaptive-classifier)
+  - [MiniCheck](https://github.com/Liyan06/MiniCheck)
+  - [Claim Extractor Model](https://huggingface.co/Babelscape/t5-base-summarization-claim-extractor)
+  - [HallOumi-8B](https://huggingface.co/oumi-ai/HallOumi-8B)
+  - [Claim extraction](https://github.com/Tswings/AVeriTeC-DCE)
+- [WebRAgent (RAG combined with web search)](https://github.com/dkruyt/WebRAgent)
+- [Multi-Source RAG in OpenWebUI](https://productiv-ai.guide/start/multi-source-rag-openwebui/)
+
 
 ## Data extraction
 - [Pre-processing unstructured data](https://github.com/Unstructured-IO/unstructured)
@@ -181,7 +193,10 @@
 - [semhash (deduplicating datasets)](https://github.com/MinishLab/semhash)
 - [Jina's ReaderLM v2 (HTML to Json)](https://huggingface.co/jinaai/ReaderLM-v2)
 - [Docling (document parser)](https://github.com/DS4SD/docling)
+- [SmolDocling](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 - [Surya (OCR)](https://github.com/VikParuchuri/surya)
 - [Trafilatura (python library for crawling, scraping, extracting, processing text)](https://trafilatura.readthedocs.io/en/latest/)
 - [readability (js library for text extraction)](https://github.com/mozilla/readability)
 - [web2markdown](https://github.com/h2210316651/lexicrawler)
+- [doctr (document OCR)](https://github.com/mindee/doctr)
+- [img2table](https://github.com/xavctn/img2table)

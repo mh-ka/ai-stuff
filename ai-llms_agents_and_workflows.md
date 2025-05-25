@@ -5,11 +5,19 @@
 - [TinyTroupe](https://github.com/microsoft/TinyTroupe)
 - [Autogen (agent framework)](https://github.com/microsoft/autogen/tree/main)
 - [Autogen magentic one](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp)
+- [Magentic-UI (browsing agent)](https://github.com/microsoft/Magentic-UI)
 
 ## Coder Agents
 - [OpenHands (coder agent)](https://github.com/All-Hands-AI/OpenHands/)
 - [bolt.diy (coder agent)](https://github.com/stackblitz-labs/bolt.diy)
 - [freeact (library for code-based agents)](https://github.com/gradion-ai/freeact)
+- [OpenEvolve](https://github.com/codelion/openevolve)
+- [RA.Aid](https://github.com/ai-christianson/RA.Aid)
+- [Plandex](https://github.com/plandex-ai/plandex)
+- [Serena](https://github.com/oraios/serena)
+- [Deebo (debugging agent)](https://github.com/snagasuri/deebo-prototype)
+- [Clean-Coder-AI](https://github.com/Grigorij-Dudnik/Clean-Coder-AI)
 
 ## Articles and knowledge resources
 - [How to design an agent for production](https://blog.langchain.dev/how-to-design-an-agent-for-production/)
@@ -22,13 +30,28 @@
 - [List of resources](https://github.com/francedot/acu)
 - [Survey paper for planning of LLM agents](https://arxiv.org/pdf/2402.02716)
 - [AI Agent for Email Automation with SmolAgents](https://www.llmwatch.com/p/ai-agent-for-email-automation-with)
+- [AI Agents for beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [How to build an MCP server](https://huggingface.co/blog/gradio-mcp)
+- [MCP course](https://huggingface.co/mcp-course)
+- [Tiny agents](https://huggingface.co/blog/tiny-agents)
 
 ## Workflow editors
+- [Graph-based editor for LLM workflows](https://github.com/PySpur-Dev/PySpur)
 - [AI Flow (connect different models)](https://ai-flow.net)
 - [n8n (LLM workflow editor)](https://github.com/n8n-io/n8n)
 - [Flowise (LLM workflow editor)](https://github.com/FlowiseAI/Flowise)
-- [Omnichain (LLM workflow editor)](chttps://github.com/zenoverflow/omnichain)
+- [Omnichain (LLM workflow editor)](https://github.com/zenoverflow/omnichain)
 - [Manifold (workflow editor)](https://github.com/intelligencedev/manifold)
+- [Open Agent Platform (no-code agent building)](https://github.com/langchain-ai/open-agent-platform)
+- [TesselateAI Studio](https://github.com/TesslateAI/Studio) using [TFrameX](https://github.com/TesslateAI/TFrameX)
+
+## Model Context Protocol
+- [Microsoft's GenAIScript (LLM orchestrator with MCP integration)](https://github.com/microsoft/genaiscript/)
+- [Klavis (MCP integrations)](https://github.com/Klavis-AI/klavis)
+- [llmbasedos (local MCP)](https://github.com/iluxu/llmbasedos)
+- [graphiti (knowledge graph memory)](https://github.com/getzep/graphiti)
+- [turbular (MCP server for databases)](https://github.com/raeudigerRaeffi/turbular)
+- [OpenAgentPlatform (MCP desktop host)](https://github.com/OpenAgentPlatform/Dive)
 
 ## Other
 - [Experts.js (Multi AI Agent Systems Framework in Javascript)](https://github.com/metaskills/experts)
@@ -60,6 +83,7 @@
 - [Bytedance's UI-TARS (automated GUI interaction)](https://github.com/bytedance/UI-TARS)
 - [Outlines (python package for structured generation)](https://dottxt-ai.github.io/outlines/latest/welcome/)
 - [Pydantic AI (agent framework for production deployment)](https://github.com/pydantic/pydantic-ai)
+- [PocketFlow (minimalist LLM framework)](https://github.com/miniLLMFlow/PocketFlow/)
 - [AutoAgent](https://github.com/HKUDS/AutoAgent)
 - [Langfuse (LLM tracing / monitoring): https://github.com/langfuse/langfuse (article](https://mlvanguards.substack.com/p/monitoring-is-boring))
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
@@ -67,3 +91,9 @@
 - [PromptPex (prompt testing)](https://github.com/microsoft/promptpex/)
 - [AgentKit (LangChain-based starter kit)](https://github.com/BCG-X-Official/agentkit)
 - [Upsonic (reliabilty focused framework)](https://github.com/Upsonic/Upsonic)
+- [AG-UI (agent-user interaction protocol)](https://github.com/ag-ui-protocol/ag-ui)
+- [II-Agent](https://github.com/Intelligent-Internet/ii-agent)
+- [ClaraVerse](https://github.com/badboysm890/ClaraVerse)
+- [AgentCPM-GUI (on-device agent)](https://github.com/OpenBMB/AgentCPM-GUI)
+- [droidrun (Android device interaction agent)](https://github.com/droidrun/droidrun)
+- [gem-assist (local assistant)](https://github.com/Fus3n/gem-assist)

@@ -42,6 +42,17 @@
 - [Context Size Evals](https://github.com/NVIDIA/RULER)
 - [Model context sizes](https://github.com/taylorwilsdon/llm-context-limits)
 - [LLM translation comparison](https://nuenki.app/blog/llm_translation_comparison)
+- [Pydantic Evals](https://ai.pydantic.dev/evals)
+- [Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)
+- [Healthbench](https://github.com/m42-health/healthbench/)
+- [SWE Rebench](https://swe-rebench.com/leaderboard)
+- [Roocode Evals](https://roocode.com/evals)
+- [SuperGPQA](https://github.com/SuperGPQA/SuperGPQA)
+- [Confabulations](https://github.com/lechmazur/confabulations)
+- [PGG Multi-Agent Bench](https://github.com/lechmazur/pgg_bench/)
+- [Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
+- [NYT Connections Extended](https://github.com/lechmazur/nyt-connections/)
+- [VLMs in social/physical context](https://opensocial.world/leaderboard)
 
 ## Benchmark List
 | Benchmark | Measures | Key Features |

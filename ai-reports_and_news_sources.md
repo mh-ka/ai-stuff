@@ -1,4 +1,4 @@
-# Reports, Articles, Repos and News Sources
+# Reports, Articles, Courses, News Sources
 
 ## Reports
 - [Kaggle AI Report 2023](https://www.kaggle.com/AI-Report-2023)
@@ -24,12 +24,29 @@
 - [Google's AlphaChip](https://github.com/google-research/circuit_training)
 
 
+## Courses
+- Google
+  - https://grow.google/ai/
+  - https://cloud.google.com/learn/training/machinelearning-ai
+- Havard
+  - https://www.edx.org/cs50
+- OpenAI
+  - https://academy.openai.com/
+- Microsoft
+  - https://github.com/microsoft/ai-agents-for-beginners
+
+
 ## News sources
 - Newsletter
   - https://substack.com/@aibrews
   - https://lifearchitect.substack.com/
   - https://simonwillison.net/
   - https://diffusiondigest.beehiiv.com/
+  - https://hungrymindsdev.substack.com/
+  - https://neuralbits.substack.com/
+  - https://pythonandchill.substack.com/
+  - https://theneuralmaze.substack.com/
+  - https://www.llmwatch.com/
 - Websites
   - https://the-decoder.de/
   - https://www.futuretools.io/
@@ -46,6 +63,14 @@
   - Stable Diffusion Workflows:
     - https://www.youtube.com/@NerdyRodent
     - https://www.youtube.com/@sebastiankamph
-  - [Explanations](https://www.youtube.com/@Computerphile/videos)
+    - https://www.youtube.com/@TheArt-OfficialTrainer
+  - AI related channels
+    - https://www.youtube.com/@BenjisAIPlayground
+    - https://www.youtube.com/@TheFutureThinker
+    - https://www.youtube.com/@BobDoyleMedia
+    - https://www.youtube.com/@OlivioSarikas
+    - https://www.youtube.com/@pixaroma
+  - Explanations
+    - https://www.youtube.com/@Computerphile/videos
 - Other
   - [Papers and Frameworks](https://github.com/Hannibal046/Awesome-LLM)
