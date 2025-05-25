@@ -10,7 +10,7 @@
 - [Pixelwave Schnell](https://civitai.com/models/141592?modelVersionId=1002647)
 - [AnimePro](https://civitai.com/models/934628?modelVersionId=1053818)
 - Merges
-  - [Jib Mix Flux](https://civitai.com/models/686814/jib-mix-flux?modelVersionId=1028151)
+  - [Jib Mix Flux](https://civitai.com/models/686814?modelVersionId=1001176)
   - [Fluxmania](https://civitai.com/models/778691?modelVersionId=1050076)
   - [lyh_anime_flux](https://civitai.com/models/684646/lyhanimeflux)
 - [Canny Dev Lora](https://huggingface.co/black-forest-labs/FLUX.1-Canny-dev-lora)
