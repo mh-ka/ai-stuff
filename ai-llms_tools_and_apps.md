@@ -125,6 +125,7 @@
 - [Jupyter AI (jupyter notebook AI assistance)](https://github.com/jupyterlab/jupyter-ai)
 - [Technical docs creation for python projects](https://github.com/charmandercha/ArchiDoc)
 - [Terminal app prototyping tool](https://github.com/shobrook/termite)
+- [agenticSeek (Manus-like)](https://github.com/Fosowl/agenticSeek)
 
 ## More Chat UIs
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
