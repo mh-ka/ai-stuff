@@ -48,6 +48,8 @@
   - [Llama 3](https://llama.meta.com/llama3/)
   - [Llama 3.3 70B](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
 - [NLLB (No language left behind)](https://github.com/facebookresearch/fairseq/tree/nllb)
+- Nvidia's Llama Nemotron
+  - [Collection](https://huggingface.co/collections/nvidia/llama-nemotron-67d92346030a2691293f200b)
 
 #### Mistral
 - [Fine-tune Mistral on your own data](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb)
@@ -121,6 +123,8 @@
 - [AllenAI's Tulu 3 (Llama3.1 Fine-Tune)](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
 - [Nomic Embeddings v2 MoE](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe)
 - [Jamba 1.6 (hybrid SSM-Transformer)](https://huggingface.co/collections/ai21labs/jamba-16-67c990671a26dcbfa62d18fa)
+- [Cogito v1 Preview (hybrid reasoning)](https://huggingface.co/collections/deepcogito/cogito-v1-preview-67eb105721081abe4ce2ee53)
+
 
 ### Smaller model releases (model series and derivatives)
 
@@ -130,6 +134,7 @@
 - [phi-3.5 uncensored](https://huggingface.co/bartowski/Phi-3.5-mini-instruct_Uncensored-GGUF)
 - [phi-4](https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4)
 - [Glider (Phi 3.5 Mini based text evaluation model)](https://huggingface.co/PatronusAI/glider)
+- [Phi-4-reasoning](https://huggingface.co/microsoft/Phi-4-reasoning)
 
 #### Google
 - [Gemma 2B and 7B](https://huggingface.co/blog/gemma)
@@ -171,9 +176,6 @@
 - [Llama 3.2 (collection of small models and big vision models)](https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf)
 - [MobileLLM](https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95)
 - [Llama3 8B LexiFun Uncensored V1 (fine-tune)](https://huggingface.co/Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1)
-- Nvidia's Nemotron
-  - [Llama-3.1-Nemotron-70B-Instruct](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)
-  - [Llama-3.1-Nemotron-51B-Instruct](https://huggingface.co/ymcki/Llama-3_1-Nemotron-51B-Instruct-GGUF)
 - [Selene-1-Mini-Llama-3.1-8B (Llama-based small evaluation and scoring LLM)](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B)
 - [DeepHermes 3 Llama 3 8B](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview)
 
@@ -234,6 +236,11 @@
   - [Google's MADLAD-400-10B-MT](https://huggingface.co/google/madlad400-10b-mt )
 - [Arch-Function-3B (function calling)](https://huggingface.co/katanemo/Arch-Function-3B)
 - [Reka-Flash-3 21B](https://huggingface.co/RekaAI/reka-flash-3)
+- [DeepCoder-14B-Preview](https://huggingface.co/agentica-org/DeepCoder-14B-Preview)
+- [XiaomiMiMo (reasoning)](https://github.com/XiaomiMiMo/MiMo)
+- [JetBrains Mellum-4b-base (coding)](https://huggingface.co/JetBrains/Mellum-4b-base)
+- [Helium 1 (multilingual and modular)](https://huggingface.co/collections/kyutai/helium-1-681237bbba8c1cf18a02e4bd)
+
 
 ### Multimodal / Vision models
 
@@ -312,3 +319,4 @@
 - [Ovis2 collection (strong with OCR)](https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464)
 - [Huggingface's SmolVLM2](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7)
 - [Cohere's Aya Vision 8B & 32B](https://huggingface.co/collections/CohereForAI/c4ai-aya-vision-67c4ccd395ca064308ee1484)
+- [Kimi-VL-A3B](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85)
