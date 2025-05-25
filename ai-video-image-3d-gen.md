@@ -36,6 +36,7 @@
     - [Github](https://github.com/facefusion/facefusion)
     - [Reddit](https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/)
   - [ACE++](https://www.patreon.com/posts/face-swapping-121224741)
+  - [InfiniteYou (face to photo)](https://github.com/bytedance/InfiniteYou)
 - Human Animation
   - [Vid2DensePose](https://github.com/Flode-Labs/vid2densepose)
   - [MagicAnimate](https://github.com/magic-research/magic-animate)
@@ -124,6 +125,7 @@
   - [SAM2.1 Release](https://github.com/facebookresearch/sam2)
   - [RobustSAM (Fine-tuning for improved segmentation of low-quality images)](https://github.com/robustsam/RobustSAM)
   - [Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2)
+  - [SAM HQ](https://huggingface.co/syscv-community/sam_hq_vit_b)
 - [ViTPose (pose detection)](https://huggingface.co/collections/usyd-community/vitpose-677fcfd0a0b2b5c8f79c4335)
 - Real-time object detection
   - [Roboflow leaderboard](https://leaderboard.roboflow.com/)
