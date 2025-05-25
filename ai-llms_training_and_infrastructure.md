@@ -1,5 +1,6 @@
 # LLMs - Training and infrastructure
 
+
 ## Training, quantization, pruning, merging and fine-tuning
 - [Fine-tune NLP models](https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668)
 - [TensorBoard for TensorFlow visualization](https://www.tensorflow.org/tensorboard)
@@ -30,6 +31,8 @@
 - [LLM Post-Training overview](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)
 - [The role of embeddings](https://www.nomic.ai/blog/posts/embeddings-are-for-so-much-more-than-rag)
 - [The state of reinforcement learning](https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html)
+- [nanoVLM (VLM training)](https://github.com/huggingface/nanoVLM)
+
 
 ## Frameworks, stacks, articles etc.
 
@@ -79,6 +82,7 @@
 - [State of AI - China](https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf)
 - [FastRTC library for building apps with real-time communication](https://huggingface.co/blog/fastrtc)
 - [Deepseek's building block optimizations for training / inference infrastructure](https://github.com/deepseek-ai/open-infra-index)
+- [Vision Language Models Recap](https://huggingface.co/blog/vlms-2025)
 
 ### Other
 - [Docker GenAI Stack](https://github.com/docker/genai-stack)
@@ -88,14 +92,11 @@
 - [ExecuTorch (On-Device AI framework)](https://pytorch.org/executorch/stable/intro-overview.html)
 - [Code Interpreter SDK (sandbox for LLM code execution)](https://github.com/e2b-dev/code-interpreter)
 - [Ratchet (ML developer toolkit for web browser inference)](https://github.com/huggingface/ratchet)
-- [Selfie (personalized local text generation)](https://github.com/vana-com/selfie)
 - Meta's Llama Stack
   - [Github](https://github.com/meta-llama/llama-stack)
   - [Apps](https://github.com/meta-llama/llama-stack-apps)
 - [PostgresML AI Stack](https://github.com/postgresml/postgresml)
-- [Memory management](https://github.com/caspianmoon/memoripy)
-- [Graph-based editor for LLM workflows](https://github.com/PySpur-Dev/PySpur)
-- [Microsoft's GenAIScript (LLM orchestrator)](https://github.com/microsoft/genaiscript/)
+- [Memory Pi (python lib for memory management)](https://github.com/caspianmoon/memoripy)
 - [ModernBERT](https://huggingface.co/blog/modernbert)
 - [Haystack (LLM app dev framework)](https://github.com/deepset-ai/haystack)
 - [Llamaindex (LLM app dev framework)](https://docs.llamaindex.ai/en/stable/#introduction)
@@ -103,10 +104,10 @@
 - [LeRobot](https://github.com/huggingface/lerobot)
 - [LLM Promptflow](https://microsoft.github.io/promptflow/)
 - [prompt-owl (prompt engineering library)](https://github.com/lks-ai/prowl)
-- [PocketFlow (minimalist LLM framework)](https://github.com/miniLLMFlow/PocketFlow/)
 - [HuggingFace downloader](https://github.com/huggingface/hf_transfer)
 - [Model with symbolic representation (glyphs)](https://github.com/severian42/Computational-Model-for-Symbolic-Representations)
 - [Openorch](https://github.com/openorch/openorch)
+
 
 ## Retrieval-Augmented Generation (RAG)
 - [RAGs ("Build ChatGPT over your data")](https://github.com/run-llama/rags)
@@ -146,6 +147,7 @@
 - [ColiVara (RAG alternative using vision models)](https://github.com/tjmlabs/ColiVara)
 - [Simba (knowledge management with RAG)](https://github.com/GitHamza0206/simba)
 - [RAG - detecting hallicunations](https://towardsdatascience.com/detecting-hallucination-in-rag-ecaf251a6633/)
+
 
 ## Data extraction
 - [Pre-processing unstructured data](https://github.com/Unstructured-IO/unstructured)
