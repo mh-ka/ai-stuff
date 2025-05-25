@@ -27,6 +27,7 @@
 - [How to build an MCP server](https://huggingface.co/blog/gradio-mcp)
 
 ## Workflow editors
+- [Graph-based editor for LLM workflows](https://github.com/PySpur-Dev/PySpur)
 - [AI Flow (connect different models)](https://ai-flow.net)
 - [n8n (LLM workflow editor)](https://github.com/n8n-io/n8n)
 - [Flowise (LLM workflow editor)](https://github.com/FlowiseAI/Flowise)
@@ -35,6 +36,7 @@
 - [Open Agent Platform (no-code agent building)](https://github.com/langchain-ai/open-agent-platform)
 
 ## Model Context Protocol
+- [Microsoft's GenAIScript (LLM orchestrator with MCP integration)](https://github.com/microsoft/genaiscript/)
 - [Klavis (MCP integrations)](https://github.com/Klavis-AI/klavis)
 
 ## Other
@@ -67,6 +69,7 @@
 - [Bytedance's UI-TARS (automated GUI interaction)](https://github.com/bytedance/UI-TARS)
 - [Outlines (python package for structured generation)](https://dottxt-ai.github.io/outlines/latest/welcome/)
 - [Pydantic AI (agent framework for production deployment)](https://github.com/pydantic/pydantic-ai)
+- [PocketFlow (minimalist LLM framework)](https://github.com/miniLLMFlow/PocketFlow/)
 - [AutoAgent](https://github.com/HKUDS/AutoAgent)
 - [Langfuse (LLM tracing / monitoring): https://github.com/langfuse/langfuse (article](https://mlvanguards.substack.com/p/monitoring-is-boring))
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
