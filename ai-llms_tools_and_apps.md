@@ -139,6 +139,7 @@
 - [AiderDesk](https://github.com/hotovo/aider-desk)
 - [Aider Advanced](https://github.com/qemqemqem/aider-advanced)
 - [Dyad App Builder](https://github.com/dyad-sh/dyad)
+- [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 
 ## More Chat UIs
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
