@@ -32,6 +32,10 @@
 - [The role of embeddings](https://www.nomic.ai/blog/posts/embeddings-are-for-so-much-more-than-rag)
 - [The state of reinforcement learning](https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html)
 - [nanoVLM (VLM training)](https://github.com/huggingface/nanoVLM)
+- [Agent Reinforcement Trainer](https://github.com/OpenPipe/ART)
+- [Atropos (framework for reinforcement learning environment with LLMs)](https://github.com/NousResearch/atropos)
+- [ReCall (RL training for Reasoning with tool call)](https://github.com/Agent-RL/ReCall)
+- [ms-swift (model fine-tuning framework)](https://github.com/modelscope/ms-swift)
 
 
 ## Frameworks, stacks, articles etc.
@@ -125,7 +129,6 @@
 - [RAGBuilder](https://github.com/kruxai/ragbuilder)
 - [RAG Notes](https://github.com/rmusser01/tldw/blob/main/Docs/RAG_Notes.md)
 - [Too long, did not watch](https://github.com/rmusser01/tldw)
-- [Benchmarking RAG](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063)
 - [Archyve (RAG API)](https://github.com/nickthecook/archyve)
 - [Yaraa (RAG Library)](https://github.com/khalilbenkhaled/yaraa)
 - [Chainlit RAG (hybrid RAG app)](https://github.com/agi-dude/chainlit-rag)
@@ -146,7 +149,20 @@
 - [Ragit](https://github.com/baehyunsol/ragit)
 - [ColiVara (RAG alternative using vision models)](https://github.com/tjmlabs/ColiVara)
 - [Simba (knowledge management with RAG)](https://github.com/GitHamza0206/simba)
-- [RAG - detecting hallicunations](https://towardsdatascience.com/detecting-hallucination-in-rag-ecaf251a6633/)
+- [KAG (logical reasoning for RAG)](https://github.com/OpenSPG/KAG)
+- [dsRAG (RAG with optimization techniques)](https://github.com/D-Star-AI/dsRAG)
+- [llmware (RAG with spezialized small models)](https://github.com/llmware-ai/llmware)
+- Hallucination detection
+  - [Benchmarking RAG](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063)
+  - [RAG - detecting hallicunations](https://towardsdatascience.com/detecting-hallucination-in-rag-ecaf251a6633/)
+  - [LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect)
+  - [Adaptive Classifier](https://github.com/codelion/adaptive-classifier)
+  - [MiniCheck](https://github.com/Liyan06/MiniCheck)
+  - [Claim Extractor Model](https://huggingface.co/Babelscape/t5-base-summarization-claim-extractor)
+  - [HallOumi-8B](https://huggingface.co/oumi-ai/HallOumi-8B)
+  - [Claim extraction](https://github.com/Tswings/AVeriTeC-DCE)
+- [WebRAgent (RAG combined with web search)](https://github.com/dkruyt/WebRAgent)
+- [Multi-Source RAG in OpenWebUI](https://productiv-ai.guide/start/multi-source-rag-openwebui/)
 
 
 ## Data extraction
