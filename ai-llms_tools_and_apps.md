@@ -140,6 +140,7 @@
 - [Aider Advanced](https://github.com/qemqemqem/aider-advanced)
 - [Dyad App Builder](https://github.com/dyad-sh/dyad)
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+- [LocalSite-AI (generate self-contained html pages)](https://github.com/weise25/LocalSite-ai)
 
 ## More Chat UIs
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
@@ -222,3 +223,4 @@
 - [files-to-prompt (concatenate a directory full of files into single prompt for LLM use)](https://github.com/simonw/files-to-prompt)
 - [How to safely connect cloud server to home GPU](https://zohaib.me/safely-connect-cloud-server-to-home-gpu-server/)
 - [Meetily (meeting minutes)](https://github.com/Zackriya-Solutions/meeting-minutes)
+- [LocalAI (multi-purpose suite)](https://github.com/mudler/LocalAI)
