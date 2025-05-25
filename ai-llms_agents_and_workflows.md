@@ -17,6 +17,7 @@
 - [Plandex](https://github.com/plandex-ai/plandex)
 - [Serena](https://github.com/oraios/serena)
 - [Deebo (debugging agent)](https://github.com/snagasuri/deebo-prototype)
+- [Clean-Coder-AI](https://github.com/Grigorij-Dudnik/Clean-Coder-AI)
 
 ## Articles and knowledge resources
 - [How to design an agent for production](https://blog.langchain.dev/how-to-design-an-agent-for-production/)
