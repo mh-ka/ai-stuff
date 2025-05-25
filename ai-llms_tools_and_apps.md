@@ -133,7 +133,14 @@
 - [Jupyter AI (jupyter notebook AI assistance)](https://github.com/jupyterlab/jupyter-ai)
 - [Technical docs creation for python projects](https://github.com/charmandercha/ArchiDoc)
 - [Terminal app prototyping tool](https://github.com/shobrook/termite)
-- [agenticSeek (Manus-like)](https://github.com/Fosowl/agenticSeek)
+- [Void](https://github.com/voideditor/void)
+- [plainrepo (select repo contents for LLM context)](https://github.com/rickkoh/plainrepo)
+- [Codebase analyze and export](https://github.com/lakpahana/export-to-llm-gitingest)
+- [AiderDesk](https://github.com/hotovo/aider-desk)
+- [Aider Advanced](https://github.com/qemqemqem/aider-advanced)
+- [Dyad App Builder](https://github.com/dyad-sh/dyad)
+- [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+- [LocalSite-AI (generate self-contained html pages)](https://github.com/weise25/LocalSite-ai)
 
 ## More Chat UIs
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
@@ -148,6 +155,10 @@
 - [Project Shard (next.js based Chat GUI)](https://github.com/Ablasko32/Project-Shard)
 - [aiaio](https://github.com/abhishekkrthakur/aiaio/)
 - [Selfie (personalized local text generation)](https://github.com/vana-com/selfie)
+- [Cobolt (MCP integration)](https://github.com/platinum-hill/cobolt)
+- [Witsy (MCP integration)](https://github.com/nbonamy/witsy)
+- [smOllama](https://github.com/GUNNM-VR/smOllama)
+- [Newelle](https://github.com/qwersyk/Newelle/)
 
 ## CLI / Shell
 - [LLM cmd Assistant](https://github.com/simonw/llm-cmd)
