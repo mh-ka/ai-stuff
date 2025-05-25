@@ -30,6 +30,7 @@
 - [LLM Post-Training overview](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)
 - [The role of embeddings](https://www.nomic.ai/blog/posts/embeddings-are-for-so-much-more-than-rag)
 - [Kolo (fine-tuning setup framework)](https://github.com/MaxHastings/Kolo)
+- [Reasoning LLM course](https://huggingface.co/reasoning-course)
 
 ## Frameworks, stacks, articles etc.
 
@@ -45,6 +46,7 @@
   - https://grafana.com/grafana/dashboards/12239-nvidia-dcgm-exporter-dashboard/
 - [Linux GPU temperature reader](https://github.com/ThomasBaruzier/gddr6-core-junction-vram-temps)
 - [Docker GPU power limiting tool](https://github.com/sammcj/NVApi)
+- [Wisent-Guard (python monitoring and guardrailing)](https://github.com/wisent-ai/wisent-guard)
 
 ### Transformer.js (browser-based AI inference)
 - [Github](https://github.com/xenova/transformers.js)
@@ -79,6 +81,11 @@
 - [State of AI - China](https://artificialanalysis.ai/downloads/china-report/2025/Artificial-Analysis-State-of-AI-China-Q1-2025.pdf)
 - [FastRTC library for building apps with real-time communication](https://huggingface.co/blog/fastrtc)
 - [Deepseek's building block optimizations for training / inference infrastructure](https://github.com/deepseek-ai/open-infra-index)
+- [How to run QwQ-32B](https://docs.unsloth.ai/basics/tutorials-how-to-fine-tune-and-run-llms/qwq-32b-how-to-run-effectively)
+- Smolvlm Realtime WebGPU example
+  - [Huggingface space](https://huggingface.co/spaces/webml-community/smolvlm-realtime-webgpu/blob/main/index.html)
+  - [Github demo](https://github.com/ngxson/smolvlm-realtime-webcam)
+- [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator)
 
 ### Other
 - [Docker GenAI Stack](https://github.com/docker/genai-stack)
@@ -107,6 +114,11 @@
 - [HuggingFace downloader](https://github.com/huggingface/hf_transfer)
 - [Model with symbolic representation (glyphs)](https://github.com/severian42/Computational-Model-for-Symbolic-Representations)
 - [Openorch](https://github.com/openorch/openorch)
+- [Outlines (structured text generation)](https://github.com/dottxt-ai/outlines)
+- [ppllm (cli tool for project-to-prompt)](https://www.npmjs.com/package/ppllm)
+- [Dataset questions for testing Chinese models with bias ](https://huggingface.co/datasets/augmxnt/deccp)
+- [RecallWeaver (persistent graph memory system)](https://github.com/Asagix/RecallWeaver)
+- [lmdeploy (compressing, deploying, serving LLM)](https://github.com/InternLM/lmdeploy)
 
 ## Retrieval-Augmented Generation (RAG)
 - [RAGs ("Build ChatGPT over your data")](https://github.com/run-llama/rags)
