@@ -90,6 +90,11 @@
 - [FastRTC library for building apps with real-time communication](https://huggingface.co/blog/fastrtc)
 - [Deepseek's building block optimizations for training / inference infrastructure](https://github.com/deepseek-ai/open-infra-index)
 - [Vision Language Models Recap](https://huggingface.co/blog/vlms-2025)
+- [How to run QwQ-32B](https://docs.unsloth.ai/basics/tutorials-how-to-fine-tune-and-run-llms/qwq-32b-how-to-run-effectively)
+- Smolvlm Realtime WebGPU example
+  - [Huggingface space](https://huggingface.co/spaces/webml-community/smolvlm-realtime-webgpu/blob/main/index.html)
+  - [Github demo](https://github.com/ngxson/smolvlm-realtime-webcam)
+- [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator)
 
 ### Other
 - [Docker GenAI Stack](https://github.com/docker/genai-stack)
