@@ -139,6 +139,7 @@
 - [Chat WebUI](https://github.com/Toy-97/Chat-WebUI)
 - [Project Shard (next.js based Chat GUI)](https://github.com/Ablasko32/Project-Shard)
 - [aiaio](https://github.com/abhishekkrthakur/aiaio/)
+- [Selfie (personalized local text generation)](https://github.com/vana-com/selfie)
 
 ## CLI / Shell
 - [LLM cmd Assistant](https://github.com/simonw/llm-cmd)
