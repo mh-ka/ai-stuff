@@ -69,9 +69,6 @@
 
 #### Alibaba
 - [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)
-- CodeQwen1.5-7B-Chat
-  - [HuggingFace page](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat)
-  - [Discussion](https://www.reddit.com/r/LocalLLaMA/comments/1c6ehct/codeqwen15_7b_is_pretty_darn_good_and_supposedly/)
 - [Qwen2](https://qwenlm.github.io/blog/qwen2/)
 - Qwen2.5
   - [Collection](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e)
@@ -97,21 +94,17 @@
 - [Aya Expanse](https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-671a83d6b2c07c692beab3c3)
 - [Aya Expanse 32B ungated GGUF](https://huggingface.co/tensorblock/aya-expanse-32b-ungated-GGUF)
 
-#### IBM
-- [Granite Code Models](https://github.com/ibm-granite/granite-code-models)
-- [Granite v3.1](https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d)
-- [Granite v3.2](https://huggingface.co/collections/ibm-granite/granite-32-language-models-67b3bc8c13508f6d064cff9a)
+#### Google
+- [Gemma-3-27B-IT-QAT-GGUF](https://huggingface.co/ubergarm/gemma-3-27b-it-qat-GGUF)
+- [Fallen-Gemma3-27B-v1 (uncensored)](https://huggingface.co/TheDrummer/Fallen-Gemma3-27B-v1)
 
 #### Other
 - [Phind-CodeLlama-34B v2](https://huggingface.co/Phind/Phind-CodeLlama-34B-v2)
-- [Prometheus 2 7B/8x7B (LLM for LLM evaluation)](https://github.com/prometheus-eval/prometheus-eval)
 - [LLM360's K2 70B (fully open source)](https://huggingface.co/LLM360/K2)
-- [Starcoder 2 3B/7B/15B](https://github.com/bigcode-project/starcoder2)
 - [DBRX Base and Instruct MoE 36B](https://github.com/databricks/dbrx)
 - [LagLlama (time series forecasting)](https://github.com/time-series-foundation-models/lag-llama)
 - [DiagnosisGPT 6B/34B (medical diagnosis LLM)](https://github.com/FreedomIntelligence/Chain-of-Diagnosis)
 - [AI21 Jamba 1.5 12B/94B (hybrid SSM-Transformer)](https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini)
-- [Jina Embeddings v3](https://huggingface.co/jinaai/jina-embeddings-v3)
 - [Microsoft's GRIN-MoE](https://huggingface.co/microsoft/GRIN-MoE)
 - [Athene V2 72B (Qwen Fine-Tune)](https://huggingface.co/collections/Nexusflow/athene-v2-6735b85e505981a794fb02cc)
 - [LG's EXAONE-3.5 (several sizes)](https://huggingface.co/collections/LGAI-EXAONE/exaone-35-674d0e1bb3dcd2ab6f39dbb4)
@@ -119,16 +112,25 @@
 - [Gemma 27B (exl2 format)](https://huggingface.co/mo137/gemma-2-27b-it-exl2)
 - [Tencent's Hunyuan Large MoE](https://huggingface.co/tencent/Tencent-Hunyuan-Large)
 - [AllenAI's Tulu 3 (Llama3.1 Fine-Tune)](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
-- [Nomic Embeddings v2 MoE](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe)
 - [Jamba 1.6 (hybrid SSM-Transformer)](https://huggingface.co/collections/ai21labs/jamba-16-67c990671a26dcbfa62d18fa)
+- [GLM-4-32B](https://huggingface.co/matteogeniaccio/GLM-4-32B-0414-GGUF-fixed/tree/main)
+- [Unsloth Dynamic Quants](https://huggingface.co/collections/unsloth/unsloth-dynamic-20-quants-68060d147e9b9231112823e6)
+
 
 ### Smaller model releases (model series and derivatives)
+
+#### Embedding / Encoder Models
+- [Jina Embeddings v3](https://huggingface.co/jinaai/jina-embeddings-v3)
+- [Nomic Embeddings v2 MoE](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe)
+- [IBM Granite Embeddings](https://huggingface.co/collections/ibm-granite/granite-embedding-models-6750b30c802c1926a35550bb)
+- [EuroBERT](https://huggingface.co/blog/EuroBERT/release)
 
 #### Microsoft
 - [phi-2 2.7B](https://huggingface.co/microsoft/phi-2)
 - [phi-3 / phi-3.5](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)
 - [phi-3.5 uncensored](https://huggingface.co/bartowski/Phi-3.5-mini-instruct_Uncensored-GGUF)
 - [phi-4](https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4)
+- [Unsloth-phi-4](https://huggingface.co/unsloth/phi-4-GGUF)
 - [Glider (Phi 3.5 Mini based text evaluation model)](https://huggingface.co/PatronusAI/glider)
 
 #### Google
@@ -140,10 +142,6 @@
 - [SEA-LION (South East Asia fine-tune)](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base)
 - [Gemma with questions (fine-tune)](https://huggingface.co/prithivMLmods/GWQ-9B-Preview2)
 
-#### Moondream (vision model on edge devices)
-- https://github.com/vikhyat/moondream
-- https://huggingface.co/vikhyatk/moondream2
-
 #### Mistral (feat. Nvidia)
 - NeMo 12B
   - https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407
@@ -153,6 +151,7 @@
   - [8B](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
 - [Ministral 8B Instruct](https://huggingface.co/mistralai/Ministral-8B-Instruct-2410)
 - [Mistral-Small-24B-Instruct-2501 (aka Mistral Small 3)](https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501)
+- [DeepHermes-3-Mistral](https://huggingface.co/collections/NousResearch/deephermes-67d2ff8c9246cc09a7bd8add)
 
 #### Apple
 - [Open-ELM](https://github.com/apple/corenet/tree/main/mlx_examples/open_elm)
@@ -175,7 +174,7 @@
   - [Llama-3.1-Nemotron-70B-Instruct](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)
   - [Llama-3.1-Nemotron-51B-Instruct](https://huggingface.co/ymcki/Llama-3_1-Nemotron-51B-Instruct-GGUF)
 - [Selene-1-Mini-Llama-3.1-8B (Llama-based small evaluation and scoring LLM)](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B)
-- [DeepHermes 3 Llama 3 8B](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview)
+- [DeepHermes-3-Llama](https://huggingface.co/collections/NousResearch/deephermes-67d2ff8c9246cc09a7bd8add)
 
 #### WizardLM Uncensored
 - [13B](https://huggingface.co/cognitivecomputations/WizardLM-13B-Uncensored)
@@ -185,7 +184,8 @@
 - [Aya 23 8B/35B (multilingual specialized)](https://huggingface.co/collections/CohereForAI/c4ai-aya-23-664f4cda3fa1a30553b221dc)
 - [Command R7B](https://huggingface.co/CohereForAI/c4ai-command-r7b-12-2024)
 
-#### Qwen merges / fine-tunes
+#### Alibaba (Qwen plus merges / fine-tunes)
+- [Qwen-2.5-14B-Instruct-1M](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M)
 - SuperNova-Medius 14B (distillation merge between Qwen and Llama)
   - https://huggingface.co/arcee-ai/SuperNova-Medius
   - https://huggingface.co/bartowski/SuperNova-Medius-GGUF
@@ -193,10 +193,19 @@
 - [Confucius-o1-14B (Qwen reasoning fine-tune)](https://huggingface.co/netease-youdao/Confucius-o1-14B)
 - [Chirp 3B](https://huggingface.co/ozone-research/Chirp-01)
 - [UIGEN 14B (based on Qwen 2.5 14B Coder)](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B)
+- [Rombo LLM Qwen Merge](https://huggingface.co/bartowski/Rombo-Org_Rombo-LLM-V3.1-QWQ-32b-GGUF)
 
 #### Deepseek
 - [R1 distillations](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)
 - [Arcee Meastro 7B (distillation fine-tune)](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview)
+
+#### IBM
+- [Granite Code Models](https://github.com/ibm-granite/granite-code-models)
+- [Granite v3.1](https://huggingface.co/collections/ibm-granite/granite-31-language-models-6751dbbf2f3389bec5c6f02d)
+- [Granite v3.2](https://huggingface.co/collections/ibm-granite/granite-32-language-models-67b3bc8c13508f6d064cff9a)
+- [Granite v3.3](https://huggingface.co/collections/ibm-granite/granite-33-language-models-67f65d0cca24bcbd1d3a08e3)
+- [Granite v4 Preview](https://huggingface.co/collections/ibm-granite/granite-40-language-models-6811a18b820ef362d9e5a82c)
+- [Granite Experiments](https://huggingface.co/collections/ibm-granite/granite-experiments-6724f4c225cd6baf693dbb7a)
 
 #### Other
 - [Awesome Small Language Models list](https://github.com/slashml/awesome-small-language-models)
@@ -209,9 +218,11 @@
 - [RWKV-5 Eagle 7B](https://huggingface.co/RWKV/v5-Eagle-7B-pth)
 - [RefuelLLM-2 8B (data labeling model)](https://huggingface.co/refuelai/Llama-3-Refueled)
 - [Doctor Dignity 7B](https://github.com/llSourcell/Doctor-Dignity)
+- [Prometheus 2 7B/8x7B (LLM for LLM evaluation)](https://github.com/prometheus-eval/prometheus-eval)
 - [Prem-1B (RAG expert model)](https://blog.premai.io/introducing-prem-1b/)
 - [CodeGeeX4 9B](https://huggingface.co/THUDM/codegeex4-all-9b)
 - [BigTranslate 13B](https://github.com/ZNLP/BigTranslate)
+- [Starcoder 2 3B/7B/15B](https://github.com/bigcode-project/starcoder2)
 - [ContextualAI's OLMoE](https://contextual.ai/olmoe-mixture-of-experts)
 - [OpenCoder 1.5B/8B](https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e)
 - [NuExtract 1.5](https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d)
@@ -291,6 +302,11 @@
 - [Llama 3.2-Vision](https://huggingface.co/collections/meta-llama/)
 - [Apollo 7B (based on Qwen, taken down by Meta)](https://huggingface.co/GoodiesHere/Apollo-LMMs-Apollo-7B-t32)
 
+#### Moondream (vision model on edge devices)
+- https://github.com/vikhyat/moondream
+- https://huggingface.co/vikhyatk/moondream2
+- [Moondream 2B (small vlm)](https://huggingface.co/moondream/moondream-2b-2025-04-14-4bit)
+
 #### Other
 - [Apple's Ferret](https://github.com/apple/ml-ferret)
 - [Idefics2 8B](https://huggingface.co/HuggingFaceM4/idefics2-8b)
@@ -298,10 +314,13 @@
 - [Ultravox](https://github.com/fixie-ai/ultravox)
 - [Molmo](https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19)
 - [Emu3](https://huggingface.co/BAAI/Emu3-Gen)
-- [GOT OCR 2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/)
-- Ovis 1.6 (vision model with LLM based on Gemma 2 9B)
-  - https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
-  - https://huggingface.co/stepfun-ai/GOT-OCR2_0
+- OCR
+  - [GOT OCR 2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/)
+  - Ovis 1.6 (vision model with LLM based on Gemma 2 9B)
+    - https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
+    - https://huggingface.co/stepfun-ai/GOT-OCR2_0
+  - [Ovis2 collection (strong with OCR)](https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464)
+  - [olmOCR-7B-0225-preview](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 - [Aria](https://huggingface.co/rhymes-ai/Aria)
 - [OpenGVLab's InternVL 2.5](https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c)
 - [Megrez 3B Omni](https://huggingface.co/Infinigence/Megrez-3B-Omni)
@@ -309,6 +328,10 @@
 - [Bytedance's Sa2VA](https://huggingface.co/collections/ByteDance/sa2va-model-zoo-677e3084d71b5f108d00e093)
 - [LlamaV o1 11B Vision Instruct](https://huggingface.co/omkarthawakar/LlamaV-o1)
 - [IBM's Granite v3.2](https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800)
-- [Ovis2 collection (strong with OCR)](https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464)
 - [Huggingface's SmolVLM2](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7)
 - [Cohere's Aya Vision 8B & 32B](https://huggingface.co/collections/CohereForAI/c4ai-aya-vision-67c4ccd395ca064308ee1484)
+- [IBM Granite Vision](https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800)
+- Diffusion Models
+  - [MMaDA-8B](https://github.com/Gen-Verse/MMaDA)
+  - [LaViDa-8B](https://github.com/jacklishufan/LaViDa)
+  - [BLIP3o-4B/8B](https://github.com/JiuhaiChen/BLIP3o)
