@@ -36,6 +36,8 @@
 - [Atropos (framework for reinforcement learning environment with LLMs)](https://github.com/NousResearch/atropos)
 - [ReCall (RL training for Reasoning with tool call)](https://github.com/Agent-RL/ReCall)
 - [ms-swift (model fine-tuning framework)](https://github.com/modelscope/ms-swift)
+- [Kolo (fine-tuning setup framework)](https://github.com/MaxHastings/Kolo)
+- [Reasoning LLM course](https://huggingface.co/reasoning-course)
 
 
 ## Frameworks, stacks, articles etc.
