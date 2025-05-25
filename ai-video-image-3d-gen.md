@@ -1,5 +1,6 @@
 # Video / Image / 3D Generation
 
+
 ## Image Generation Models (besides Stable Diffusion and Flux)
 - PixArt
   - [alpha/-delta](https://github.com/PixArt-alpha/PixArt-alpha)
@@ -14,6 +15,8 @@
 - [Nvidia's Sana](https://github.com/NVlabs/Sana)
 - [Lumina Image 2.0](https://civitai.com/models/1222266?modelVersionId=1377095)
 - [OmniGen](https://github.com/VectorSpaceLab/OmniGen)
+- [HiDream](https://github.com/HiDream-ai/HiDream-I1)
+
 
 ## Image Manipulation with AI
 - [BIRD (Image restoration)](https://github.com/hamadichihaoui/BIRD)
@@ -49,6 +52,8 @@
   - [Upscayl](https://github.com/upscayl/upscayl)
 - [PhotoDoodle (inpainting effects / decoration)](https://github.com/showlab/PhotoDoodle)
 - [img2svg](https://huggingface.co/starvector/starvector-8b-im2svg)
+- [ICEdit (in-context editing)](https://github.com/River-Zhang/ICEdit)
+
 
 ## Video Generation Models
 
@@ -84,6 +89,12 @@
   - [SkyReels v1](https://github.com/SkyworkAI/SkyReels-V1)
   - [SkyReels i2v workflow](https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy)
 - [Image2Video](https://huggingface.co/tencent/HunyuanVideo-I2V)
+- [Hunyuan-Custom (subject consistency)](https://github.com/Tencent-Hunyuan/HunyuanCustom)
+
+### Wan
+- Wan-AI
+  - [Collection](https://huggingface.co/Wan-AI)
+
 
 ## Other Video Generation / Manipulation Models and Tools
 - [Alibaba VGen (video generation projects)](https://github.com/ali-vilab/VGen)
@@ -101,6 +112,9 @@
 - [Video upscale workflows](https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid)
 - [Live Portrait and Face Expression Tutorial](https://www.youtube.com/watch?v=q6poA8I7tRM)
 - [Video face restoration](https://github.com/wangzhiyaoo/SVFR)
+- [VACE (Reference-to-video, video-to-video)](https://github.com/ali-vilab/VACE)
+- [KEEP (video upscaling)](https://github.com/jnjaby/KEEP)
+
 
 ## AI Object Detection
 - [Blog around image detection techniques](https://blog.roboflow.com/)
@@ -114,7 +128,7 @@
 - Real-time object detection
   - [Roboflow leaderboard](https://leaderboard.roboflow.com/)
   - [DEIM](https://github.com/ShihuaHuang95/DEIM)
-  - [D-FINE](https://github.com/Peterande/D-FINE)
+  - [D-FINE](https://huggingface.co/collections/ustc-community/d-fine-68109b427cbe6ee36b4e7352)
   - DAB-DETR
     - https://huggingface.co/IDEA-Research/dab-detr-resnet-50
     - https://huggingface.co/docs/transformers/main/en/model_doc/dab-detr
@@ -126,6 +140,7 @@
 - Depth estimation
   - https://huggingface.co/apple/DepthPro-hf
   - https://huggingface.co/docs/transformers/main/en/model_doc/depth_pro
+
 
 ## 3D Generation / Manipulation Models and Tools
 - [WildGaussians](https://github.com/jkulhanek/wild-gaussians/)
@@ -139,3 +154,7 @@
   - https://github.com/tencent/Hunyuan3D-2
   - https://huggingface.co/tencent/Hunyuan3D-2mini
 - [Pippo (turnaround view of person)](https://github.com/facebookresearch/pippo)
+- [TripoSG (image-to-3D)](https://github.com/VAST-AI-Research/TripoSG)
+- [Roblox cube (text-to-3D)](https://github.com/Roblox/cube)
+- [LegoGPT (text-to-Lego)](https://github.com/AvaLovelace1/LegoGPT)
+- [Step1X-3D (image-to-3D)](https://github.com/stepfun-ai/Step1X-3D)
