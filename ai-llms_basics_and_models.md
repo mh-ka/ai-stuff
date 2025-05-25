@@ -337,3 +337,8 @@
 - [Huggingface's SmolVLM2](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7)
 - [Cohere's Aya Vision 8B & 32B](https://huggingface.co/collections/CohereForAI/c4ai-aya-vision-67c4ccd395ca064308ee1484)
 - [Kimi-VL-A3B](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85)
+- [IBM Granite Vision](https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800)
+- Diffusion Models
+  - [MMaDA-8B](https://github.com/Gen-Verse/MMaDA)
+  - [LaViDa-8B](https://github.com/jacklishufan/LaViDa)
+  - [BLIP3o-4B/8B](https://github.com/JiuhaiChen/BLIP3o)
