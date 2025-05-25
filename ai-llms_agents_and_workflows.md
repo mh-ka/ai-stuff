@@ -24,13 +24,18 @@
 - [Survey paper for planning of LLM agents](https://arxiv.org/pdf/2402.02716)
 - [AI Agent for Email Automation with SmolAgents](https://www.llmwatch.com/p/ai-agent-for-email-automation-with)
 - [AI Agents for beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [How to build an MCP server](https://huggingface.co/blog/gradio-mcp)
 
 ## Workflow editors
 - [AI Flow (connect different models)](https://ai-flow.net)
 - [n8n (LLM workflow editor)](https://github.com/n8n-io/n8n)
 - [Flowise (LLM workflow editor)](https://github.com/FlowiseAI/Flowise)
-- [Omnichain (LLM workflow editor)](chttps://github.com/zenoverflow/omnichain)
+- [Omnichain (LLM workflow editor)](https://github.com/zenoverflow/omnichain)
 - [Manifold (workflow editor)](https://github.com/intelligencedev/manifold)
+- [Open Agent Platform (no-code agent building)](https://github.com/langchain-ai/open-agent-platform)
+
+## Model Context Protocol
+- [Klavis (MCP integrations)](https://github.com/Klavis-AI/klavis)
 
 ## Other
 - [Experts.js (Multi AI Agent Systems Framework in Javascript)](https://github.com/metaskills/experts)
@@ -69,3 +74,4 @@
 - [PromptPex (prompt testing)](https://github.com/microsoft/promptpex/)
 - [AgentKit (LangChain-based starter kit)](https://github.com/BCG-X-Official/agentkit)
 - [Upsonic (reliabilty focused framework)](https://github.com/Upsonic/Upsonic)
+- [AG-UI (agent-user interaction protocol)](https://github.com/ag-ui-protocol/ag-ui)
