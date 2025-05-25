@@ -52,6 +52,8 @@
 - [PixelPaint](https://civitai.com/models/284101?modelVersionId=532842)
 - [Realistic Stock Photo v2.0](https://civitai.com/models/139565?modelVersionId=294470)
 - [NoobAI-XL](https://civitai.com/models/833294/noobai-xl-nai-xl)
+- [Artium](https://civitai.com/models/216439/artium)
+- [Splashed Mix DMD](https://civitai.com/models/932513/splashed-mix-dmd)
 
 ### Other models
 - [Segmind SSD 1B (Destilled SDXL)](https://civitai.com/models/188863/segmind-ssd-1b)
