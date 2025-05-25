@@ -116,6 +116,8 @@
 - [AllenAI's Tulu 3 (Llama3.1 Fine-Tune)](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
 - [Jamba 1.6 (hybrid SSM-Transformer)](https://huggingface.co/collections/ai21labs/jamba-16-67c990671a26dcbfa62d18fa)
 - [Cogito v1 Preview (hybrid reasoning)](https://huggingface.co/collections/deepcogito/cogito-v1-preview-67eb105721081abe4ce2ee53)
+- [GLM-4-32B](https://huggingface.co/matteogeniaccio/GLM-4-32B-0414-GGUF-fixed/tree/main)
+- [Unsloth Dynamic Quants](https://huggingface.co/collections/unsloth/unsloth-dynamic-20-quants-68060d147e9b9231112823e6)
 
 
 ### Smaller model releases (model series and derivatives)
