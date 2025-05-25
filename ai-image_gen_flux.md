@@ -100,3 +100,4 @@
 - [Qwen2VL-Flux](https://github.com/erwold/qwen2vl-flux)
 - [Prompt catalyst chrome extension](https://chromewebstore.google.com/detail/prompt-catalyst/hehieakgdbakdajfpekgmfckplcjmgcf?pli=1)
 - [LORA scheduling in ComfyUI](https://blog.comfy.org/p/masking-and-scheduling-lora-and-model-weights)
+- [ComfyUI with Intel Arc - Clean install](https://github.com/ai-joe-git/ComfyUI-Intel-Arc-Clean-Install-Windows-venv-XPU-)
