@@ -67,6 +67,7 @@
 - [Claymate](https://civitai.com/models/208168/claymate-claymation-style-for-sdxl)
 - [Bread](https://civitai.com/models/278431/bread)
 - [Pixel Art](https://civitai.com/models/1050935/the-king-of-fighters-victory-portrait-pixel-art)
+- [Lava](https://civitai.com/models/203169?modelVersionId=228732)
 
 ## Flux based
 
@@ -132,13 +133,15 @@
 - [Dramatic Portrait B&W](https://civitai.com/models/1042672/dramatic-portrait-black-and-white)
 - [Boreal v2](https://civitai.com/models/639937/boreal-fd-boring-reality-flux-dev-lora)
 - [Old photos](https://civitai.com/models/1105860/eerie-old-photos-lora-flux)
-- [2000s Analog Core](https://civitai.com/models/1134895?modelVersionId=1276001)
+- [2000s Analog Core](https://civitai.com/models/1134895?modelVersionId=1640450)
 - [Sony Maciva](https://civitai.com/models/1147127?modelVersionId=1290161)
 - [Improved Amateur Realism](https://civitai.com/models/970862)
 - [Sony Alpha A7 III](https://civitai.com/models/1174190)
 - [BODYADI](https://civitai.com/models/1214697?modelVersionId=1368270)
 - [Fisheye Lens](https://civitai.com/models/1303901/fisheye-lens-or-y2k-aestheti)
 - [Into the trench](https://civitai.com/models/1298699/into-the-trench-thalassophobia-inducing-abyssal-critters-for-flux)
+- [GrainScape UltraReal](https://civitai.com/models/1332651/grainscape-ultrareal)
+- [SamsungCam UltraReal](https://civitai.com/models/1551668?modelVersionId=1755780)
 
 ### Cinema / TV / Commercials / Pop culture / Anime
 - [CCTV](https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev)
@@ -199,6 +202,13 @@
 - [Weirdos](https://civitai.com/models/1087910/everly-heights-weirdos-flux)
 - [Don Martin Cartoon](https://civitai.com/models/1222183/don-martin-cartoon-style-characters?modelVersionId=1376948)
 - [Vintage Mascot Logotypes](https://civitai.com/models/1271908/wizards-vintage-mascot-logotypes)
+- [MUSCLE](https://civitai.com/models/1153060/muscle-style-or-flux1d)
+- [Erwin Olaf](https://civitai.com/models/871534/erwin-olaf-style-for-flux)
+- [Mystic Vogue 80s Occult Pop](https://civitai.com/models/1227536?modelVersionId=1383111)
+- [Rubberhose](https://huggingface.co/glif-loradex-trainer/R4Z0R1337_rubberhose_inspired)
+- [Saturday Morning](https://civitai.com/models/1349575/everly-heights-saturday-morning-flux)
+- [Wes Anderson Asteroid City](https://civitai.com/models/1362721/wes-anderson-asteroid-city-style-asteroid-dream)
+- [Dark Ghibli](https://civitai.com/models/1349631/dark-ghibli)
 
 ### Materials
 - [Woodpiece Crafter](https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux)
@@ -216,6 +226,7 @@
 - [PONGO Dough Style](https://civitai.com/models/1008012/pongo-childish-play-dough-style-for-flux)
 - [2.5D Mural](https://civitai.com/models/1132730?modelVersionId=1273449)
 - [Chinese Seal Carving](https://civitai.com/models/1148354/chinese-seal-carving-sololora)
+- [Destruction & Damage](https://civitai.com/models/1608106/destruction-and-damage-break-your-stuff)
 
 ### Painting / Drawing
 - [Oil Painting](https://civitai.com/models/723141)
@@ -258,6 +269,12 @@
 - [Vibrant Watercolor Painting](https://civitai.com/models/1200817/vibrant-watercolor-paintingsketch-v1)
 - [Cave Paintings](https://tensor.art/models/823913863108995790/Cave-Paintings-20)
 - [Hyperdetailed Colored Pencil](https://civitai.com/models/1155749?modelVersionId=1405684)
+- [Ink & Lore](https://civitai.com/models/1456794/ink-and-lore)
+- [Dynamismo Futurismo](https://civitai.com/models/1309970/dynamismo-futurismo)
+- [Impressionism](https://civitai.com/models/545264/impressionism-sdxl-pony-flux)
+- [Lincoln Print](https://civitai.com/models/1357461/lincoln-print)
+- [Jawlensky Visions](https://civitai.com/models/1364945/jawlensky-visions)
+- [Paint & Print](https://civitai.com/models/1214773/paint-and-print)
 
 ### Other Flux LORAs
 - [Icon Maker](https://civitai.com/models/722531)
@@ -318,3 +335,6 @@
 - [Crusade](https://civitai.com/models/1250822?modelVersionId=1410033)
 - [Synthwave Glow](https://civitai.com/models/1047517/jibs-synthwave-glow)
 - [BirdMacro](https://civitai.com/models/1192800/birdmacro)
+- [Surreal](https://civitai.com/models/681518/surreal-styles-flux-dev)
+- [Progress Bar](https://civitai.com/models/1509609?modelVersionId=1707619)
+- [Legacy of the forerunners](https://civitai.com/models/1430091/legacy-of-the-forerunners)
