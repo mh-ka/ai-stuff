@@ -52,6 +52,9 @@
 - [graphiti (knowledge graph memory)](https://github.com/getzep/graphiti)
 - [turbular (MCP server for databases)](https://github.com/raeudigerRaeffi/turbular)
 - [OpenAgentPlatform (MCP desktop host)](https://github.com/OpenAgentPlatform/Dive)
+- [MCP debugging client](https://github.com/faraazahmad/mcp_debug)
+- [Experiments with MCP](https://github.com/Vaibhavs10/experiments-with-mcp)
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
 
 ## Other
 - [Experts.js (Multi AI Agent Systems Framework in Javascript)](https://github.com/metaskills/experts)

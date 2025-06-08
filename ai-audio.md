@@ -180,3 +180,4 @@
 - [Persona Engine](https://github.com/fagenorn/handcrafted-persona-engine)
 - [RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 - [Kimi-Audio (universal audio model)](https://github.com/MoonshotAI/Kimi-Audio)
+- [PlayDiffusion (audio inpainting)](https://github.com/playht/PlayDiffusion)

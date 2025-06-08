@@ -53,6 +53,10 @@
 - [Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 - [NYT Connections Extended](https://github.com/lechmazur/nyt-connections/)
 - [VLMs in social/physical context](https://opensocial.world/leaderboard)
+- [Time series forecasting eval](https://huggingface.co/spaces/Salesforce/GIFT-Eval)
+- [LM Eval framework by Google](https://github.com/google/lmeval)
+- [VideoGameBench for VLMs](https://github.com/alexzhang13/videogamebench)
+
 
 ## Benchmark List
 | Benchmark | Measures | Key Features |

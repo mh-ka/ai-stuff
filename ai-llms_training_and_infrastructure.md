@@ -124,6 +124,10 @@
 - [Dataset questions for testing Chinese models with bias ](https://huggingface.co/datasets/augmxnt/deccp)
 - [RecallWeaver (persistent graph memory system)](https://github.com/Asagix/RecallWeaver)
 - [lmdeploy (compressing, deploying, serving LLM)](https://github.com/InternLM/lmdeploy)
+- [Tensorzero (framework for hosting production-grade LLM application)](https://github.com/tensorzero/tensorzero)
+- [Ailoy (lightweight framework for building LLM apps)](https://github.com/brekkylab/ailoy)
+- [llm-tools-kiwix (expose offline Kiwix ZIM archives to LLMs)](https://github.com/mozanunal/llm-tools-kiwix)
+- [MNN by Alibaba (framework for inference and training)](https://github.com/alibaba/MNN)
 
 
 ## Retrieval-Augmented Generation (RAG)
@@ -207,3 +211,4 @@
 - [web2markdown](https://github.com/h2210316651/lexicrawler)
 - [doctr (document OCR)](https://github.com/mindee/doctr)
 - [img2table](https://github.com/xavctn/img2table)
+- [Extract2MD (convert PDF to Markdown)](https://github.com/hashangit/Extract2MD)

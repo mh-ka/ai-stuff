@@ -17,6 +17,7 @@
 - [Introduction to Vision Language Models](https://arxiv.org/pdf/2405.17247)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- [Quantization Types Overview](https://huggingface.co/docs/hub/en/gguf#quantization-types)
 - [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
 - [Training, Fine-Tuning, Evaluation LLMs](https://www.philschmid.de/)
 - [Explaining how LLMs work](https://amgadhasan.substack.com/p/explaining-how-llms-work-in-7-levels)
@@ -232,7 +233,6 @@
 - [EuroLLM 9B](https://huggingface.co/utter-project/EuroLLM-9B)
 - [Moxin 7B](https://github.com/moxin-org/Moxin-LLM)
 - [Megrez 3B Instruct](https://huggingface.co/Infinigence/Megrez-3B-Instruct)
-- [GRMR v2.0 (grammar checking)](https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc)
 - [Falcon 3 (several sizes)](https://huggingface.co/blog/falcon3)
 - [AMD's OLMo 1B](https://huggingface.co/amd/AMD-OLMo)
 - [Fox-1-1.6B-Instruct](https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1)
@@ -250,6 +250,9 @@
 - [XiaomiMiMo (reasoning)](https://github.com/XiaomiMiMo/MiMo)
 - [JetBrains Mellum-4b-base (coding)](https://huggingface.co/JetBrains/Mellum-4b-base)
 - [Helium 1 (multilingual and modular)](https://huggingface.co/collections/kyutai/helium-1-681237bbba8c1cf18a02e4bd)
+- Grammar checking
+  - [GRMR v2](https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc)
+  - [GRMR v3](https://huggingface.co/collections/qingy2024/grmr-v3-models-683e6a27b42e4eb0e950fbdd)
 
 
 ### Multimodal / Vision models

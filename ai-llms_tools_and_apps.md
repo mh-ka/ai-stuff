@@ -72,6 +72,7 @@
 - [More AI Web Search apps](https://www.victornogueira.app/awesome-ai-web-search/)
 - [Phind (AI based search engine)](https://www.phind.com/search?home=true)
 - [MiniSearch (LLM based web search)](https://github.com/felladrin/MiniSearch)
+- [SurfSense (search with many integration options)](https://github.com/MODSetter/SurfSense)
 
 ## Researcher / Analytics
 - [From HuggingFace](https://huggingface.co/blog/open-deep-research)
@@ -172,10 +173,11 @@
 - [Microsoft AIShell (powershell with AI assistance)](https://github.com/PowerShell/AIShell)
 - [Warp (intelligent terminal)](https://www.warp.dev/i)
 
-## File organizer
+## File organizer and merger
 - [Local File Organizer](https://github.com/QiuYannnn/Local-File-Organizer)
 - [FileWizardAI](https://github.com/AIxHunter/FileWizardAI)
 - [Sortify AI](https://github.com/quentin-r37/sortify-ai)
+- [FileCollector (organize and merge file contents)](https://github.com/lorenzodimauro97/FileCollector)
 
 ## Medical assistant
 - [Open Health](https://github.com/OpenHealthForAll/open-health)
@@ -199,6 +201,7 @@
 - [Vector Companion](https://github.com/SingularityMan/vector_companion)
 - [Local Computer Vision (LCLV) with Moondream](https://github.com/HafizalJohari/lclv)
 - [Logging assistant creation](https://github.com/jetro30087/Ollogger)
+- [Qwen2 Service (running Qwen 2.5 7B VLM as API)](https://github.com/kkaarrss/qwen2_service)
 
 ## Other
 - [Scalene (High Performance Python Profiler)](https://github.com/plasma-umass/scalene)
@@ -225,3 +228,4 @@
 - [How to safely connect cloud server to home GPU](https://zohaib.me/safely-connect-cloud-server-to-home-gpu-server/)
 - [Meetily (meeting minutes)](https://github.com/Zackriya-Solutions/meeting-minutes)
 - [LocalAI (multi-purpose suite)](https://github.com/mudler/LocalAI)
+

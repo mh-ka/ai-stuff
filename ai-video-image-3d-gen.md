@@ -32,6 +32,7 @@
   - [Roop Floyd](https://codeberg.org/Cognibuild/ROOP-FLOYD)
   - [Rope-next](https://github.com/lodgecku/Rope-next)
   - [VisoMaster](https://github.com/visomaster/VisoMaster)
+    - [Fork with better GPU support](https://github.com/loscrossos/core_visomaster)
   - FaceFusion (3.0.0)
     - [Github](https://github.com/facefusion/facefusion)
     - [Reddit](https://www.reddit.com/r/StableDiffusion/comments/1fpbm3p/facefusion_300_has_finally_launched/)
@@ -54,6 +55,10 @@
 - [PhotoDoodle (inpainting effects / decoration)](https://github.com/showlab/PhotoDoodle)
 - [img2svg](https://huggingface.co/starvector/starvector-8b-im2svg)
 - [ICEdit (in-context editing)](https://github.com/River-Zhang/ICEdit)
+- [LanPaint (Thinking Inpainting)](https://github.com/scraed/LanPaint)
+- [BagelUI (image editing via prompting)](https://github.com/dasjoms/BagelUI)
+- [Detail Daemon (adding details)](https://github.com/Jonseed/ComfyUI-Detail-Daemon)
+- [LUT Maker (GPU accelerated color lookup table generator)](https://github.com/o-l-l-i/lut-maker)
 
 
 ## Video Generation Models
@@ -93,8 +98,10 @@
 - [Hunyuan-Custom (subject consistency)](https://github.com/Tencent-Hunyuan/HunyuanCustom)
 
 ### Wan
-- Wan-AI
-  - [Collection](https://huggingface.co/Wan-AI)
+- [Collection](https://huggingface.co/Wan-AI)
+- LORAs
+  - [Steamboat Willie](https://huggingface.co/benjamin-paine/steamboat-willie-14b)
+
 
 
 ## Other Video Generation / Manipulation Models and Tools
@@ -108,16 +115,23 @@
 - [DepthFlow](https://github.com/BrokenSource/DepthFlow)
 - [Video crop tool (helpful for training dataset creation)](https://github.com/Tr1dae/HunyClip)
 - [Video face swap](https://codeberg.org/Cognibuild/ROOP-FLOYD)
-- [Lipsync](https://github.com/bytedance/LatentSync)
-- [Video upscaling](https://huggingface.co/SherryX/STAR)
-- [Video upscale workflows](https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid)
-- [Live Portrait and Face Expression Tutorial](https://www.youtube.com/watch?v=q6poA8I7tRM)
-- [Video face restoration](https://github.com/wangzhiyaoo/SVFR)
+- Avatar talking animation
+  - [LatentSync](https://github.com/bytedance/LatentSync)
+  - [LivePortrait](https://github.com/kijai/ComfyUI-LivePortraitKJ)
+  - [Live Portrait and Face Expression Tutorial](https://www.youtube.com/watch?v=q6poA8I7tRM)
+  - [Sonic](https://github.com/smthemex/ComfyUI_Sonic)
+  - [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar)
+- Restoration and upscaling
+  - [Video face restoration](https://github.com/wangzhiyaoo/SVFR)
+  - [Video upscaling](https://huggingface.co/SherryX/STAR)
+  - [Video upscale workflows](https://civitai.com/search/models?modelType=Workflows&sortBy=models_v9&query=upscale%20vid)
+  - [KEEP (video upscaling)](https://github.com/jnjaby/KEEP)
+  - [Video2x](https://github.com/k4yt3x/video2x)
 - [VACE (Reference-to-video, video-to-video)](https://github.com/ali-vilab/VACE)
-- [KEEP (video upscaling)](https://github.com/jnjaby/KEEP)
+- [Wan2GP (app for using different video models)](https://github.com/deepbeepmeep/Wan2GP)
 
 
-## AI Object Detection
+## Image Segmentation / Object Detection
 - [Blog around image detection techniques](https://blog.roboflow.com/)
 - [YOLOv10 (Real-time object detection)](https://github.com/THU-MIG/yolov10 (https://github.com/ultralytics/ultralytics))
 - Meta's Segment Anything (SAM)
@@ -139,6 +153,7 @@
     - https://huggingface.co/docs/transformers/main/en/model_doc/rt_detr_v2
     - https://huggingface.co/PekingU/rtdetr_r18vd
   - [RF-DETR (Roboflow)](https://github.com/roboflow/rf-detr)
+  - [Vision-LSTM (technique and models)](https://github.com/NX-AI/vision-lstm)
 - Depth estimation
   - https://huggingface.co/apple/DepthPro-hf
   - https://huggingface.co/docs/transformers/main/en/model_doc/depth_pro
