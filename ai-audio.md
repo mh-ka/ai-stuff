@@ -19,10 +19,15 @@
 - [Easy Whisper UI](https://github.com/mehtabmahir/easy-whisper-ui)
 - [SoftWhisper](https://github.com/NullMagic2/SoftWhisper)
 
-### Other
-- Nvidia's Canary (with translation)
+### Nvidia
+- Canary (with translation)
   - https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/
   - https://huggingface.co/nvidia/canary-1b-flash
+- Parakeet
+  - https://github.com/Shadowfita/parakeet-tdt-0.6b-v2-fastapi
+  - https://github.com/SridharSampath/parakeet-asr-demo
+
+### Other
 - [Qwen2-Audio-7B](https://huggingface.co/Qwen/Qwen2-Audio-7B)
 - [Speech2Speech pipeline](https://github.com/huggingface/speech-to-speech)
 - [Moonshine](https://github.com/usefulsensors/moonshine)
@@ -65,6 +70,7 @@
 - [v0.1](https://huggingface.co/Zyphra/Zonos-v0.1-transformer)
 - [Github](https://github.com/Zyphra/Zonos)
 - [Windows fork](https://github.com/sdbds/Zonos-for-windows)
+- [Core Zonos](https://github.com/loscrossos/core_zonos)
 
 ### StepAudio
 - [TTS 3B](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B)
@@ -73,6 +79,17 @@
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)
 - [Local WebUI](https://github.com/akashjss/orpheus-tts-local-webui)
 - [3B Fine-tune](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft)
+
+### Chatterbox
+- [Huggingface](https://huggingface.co/ResembleAI/chatterbox)
+- [ComfyUI-Fill-Chatterbox](https://github.com/filliptm/ComfyUI_Fill-ChatterBox)
+- [Chatterbox-TTS-Extended](https://github.com/petermg/Chatterbox-TTS-Extended)
+- [ChatterboxToolkitUI](https://github.com/dasjoms/ChatterboxToolkitUI)
+
+### Dia
+- [Dia 1.6B](https://github.com/nari-labs/dia)
+- [NotebookLM style fork](https://github.com/PasiKoodaa/dia)
+- [Dia Podcast Generator](https://github.com/smartaces/dia_podcast_generator)
 
 ### Other
 - Models
@@ -98,9 +115,6 @@
     - [Blog page](https://huggingface.co/blog/srinivasbilla/llasa-tts)
   - [Spark-TTS (LLM-based TTS)](https://github.com/SparkAudio/Spark-TTS)
   - [Index-TTS](https://github.com/index-tts/index-tts)
-  - Dia
-    - [Dia 1.6B](https://github.com/nari-labs/dia)
-    - [NotebookLM style fork](https://github.com/PasiKoodaa/dia)
 - Audiobook creation
   - [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobookXTTS)
   - [autiobooks (audiobook generation)](https://github.com/plusuncold/autiobooks)
@@ -126,6 +140,7 @@
 - [Speaches (server for STT, translation, TTS)](https://github.com/speaches-ai/speaches)
 - [OpenReader (document reader)](https://github.com/richardr1126/OpenReader-WebUI)
 - [OpenDubbing](https://github.com/Softcatala/open-dubbing)
+- [Voice datasets](https://github.com/jim-schwoebel/voice_datasets)
 
 
 ## Music production

@@ -22,33 +22,56 @@
 - [Layer-Diffuse (transparent)](https://github.com/RedAIGC/Flux-version-LayerDiffuse)
 - [UltraReal Fine-Tune](https://civitai.com/models/978314?modelVersionId=1413133)
   - [Amplifier LORA](https://civitai.com/models/1200242/realistic-amplifier-for-ultrareal-fine-tune)
+- [Nunchaku](https://github.com/mit-han-lab/nunchaku)
+- [ControlNet-Union](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro-2.0)
+- [InstantCharacter](https://github.com/Tencent-Hunyuan/InstantCharacter)
+  - [ComfyUI](https://github.com/jax-explorer/ComfyUI-InstantCharacter)
+- Chroma (based on Flux schnell)
+  - [Model safetensors](https://civitai.com/models/1330309)
+  - [Model GGUFs](https://huggingface.co/silveroxides/Chroma-GGUF/tree/main)
+  - LORAs
+    - [Orange](https://huggingface.co/prithivMLmods/Orange-Chroma-Flux-LoRA)
+    - [Experiments](https://huggingface.co/silveroxides/Chroma-LoRA-Experiments)
 
 ## LORAs
 [LORAs](ai-image_gen_loras.md)
 
 ## Tools and links
 
-### Workflows
-- [Simple ComfyUI Workflow](https://github.com/Wonderflex/WonderflexComfyWorkflows)
-- [Another simple one](https://www.reddit.com/r/StableDiffusion/comments/1ewdllh/simple_comfyui_flux_workflows_v2_for_q8q5q4_models/)
-- [More simple ones](https://civitai.com/models/664346?modelVersionId=766185)
-- [Modular](https://civitai.com/models/642589)
-- [Big Workflow](https://civitai.com/models/618578/flux-dev-hi-res-fix-img2img-in-and-out-paint-wildcards-loras-upscaler?modelVersionId=693048)
-- [Outpaint](https://openart.ai/workflows/myaiforce/M3OEFh46Ojtb6RcdOCsI)
-- [VALHALLA (minimalistic workflow and fast generation)](https://civitai.com/models/818589/flux-valhalla)
-- [Clean workflow](https://civitai.com/models/698637?modelVersionId=781746)
-- [Flow (easy user friendly Comfy UI)](https://github.com/diStyApps/ComfyUI-disty-Flow)
-- [Collection of simple workflows](https://civitai.com/models/912123/all-simple-workflow-flux-or-upscale-or-lora-or-gguf-or-civitai-metadata)
-- [ComfyUI Node for details](https://github.com/Jonseed/ComfyUI-Detail-Daemon)
-- [Upscale workflow](https://www.patreon.com/posts/113348776)
-- [Image Editing workflow](https://github.com/logtd/ComfyUI-Fluxtapoz)
-- [Person mask generator workflows](https://github.com/djbielejeski/a-person-mask-generator)
-- [Insert character](https://github.com/kinelite/Flux-insert-character)
-- [OmniControl](https://github.com/Macoron/ComfyUI-Diffusers-OminiControl)
-- [Ultimate Flux v4](https://www.patreon.com/posts/120952448)
-- [Consistent Character](https://civitai.com/articles/8916/workflow-i2i-consistent-character-generation-flux)
-- [Product photography](https://civitai.com/posts/12667036)
-- [ControlNet](https://www.patreon.com/posts/flux-depth-canny-118065837)
+### ComfyUI Workflows and Nodes
+- Workflows
+  - [Simple ComfyUI Workflow](https://github.com/Wonderflex/WonderflexComfyWorkflows)
+  - [Another simple one](https://www.reddit.com/r/StableDiffusion/comments/1ewdllh/simple_comfyui_flux_workflows_v2_for_q8q5q4_models/)
+  - [More simple ones](https://civitai.com/models/664346?modelVersionId=766185)
+  - [Modular](https://civitai.com/models/642589)
+  - [Big Workflow](https://civitai.com/models/618578/flux-dev-hi-res-fix-img2img-in-and-out-paint-wildcards-loras-upscaler?modelVersionId=693048)
+  - [Outpaint](https://openart.ai/workflows/myaiforce/M3OEFh46Ojtb6RcdOCsI)
+  - [VALHALLA (minimalistic workflow and fast generation)](https://civitai.com/models/818589/flux-valhalla)
+  - [Clean workflow](https://civitai.com/models/698637?modelVersionId=781746)
+  - [Flow (easy user friendly Comfy UI)](https://github.com/diStyApps/ComfyUI-disty-Flow)
+  - [Collection of simple workflows](https://civitai.com/models/912123/all-simple-workflow-flux-or-upscale-or-lora-or-gguf-or-civitai-metadata)
+  - [Upscale workflow](https://www.patreon.com/posts/113348776)
+  - [Image Editing workflow](https://github.com/logtd/ComfyUI-Fluxtapoz)
+  - [Person mask generator workflows](https://github.com/djbielejeski/a-person-mask-generator)
+  - [Insert character](https://github.com/kinelite/Flux-insert-character)
+  - [Ultimate Flux v4](https://www.patreon.com/posts/120952448)
+  - [Consistent Character](https://civitai.com/articles/8916/workflow-i2i-consistent-character-generation-flux)
+  - [Product photography](https://civitai.com/posts/12667036)
+  - [ControlNet](https://www.patreon.com/posts/flux-depth-canny-118065837)
+  - [Flux Latent Upscaler](https://github.com/rickrender/FluxLatentUpscaler)
+  - [Iconset Design](https://civitai.com/models/835897)
+  - [Dashtailor (anime clothing and object transfer)](https://github.com/dashtoon/dashtailor-workflow)
+  - [Clothing preserving body swap](https://openart.ai/workflows/nomadoor/clothing-preserving-body-swap/ZhZVTtf5ub9izozD7eBU)
+- Nodes
+  - [Detail Daemon](https://github.com/Jonseed/ComfyUI-Detail-Daemon)
+  - [OmniControl](https://github.com/Macoron/ComfyUI-Diffusers-OminiControl)
+  - [Helpful Nodes pack](https://github.com/rgthree/rgthree-comfy)
+  - [GGUF support](https://github.com/city96/ComfyUI-GGUF)
+  - [Inpaint CropAndStitch](https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch)
+  - [FlowChain](https://github.com/numz/Comfyui-FlowChain)
+  - [Prompt Control](https://github.com/asagi4/comfyui-prompt-control)
+- Misc
+  - [LORA Manager](https://github.com/willmiao/ComfyUI-Lora-Manager)
 
 ### PuLID
 - [ComfyUI Flux](https://github.com/balazik/ComfyUI-PuLID-Flux)
@@ -60,6 +83,7 @@
 - [ComfyUI workflow](https://github.com/EvilBT/ComfyUI_SLK_joy_caption_two)
 - [Batch script](https://github.com/MNeMoNiCuZ/joy-caption-batch)
 - [GGUF](https://huggingface.co/Jobaar/Llama-JoyCaption-Alpha-Two-GGUF)
+- [GUI](https://github.com/D3voz/joy-caption-beta-one-gui-mod)
 
 ### LORA training
 - Tools
@@ -89,7 +113,6 @@
 - [LORA search engine](https://www.fluxforge.app/)
 - [Recommended LORA creators](https://civitai.com/user/Adel_AI/models)
 - [Flux Gym](https://github.com/cocktailpeanut/fluxgym)
-- [Flux Latent Upscaler](https://github.com/rickrender/FluxLatentUpscaler)
 - [Prompt Quill](https://github.com/osi1880vr/prompt_quill)
 - [Photo File Names Wildcards](https://civitai.com/models/830154)
 - [Artist Styles Gallery](https://enragedantelope.github.io/Styles-FluxDev/)
@@ -101,4 +124,4 @@
 - [Prompt catalyst chrome extension](https://chromewebstore.google.com/detail/prompt-catalyst/hehieakgdbakdajfpekgmfckplcjmgcf?pli=1)
 - [LORA scheduling in ComfyUI](https://blog.comfy.org/p/masking-and-scheduling-lora-and-model-weights)
 - [ComfyUI with Intel Arc - Clean install](https://github.com/ai-joe-git/ComfyUI-Intel-Arc-Clean-Install-Windows-venv-XPU-)
-- [ComfyUI Nodes Rgthree](https://github.com/rgthree/rgthree-comfy)
+- [InfiniteYou fork for merging faces](https://github.com/petermg/InfiniteYou/)

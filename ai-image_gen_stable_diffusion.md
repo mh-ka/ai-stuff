@@ -54,6 +54,7 @@
 - [NoobAI-XL](https://civitai.com/models/833294/noobai-xl-nai-xl)
 - [Artium](https://civitai.com/models/216439/artium)
 - [Splashed Mix DMD](https://civitai.com/models/932513/splashed-mix-dmd)
+- [Drape1 (clothes try-on model)](https://huggingface.co/Uwear-ai/Drape1)
 
 ### Other models
 - [Segmind SSD 1B (Destilled SDXL)](https://civitai.com/models/188863/segmind-ssd-1b)
@@ -113,6 +114,7 @@
 - [HelloMeme (Face Re-Enactment SD1.5)](https://github.com/HelloVision/ComfyUI_HelloMeme)
 - [ControlNet Xinsir](https://openart.ai/workflows/toucan_chilly_4/controlnet-xinsir-simple-text-string/XRjF9rUn9NBl5K7T2bjc)
 - [SDXL Model Merge workflow](https://openart.ai/workflows/jEwUNAe6hcxcdHEUM9DK)
+- [Another workflow](https://openart.ai/workflows/toucan_chilly_4/4-embed-ipadapter-sdxl-wf---2-pass-ksampler-a-few-experimental-nodes-alpha-and-color-masks/Fy73xpbvCfTG41MC4t3W)
 
 ### Automatic1111 / Forge Extensions
 - [CADS (diversity)](https://github.com/v0xie/sd-webui-cads)
@@ -133,11 +135,17 @@
 - [sd-amateur-filter](https://github.com/ZyloO-ai/sd-amateur-filter)
 
 ### Other tools and links
+- Upscaling
+  - [1x-ReFocus-V3](https://openmodeldb.info/models/1x-ReFocus-V3)
+  - [Remacri Upscaling Model](https://openmodeldb.info/models/4x-Remacri)
+- Faces
+  - [Fooocus-inswapper (face swapping)](https://github.com/machineminded/Fooocus-inswapper)
+  - [Rope (face swapping)](https://github.com/Alucard24/Rope)
+  - [FacePoke](https://github.com/jbilcke-hf/FacePoke)
+  - [Face similarity analysis for ComfyUI](https://github.com/cubiq/ComfyUI_FaceAnalysis)
 - [Krita SD Plugin](https://github.com/Acly/krita-ai-diffusion)
 - [SDNext (Automatic1111 fork)](https://github.com/vladmandic/automatic)
 - [DiffusionToolkit (AI Image Viewer)](https://github.com/RupertAvery/DiffusionToolkit)
-- [Fooocus-inswapper (face swapping)](https://github.com/machineminded/Fooocus-inswapper)
-- [Rope (face swapping)](https://github.com/Alucard24/Rope)
 - [Swifty Animator](https://tavurth.itch.io/swifty-animator)
 - [Style Aligned WebUI](https://github.com/cocktailpeanut/StyleAligned.pinokio)
 - [LCM Drawing App (local)](https://github.com/kidintwo3/LCMDraw)
@@ -148,20 +156,15 @@
   - [Image-Interrogator](https://github.com/DEVAIEXP/image-interrogator)
 - [Create textures with stable diffusion](https://stableprojectorz.com)
 - [StoryMaker Workflow/Model](https://huggingface.co/RED-AIGC/StoryMaker)
-- [FacePoke](https://github.com/jbilcke-hf/FacePoke)
 - InvokeAI
   - [Github](https://github.com/invoke-ai/InvokeAI)
   - [Reddit](https://www.reddit.com/r/StableDiffusion/comments/1focbhe/invoke_50_massive_update_introducing_a_new_canvas/)
 - [IntraPaint](https://github.com/centuryglass/IntraPaint)
 - [IOPaint (Inpainting/Outpainting tool)](https://github.com/Sanster/IOPaint)
-- [Remacri Upscaling Model](https://openmodeldb.info/models/4x-Remacri)
 - [RefDrop Extension (Forge version)](https://github.com/tocantrell/sd-refdrop-forge)
-- [I Made Stable Diffusion XL Smarter](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/)
-- [Intel Arc and Microsoft support for stable diffusion](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055)
 - [DeciDiffusion v2.0](https://huggingface.co/Deci/DeciDiffusion-v2-0)
 /LwT4AB8wEtKQilrjq2G8
 - [FastSD CPU](https://github.com/rupeshs/fastsdcpu)
-- [Face similarity analysis for ComfyUI](https://github.com/cubiq/ComfyUI_FaceAnalysis)
 - [civitai green](https://civitai.green/)
 - [Stable Diffusion Visualizer](https://github.com/nathannlu/aperture)
 
@@ -182,6 +185,11 @@
 - [Upscaling Models](https://openmodeldb.info/)
 - [SD Models](https://rentry.org/sdmodels)
 - [Image Collection](https://civitai.com/collections/15937?sort=Most+Collected)
+- [I Made Stable Diffusion XL Smarter](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/)
+- [Intel Arc and Microsoft support for stable diffusion](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-and-Microsoft-Collaborate-to-Optimize-DirectML-for-Intel/post/1542055)
 - [ELLA tutorial](https://sandner.art/ella-leveraging-llms-for-enhanced-semantic-alignment-in-sd-15/)
 - [LORA training tutorial](https://rentry.org/PlumLora)
 - [Stable Diffusion Glossary](https://blog.segmind.com/the-a-z-of-stable-diffusion-essential-concepts-and-terms-demystified/)
+- [Image Generation Guide for Beginners](https://nemora.ai/blog/the-definitive-guide-to-ai-image-generation/)
+- [SDXL Artists List](https://stablediffusion.fr/artist-style)
+- [Stable Diffusion samplers explained](https://civitai.com/articles/7484/understanding-stable-diffusion-samplers-beyond-image-comparisons)

@@ -14,8 +14,12 @@
 - [DiffSensei (manga panels generator)](https://github.com/jianzongwu/DiffSensei)
 - [Nvidia's Sana](https://github.com/NVlabs/Sana)
 - [Lumina Image 2.0](https://civitai.com/models/1222266?modelVersionId=1377095)
-- [OmniGen](https://github.com/VectorSpaceLab/OmniGen)
-- [HiDream](https://github.com/HiDream-ai/HiDream-I1)
+- HiDream
+  - [Model](https://github.com/HiDream-ai/HiDream-I1)
+  - [Editing Model](https://github.com/HiDream-ai/HiDream-E1)
+  - LORAs
+    - [Coloring Book](https://civitai.com/models/1518899/coloring-book-hidream)
+- [Marigold (Depth Estimation)](https://github.com/prs-eth/Marigold)
 
 
 ## Image Manipulation with AI
@@ -48,7 +52,9 @@
 - [MEMO (Expressive Talking)](https://github.com/gjnave/memo-for-windows)
 - Upscaler Models and Tools
   - [Siax](https://civitai.com/models/147641/nmkd-siax-cx)
-  - [Ultrasharp](https://civitai.com/models/116225/4x-ultrasharp)
+  - Ultrasharp
+    - https://civitai.com/models/116225/4x-ultrasharp
+    - https://huggingface.co/Kim2091/UltraSharpV2
   - [Superscale](https://civitai.com/models/141491/4x-nmkd-superscale)
   - [4x-IllustrationJaNai-V1-DAT2](https://openmodeldb.info/models/4x-IllustrationJaNai-V1-DAT2)
   - [Upscayl](https://github.com/upscayl/upscayl)
@@ -56,9 +62,19 @@
 - [img2svg](https://huggingface.co/starvector/starvector-8b-im2svg)
 - [ICEdit (in-context editing)](https://github.com/River-Zhang/ICEdit)
 - [LanPaint (Thinking Inpainting)](https://github.com/scraed/LanPaint)
-- [BagelUI (image editing via prompting)](https://github.com/dasjoms/BagelUI)
 - [Detail Daemon (adding details)](https://github.com/Jonseed/ComfyUI-Detail-Daemon)
 - [LUT Maker (GPU accelerated color lookup table generator)](https://github.com/o-l-l-i/lut-maker)
+- [Insert Anything](https://github.com/song-wensong/insert-anything)
+- [Latent Bridge Matching (image relighting, restoration etc.)](https://github.com/gojasper/LBM)
+- Image editing via prompting / reference images
+  - [HiDream-E1](https://github.com/HiDream-ai/HiDream-E1)
+  - [Step1X-Edit](https://huggingface.co/stepfun-ai/Step1X-Edit)
+  - [DreamO](https://github.com/bytedance/DreamO)
+    - [ComfyUI](https://github.com/jax-explorer/ComfyUI-DreamO)
+  - [OmniGen](https://github.com/VectorSpaceLab/OmniGen)
+    - [ComfyUI](https://github.com/set-soft/ComfyUI_OmniGen_Nodes)
+  - [BagelUI](https://github.com/dasjoms/BagelUI)
+  - [Infinity](https://github.com/FoundationVision/Infinity)
 
 
 ## Video Generation Models
@@ -101,7 +117,13 @@
 - [Collection](https://huggingface.co/Wan-AI)
 - LORAs
   - [Steamboat Willie](https://huggingface.co/benjamin-paine/steamboat-willie-14b)
+  - [Flat Color](https://huggingface.co/motimalu/wan-flat-color-v2)
+  - [Ghibli](https://civitai.com/models/1474964)
 
+### LXTV
+- [Github](https://github.com/Lightricks/LTX-Video)
+- LORAs
+  - [Melting](https://civitai.com/models/1571778?modelVersionId=1778638)
 
 
 ## Other Video Generation / Manipulation Models and Tools
@@ -121,6 +143,8 @@
   - [Live Portrait and Face Expression Tutorial](https://www.youtube.com/watch?v=q6poA8I7tRM)
   - [Sonic](https://github.com/smthemex/ComfyUI_Sonic)
   - [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar)
+  - [FantasyTalking](https://github.com/Fantasy-AMAP/fantasy-talking)
+  https://learn.thinkdiffusion.com/fantasytalking-where-every-images-tells-a-moving-story/
 - Restoration and upscaling
   - [Video face restoration](https://github.com/wangzhiyaoo/SVFR)
   - [Video upscaling](https://huggingface.co/SherryX/STAR)
@@ -129,6 +153,15 @@
   - [Video2x](https://github.com/k4yt3x/video2x)
 - [VACE (Reference-to-video, video-to-video)](https://github.com/ali-vilab/VACE)
 - [Wan2GP (app for using different video models)](https://github.com/deepbeepmeep/Wan2GP)
+- Optimization
+  - [Sage Attention](https://github.com/woct0rdho/SageAttention)
+  - [Triton Windows](https://github.com/woct0rdho/triton-windows)
+  - [Flash Attention Windows Wheels](https://huggingface.co/lldacing/flash-attention-windows-wheel/tree/main)
+  - [TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer)
+    - [ComfyUI](https://github.com/philipy1219/ComfyUI-TaylorSeer)
+- MoviiGen (Wan Fine-Tune)
+  - https://huggingface.co/ZuluVision/MoviiGen1.1
+- [Video Colorization ComfyUI Nodes](https://github.com/jonstreeter/ComfyUI-Deep-Exemplar-based-Video-Colorization)
 
 
 ## Image Segmentation / Object Detection
@@ -153,6 +186,7 @@
     - https://huggingface.co/docs/transformers/main/en/model_doc/rt_detr_v2
     - https://huggingface.co/PekingU/rtdetr_r18vd
   - [RF-DETR (Roboflow)](https://github.com/roboflow/rf-detr)
+  - [Frigate (NVR With Realtime Object Detection for IP Cameras)](https://github.com/blakeblackshear/frigate)
   - [Vision-LSTM (technique and models)](https://github.com/NX-AI/vision-lstm)
 - Depth estimation
   - https://huggingface.co/apple/DepthPro-hf
@@ -168,7 +202,7 @@
   - [One-Click Installer](https://github.com/IgorAherne/trellis-stable-projectorz)
 - [Stable Point Aware 3D](https://huggingface.co/stabilityai/stable-point-aware-3d)
 - Hunyuan3D
-  - https://github.com/tencent/Hunyuan3D-2
+  - https://github.com/Tencent-Hunyuan/Hunyuan3D-2
   - https://huggingface.co/tencent/Hunyuan3D-2mini
 - [Pippo (turnaround view of person)](https://github.com/facebookresearch/pippo)
 - [TripoSG (image-to-3D)](https://github.com/VAST-AI-Research/TripoSG)
