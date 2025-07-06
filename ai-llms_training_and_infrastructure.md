@@ -49,6 +49,7 @@
 - [k-quants explained](https://github.com/ggml-org/llama.cpp/pull/1684)
 
 <blockquote>
+
 The rule is simple:
 - FP16 (2 bytes per parameter): VRAM ≈ (B + C × D) × 2
 - FP8 (1 byte per parameter): VRAM ≈ B + C × D
@@ -68,11 +69,13 @@ Small quants and 8K context window will give you:
 - INT3 (~37.5%) : 38 GB (most of 48 layers are on 5090 GPU)
 - INT2 (~25%): 25 GB (almost all 48 layers are on 4090 GPU)
 - INT1/Binary (~12.5%): 13 GB (no sure about model capabilities :)
+
 </blockquote>
 
 ---
 
 <blockquote>
+
 There’s basically 4 compression techniques that have risen over time: 0, 1, K and I.  They all battle speed, size and accuracy. 0 and 1 were the first, then K, then I. Some platforms have faster implementations of different quant methods as well.  In theory, I is more accurate then K, which is more accurate then 1, which is more accurate then zero, but they will all be close in size.
 
 So on one platform, 0 may be faster than K, but the accuracy is lower.  But on another platform 0 and K will be the same speed, but you want K’s accuracy.
@@ -80,11 +83,13 @@ So on one platform, 0 may be faster than K, but the accuracy is lower.  But on a
 The _M _XL variants take a small but important section of the model and bump it up to 6_K or 8_K, hoping to improve the accuracy for a small size increase.  _XS (extra small) means this was not done. 
 
 And all of the above is theory, you also have to see what happens in reality… it doesn’t always follow the theory.
+
 </blockquote>
 
 ---
 
 <blockquote>
+
 Qx means roughly x bits per weight. K_S means the attention weights are S sized (4 bit maybe idrk). K_XL If you ever see it is fp16 or something, L is int8, M is fp6. Generally K_S is fine. Sometimes some combinations perform better, like q5_K_M is worse on benchmarks than q5_K_S on a lot of models even tho it's bigger. q4_K_M and q5_K_S are my go tos.
 
 Q4_K_0 and _1 are older quantization methods I think. I never touch them.
@@ -93,7 +98,8 @@ IQ_4_S is a different quantization technique, and it usually has lower perplexit
 
 Then there's exl quants and awq and what not. EXL quants usually have their bits per weight in the name which makes it easy, and they have lower perplexity for the same size as IQ quants. Have a look at the Exllamav3 repo for a comparison of a few techniques.
 
-K_S model is most recent method, Q4 is decent. 0 and 1 are earlier methods generating the gguf, Only go less than Q4 if you need to compromise over gpu poor and lack of vram. Q4 K_S is a good choice, the Q5 & Q6 barely hold any benefit. 
+K_S model is most recent method, Q4 is decent. 0 and 1 are earlier methods generating the gguf, Only go less than Q4 if you need to compromise over gpu poor and lack of vram. Q4 K_S is a good choice, the Q5 & Q6 barely hold any benefit.
+
 </blockquote>
 
 

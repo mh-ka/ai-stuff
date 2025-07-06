@@ -153,13 +153,19 @@
   - https://github.com/MoonshotAI/Kimi-Dev
 
 <blockquote>
+
 Devstral 2505 locally in the copilot agent mode and then change to Sonnet 4 for a complete code review at the end for final cleanup. That has worked really well for small apps or modules. Saves a ton of typing
+
 </blockquote>
 
 ---
 
 <blockquote>
-I'm using Qwen3 14b q6 with 40k context as coding assistant with tabby. Works great for rough overviews of class functionalities, generating code snippets and methods for Python/TypeScript. Of course not a comparison to cloud provided code assistants - but it helps alot. Great model for its size. For code related questions which the smaller model can't answer I switch to Qwen3 32b (q6?) - but only with a 12k context. Here and there I'm using Mistral Small 3.1 24b q6, especially for tasks/text generation/non coding stuff mainly in German.
+
+I'm using Qwen3 14b q6 with 40k context as coding assistant with tabby. Works great for rough overviews of class functionalities, generating code snippets and methods for Python/TypeScript. Of course not a comparison to cloud provided code assistants - but it helps alot. Great model for its size. 
+
+For code related questions which the smaller model can't answer I switch to Qwen3 32b (q6?) - but only with a 12k context. Here and there I'm using Mistral Small 3.1 24b q6, especially for tasks/text generation/non coding stuff mainly in German.
+
 </blockquote>
 
 ## More Chat UIs
