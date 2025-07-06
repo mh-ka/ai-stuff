@@ -5,6 +5,7 @@
 - [LLMs - Agents and Workflows](ai-llms_agents_and_workflows.md)
 - [LLMs - Basics and Models](ai-llms_basics_and_models.md)
 - [LLMs - Evaluation / Leaderboards / Comparisons](ai-llms_eval_and_benchmarks.md)
+- [LLMs - RAG and Data Extraction](ai-llms_rag_and_data_extraction.md)
 - [LLMs - Tools and Apps](ai-llms_tools_and_apps.md)
 - [LLMs - Training and infrastructure](ai-llms_training_and_infrastructure.md)
 - [Reports, Articles, Repos and News Sources](ai-reports_and_news_sources.md)

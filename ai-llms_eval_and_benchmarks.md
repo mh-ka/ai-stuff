@@ -56,6 +56,7 @@
 - [Time series forecasting eval](https://huggingface.co/spaces/Salesforce/GIFT-Eval)
 - [LM Eval framework by Google](https://github.com/google/lmeval)
 - [VideoGameBench for VLMs](https://github.com/alexzhang13/videogamebench)
+- [Finance agent](https://github.com/vals-ai/finance-agent)
 
 
 ## Benchmark List

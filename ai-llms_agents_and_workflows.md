@@ -34,6 +34,8 @@
 - [How to build an MCP server](https://huggingface.co/blog/gradio-mcp)
 - [MCP course](https://huggingface.co/mcp-course)
 - [Tiny agents](https://huggingface.co/blog/tiny-agents)
+- [Agents towards production](https://github.com/NirDiamant/agents-towards-production)
+- [LLM workflow building - experiences](https://www.reddit.com/r/LocalLLaMA/comments/1khjrtj/building_llm_workflows_some_observations/)
 
 ## Workflow editors
 - [Graph-based editor for LLM workflows](https://github.com/PySpur-Dev/PySpur)
@@ -49,21 +51,29 @@
 - [Microsoft's GenAIScript (LLM orchestrator with MCP integration)](https://github.com/microsoft/genaiscript/)
 - [Klavis (MCP integrations)](https://github.com/Klavis-AI/klavis)
 - [llmbasedos (local MCP)](https://github.com/iluxu/llmbasedos)
-- [graphiti (knowledge graph memory)](https://github.com/getzep/graphiti)
 - [turbular (MCP server for databases)](https://github.com/raeudigerRaeffi/turbular)
 - [OpenAgentPlatform (MCP desktop host)](https://github.com/OpenAgentPlatform/Dive)
 - [MCP debugging client](https://github.com/faraazahmad/mcp_debug)
 - [Experiments with MCP](https://github.com/Vaibhavs10/experiments-with-mcp)
 - [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
+- [Databases explorer](https://github.com/kruskal-labs/toolfront)
+- [Webscraper / Websearcher](https://github.com/marcopesani/mcp-server-serper)
+- [Inference optimizer proxy](https://github.com/codelion/optillm)
+- [Meeting interaction](https://github.com/joinly-ai/joinly)
+
+## Memory
+- [graphiti (knowledge graph memory)](https://github.com/getzep/graphiti)
+- [Mem-Zero (long term memory layer for AI agents)](https://github.com/mem0ai/mem0)
+- [Letta (agents with memory)](https://github.com/letta-ai/letta)
+- [MemEngine](https://github.com/nuster1128/MemEngine)
+- [MemX (short term)](https://github.com/MehulG/memX)
 
 ## Other
 - [Experts.js (Multi AI Agent Systems Framework in Javascript)](https://github.com/metaskills/experts)
 - [Pipecat (build conversational agents)](https://github.com/pipecat-ai/pipecat)
 - [Qwen Agent framework](https://github.com/QwenLM/Qwen-Agent)
-- [Mem-Zero (memory layer for AI agents)](https://github.com/mem0ai/mem0)
 - [OS-Atlas](https://github.com/OS-Copilot/OS-Atlas)
 - [Arch (prompt gateway)](https://github.com/katanemo/archgw)
-- [Letta (agents with memory)](https://github.com/letta-ai/letta)
 - [OpenAI's Swarm (agent orchestrator)](https://github.com/openai/swarm)
 - [Amazon's Multi-Agent orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 - [inferable (scalable agentic automation)](https://github.com/inferablehq/inferable)
@@ -101,3 +111,13 @@
 - [droidrun (Android device interaction agent)](https://github.com/droidrun/droidrun)
 - [gem-assist (local assistant)](https://github.com/Fus3n/gem-assist)
 - [Model for tool calling](https://huggingface.co/Salesforce/Llama-xLAM-2-8b-fc-r)
+- [A2A protocol](https://github.com/google-a2a/A2A)
+- JSON fixer / repair
+  - https://github.com/aotakeda/ai-json-fixer
+  - https://github.com/mangiucugna/json_repair
+- [SAGA (novel writing agent system)](https://github.com/Lanerra/saga)
+- Alternatives to Manus (full UI agents)
+  - https://github.com/camel-ai/owl
+  - https://github.com/yuruotong1/autoMate
+  - https://github.com/Fosowl/agenticSeek
+  - https://github.com/FoundationAgents/OpenManus

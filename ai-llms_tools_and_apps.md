@@ -7,6 +7,7 @@
   - [AMD ROCM version](https://github.com/YellowRoseCx/koboldcpp-rocm/)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [llamafile](https://github.com/Mozilla-Ocho/llamafile)
+- [koboldcpp for ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm)
 
 ## Tools for running
 - Ollama
@@ -142,6 +143,7 @@
 - [Dyad App Builder](https://github.com/dyad-sh/dyad)
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 - [LocalSite-AI (generate self-contained html pages)](https://github.com/weise25/LocalSite-ai)
+- [Python coding agent](https://github.com/carpsesdema/AvA_Kintsugi)
 
 ## More Chat UIs
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
@@ -228,4 +230,5 @@
 - [How to safely connect cloud server to home GPU](https://zohaib.me/safely-connect-cloud-server-to-home-gpu-server/)
 - [Meetily (meeting minutes)](https://github.com/Zackriya-Solutions/meeting-minutes)
 - [LocalAI (multi-purpose suite)](https://github.com/mudler/LocalAI)
-
+- [LLM sets its own temp](https://github.com/amanvirparhar/thermoask)
+- [Gmail semantic search](https://github.com/yahorbarkouski/semantic-mail)
