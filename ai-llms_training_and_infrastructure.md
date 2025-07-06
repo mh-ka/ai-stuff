@@ -39,6 +39,7 @@
   - https://github.com/meetrais/A-Z-of-Tranformer-Architecture
   - https://github.com/rasbt/LLMs-from-scratch
   - https://stanford-cs336.github.io/spring2025/
+- [Adaptive Classifier](https://github.com/codelion/adaptive-classifier)
 
 ## Quantization
 - [Quantization project](https://github.com/robbiemu/llama-gguf-optimize)
@@ -46,7 +47,6 @@
 - [Quantization Evals](https://neuralmagic.com/blog/we-ran-over-half-a-million-evaluations-on-quantized-llms-heres-what-we-found/)
 - [Quantization Types](https://huggingface.co/docs/hub/en/gguf#quantization-types)
 - [k-quants explained](https://github.com/ggml-org/llama.cpp/pull/1684)
-
 
 <blockquote>
 The rule is simple:
@@ -70,6 +70,8 @@ Small quants and 8K context window will give you:
 - INT1/Binary (~12.5%): 13 GB (no sure about model capabilities :)
 </blockquote>
 
+---
+
 <blockquote>
 There’s basically 4 compression techniques that have risen over time: 0, 1, K and I.  They all battle speed, size and accuracy. 0 and 1 were the first, then K, then I. Some platforms have faster implementations of different quant methods as well.  In theory, I is more accurate then K, which is more accurate then 1, which is more accurate then zero, but they will all be close in size.
 
@@ -79,6 +81,8 @@ The _M _XL variants take a small but important section of the model and bump it 
 
 And all of the above is theory, you also have to see what happens in reality… it doesn’t always follow the theory.
 </blockquote>
+
+---
 
 <blockquote>
 Qx means roughly x bits per weight. K_S means the attention weights are S sized (4 bit maybe idrk). K_XL If you ever see it is fp16 or something, L is int8, M is fp6. Generally K_S is fine. Sometimes some combinations perform better, like q5_K_M is worse on benchmarks than q5_K_S on a lot of models even tho it's bigger. q4_K_M and q5_K_S are my go tos.
@@ -108,6 +112,7 @@ K_S model is most recent method, Q4 is decent. 0 and 1 are earlier methods gener
 - [Linux GPU temperature reader](https://github.com/ThomasBaruzier/gddr6-core-junction-vram-temps)
 - [Docker GPU power limiting tool](https://github.com/sammcj/NVApi)
 - [Wisent-Guard (python monitoring and guardrailing)](https://github.com/wisent-ai/wisent-guard)
+- [Management UI for multiple servers](https://github.com/bongobongo2020/nexrift)
 
 ### Transformer.js (browser-based AI inference)
 - [Github](https://github.com/xenova/transformers.js)

@@ -2,6 +2,7 @@
 
 ## Engines for running locally
 - [vLLM (local python library for running models including vision models)](https://docs.vllm.ai/en/stable/index.html)
+- [nano-vLLM (experimental)](https://github.com/GeeeekExplorer/nano-vllm)
 - koboldcpp
   - [Default version](https://github.com/LostRuins/koboldcpp)
   - [AMD ROCM version](https://github.com/YellowRoseCx/koboldcpp-rocm/)
@@ -144,6 +145,22 @@
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 - [LocalSite-AI (generate self-contained html pages)](https://github.com/weise25/LocalSite-ai)
 - [Python coding agent](https://github.com/carpsesdema/AvA_Kintsugi)
+- Coding agents with debugging
+  - https://github.com/mohsen1/llm-debugger-vscode-extension
+  - https://github.com/Zentar-Ai/zentara-code/
+  - https://kilocode.ai/
+  - https://github.com/SkyworkAI/Skywork-OR1
+  - https://github.com/MoonshotAI/Kimi-Dev
+
+<blockquote>
+Devstral 2505 locally in the copilot agent mode and then change to Sonnet 4 for a complete code review at the end for final cleanup. That has worked really well for small apps or modules. Saves a ton of typing
+</blockquote>
+
+---
+
+<blockquote>
+I'm using Qwen3 14b q6 with 40k context as coding assistant with tabby. Works great for rough overviews of class functionalities, generating code snippets and methods for Python/TypeScript. Of course not a comparison to cloud provided code assistants - but it helps alot. Great model for its size. For code related questions which the smaller model can't answer I switch to Qwen3 32b (q6?) - but only with a 12k context. Here and there I'm using Mistral Small 3.1 24b q6, especially for tasks/text generation/non coding stuff mainly in German.
+</blockquote>
 
 ## More Chat UIs
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
@@ -194,7 +211,7 @@
 - [Graph text view (VSCode)](https://marketplace.visualstudio.com/items?itemName=infranodus.infranodus-graph-view)
 - [WebAI Summarizer (Chrome)](https://github.com/miolini/webai)
 
-## Image processing
+## Video / Image processing
 - [OCR Tesseract tool (running in browser locally)](https://github.com/simonw/tools)
 - [LlavaImageTagger](https://github.com/jabberjabberjabber/LLavaImageTagger)
 - [Screen Analysis Overlay](https://github.com/PasiKoodaa/Screen-Analysis-Overlay)
@@ -204,6 +221,7 @@
 - [Local Computer Vision (LCLV) with Moondream](https://github.com/HafizalJohari/lclv)
 - [Logging assistant creation](https://github.com/jetro30087/Ollogger)
 - [Qwen2 Service (running Qwen 2.5 7B VLM as API)](https://github.com/kkaarrss/qwen2_service)
+- [AI Baby Monitor](https://github.com/zeenolife/ai-baby-monitor)
 
 ## Other
 - [Scalene (High Performance Python Profiler)](https://github.com/plasma-umass/scalene)

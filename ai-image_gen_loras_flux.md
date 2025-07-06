@@ -1,77 +1,6 @@
-# Image Generation - LORAs for Stable Diffusion 1.5, SDXL, Flux 
+# Image Generation - LORAs for Flux 
 
-## Stable Diffusion 1.5 based
-- [Artstyle Jackson Pollock](https://civitai.com/models/181433/artstyle-jackson-pollock)
-- [Real Mechanical Parts](https://civitai.com/models/64471?modelVersionId=85371)
-- [Cinnamon Bun](https://civitai.com/models/182311/cinnamon-bun-style-make-anything-sweet)
-- [Croissant](https://civitai.com/models/113365/croissant-style-croissantify-anything?modelVersionId=122454)
-- [Aardman](https://civitai.com/models/125317?modelVersionId=136883)
-- [B3L](https://civitai.com/models/167872/b3l)
-- [Vulcan](https://civitai.com/models/129132?modelVersionId=141479)
-- [ColorSplash](https://civitai.com/models/247981/colorsplash?modelVersionId=279794)
-- [Transformers Style](https://civitai.com/models/216460)
-- [Vector Illustration v2.0](https://civitai.com/models/60132/vector-illustration)
-- [Looney Tunes Background](https://civitai.com/models/797306?modelVersionId=891591)
-- [Rage Unleashed](https://civitai.com/models/115100/rage-unleashed)
-- [ASCII](https://civitai.com/models/63254/notsoascii-or-the-controversial-ascii-art-lora)
-- [Vector](https://civitai.com/models/63556?modelVersionId=68115)
-- [90s anime](https://civitai.com/models/78374)
-
-## Stable Diffusion XL based
-- [Remix XL](https://huggingface.co/Stkzzzz222/remixXL)
-- [iPhone Mirror Selfie](https://civitai.com/models/256058/iphone-mirror-selfie-or-sdxl)
-- [Aether Aqua](https://civitai.com/models/210754/aether-aqua-lora-for-sdxl)
-- [Claymation Style](https://civitai.com/models/208168/claymate-stop-motion-claymation-style-for-sdxl)
-- [Michael Craig Martin Style](https://civitai.com/models/488021/flat-colors-in-the-style-of-michael-craig-martin-sdxl-10)
-- [Retro Comics Style](https://civitai.com/models/491322/retro-comics-with-words-steven-rhodes-style-sdxl-10)
-- [Pastel](https://civitai.com/models/493874/pastel-photography-franck-bohbot-style-sdxl-10)
-- [Dreamworks](https://civitai.com/models/188622/essenz-how-to-train-your-dragon-3-the-hidden-world-dreamworks-style-lora-for-sdxl-10)
-- [Darkest Dungeon](https://civitai.com/models/188582/essenz-darkest-dungeon-chris-bourassa-style-lora-for-sdxl-10)
-- [More Darkest Dungeon](https://civitai.com/models/980106?modelVersionId=1097784)
-- [Jean Giraud/Moebius](https://civitai.com/models/188660/essenz-jean-giraudmoebius-voyage-dhermes-style-lora-for-sdxl-10)
-- [Makoto Shinkai Anime](https://civitai.com/models/177512/essenz-makoto-shinkai-anime-screencap-your-name-weathering-with-you-suzume-style-lora-for-sdxl-10)
-- [Better Photography](https://civitai.com/models/198378/essenz-high-quality-heavily-post-processed-photography-style-lora-for-sdxl-10)
-- [Aether Watercolor & Ink](https://civitai.com/models/190242/aether-watercolor-and-ink-lora-for-sdxl)
-- [Jakub Rozalski](https://civitai.com/models/182205/essenz-jakub-rozalski-1920-scythe-iron-harvest-style-lora-for-sdxl-10)
-- [Ghibli](https://civitai.com/models/181883/essenz-nausicaa-of-the-valley-of-the-wind-anime-screencap-ghibli-hayao-myazaki-style-lora-for-sdxl-10)
-- [Another Ghibli](https://civitai.com/models/137562/s)
-- [MSPaint](https://civitai.com/models/183354?modelVersionId=205793)
-- [The Legend Of Korra](https://civitai.com/models/198368/essenz-the-legend-of-korra-screencap-avatar-style-lora-for-sdxl-10)
-- [Bubbles and Foam](https://civitai.com/models/170188/aether-bubbles-and-foam-lora-for-sdxl)
-- [Glitch](https://civitai.com/models/151542/aether-glitch-lora-for-sdxl)
-- [Loving Vincent](https://civitai.com/models/167991?modelVersionId=188927)
-- [Coloring Book](https://civitai.com/models/136348)
-- [Blacklight Makeup](https://civitai.com/models/134643)
-- [Stickers](https://civitai.com/models/144142)
-- [Clay](https://civitai.com/models/143769)
-- [LucasArts Game](https://civitai.com/models/151539/lucasarts-style-1990s-pc-adventure-games-sdxl-lora-dreambooth-trained?modelVersionId=169452)
-- [App Icons](https://civitai.com/models/149101?modelVersionId=166450)
-- [Voxel](https://civitai.com/models/118536)
-- [Watercolor](https://civitai.com/models/120789?modelVersionId=131382)
-- [Medieval Illustration](https://civitai.com/models/121290?modelVersionId=131944)
-- [Luigi Serafini](https://civitai.com/models/129910)
-- [Bad Quality](https://civitai.com/models/259627)
-- [HR Giger Rainbow](https://civitai.com/models/270990?modelVersionId=305459)
-- [Stop Motion Style](https://civitai.com/models/212442)
-- [Atari Style](https://civitai.com/models/468237/atari-2600-activision)
-- [Walking Dead Zombies](https://civitai.com/models/469054/the-walking-dead-zombies)
-- [InfernoFrames](https://civitai.com/models/203975/infernoframes-the-comics-from-beyond-the-grave)
-- [More LORAs (SDXL)](https://civitai.com/user/Thaevilone/models)
-- [SDXL LORA comparison](https://www.reddit.com/r/StableDiffusion/comments/19fly6v/tested_fifteen_artistic_sdxl_loras_from_civitai/)
-- [Aardman](https://civitai.com/models/62212/aardman-animations-style)
-- [xlmoreart](https://civitai.com/models/124347/xlmoreart-full-xlreal-enhancer)
-- [3D Render](https://civitai.com/models/696795?modelVersionId=796454)
-- [Electric Alien](https://civitai.com/models/520639/electric-alien-sdxl-lora-dreambooth-trained)
-- [Hand Drawn Brush Pen](https://civitai.com/models/558635?modelVersionId=621895)
-- [Marionettes](https://civitai.com/models/150042/marionettes-wooden-carved-puppets-on-strings)
-- [Claymate](https://civitai.com/models/208168/claymate-claymation-style-for-sdxl)
-- [Bread](https://civitai.com/models/278431/bread)
-- [Pixel Art](https://civitai.com/models/1050935/the-king-of-fighters-victory-portrait-pixel-art)
-- [Lava](https://civitai.com/models/203169?modelVersionId=228732)
-
-## Flux based
-
-### Gaming styles
+## Gaming styles
 - [N64](https://civitai.com/models/660136?modelVersionId=738680)
 - [PS1/PS2](https://civitai.com/models/638052/ps1-ps2-old-3d-game-style-flux)
 - [PS2 Style](https://civitai.com/models/750208/ps2-style-flux)
@@ -92,7 +21,7 @@
 - [Full Throttle](https://civitai.com/models/916333?modelVersionId=1025621)
 - [Atari 2600](https://civitai.com/models/468237/atari-2600-activision)
 
-### Realistic
+## Realistic
 - [RealismLora](https://huggingface.co/XLabs-AI/flux-RealismLora)
 - [Phlux](https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting)
 - [iPhone Photo](https://civitai.com/models/738556?modelVersionId=913438)
@@ -143,7 +72,7 @@
 - [GrainScape UltraReal](https://civitai.com/models/1332651/grainscape-ultrareal)
 - [SamsungCam UltraReal](https://civitai.com/models/1551668?modelVersionId=1755780)
 
-### Cinema / TV / Commercials / Pop culture / Anime
+## Cinema / TV / Commercials / Pop culture / Anime
 - [CCTV](https://civitai.com/models/689331/convenience-store-cctv-or-flux1-dev)
 - [Filmfotos](https://www.shakker.ai/modelinfo/ec983ff3497d46ea977dbfcd1d989f67)
 - [Dark Fantasy 80s](https://civitai.com/models/671094?modelVersionId=751285)
@@ -170,6 +99,7 @@
 - [Retro Ad](https://civitai.com/models/827395?modelVersionId=925301)
 - [Lego](https://civitai.com/models/858798/better-lego-for-flux-by-chronoknight-flux)
 - [70s SciFi](https://civitai.com/models/824478/70s-scifi-style-by-chronoknight-flux)
+- [Retro SciFi](https://civitai.com/models/1638407)
 - [Gorillaz](https://civitai.com/models/838390/gorillaz-style-flux)
 - [IKEA Instructions](https://civitai.com/models/790332/ikea-instructions-style-flux)
 - [Topcraft Watercolor Animation](https://civitai.com/models/704445/topcraft-watercolor-animation-tpcrft)
@@ -209,8 +139,9 @@
 - [Saturday Morning](https://civitai.com/models/1349575/everly-heights-saturday-morning-flux)
 - [Wes Anderson Asteroid City](https://civitai.com/models/1362721/wes-anderson-asteroid-city-style-asteroid-dream)
 - [Dark Ghibli](https://civitai.com/models/1349631/dark-ghibli)
+- [RetroVHS Mavica 5000](https://civitai.com/models/1738734/retrovhs-mavica-5000)
 
-### Materials
+## Materials
 - [Woodpiece Crafter](https://civitai.com/models/873771/wood-piece-crafter-by-chronoknight-flux)
 - [Wood Carving Crafter](https://civitai.com/models/866818/wood-carving-crafter-by-chronoknight-flux)
 - [Gemstone Crafter](https://civitai.com/models/893965/gemstone-crafter-by-chronoknight-flux)
@@ -228,7 +159,7 @@
 - [Chinese Seal Carving](https://civitai.com/models/1148354/chinese-seal-carving-sololora)
 - [Destruction & Damage](https://civitai.com/models/1608106/destruction-and-damage-break-your-stuff)
 
-### Painting / Drawing
+## Painting / Drawing
 - [Oil Painting](https://civitai.com/models/723141)
 - [Golden Hagaddah](https://civitai.com/models/746220)
 - [How2Draw](https://huggingface.co/glif/how2draw)
@@ -275,8 +206,11 @@
 - [Lincoln Print](https://civitai.com/models/1357461/lincoln-print)
 - [Jawlensky Visions](https://civitai.com/models/1364945/jawlensky-visions)
 - [Paint & Print](https://civitai.com/models/1214773/paint-and-print)
+- [Gustav Klimt](https://civitai.com/models/1186609/golden-vienna-calling-gustav-klimt-portrait-style)
+- [Aubrey Beardsley](https://civitai.com/models/1193428/golden-age-of-british-book-illustration-aubrey-beardsley-le-morte-darthur)
+- [Alphonse Mucha](https://civitai.com/models/1183042/mucha-gracia-alphonse-mucha-art-nouveau-poster-style)
 
-### Other Flux LORAs
+## Other Flux LORAs
 - [Icon Maker](https://civitai.com/models/722531)
 - [Anti-blur](https://civitai.com/models/675581/anti-blur-flux-lora)
 - [Soviet Era Mosaic Style](https://civitai.com/models/749146/soviet-era-mosaic-style-cccp)
@@ -319,7 +253,8 @@
 - [Witcher Medallion](https://civitai.com/models/1033054/witcher-medallion-create-your-own-witcher-school-medallion)
 - [Glowing and Glossy](https://civitai.com/models/1049316/glowing-and-glossy-style)
 - [Shrinks](https://civitai.com/models/1023802/flux1-dev-lora-concept-shrinks-spectrum-0006)
-- [Giants](https://civitai.com/models/1009303/flux1-dev-lora-concept-giants-spectrum-0005)
+- [Giants](https://civitai.com/models/1009303?modelVersionId=1932646)
+- [Shrinks](https://civitai.com/models/1023802/shrinks-concept-lora-flux)
 - [Highres fix](https://civitai.com/models/1049158?modelVersionId=1177215)
 - [Cutaway](https://huggingface.co/glif-loradex-trainer/AP123_flux_dev_cutaway_style)
 - [Propaganda Games](https://civitai.com/models/1124756/propaganda-games)
@@ -338,3 +273,6 @@
 - [Surreal](https://civitai.com/models/681518/surreal-styles-flux-dev)
 - [Progress Bar](https://civitai.com/models/1509609?modelVersionId=1707619)
 - [Legacy of the forerunners](https://civitai.com/models/1430091/legacy-of-the-forerunners)
+- [Glitched Identity](https://civitai.com/models/1743530/echoblur-blurshift-abstract-and-glitch-identity)
+- [Fantasy](https://civitai.com/models/1648116?modelVersionId=1865432)
+- [RealUltraOrWhatever](https://civitai.com/models/1662740?modelVersionId=1881976)

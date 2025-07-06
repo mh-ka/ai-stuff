@@ -20,6 +20,10 @@
     - [Coloring Book](https://civitai.com/models/1518899/coloring-book-hidream)
 - [Marigold (Depth Estimation)](https://github.com/prs-eth/Marigold)
 - [Quillworks 2.0](https://tensor.art/models/877299729996755011/Quillworks2.0-Experimental-2.0-Experimental)
+- Platforms for model sharing
+  - https://www.diffusionarc.com/
+  - https://civitaiarchive.com/
+  - https://civitasbay.org/
 
 
 ## Image Manipulation with AI
@@ -46,7 +50,6 @@
 - [Nexface](https://github.com/ExoFi-Labs/Nexface/)
 - [Reactor workflow](https://www.runcomfy.com/comfyui-workflows/comfyui-reactor-face-swap-professional-ai-face-animation)
 - [Reactor node](https://github.com/Gourieff/ComfyUI-ReActor)
-- Human Animation
 
 ### Restoration / colorization / pixelation / detailer
 - [BIRD (Image restoration)](https://github.com/hamadichihaoui/BIRD)

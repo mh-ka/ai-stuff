@@ -1,6 +1,7 @@
 - [Audio](ai-audio.md)
 - [Image Generation - Flux](ai-image_gen_flux.md)
-- [Image Generation - LORAs for Stable Diffusion 1.5, SDXL, Flux](ai-image_gen_loras.md)
+- [Image Generation - LORAs for Flux](ai-image_gen_loras_flux.md)
+- [Image Generation - LORAs for Stable Diffusion 1.5 and SDXL](ai-image_gen_loras_sd.md)
 - [Image Generation - Stable Diffusion](ai-image_gen_stable_diffusion.md)
 - [LLMs - Agents and Workflows](ai-llms_agents_and_workflows.md)
 - [LLMs - Basics and Models](ai-llms_basics_and_models.md)

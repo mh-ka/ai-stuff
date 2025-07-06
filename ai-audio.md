@@ -18,6 +18,7 @@
 - [MisterWhisper](https://github.com/openconcerto/MisterWhisper)
 - [Easy Whisper UI](https://github.com/mehtabmahir/easy-whisper-ui)
 - [SoftWhisper](https://github.com/NullMagic2/SoftWhisper)
+- [Whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)
 
 ### Nvidia
 - Canary (with translation)
@@ -39,6 +40,8 @@
 - [Vibe (GUI for transcription)](https://github.com/thewh1teagle/vibe/)
 - [Real Time Speech Transcription FastRTC](https://github.com/sofi444/realtime-transcription-fastrtc)
 - [IBM Granite Speech](https://huggingface.co/collections/ibm-granite/granite-speech-67e45da088d5092ff6b901c7)
+- [STT streaming](https://github.com/kyutai-labs/delayed-streams-modeling)
+- [Transcription App (Rust based)](https://github.com/cjpais/Handy)
 
 
 ## txt2speech and txt2audio
@@ -85,6 +88,7 @@
 - [ComfyUI-Fill-Chatterbox](https://github.com/filliptm/ComfyUI_Fill-ChatterBox)
 - [Chatterbox-TTS-Extended](https://github.com/petermg/Chatterbox-TTS-Extended)
 - [ChatterboxToolkitUI](https://github.com/dasjoms/ChatterboxToolkitUI)
+- [Audiobook](https://github.com/psdwizzard/chatterbox-Audiobook)
 
 ### Dia
 - [Dia 1.6B](https://github.com/nari-labs/dia)
@@ -121,6 +125,7 @@
   - [Audiobook creator](https://github.com/prakharsr/audiobook-creator/)
   - [Audiblez (ebook2audiobook)](https://github.com/santinic/audiblez)
   - [Audiobook generator](https://github.com/houtianze/audiobook-generator)
+  - [Audiobook chatterbox](https://github.com/psdwizzard/chatterbox-Audiobook)
 - Infos
   - [Tracker page for open access text2speech models](https://github.com/Vaibhavs10/open-tts-tracker)
   - [TTS Arena Leaderboard](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
@@ -141,9 +146,12 @@
 - [OpenReader (document reader)](https://github.com/richardr1126/OpenReader-WebUI)
 - [OpenDubbing](https://github.com/Softcatala/open-dubbing)
 - [Voice datasets](https://github.com/jim-schwoebel/voice_datasets)
+- [TTS in C#](https://github.com/DillionLowry/NeuralCodecs)
 
 
-## Music production
+## Music production and generation
+
+### Production
 - [LANDR mastering plugin](https://www.gearnews.de/landr-mastering-plugin/)
 - [Drumloop.ai](https://www.gearnews.de/drumloop-ai-baut-euch-automatisch-beats-und-drumloops-durch-ki/)
 - [Sample generator](https://huggingface.co/adlb/Audialab_EDM_Elements)
@@ -152,14 +160,16 @@
   - [Voice_Extractor](https://github.com/ReisCook/Voice_Extractor)
   - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)
   - [Demucs](https://github.com/adefossez/demucs)
-- text2music models
-  - [YuE GP](https://github.com/deepbeepmeep/YuEGP)
-  - [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
-  - ACE-Step
-    - [ACE-Step](https://github.com/ace-step/ACE-Step)
-    - [ACE-Step-v1-3.5B](https://huggingface.co/ACE-Step/ACE-Step-v1-3.5B)
-    - [ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
-    - [ACE-Step-Radio](https://github.com/PasiKoodaa/ACE-Step-RADIO)
+
+### Generation
+- [YuE GP](https://github.com/deepbeepmeep/YuEGP)
+- [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
+- ACE-Step
+  - [ACE-Step](https://github.com/ace-step/ACE-Step)
+  - [ACE-Step-v1-3.5B](https://huggingface.co/ACE-Step/ACE-Step-v1-3.5B)
+  - [ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
+  - [ACE-Step-Radio](https://github.com/PasiKoodaa/ACE-Step-RADIO)
+- [Magenta Realtime](https://github.com/magenta/magenta-realtime)
 
 
 ## Other audio models and related tools and resources
@@ -196,3 +206,4 @@
 - [RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 - [Kimi-Audio (universal audio model)](https://github.com/MoonshotAI/Kimi-Audio)
 - [PlayDiffusion (audio inpainting)](https://github.com/playht/PlayDiffusion)
+- [MMAudio (video-to-audio)](https://github.com/hkchengrex/MMAudio)
