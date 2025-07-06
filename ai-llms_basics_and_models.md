@@ -119,6 +119,10 @@
 - [Cogito v1 Preview (hybrid reasoning)](https://huggingface.co/collections/deepcogito/cogito-v1-preview-67eb105721081abe4ce2ee53)
 - [GLM-4-32B](https://huggingface.co/matteogeniaccio/GLM-4-32B-0414-GGUF-fixed/tree/main)
 - [Unsloth Dynamic Quants](https://huggingface.co/collections/unsloth/unsloth-dynamic-20-quants-68060d147e9b9231112823e6)
+- Olympic Coder
+  - https://huggingface.co/open-r1/OlympicCoder-7B
+  - https://huggingface.co/open-r1/OlympicCoder-32B
+- [OpenBuddy-R1-Distill-32B...](https://huggingface.co/mradermacher/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview2-QAT-GGUF)
 
 
 ### Smaller model releases (model series and derivatives)
@@ -157,6 +161,9 @@
 - [Ministral 8B Instruct](https://huggingface.co/mistralai/Ministral-8B-Instruct-2410)
 - [Mistral-Small-24B-Instruct-2501 (aka Mistral Small 3)](https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501)
 - [DeepHermes-3-Mistral](https://huggingface.co/collections/NousResearch/deephermes-67d2ff8c9246cc09a7bd8add)
+- [Magistral-Small-2506](https://huggingface.co/mistralai/Magistral-Small-2506)
+- [Mistral-Small-3.2-24B-Instruct-2506](https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506)
+- [Dolphin-Mistral-24B-Venice-Edition-GGUF](https://huggingface.co/mradermacher/Dolphin-Mistral-24B-Venice-Edition-GGUF)
 
 #### Apple
 - [Open-ELM](https://github.com/apple/corenet/tree/main/mlx_examples/open_elm)
@@ -230,7 +237,7 @@
 - [NuExtract 1.5](https://huggingface.co/collections/numind/nuextract-15-670900bc74417005409a8b2d)
 - [Kurage Multilingual 7B](https://huggingface.co/lightblue/kurage-multilingual)
 - [Teuken 7B (based on European languages)](https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4)
-- [EuroLLM 9B](https://huggingface.co/utter-project/EuroLLM-9B)
+- [EuroLLMs Collection](https://huggingface.co/utter-project/models)
 - [Moxin 7B](https://github.com/moxin-org/Moxin-LLM)
 - [Megrez 3B Instruct](https://huggingface.co/Infinigence/Megrez-3B-Instruct)
 - [Falcon 3 (several sizes)](https://huggingface.co/blog/falcon3)
@@ -253,6 +260,7 @@
 - Grammar checking
   - [GRMR v2](https://huggingface.co/collections/qingy2024/grmr-v20-6759d4172e557af98a2feabc)
   - [GRMR v3](https://huggingface.co/collections/qingy2024/grmr-v3-models-683e6a27b42e4eb0e950fbdd)
+- [Robotics Spatial reasoning and Task planning - RoboBrain2.0-7B](https://huggingface.co/BAAI/RoboBrain2.0-7B)
 
 
 ### Multimodal / Vision models
@@ -298,6 +306,7 @@
 - [MiniCPM V2.5](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5)
 - [MiniCPM V2.6](https://huggingface.co/openbmb/MiniCPM-V-2_6)
 - [MiniCPM-o 2.6](https://huggingface.co/openbmb/MiniCPM-o-2_6)
+- [MiniCMP4 for End Devices](https://huggingface.co/papers/2506.07900)
 
 #### Nvidia
 - [Eagle](https://huggingface.co/NVEagle/Eagle-X5-13B)
@@ -323,13 +332,19 @@
 - [Ultravox](https://github.com/fixie-ai/ultravox)
 - [Molmo](https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19)
 - [Emu3](https://huggingface.co/BAAI/Emu3-Gen)
-- OCR
+- OCR specialized and recommendations
   - [GOT OCR 2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/)
   - Ovis 1.6 (vision model with LLM based on Gemma 2 9B)
     - https://github.com/Ucas-HaoranWei/GOT-OCR2.0/
     - https://huggingface.co/stepfun-ai/GOT-OCR2_0
   - [Ovis2 collection (strong with OCR)](https://huggingface.co/collections/AIDC-AI/ovis2-67ab36c7e497429034874464)
   - [olmOCR-7B-0225-preview](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
+  - [MonkeyOCR](https://huggingface.co/echo840/MonkeyOCR)
+  - [Nanonets OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
+  - [Dolphin](https://huggingface.co/ByteDance/Dolphin)
+  - [MiniCPM-o-2_6](https://huggingface.co/openbmb/MiniCPM-o-2_6)
+  - [granite-vision-3.2-2b](https://huggingface.co/ibm-granite/granite-vision-3.2-2b)
+  - [nougat (for papers OCR)](https://github.com/facebookresearch/nougat)
 - [Aria](https://huggingface.co/rhymes-ai/Aria)
 - [OpenGVLab's InternVL 2.5](https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c)
 - [Megrez 3B Omni](https://huggingface.co/Infinigence/Megrez-3B-Omni)
@@ -345,3 +360,7 @@
   - [MMaDA-8B](https://github.com/Gen-Verse/MMaDA)
   - [LaViDa-8B](https://github.com/jacklishufan/LaViDa)
   - [BLIP3o-4B/8B](https://github.com/JiuhaiChen/BLIP3o)
+- Small VLMs recommendations
+  - [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
+  - [MiniCPM-o-2_6](https://huggingface.co/openbmb/MiniCPM-o-2_6)
+  - [gemma-3-4b-it-qat-GGUF](https://huggingface.co/unsloth/gemma-3-4b-it-qat-GGUF)

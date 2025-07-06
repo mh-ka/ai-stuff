@@ -1,7 +1,7 @@
 # LLMs - Training and infrastructure
 
 
-## Training, quantization, pruning, merging and fine-tuning
+## Training, pruning, merging and fine-tuning
 - [Fine-tune NLP models](https://towardsdatascience.com/domain-adaption-fine-tune-pre-trained-nlp-models-a06659ca6668)
 - [TensorBoard for TensorFlow visualization](https://www.tensorflow.org/tensorboard)
 - [How to use consumer hardware to train 70b LLM](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
@@ -13,9 +13,6 @@
 - [FineWeb Dataset explanation](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [Pints (Model training example)](https://github.com/Pints-AI/1.5-Pints)
 - [GenAI project template](https://github.com/AmineDjeghri/generative-ai-project-template)
-- [Quantization project](https://github.com/robbiemu/llama-gguf-optimize)
-- [Empirical Study of LLaMA3 Quantization](https://arxiv.org/abs/2404.14047)
-- [Quantization Evals](https://neuralmagic.com/blog/we-ran-over-half-a-million-evaluations-on-quantized-llms-heres-what-we-found/)
 - [Mergekit (framework for merging LLMs)](https://github.com/arcee-ai/mergekit)
 - [Pruning Approach for LLMs (Meta, Bosch)](https://github.com/locuslab/wanda)
 - [Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
@@ -38,6 +35,58 @@
 - [ms-swift (model fine-tuning framework)](https://github.com/modelscope/ms-swift)
 - [Kolo (fine-tuning setup framework)](https://github.com/MaxHastings/Kolo)
 - [Reasoning LLM course](https://huggingface.co/reasoning-course)
+
+## Quantization
+- [Quantization project](https://github.com/robbiemu/llama-gguf-optimize)
+- [Empirical Study of LLaMA3 Quantization](https://arxiv.org/abs/2404.14047)
+- [Quantization Evals](https://neuralmagic.com/blog/we-ran-over-half-a-million-evaluations-on-quantized-llms-heres-what-we-found/)
+- [Quantization Types](https://huggingface.co/docs/hub/en/gguf#quantization-types)
+- [k-quants explained](https://github.com/ggml-org/llama.cpp/pull/1684)
+
+
+<blockquote>
+The rule is simple:
+- FP16 (2 bytes per parameter): VRAM ≈ (B + C × D) × 2
+- FP8 (1 byte per parameter): VRAM ≈ B + C × D
+- INT4 (0.5 bytes per parameter): VRAM ≈ (B + C × D) / 2
+
+Where B - billions of parameters, C - context size (10M for example), D - model dimensions or hidden_size (e.g. 5120 for Llama 4 Scout).
+
+Some examples for Llama 4 Scout (109B) and full (10M) context window:
+- FP8: (109E9 + 10E6 * 5120) / (1024 * 1024 * 1024) ~150 GB VRAM
+- INT4: (109E9 + 10E6 * 5120) / 2 / (1024 * 1024 * 1024) ~75 GB VRAM
+- 150GB is a single B200 (180GB) (~$8 per hour)
+- 75GB is a single H100 (80GB) (~$2.4 per hour)
+
+For 1M context window the Llama 4 Scout requires only 106GB (FP8) or 53GB (INT4 on couple of 5090) of VRAM.
+
+Small quants and 8K context window will give you:
+- INT3 (~37.5%) : 38 GB (most of 48 layers are on 5090 GPU)
+- INT2 (~25%): 25 GB (almost all 48 layers are on 4090 GPU)
+- INT1/Binary (~12.5%): 13 GB (no sure about model capabilities :)
+</blockquote>
+
+<blockquote>
+There’s basically 4 compression techniques that have risen over time: 0, 1, K and I.  They all battle speed, size and accuracy. 0 and 1 were the first, then K, then I. Some platforms have faster implementations of different quant methods as well.  In theory, I is more accurate then K, which is more accurate then 1, which is more accurate then zero, but they will all be close in size.
+
+So on one platform, 0 may be faster than K, but the accuracy is lower.  But on another platform 0 and K will be the same speed, but you want K’s accuracy.
+
+The _M _XL variants take a small but important section of the model and bump it up to 6_K or 8_K, hoping to improve the accuracy for a small size increase.  _XS (extra small) means this was not done. 
+
+And all of the above is theory, you also have to see what happens in reality… it doesn’t always follow the theory.
+</blockquote>
+
+<blockquote>
+Qx means roughly x bits per weight. K_S means the attention weights are S sized (4 bit maybe idrk). K_XL If you ever see it is fp16 or something, L is int8, M is fp6. Generally K_S is fine. Sometimes some combinations perform better, like q5_K_M is worse on benchmarks than q5_K_S on a lot of models even tho it's bigger. q4_K_M and q5_K_S are my go tos.
+
+Q4_K_0 and _1 are older quantization methods I think. I never touch them.
+
+IQ_4_S is a different quantization technique, and it usually has lower perplexity (less deviation from full precision) for the same file size. The XS/S/M/L work the same as Q4_K_M.
+
+Then there's exl quants and awq and what not. EXL quants usually have their bits per weight in the name which makes it easy, and they have lower perplexity for the same size as IQ quants. Have a look at the Exllamav3 repo for a comparison of a few techniques.
+
+K_S model is most recent method, Q4 is decent. 0 and 1 are earlier methods generating the gguf, Only go less than Q4 if you need to compromise over gpu poor and lack of vram. Q4 K_S is a good choice, the Q5 & Q6 barely hold any benefit. 
+</blockquote>
 
 
 ## Frameworks, stacks, articles etc.

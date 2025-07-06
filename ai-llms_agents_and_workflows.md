@@ -100,3 +100,4 @@
 - [AgentCPM-GUI (on-device agent)](https://github.com/OpenBMB/AgentCPM-GUI)
 - [droidrun (Android device interaction agent)](https://github.com/droidrun/droidrun)
 - [gem-assist (local assistant)](https://github.com/Fus3n/gem-assist)
+- [Model for tool calling](https://huggingface.co/Salesforce/Llama-xLAM-2-8b-fc-r)
