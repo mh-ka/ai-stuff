@@ -47,7 +47,6 @@
 - [WebOllama (ollama GUI)](https://github.com/dkruyt/webollama)
 
 ## Translation
-- [LLMs comparison for translation](https://www.reddit.com/r/LocalLLaMA/comments/1h4ji6x/comment/lzzsjhi/)
 - [Hybrid translator and benchmark](https://nuenki.app/blog/the_best_translator_is_a_hybrid_translator)
 
 ## Mobile apps
